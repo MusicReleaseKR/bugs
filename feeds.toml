@@ -17,3 +17,13 @@ linkSelector = "figcaption.info div.albumTitle a"
 contentSelector = "div.subInfo"
 imageSelector = "div.thumbnail a img"
 waitUntil = "networkidle"
+
+[album_kor]
+title = "벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국"
+url = "https://music.bugs.co.kr/newest/album/totalpicked?nation=KOR"
+entrySelector = "ul.list.tileView.albumList li"
+titleSelector = "figcaption.info div.albumTitle a"
+linkSelector = "figcaption.info div.albumTitle a"
+contentSelector = "div.subInfo"
+imageSelector = "div.thumbnail a img"
+waitUntil = "networkidle"
