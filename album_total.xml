@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 02:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 03:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lonely boy]]></title>
+            <link>https://music.bugs.co.kr/album/17184885?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17184885?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 03 Mar 2022 03:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12453348?wl_ref=list_ab_04" class="artistTitle" title="Тизи" onclick="
+" target="_self">Тизи</a>
+</p>
+<p>
+<time datetime="">2022.03.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/171848/17184885.jpg?version=20220303120024.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Breathe]]></title>
             <link>https://music.bugs.co.kr/album/4067353?wl_ref=list_ab_03</link>
@@ -20,7 +35,7 @@
 <time datetime="">2022.03.03</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40673/4067353.jpg?version=20220303020222.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40673/4067353.jpg?version=20220303120004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의의나무]]></title>
@@ -1062,21 +1077,6 @@ El Marshall
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/171539/17153913.jpg?version=20220303063715.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Freshness]]></title>
-            <link>https://music.bugs.co.kr/album/17151196?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17151196?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 02 Mar 2022 10:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12545826?wl_ref=list_ab_04" class="artistTitle" title="Cesar d' Julius" onclick="
-" target="_self">Cesar d' Julius</a>
-</p>
-<p>
-<time datetime="">2022.03.02</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/171511/17151196.jpg?version=20220303063705.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
