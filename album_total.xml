@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 14:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 15:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ballons dans la cheminée]]></title>
+            <link>https://music.bugs.co.kr/album/17410444?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17410444?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 04 Mar 2022 15:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12642602?wl_ref=list_ab_04" class="artistTitle" title="Robiiinsoon" onclick="
+" target="_self">Robiiinsoon</a>
+</p>
+<p>
+<time datetime="">2022.03.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174104/17410444.jpg?version=20220305000019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DWM]]></title>
+            <link>https://music.bugs.co.kr/album/4069807?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4069807?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 04 Mar 2022 15:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80353876?wl_ref=list_ab_04" class="artistTitle" title="DJ Sparrow" onclick="
+" target="_self">DJ Sparrow</a>
+</p>
+<p>
+<time datetime="">2022.02.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40698/4069807.jpg?version=20220208004342.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기도에 집중할수 있는 잔잔한 찬송가 2집]]></title>
             <link>https://music.bugs.co.kr/album/20454246?wl_ref=list_ab_03</link>
@@ -1038,36 +1068,6 @@ Bresh
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/174095/17409545.jpg?version=20220304102536.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All That Was Promised]]></title>
-            <link>https://music.bugs.co.kr/album/17409530?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17409530?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 04 Mar 2022 04:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11693477?wl_ref=list_ab_04" class="artistTitle" title="Hath" onclick="
-" target="_self">Hath</a>
-</p>
-<p>
-<time datetime="">2022.03.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174095/17409530.jpg?version=20220304003658.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Western sous la neige - Démos]]></title>
-            <link>https://music.bugs.co.kr/album/17409528?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17409528?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 04 Mar 2022 04:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8756920?wl_ref=list_ab_04" class="artistTitle" title="Dionysos" onclick="
-" target="_self">Dionysos</a>
-</p>
-<p>
-<time datetime="">2022.03.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174095/17409528.jpg?version=20220304013803.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
