@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,21 +23,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40720/4072082.jpg?version=20220307120019.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넌 나의 마음 사이에 비집고 들어온 사이 (Feat. OVCOCO)]]></title>
-            <link>https://music.bugs.co.kr/album/20454453?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20454453?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 07 Mar 2022 03:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20058704?wl_ref=list_ab_04" class="artistTitle" title="WEN" onclick="
-" target="_self">WEN</a>
-</p>
-<p>
-<time datetime="">2022.03.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204544/20454453.jpg?version=20220307120019.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Baby 말했잖아]]></title>
             <link>https://music.bugs.co.kr/album/20453828?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20453828?wl_ref=list_ab_03</guid>
@@ -51,6 +36,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204538/20453828.jpg?version=20220307120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넌 나의 마음 사이에 비집고 들어온 사이 (Feat. OVCOCO)]]></title>
+            <link>https://music.bugs.co.kr/album/20454453?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20454453?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 07 Mar 2022 03:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20058704?wl_ref=list_ab_04" class="artistTitle" title="WEN" onclick="
+" target="_self">WEN</a>
+</p>
+<p>
+<time datetime="">2022.03.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204544/20454453.jpg?version=20220307120019.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mind-Hug]]></title>
@@ -801,7 +801,7 @@ Kill The Noise(킬 더 노이즈)
 <time datetime="">2022.03.06</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40721/4072113.jpg?version=20220307063527.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40721/4072113.jpg?version=20220307150254.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이렇게 지내]]></title>
