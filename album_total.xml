@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 09:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 10:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -812,6 +812,24 @@ OaKTong
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204536/20453681.jpg?version=20220310120020.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Thanksgiving Kids Music Project]]></title>
+            <link>https://music.bugs.co.kr/album/17459975?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17459975?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 10 Mar 2022 10:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12254668?wl_ref=list_ab_04" class="artistTitle" title="Jade Kwan">Jade Kwan</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Jade Kwan||Jade Kwan||12254668||OK\\nKa Foo Jie Jie||Ka Foo Jie Jie||12663845||OK\\nJovia Yeung||Jovia Yeung||12663844||OK\\nShining Life Little Angel||Shining Life Little Angel||12663848||OK', ''); return false;">
+Jade Kwan
+</a> </p>
+<p>
+<time datetime="">2022.03.10</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174599/17459975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Entre Amigos]]></title>
             <link>https://music.bugs.co.kr/album/17458121?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17458121?wl_ref=list_ab_03</guid>
@@ -1056,21 +1074,6 @@ Ujuu
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/174062/17406223.jpg?version=20220310120020.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Relic EP]]></title>
-            <link>https://music.bugs.co.kr/album/17192235?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17192235?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 10 Mar 2022 04:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10520961?wl_ref=list_ab_04" class="artistTitle" title="Lazerus" onclick="
-" target="_self">Lazerus</a>
-</p>
-<p>
-<time datetime="">2022.03.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/171922/17192235.jpg?version=20220310120020.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
