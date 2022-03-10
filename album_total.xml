@@ -4,24 +4,9 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 15:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 16:29:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Get On]]></title>
-            <link>https://music.bugs.co.kr/album/20452805?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20452805?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 10 Mar 2022 15:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/9119205?wl_ref=list_ab_04" class="artistTitle" title="Brandon Banks" onclick="
-" target="_self">Brandon Banks</a>
-</p>
-<p>
-<time datetime="">2022.02.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204528/20452805.jpg?version=20220310171546.0" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Olha o Matte!]]></title>
             <link>https://music.bugs.co.kr/album/17155480?wl_ref=list_ab_03</link>
@@ -164,7 +149,7 @@ IamNuhRush
 <time datetime="">2022.03.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204551/20455134.jpg?version=20220310120020.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204551/20455134.jpg?version=20220311010029.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tom's Kitchen #1]]></title>
@@ -449,7 +434,7 @@ IamNuhRush
 <time datetime="">2022.03.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204539/20453967.jpg?version=20220310172744.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204539/20453967.jpg?version=20220311005810.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Natural]]></title>
@@ -464,7 +449,7 @@ IamNuhRush
 <time datetime="">2022.03.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174574/17457421.jpg?version=20220310121004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174574/17457421.jpg?version=20220311004930.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Poetas do Meu Forró]]></title>
@@ -479,7 +464,7 @@ IamNuhRush
 <time datetime="">2022.03.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174566/17456691.jpg?version=20220310142849.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174566/17456691.jpg?version=20220311005549.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Música para los Jameos del Agua (Edición Especial 25 Años)]]></title>
@@ -494,7 +479,7 @@ IamNuhRush
 <time datetime="">2022.03.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174566/17456628.jpg?version=20220310142849.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174566/17456628.jpg?version=20220311003206.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Heroica]]></title>
@@ -509,7 +494,7 @@ IamNuhRush
 <time datetime="">2022.03.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174560/17456014.jpg?version=20220310122300.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174560/17456014.jpg?version=20220311005218.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sigurds Sange Om Fyn]]></title>
@@ -520,14 +505,14 @@ IamNuhRush
 <!-- a tag title -->
 <a href="https://music.bugs.co.kr/artist/8092600?wl_ref=list_ab_04" class="artistTitle" title="Sigurd Barrett">Sigurd Barrett</a>
 <!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Sigurd Barrett||Sigurd Barrett||8092600||OK\\nOdense Symfoniorkester||Odense Symfoniorkester||12657889||OK', ''); return false;">
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Sigurd Barrett||Sigurd Barrett||8092600||OK\\nOdense Symfoniorkester||Odense Symfoniorkester||12663114||OK', ''); return false;">
 Sigurd Barrett
 </a> </p>
 <p>
 <time datetime="">2022.03.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174558/17455828.jpg?version=20220310000014.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174558/17455828.jpg?version=20220311004100.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FORZA]]></title>
@@ -815,7 +800,7 @@ OaKTong
 <time datetime="">2022.03.10</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204549/20454909.jpg?version=20220310120020.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204549/20454909.jpg?version=20220311004050.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이호진의 경기음악]]></title>
@@ -986,7 +971,7 @@ Jade Kwan
 <time datetime="">2022.03.10</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174581/17458121.jpg?version=20220310150032.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174581/17458121.jpg?version=20220311003215.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Argos Catalogue]]></title>
@@ -1001,7 +986,7 @@ Jade Kwan
 <time datetime="">2022.03.10</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174560/17456031.jpg?version=20220310122300.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174560/17456031.jpg?version=20220311005802.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Friends]]></title>
@@ -1016,7 +1001,7 @@ Jade Kwan
 <time datetime="">2022.03.10</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174558/17455836.jpg?version=20220310000014.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174558/17455836.jpg?version=20220311003626.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sam Jr.]]></title>
@@ -1080,6 +1065,21 @@ Củ Cải
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/174102/17410289.jpg?version=20220310000014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Duality]]></title>
+            <link>https://music.bugs.co.kr/album/17409154?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17409154?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 10 Mar 2022 16:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80077963?wl_ref=list_ab_04" class="artistTitle" title="Zero Theory" onclick="
+" target="_self">Zero Theory</a>
+</p>
+<p>
+<time datetime="">2022.03.10</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174091/17409154.jpg?version=20220310000014.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
