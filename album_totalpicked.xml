@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 04:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,20 +68,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204548/20454858.jpg?version=20220311120016.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국가가 부른다 Part4]]></title>
-            <link>https://music.bugs.co.kr/album/4072322?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4072322?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 11 Mar 2022 03:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<span class="artistTitle" title="">Various Artists</span>
-</p>
-<p>
-<time datetime="">2022.03.11</time>
-<span class="albumType">컴필레이션</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40723/4072322.jpg?version=20220311120016.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[PIECE-1 : Taeb2]]></title>
             <link>https://music.bugs.co.kr/album/4072238?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4072238?wl_ref=list_ab_03</guid>
@@ -124,7 +110,7 @@
 <time datetime="">2022.03.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174586/17458688.jpg?version=20220311120016.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174586/17458688.jpg?version=20220311134001.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Drop the champ Vol.2]]></title>
@@ -1082,6 +1068,21 @@ Claire Rosinkranz
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204549/20454983.jpg?version=20220310120015.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Virtual Travel]]></title>
+            <link>https://music.bugs.co.kr/album/20454611?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20454611?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 11 Mar 2022 05:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20141257?wl_ref=list_ab_04" class="artistTitle" title="Earlybird music" onclick="
+" target="_self">Earlybird music</a>
+</p>
+<p>
+<time datetime="">2022.03.10</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204546/20454611.jpg?version=20220310120015.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
