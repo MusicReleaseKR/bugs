@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 14:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 15:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하루 끝]]></title>
+            <link>https://music.bugs.co.kr/album/4055414?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4055414?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 12 Mar 2022 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80312965?wl_ref=list_ab_04" class="artistTitle" title="윤한솔" onclick="
+" target="_self">윤한솔</a>
+</p>
+<p>
+<time datetime="">2021.08.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40554/4055414.jpg?version=1632237856000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[J에게]]></title>
             <link>https://music.bugs.co.kr/album/17404156?wl_ref=list_ab_03</link>
@@ -1055,21 +1070,6 @@ Jeff
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204554/20455400.jpg?version=1646967623000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느날 갑자기]]></title>
-            <link>https://music.bugs.co.kr/album/20455397?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20455397?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 11 Mar 2022 04:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20090533?wl_ref=list_ab_04" class="artistTitle" title="현지(Joy)" onclick="
-" target="_self">현지(Joy)</a>
-</p>
-<p>
-<time datetime="">2022.03.11</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204553/20455397.jpg?version=1646967623000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
