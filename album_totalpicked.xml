@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 04:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 05:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -357,14 +357,17 @@
             <guid>https://music.bugs.co.kr/album/20456030?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 17 Mar 2022 03:21:31 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20087934?wl_ref=list_ab_04" class="artistTitle" title="멜로우카페" onclick="
-" target="_self">멜로우카페</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20087934?wl_ref=list_ab_04" class="artistTitle" title="멜로우카페">멜로우카페</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '멜로우카페||멜로우카페||20087934||OK\\n김현욱||김현욱||20024349||OK', ''); return false;">
+멜로우카페
+</a> </p>
 <p>
 <time datetime="">2022.03.17</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204560/20456030.jpg?version=20220317120018.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204560/20456030.jpg?version=20220317134539.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아침이 왔으면]]></title>
