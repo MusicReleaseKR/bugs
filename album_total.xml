@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 02:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 03:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hour By Hour]]></title>
+            <link>https://music.bugs.co.kr/album/15873821?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/15873821?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 17 Mar 2022 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10910201?wl_ref=list_ab_04" class="artistTitle" title="LOOBS" onclick="
+" target="_self">LOOBS</a>
+</p>
+<p>
+<time datetime="">2022.03.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/158738/15873821.jpg?version=20220317120024.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Candle]]></title>
             <link>https://music.bugs.co.kr/album/15092169?wl_ref=list_ab_03</link>
@@ -1041,21 +1056,6 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204557/20455705.jpg?version=20220316120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방치의 죄]]></title>
-            <link>https://music.bugs.co.kr/album/20455677?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20455677?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 16 Mar 2022 04:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20153458?wl_ref=list_ab_04" class="artistTitle" title="MIDORI" onclick="
-" target="_self">MIDORI</a>
-</p>
-<p>
-<time datetime="">2022.03.16</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204556/20455677.jpg?version=20220317012002.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
