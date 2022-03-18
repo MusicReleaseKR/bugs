@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 08:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 09:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/174432/17443282.jpg?version=1647572426000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Turbulence]]></title>
+            <link>https://music.bugs.co.kr/album/4072668?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4072668?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Mar 2022 04:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20134609?wl_ref=list_ab_04" class="artistTitle" title="조인호" onclick="
+" target="_self">조인호</a>
+</p>
+<p>
+<time datetime="">2022.03.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40726/4072668.jpg?version=1647590485000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오신영 Vol.1 History]]></title>
             <link>https://music.bugs.co.kr/album/20456782?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20456782?wl_ref=list_ab_03</guid>
@@ -538,21 +553,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204550/20455071.jpg?version=1647572419000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Turbulence]]></title>
-            <link>https://music.bugs.co.kr/album/4072668?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4072668?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 18 Mar 2022 04:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20134609?wl_ref=list_ab_04" class="artistTitle" title="조인호" onclick="
-" target="_self">조인호</a>
-</p>
-<p>
-<time datetime="">2022.03.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40726/4072668.jpg?version=1647590485000" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사랑은 참 흐르는 물처럼 내맘 같지 않네]]></title>
             <link>https://music.bugs.co.kr/album/20456856?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20456856?wl_ref=list_ab_03</guid>
@@ -703,7 +703,7 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204567/20456737.jpg?version=1647572426000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Emotion collection#25]]></title>
+            <title><![CDATA[Emotion collection#26]]></title>
             <link>https://music.bugs.co.kr/album/20456734?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20456734?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 18 Mar 2022 04:26:31 GMT</pubDate>
@@ -715,7 +715,7 @@
 <time datetime="">2022.03.18</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204567/20456734.jpg?version=1647572426000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204567/20456734.jpg?version=1647593864000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Samsung]]></title>
