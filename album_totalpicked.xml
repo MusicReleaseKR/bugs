@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 04:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 05:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -723,21 +723,6 @@ Braaten
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204562/20456233.jpg?version=20220317180017.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오래오래]]></title>
-            <link>https://music.bugs.co.kr/album/17258679?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17258679?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Mar 2022 09:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80176530?wl_ref=list_ab_04" class="artistTitle" title="Se.A(세아)" onclick="
-" target="_self">Se.A(세아)</a>
-</p>
-<p>
-<time datetime="">2022.03.17</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/172586/17258679.jpg?version=20220318063905.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[DUN EP]]></title>
             <link>https://music.bugs.co.kr/album/4072608?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4072608?wl_ref=list_ab_03</guid>
@@ -915,7 +900,7 @@ Braaten
 <time datetime="">2022.03.17</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174607/17460772.jpg?version=20220318063656.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174607/17460772.jpg?version=20220318141715.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그때로]]></title>
@@ -1065,6 +1050,21 @@ Braaten
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204559/20455911.jpg?version=20220317120018.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[embraces 23 (a shitty love song)]]></title>
+            <link>https://music.bugs.co.kr/album/20455945?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20455945?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Mar 2022 05:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20153479?wl_ref=list_ab_04" class="artistTitle" title="Asian Boys, Crying 아시안 보이즈 크라잉" onclick="
+" target="_self">Asian Boys, Crying 아시안 보이즈 크라잉</a>
+</p>
+<p>
+<time datetime="">2022.03.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204559/20455945.jpg?version=20220317120002.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
