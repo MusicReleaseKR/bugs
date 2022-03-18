@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 03:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,36 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/174574/17457435.jpg?version=20220318000015.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pure Work, No Roleplay (night Vision)]]></title>
+            <link>https://music.bugs.co.kr/album/17456528?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17456528?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Mar 2022 03:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12632495?wl_ref=list_ab_04" class="artistTitle" title="gammag247" onclick="
+" target="_self">gammag247</a>
+</p>
+<p>
+<time datetime="">2022.03.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174565/17456528.jpg?version=20220318120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Чёрные глаза]]></title>
+            <link>https://music.bugs.co.kr/album/17407501?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17407501?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Mar 2022 03:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10939863?wl_ref=list_ab_04" class="artistTitle" title="Vasiliadis" onclick="
+" target="_self">Vasiliadis</a>
+</p>
+<p>
+<time datetime="">2022.03.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174075/17407501.jpg?version=20220318120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Baby Shock]]></title>
             <link>https://music.bugs.co.kr/album/17183235?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17183235?wl_ref=list_ab_03</guid>
@@ -39,6 +69,39 @@ Tommy Cash
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/171832/17183235.jpg?version=20220318000015.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Testament]]></title>
+            <link>https://music.bugs.co.kr/album/17182239?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17182239?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Mar 2022 03:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10305268?wl_ref=list_ab_04" class="artistTitle" title="Redemption Denied" onclick="
+" target="_self">Redemption Denied</a>
+</p>
+<p>
+<time datetime="">2022.03.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/171822/17182239.jpg?version=20220318120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RHYMOND BOUNCE]]></title>
+            <link>https://music.bugs.co.kr/album/17165263?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17165263?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Mar 2022 03:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11693280?wl_ref=list_ab_04" class="artistTitle" title="MC Senechka">MC Senechka</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'MC Senechka||MC Senechka||11693280||OK\\nSuperSanyc||SuperSanyc||12379711||OK', ''); return false;">
+MC Senechka
+</a> </p>
+<p>
+<time datetime="">2022.03.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/171652/17165263.jpg?version=20220318120026.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kutheni]]></title>
@@ -1008,66 +1071,6 @@ ABC Kids
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204564/20456434.jpg?version=20220317120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[心にFlower／Kokoro ni Flower (Special Edition)]]></title>
-            <link>https://music.bugs.co.kr/album/20456330?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20456330?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Mar 2022 04:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20023219?wl_ref=list_ab_04" class="artistTitle" title="SKE48" onclick="
-" target="_self">SKE48</a>
-</p>
-<p>
-<time datetime="">2022.03.17</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204563/20456330.jpg?version=20220317120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TIME]]></title>
-            <link>https://music.bugs.co.kr/album/20456296?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20456296?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Mar 2022 04:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80128657?wl_ref=list_ab_04" class="artistTitle" title="솔루션스(THE SOLUTIONS)" onclick="
-" target="_self">솔루션스(THE SOLUTIONS)</a>
-</p>
-<p>
-<time datetime="">2022.03.17</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204562/20456296.jpg?version=20220318003028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[or are you normal?]]></title>
-            <link>https://music.bugs.co.kr/album/20456269?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20456269?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Mar 2022 04:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20146592?wl_ref=list_ab_04" class="artistTitle" title="Boy Bleach" onclick="
-" target="_self">Boy Bleach</a>
-</p>
-<p>
-<time datetime="">2022.03.17</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204562/20456269.jpg?version=20220317120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PRAY]]></title>
-            <link>https://music.bugs.co.kr/album/20456231?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20456231?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Mar 2022 04:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20148648?wl_ref=list_ab_04" class="artistTitle" title="김하림" onclick="
-" target="_self">김하림</a>
-</p>
-<p>
-<time datetime="">2022.03.17</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204562/20456231.jpg?version=20220317120024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
