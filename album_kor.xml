@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 01:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stardust]]></title>
+            <link>https://music.bugs.co.kr/album/4069252?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4069252?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 21 Mar 2022 02:53:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20107219?wl_ref=list_ab_04" class="artistTitle" title="존 노" onclick="
+" target="_self">존 노</a>
+</p>
+<p>
+<time datetime="">2021.12.23</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40692/4069252.jpg?version=1640228420000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I HAVE A DREAM]]></title>
             <link>https://music.bugs.co.kr/album/20456339?wl_ref=list_ab_03</link>
@@ -128,7 +143,7 @@
 <time datetime="">2022.03.20</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204569/20456997.jpg?version=1647766820000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204569/20456997.jpg?version=1647830404000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WON]]></title>
@@ -1052,24 +1067,6 @@
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40727/4072703.jpg?version=1647680403000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직진 고백 (엉덩이가 잘못했네 X 정유진, 수진)]]></title>
-            <link>https://music.bugs.co.kr/album/4072647?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4072647?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 19 Mar 2022 10:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80226275?wl_ref=list_ab_04" class="artistTitle" title="정유진">정유진</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '정유진||정유진||80226275||OK\\n수진(Sujin)||수진(Sujin)||20040200||OK', ''); return false;">
-정유진
-</a> </p>
-<p>
-<time datetime="">2022.03.19</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40726/4072647.jpg?version=1647680415000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
