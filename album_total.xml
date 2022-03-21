@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 14:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 15:27:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sheher]]></title>
+            <link>https://music.bugs.co.kr/album/17455824?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17455824?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 21 Mar 2022 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10702184?wl_ref=list_ab_04" class="artistTitle" title="Raga" onclick="
+" target="_self">Raga</a>
+</p>
+<p>
+<time datetime="">2022.03.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174558/17455824.jpg?version=20220322000019.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초음속 여객기]]></title>
             <link>https://music.bugs.co.kr/album/20457033?wl_ref=list_ab_03</link>
@@ -215,7 +230,7 @@
 <time datetime="">2022.03.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204557/20455753.jpg?version=20220321120026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204557/20455753.jpg?version=20220322002602.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(Maior)idade]]></title>
@@ -245,7 +260,7 @@
 <time datetime="">2022.03.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/175436/17543631.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/175436/17543631.jpg?version=20220322002243.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Acoustic Seven]]></title>
@@ -1047,21 +1062,6 @@ Er Drago
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/171854/17185425.jpg?version=20220321120026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Back on Bass]]></title>
-            <link>https://music.bugs.co.kr/album/17164092?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17164092?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 21 Mar 2022 04:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80012630?wl_ref=list_ab_04" class="artistTitle" title="Elite Force" onclick="
-" target="_self">Elite Force</a>
-</p>
-<p>
-<time datetime="">2022.03.21</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/171640/17164092.jpg?version=20220321120026.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
