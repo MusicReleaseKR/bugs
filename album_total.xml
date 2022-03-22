@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 09:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 10:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -609,6 +609,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/162462/16246251.jpg?version=20220322120023.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS]]]></title>
+            <link>https://music.bugs.co.kr/album/4073092?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4073092?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Mar 2022 10:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20105867?wl_ref=list_ab_04" class="artistTitle" title="CRAVITY" onclick="
+" target="_self">CRAVITY</a>
+</p>
+<p>
+<time datetime="">2022.03.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40730/4073092.jpg?version=20220322181501.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LOOP END / LOOP START (Deluxe Edition)]]></title>
             <link>https://music.bugs.co.kr/album/4073065?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4073065?wl_ref=list_ab_03</guid>
@@ -808,6 +823,21 @@ Conor Albert
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204571/20457105.jpg?version=20220322120023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cycle]]></title>
+            <link>https://music.bugs.co.kr/album/20457035?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20457035?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Mar 2022 10:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20124619?wl_ref=list_ab_04" class="artistTitle" title="ohgoodgood" onclick="
+" target="_self">ohgoodgood</a>
+</p>
+<p>
+<time datetime="">2022.03.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204570/20457035.jpg?version=20220322180016.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Now You Sail Away]]></title>
@@ -1036,36 +1066,6 @@ Eliezer
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/175309/17530927.jpg?version=20220322025952.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kilimanjaro]]></title>
-            <link>https://music.bugs.co.kr/album/17530919?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17530919?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Mar 2022 03:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20044225?wl_ref=list_ab_04" class="artistTitle" title="Pierre Kwenders" onclick="
-" target="_self">Pierre Kwenders</a>
-</p>
-<p>
-<time datetime="">2022.03.22</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/175309/17530919.jpg?version=20220322024619.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reputations]]></title>
-            <link>https://music.bugs.co.kr/album/17530918?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17530918?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Mar 2022 03:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8106542?wl_ref=list_ab_04" class="artistTitle" title="Sister Ray" onclick="
-" target="_self">Sister Ray</a>
-</p>
-<p>
-<time datetime="">2022.03.22</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/175309/17530918.jpg?version=20220322025621.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
