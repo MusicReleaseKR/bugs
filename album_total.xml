@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 14:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 15:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Behja Behja]]></title>
+            <link>https://music.bugs.co.kr/album/17081466?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17081466?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 23 Mar 2022 15:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10187507?wl_ref=list_ab_04" class="artistTitle" title="The Landers" onclick="
+" target="_self">The Landers</a>
+</p>
+<p>
+<time datetime="">2022.03.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/170814/17081466.jpg?version=20220324000018.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 지하철 7호선 #4]]></title>
             <link>https://music.bugs.co.kr/album/20457519?wl_ref=list_ab_03</link>
@@ -1050,21 +1065,6 @@ Flynn
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204572/20457231.jpg?version=20220323120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리들의 계절]]></title>
-            <link>https://music.bugs.co.kr/album/20457212?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20457212?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 23 Mar 2022 03:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20156402?wl_ref=list_ab_04" class="artistTitle" title="서잎" onclick="
-" target="_self">서잎</a>
-</p>
-<p>
-<time datetime="">2022.03.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204572/20457212.jpg?version=20220323120005.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
