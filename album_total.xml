@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 02:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/171543/17154334.jpg?version=20220324090008.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Tańcz]]></title>
+            <link>https://music.bugs.co.kr/album/17441167?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17441167?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 24 Mar 2022 03:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12443278?wl_ref=list_ab_04" class="artistTitle" title="Ania Leon" onclick="
+" target="_self">Ania Leon</a>
+</p>
+<p>
+<time datetime="">2022.03.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174411/17441167.jpg?version=20220324120030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Behja Behja]]></title>
             <link>https://music.bugs.co.kr/album/17081466?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17081466?wl_ref=list_ab_03</guid>
@@ -36,6 +51,39 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/170814/17081466.jpg?version=20220324000018.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Solar Plexus]]></title>
+            <link>https://music.bugs.co.kr/album/16358679?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16358679?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 24 Mar 2022 03:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12265696?wl_ref=list_ab_04" class="artistTitle" title="Jonathan Kawchuk" onclick="
+" target="_self">Jonathan Kawchuk</a>
+</p>
+<p>
+<time datetime="">2022.03.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/163586/16358679.jpg?version=20220324120030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My Mind]]></title>
+            <link>https://music.bugs.co.kr/album/4073157?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4073157?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 24 Mar 2022 03:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80010815?wl_ref=list_ab_04" class="artistTitle" title="Institute(인스티튜트)">Institute(인스티튜트)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Institute||Institute(인스티튜트)||80010815||OK\\nMansa||Mansa(만사)||80302934||OK', ''); return false;">
+Institute(인스티튜트)
+</a> </p>
+<p>
+<time datetime="">2022.03.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40731/4073157.jpg?version=20220324120030.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 지하철 7호선 #4]]></title>
@@ -1014,54 +1062,6 @@ David Rone
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204574/20457471.jpg?version=20220323120014.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Latin Stack]]></title>
-            <link>https://music.bugs.co.kr/album/20457458?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20457458?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 23 Mar 2022 03:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20156557?wl_ref=list_ab_04" class="artistTitle" title="Copyright Free Beats">Copyright Free Beats</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Copyright Free Beats||Copyright Free Beats||20156557||OK\\nhozoneonfire||hozoneonfire||20156558||OK', ''); return false;">
-Copyright Free Beats
-</a> </p>
-<p>
-<time datetime="">2022.03.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204574/20457458.jpg?version=20220323120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나비잠 빗방울 산책 Vol.1]]></title>
-            <link>https://music.bugs.co.kr/album/20457440?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20457440?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 23 Mar 2022 03:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20117127?wl_ref=list_ab_04" class="artistTitle" title="나비잠 프로젝트" onclick="
-" target="_self">나비잠 프로젝트</a>
-</p>
-<p>
-<time datetime="">2022.03.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204574/20457440.jpg?version=20220323120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tangerines]]></title>
-            <link>https://music.bugs.co.kr/album/20457310?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20457310?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 23 Mar 2022 03:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80135858?wl_ref=list_ab_04" class="artistTitle" title="Sierra Swan" onclick="
-" target="_self">Sierra Swan</a>
-</p>
-<p>
-<time datetime="">2022.03.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204573/20457310.jpg?version=20220323120021.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
