@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 14:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 15:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,7 +674,7 @@ Aden (에이든)
 <time datetime="">2022.03.18</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/175310/17531001.jpg?version=20220322020523.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/175310/17531001.jpg?version=20220325002249.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stop The World]]></title>
@@ -726,6 +726,21 @@ Nigo
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/174356/17435620.jpg?version=20220319064800.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Talk]]></title>
+            <link>https://music.bugs.co.kr/album/17408705?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17408705?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 24 Mar 2022 15:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80323655?wl_ref=list_ab_04" class="artistTitle" title="beabadoobee" onclick="
+" target="_self">beabadoobee</a>
+</p>
+<p>
+<time datetime="">2022.03.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174087/17408705.jpg?version=20220324120017.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tongue Tied]]></title>
@@ -1068,21 +1083,6 @@ DANI (박혁진)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40729/4072917.jpg?version=20220323011028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PALETTE D#903.]]></title>
-            <link>https://music.bugs.co.kr/album/4073109?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4073109?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 23 Mar 2022 03:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20109625?wl_ref=list_ab_04" class="artistTitle" title="SOUND PALETTE" onclick="
-" target="_self">SOUND PALETTE</a>
-</p>
-<p>
-<time datetime="">2022.03.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40731/4073109.jpg?version=20220323120014.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
