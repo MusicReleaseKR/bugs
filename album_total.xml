@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 09:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 10:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -806,6 +806,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/175922/17592267.jpg?version=20220325115135.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Uncanny Valley]]></title>
+            <link>https://music.bugs.co.kr/album/17592263?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17592263?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 25 Mar 2022 10:28:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12064910?wl_ref=list_ab_04" class="artistTitle" title="COIN" onclick="
+" target="_self">COIN</a>
+</p>
+<p>
+<time datetime="">2022.03.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/175922/17592263.jpg?version=20220325130008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Gifted]]></title>
             <link>https://music.bugs.co.kr/album/17591839?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17591839?wl_ref=list_ab_03</guid>
@@ -1034,34 +1049,19 @@ Olli Hänninen
             <enclosure url="https://image.bugsm.co.kr/album/images/170/175749/17574936.jpg?version=20220325004648.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Winds of Torment]]></title>
-            <link>https://music.bugs.co.kr/album/17574734?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17574734?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 25 Mar 2022 04:27:05 GMT</pubDate>
+            <title><![CDATA[UNDERRATED (Deluxe)]]></title>
+            <link>https://music.bugs.co.kr/album/17574876?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17574876?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 25 Mar 2022 10:28:48 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12700164?wl_ref=list_ab_04" class="artistTitle" title="Scorn" onclick="
-" target="_self">Scorn</a>
+<a href="https://music.bugs.co.kr/artist/8629026?wl_ref=list_ab_04" class="artistTitle" title="Big Boogie" onclick="
+" target="_self">Big Boogie</a>
 </p>
 <p>
 <time datetime="">2022.03.25</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/175747/17574734.jpg?version=20220325000018.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pasadena (Music from the Television Series)]]></title>
-            <link>https://music.bugs.co.kr/album/17574641?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17574641?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 25 Mar 2022 04:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80000913?wl_ref=list_ab_04" class="artistTitle" title="Mark Snow(마크 쇼)" onclick="
-" target="_self">Mark Snow(마크 쇼)</a>
-</p>
-<p>
-<time datetime="">2022.03.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/175746/17574641.jpg?version=20220325120025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/175748/17574876.jpg?version=20220325141608.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

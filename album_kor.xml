@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 09:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 10:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -554,6 +554,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204559/20455998.jpg?version=1648177225000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Anti ego]]></title>
+            <link>https://music.bugs.co.kr/album/4073300?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4073300?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 25 Mar 2022 10:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80078064?wl_ref=list_ab_04" class="artistTitle" title="하현우(국카스텐)" onclick="
+" target="_self">하현우(국카스텐)</a>
+</p>
+<p>
+<time datetime="">2022.03.25</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40733/4073300.jpg?version=1648198812000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SeoulVibes, SEESAW]]></title>
             <link>https://music.bugs.co.kr/album/4073213?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4073213?wl_ref=list_ab_03</guid>
@@ -884,6 +899,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204579/20457986.jpg?version=1648177225000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BREAKING BAD]]></title>
+            <link>https://music.bugs.co.kr/album/20457985?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20457985?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 25 Mar 2022 10:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20118549?wl_ref=list_ab_04" class="artistTitle" title="ZEZE (제제)" onclick="
+" target="_self">ZEZE (제제)</a>
+</p>
+<p>
+<time datetime="">2022.03.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204579/20457985.jpg?version=1648198816000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내 말이 맞지]]></title>
             <link>https://music.bugs.co.kr/album/20457984?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20457984?wl_ref=list_ab_03</guid>
@@ -1032,36 +1062,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204579/20457921.jpg?version=1648177225000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SHESHATESME]]></title>
-            <link>https://music.bugs.co.kr/album/20457911?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20457911?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 25 Mar 2022 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20021659?wl_ref=list_ab_04" class="artistTitle" title="보이프릭(BOIFREAK)" onclick="
-" target="_self">보이프릭(BOIFREAK)</a>
-</p>
-<p>
-<time datetime="">2022.03.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204579/20457911.jpg?version=1648177225000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Today]]></title>
-            <link>https://music.bugs.co.kr/album/20457908?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20457908?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 25 Mar 2022 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20156698?wl_ref=list_ab_04" class="artistTitle" title="LWB won" onclick="
-" target="_self">LWB won</a>
-</p>
-<p>
-<time datetime="">2022.03.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204579/20457908.jpg?version=1648177225000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
