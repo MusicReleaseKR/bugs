@@ -4,11 +4,26 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 02:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 03:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Home]]></title>
+            <title><![CDATA[We Left the House for This?]]></title>
+            <link>https://music.bugs.co.kr/album/16134735?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16134735?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 25 Mar 2022 03:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10429134?wl_ref=list_ab_04" class="artistTitle" title="Speak" onclick="
+" target="_self">Speak</a>
+</p>
+<p>
+<time datetime="">2022.03.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/161347/16134735.jpg?version=20220325120025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PANORAMA]]></title>
             <link>https://music.bugs.co.kr/album/20452790?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20452790?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 25 Mar 2022 02:47:58 GMT</pubDate>
@@ -17,10 +32,10 @@
 " target="_self">ID:Earth(아이디얼스)</a>
 </p>
 <p>
-<time datetime="">2022.02.25</time>
+<time datetime="">2022.03.25</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204527/20452790.jpg?version=20220226013555.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204527/20452790.jpg?version=20220325122012.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sors de ma tête]]></title>
@@ -69,6 +84,54 @@ Ananya Bhat
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/171831/17183196.jpg?version=20220325000018.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Не верю]]></title>
+            <link>https://music.bugs.co.kr/album/17153767?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17153767?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 25 Mar 2022 03:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12044300?wl_ref=list_ab_04" class="artistTitle" title="Фелисет" onclick="
+" target="_self">Фелисет</a>
+</p>
+<p>
+<time datetime="">2022.03.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/171537/17153767.jpg?version=20220325120025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[90 + 10]]></title>
+            <link>https://music.bugs.co.kr/album/17128506?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17128506?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 25 Mar 2022 03:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80304441?wl_ref=list_ab_04" class="artistTitle" title="Yizzy" onclick="
+" target="_self">Yizzy</a>
+</p>
+<p>
+<time datetime="">2022.03.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/171285/17128506.jpg?version=20220325120025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[40G]]></title>
+            <link>https://music.bugs.co.kr/album/16907126?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16907126?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 25 Mar 2022 03:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20075450?wl_ref=list_ab_04" class="artistTitle" title="Puar">Puar</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Puar||Puar||20075450||OK\\nBionsen||Bionsen||12460717||OK', ''); return false;">
+Puar
+</a> </p>
+<p>
+<time datetime="">2022.03.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/169071/16907126.jpg?version=20220325120025.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dumb]]></title>
@@ -1020,66 +1083,6 @@ Muzică Spațială Pentru Somn
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204579/20457928.jpg?version=20220325003431.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외로움을 달래주는 음악]]></title>
-            <link>https://music.bugs.co.kr/album/20457801?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20457801?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 24 Mar 2022 04:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20103573?wl_ref=list_ab_04" class="artistTitle" title="센티멘탈 코드" onclick="
-" target="_self">센티멘탈 코드</a>
-</p>
-<p>
-<time datetime="">2022.03.24</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204578/20457801.jpg?version=20220324120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈의 나라]]></title>
-            <link>https://music.bugs.co.kr/album/20457733?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20457733?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 24 Mar 2022 04:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20092004?wl_ref=list_ab_04" class="artistTitle" title="희망요정" onclick="
-" target="_self">희망요정</a>
-</p>
-<p>
-<time datetime="">2022.03.24</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204577/20457733.jpg?version=20220324120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개구리]]></title>
-            <link>https://music.bugs.co.kr/album/20457670?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20457670?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 24 Mar 2022 04:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20131867?wl_ref=list_ab_04" class="artistTitle" title="지난" onclick="
-" target="_self">지난</a>
-</p>
-<p>
-<time datetime="">2022.03.24</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204576/20457670.jpg?version=20220324120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tales of Love]]></title>
-            <link>https://music.bugs.co.kr/album/20457651?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20457651?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 24 Mar 2022 04:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20118871?wl_ref=list_ab_04" class="artistTitle" title="eau deer cabin" onclick="
-" target="_self">eau deer cabin</a>
-</p>
-<p>
-<time datetime="">2022.03.24</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204576/20457651.jpg?version=20220324120030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
