@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 14:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 15:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1070,6 +1070,21 @@ Skizzy Mars(스키지 마스)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40732/4073293.jpg?version=20220328120018.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LIFE (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20389263?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20389263?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 29 Mar 2022 15:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20130685?wl_ref=list_ab_04" class="artistTitle" title="UNEMPLOYED WORKS" onclick="
+" target="_self">UNEMPLOYED WORKS</a>
+</p>
+<p>
+<time datetime="">2021.04.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/203892/20389263.jpg?version=20220320005849.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bittersweet Poetry (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20458762?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20458762?wl_ref=list_ab_03</guid>
@@ -2114,19 +2129,19 @@ Lenka Peskou
             <enclosure url="https://image.bugsm.co.kr/album/images/170/175492/17549201.jpg?version=20220329120026.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Трус, Балбес И Бывалый (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/17548874?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17548874?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 29 Mar 2022 03:37:58 GMT</pubDate>
+            <title><![CDATA[LIFE (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20389263?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20389263?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 29 Mar 2022 15:27:33 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12445539?wl_ref=list_ab_04" class="artistTitle" title="Rastargull" onclick="
-" target="_self">Rastargull</a>
+<a href="https://music.bugs.co.kr/artist/20130685?wl_ref=list_ab_04" class="artistTitle" title="UNEMPLOYED WORKS" onclick="
+" target="_self">UNEMPLOYED WORKS</a>
 </p>
 <p>
-<time datetime="">2022.03.29</time>
-<span class="albumType">EP(미니)</span>
+<time datetime="">2021.04.08</time>
+<span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/175488/17548874.jpg?version=20220329120026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/203892/20389263.jpg?version=1647705529000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bittersweet Poetry (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3174,21 +3189,6 @@ lofi
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204584/20458468.jpg?version=1648522826000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[He Will Come Back 2022 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20458440?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20458440?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 29 Mar 2022 03:38:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80225711?wl_ref=list_ab_04" class="artistTitle" title="PIONEER BAND" onclick="
-" target="_self">PIONEER BAND</a>
-</p>
-<p>
-<time datetime="">2022.03.29</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204584/20458440.jpg?version=1648522826000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
