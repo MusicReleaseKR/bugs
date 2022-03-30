@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 01:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 02:59:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,14 +334,17 @@
             <guid>https://music.bugs.co.kr/album/20458645?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 29 Mar 2022 03:38:17 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20127076?wl_ref=list_ab_04" class="artistTitle" title="Chariot" onclick="
-" target="_self">Chariot</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20127076?wl_ref=list_ab_04" class="artistTitle" title="Chariot">Chariot</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Chariot||Chariot||20127076||OK\\nMINDA||MINDA||20112043||OK', ''); return false;">
+Chariot
+</a> </p>
 <p>
 <time datetime="">2022.03.29</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204586/20458645.jpg?version=1648568778000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204586/20458645.jpg?version=1648607472000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[회피형인간]]></title>
