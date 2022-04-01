@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 14:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 15:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Not like him]]></title>
+            <link>https://music.bugs.co.kr/album/4069807?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4069807?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Apr 2022 15:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80353876?wl_ref=list_ab_04" class="artistTitle" title="DJ Sparrow" onclick="
+" target="_self">DJ Sparrow</a>
+</p>
+<p>
+<time datetime="">2022.03.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40698/4069807.jpg?version=20220306004422.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[83 Kids (Instrumentals)]]></title>
             <link>https://music.bugs.co.kr/album/20459560?wl_ref=list_ab_03</link>
@@ -1050,21 +1065,6 @@ Penny Rimbaud
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/175976/17597604.jpg?version=20220401102546.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mediterraneo]]></title>
-            <link>https://music.bugs.co.kr/album/17597599?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17597599?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Apr 2022 04:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/36730?wl_ref=list_ab_04" class="artistTitle" title="Jovanotti(조바노티)" onclick="
-" target="_self">Jovanotti(조바노티)</a>
-</p>
-<p>
-<time datetime="">2022.04.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/175975/17597599.jpg?version=20220401111512.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 14:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 15:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Not like him]]></title>
+            <link>https://music.bugs.co.kr/album/4069807?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4069807?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Apr 2022 15:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80353876?wl_ref=list_ab_04" class="artistTitle" title="DJ Sparrow" onclick="
+" target="_self">DJ Sparrow</a>
+</p>
+<p>
+<time datetime="">2022.03.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40698/4069807.jpg?version=1646495062000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지나 찬양 1]]></title>
             <link>https://music.bugs.co.kr/album/20459556?wl_ref=list_ab_03</link>
@@ -560,7 +575,7 @@
 <time datetime="">2022.04.01</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204595/20459535.jpg?version=1648782024000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204595/20459535.jpg?version=1648826727000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mellow.D 1집]]></title>
@@ -575,7 +590,7 @@
 <time datetime="">2022.04.01</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204595/20459533.jpg?version=1648782014000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204595/20459533.jpg?version=1648826601000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 친구]]></title>
@@ -890,7 +905,7 @@
 <time datetime="">2022.04.01</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204594/20459441.jpg?version=1648782019000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204594/20459441.jpg?version=1648826615000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OFF]]></title>
@@ -1041,24 +1056,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204594/20459411.jpg?version=1648782019000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I CAN DO THIS ALL DAY]]></title>
-            <link>https://music.bugs.co.kr/album/20459410?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20459410?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Apr 2022 04:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20033196?wl_ref=list_ab_04" class="artistTitle" title="비모카(VIMOKA)">비모카(VIMOKA)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '비모카||비모카(VIMOKA)||20033196||OK\\n유령 (Yooryeong)||유령 (Yooryeong)||20122732||OK', ''); return false;">
-비모카(VIMOKA)
-</a> </p>
-<p>
-<time datetime="">2022.04.01</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204594/20459410.jpg?version=1648782024000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
