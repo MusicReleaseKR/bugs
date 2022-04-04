@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 14:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 15:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40735/4073557.jpg?version=20220404183814.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄여름가을겨울 (Still Life)]]></title>
+            <link>https://music.bugs.co.kr/album/4073653?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4073653?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 04 Apr 2022 15:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80020023?wl_ref=list_ab_04" class="artistTitle" title="BIGBANG (빅뱅)" onclick="
+" target="_self">BIGBANG (빅뱅)</a>
+</p>
+<p>
+<time datetime="">2022.04.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40736/4073653.jpg?version=20220405000002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grey Suit - The 2nd Mini Album]]></title>
@@ -56,21 +71,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40736/4073630.jpg?version=20220404180013.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크레이지 러브 OST Part.5]]></title>
-            <link>https://music.bugs.co.kr/album/20459451?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20459451?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 04 Apr 2022 09:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80213811?wl_ref=list_ab_04" class="artistTitle" title="다비(DAVII)" onclick="
-" target="_self">다비(DAVII)</a>
-</p>
-<p>
-<time datetime="">2022.04.04</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204594/20459451.jpg?version=20220404180006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[벚꽃 보러 안 갈래?]]></title>
             <link>https://music.bugs.co.kr/album/4073556?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4073556?wl_ref=list_ab_03</guid>
@@ -84,6 +84,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40735/4073556.jpg?version=20220404120016.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크레이지 러브 OST Part.5]]></title>
+            <link>https://music.bugs.co.kr/album/20459451?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20459451?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 04 Apr 2022 09:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80213811?wl_ref=list_ab_04" class="artistTitle" title="다비(DAVII)" onclick="
+" target="_self">다비(DAVII)</a>
+</p>
+<p>
+<time datetime="">2022.04.04</time>
+<span class="albumType">OST</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204594/20459451.jpg?version=20220404180006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Love in Bloom]]></title>
@@ -1051,21 +1066,6 @@ Regi
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204593/20459308.jpg?version=20220403120020.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼작사 이혼작곡 3 Part 6]]></title>
-            <link>https://music.bugs.co.kr/album/4073569?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4073569?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 03 Apr 2022 03:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12714841?wl_ref=list_ab_04" class="artistTitle" title="강은일" onclick="
-" target="_self">강은일</a>
-</p>
-<p>
-<time datetime="">2022.04.03</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40735/4073569.jpg?version=20220404063617.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
