@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 23:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 02:57:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -148,14 +148,17 @@
             <guid>https://music.bugs.co.kr/album/20458677?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 04 Apr 2022 04:26:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20156934?wl_ref=list_ab_04" class="artistTitle" title="김대천" onclick="
-" target="_self">김대천</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20156934?wl_ref=list_ab_04" class="artistTitle" title="김대천">김대천</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '김대천||김대천||20156934||OK\\n김후식||김후식||80370391||OK\\n유성진||유성진||80370392||OK', ''); return false;">
+김대천
+</a> </p>
 <p>
 <time datetime="">2022.04.04</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204586/20458677.jpg?version=1649041222000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204586/20458677.jpg?version=1649125192000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 흐름 그대로]]></title>
@@ -500,7 +503,7 @@
 <time datetime="">2022.04.04</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204599/20459974.jpg?version=1649090806000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204599/20459974.jpg?version=1649119846000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Don't fade]]></title>
