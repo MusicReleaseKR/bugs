@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -159,6 +159,21 @@ Jonathan David Helser
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204599/20459981.jpg?version=20220406120028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blued]]></title>
+            <link>https://music.bugs.co.kr/album/20459850?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20459850?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 06 Apr 2022 10:28:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20155171?wl_ref=list_ab_04" class="artistTitle" title="현유환" onclick="
+" target="_self">현유환</a>
+</p>
+<p>
+<time datetime="">2022.04.06</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204598/20459850.jpg?version=20220406180016.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[健音 ＃1 -未来-(건음 #1 -미래-)]]></title>
@@ -980,6 +995,21 @@ Bloodgroove
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204593/20459365.jpg?version=20220406120028.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BLURRY DREAM]]></title>
+            <link>https://music.bugs.co.kr/album/20459360?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20459360?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 06 Apr 2022 10:28:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20122281?wl_ref=list_ab_04" class="artistTitle" title="GYU HYUK" onclick="
+" target="_self">GYU HYUK</a>
+</p>
+<p>
+<time datetime="">2022.04.06</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204593/20459360.jpg?version=20220406180012.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[都会の迷子]]></title>
             <link>https://music.bugs.co.kr/album/20459243?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459243?wl_ref=list_ab_03</guid>
@@ -1038,36 +1068,6 @@ Bloodgroove
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204578/20457865.jpg?version=20220406120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[揺ら揺ら / Wondering Around]]></title>
-            <link>https://music.bugs.co.kr/album/20456750?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20456750?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 05 Apr 2022 15:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20125704?wl_ref=list_ab_04" class="artistTitle" title="Shishishishi (獅子志司)" onclick="
-" target="_self">Shishishishi (獅子志司)</a>
-</p>
-<p>
-<time datetime="">2022.04.06</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204567/20456750.jpg?version=20220406110006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[揺ら揺ら / Wondering Around - VOCALOID ver.]]></title>
-            <link>https://music.bugs.co.kr/album/20456748?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20456748?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 05 Apr 2022 15:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20125704?wl_ref=list_ab_04" class="artistTitle" title="Shishishishi (獅子志司)" onclick="
-" target="_self">Shishishishi (獅子志司)</a>
-</p>
-<p>
-<time datetime="">2022.04.06</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204567/20456748.jpg?version=20220406110005.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
