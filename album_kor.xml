@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 04:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 05:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -703,17 +703,14 @@
             <guid>https://music.bugs.co.kr/album/20460541?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 07 Apr 2022 04:26:58 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20106708?wl_ref=list_ab_04" class="artistTitle" title="김바울">김바울</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '김바울||김바울||20106708||OK\\n민서||민서||20001178||OK', ''); return false;">
-김바울
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/20106708?wl_ref=list_ab_04" class="artistTitle" title="김바울" onclick="
+" target="_self">김바울</a>
+</p>
 <p>
 <time datetime="">2022.04.07</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204605/20460541.jpg?version=1649300412000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204605/20460541.jpg?version=1649307358000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech House 3]]></title>
