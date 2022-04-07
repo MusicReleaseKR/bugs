@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 09:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 10:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -186,6 +186,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204602/20460251.jpg?version=20220407120012.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lunch Money]]></title>
+            <link>https://music.bugs.co.kr/album/20460227?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20460227?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Apr 2022 10:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80333404?wl_ref=list_ab_04" class="artistTitle" title="BHAVIOR" onclick="
+" target="_self">BHAVIOR</a>
+</p>
+<p>
+<time datetime="">2022.04.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204602/20460227.jpg?version=20220407180012.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[In My Mind]]></title>
@@ -641,6 +656,21 @@ Gold Chain Music
             <enclosure url="https://image.bugsm.co.kr/album/images/170/175939/17593928.jpg?version=20220407000017.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Soñando en PR]]></title>
+            <link>https://music.bugs.co.kr/album/17593195?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17593195?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Apr 2022 10:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12252407?wl_ref=list_ab_04" class="artistTitle" title="Lil Joujou" onclick="
+" target="_self">Lil Joujou</a>
+</p>
+<p>
+<time datetime="">2022.04.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/175931/17593195.jpg?version=20220407130021.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Split Vessel]]></title>
             <link>https://music.bugs.co.kr/album/17592677?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17592677?wl_ref=list_ab_03</guid>
@@ -1035,36 +1065,6 @@ Leandro Matioli
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204601/20460178.jpg?version=20220407120004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Show Me Heaven]]></title>
-            <link>https://music.bugs.co.kr/album/20459905?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20459905?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Apr 2022 03:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80370435?wl_ref=list_ab_04" class="artistTitle" title="Roxane" onclick="
-" target="_self">Roxane</a>
-</p>
-<p>
-<time datetime="">2022.04.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204599/20459905.jpg?version=20220407120018.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Runaway (Small Town Boy) Remixes]]></title>
-            <link>https://music.bugs.co.kr/album/20459904?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20459904?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Apr 2022 03:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/64878?wl_ref=list_ab_04" class="artistTitle" title="Kate Ryan(케이트 라이언)" onclick="
-" target="_self">Kate Ryan(케이트 라이언)</a>
-</p>
-<p>
-<time datetime="">2022.04.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204599/20459904.jpg?version=20220407120018.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
