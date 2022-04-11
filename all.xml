@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 16:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 17:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
 <time datetime="">2022.04.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204614/20461425.jpg?version=20220411180011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204614/20461425.jpg?version=20220412014939.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그걸로도 충분해요 (Feat. 수안) (웹툰 '죽음 대신 결혼' X San E) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -445,7 +445,7 @@ Ashid
 <time datetime="">2022.04.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204608/20460897.jpg?version=20220411120014.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204608/20460897.jpg?version=20220412015157.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I Made It (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -565,7 +565,7 @@ Ashid
 <time datetime="">2022.04.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461143.jpg?version=20220411120015.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461143.jpg?version=20220412014518.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YONN (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -673,7 +673,7 @@ Supershy
 <time datetime="">2022.04.08</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/176848/17684846.jpg?version=20220411110130.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176848/17684846.jpg?version=20220412015016.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I Don't Have Control Sometimes (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -726,14 +726,17 @@ Supershy
             <guid>https://music.bugs.co.kr/album/17656593?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 11 Apr 2022 03:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80254987?wl_ref=list_ab_04" class="artistTitle" title="BIA(비아)" onclick="
-" target="_self">BIA(비아)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80254987?wl_ref=list_ab_04" class="artistTitle" title="BIA(비아)">BIA(비아)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'BIA||BIA(비아)||80254987||OK\\nJ. Cole||J. Cole(제이콜)||80090304||OK', ''); return false;">
+BIA(비아)
+</a> </p>
 <p>
 <time datetime="">2022.04.08</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/176565/17656593.jpg?version=20220409065129.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176565/17656593.jpg?version=20220412014915.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Back To The Start (feat. Isaac Warburton) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -838,7 +841,7 @@ Supershy
 <time datetime="">2022.04.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40739/4073984.jpg?version=20220411180010.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40739/4073984.jpg?version=20220412020059.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안녕하쉐어 OST (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -987,7 +990,7 @@ Supershy
 <time datetime="">2022.04.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204603/20460366.jpg?version=20220411113210.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204603/20460366.jpg?version=20220412013849.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그대를 비출게요 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1107,7 +1110,7 @@ Supershy
 <time datetime="">2022.04.11</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461119.jpg?version=20220411121018.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461119.jpg?version=20220412015333.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Episode #11 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1167,7 +1170,7 @@ Supershy
 <time datetime="">2022.04.11</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461092.jpg?version=20220411120021.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461092.jpg?version=20220412013630.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sometimes I Remember (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1212,7 +1215,7 @@ Supershy
 <time datetime="">2022.04.11</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461073.jpg?version=20220411120021.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461073.jpg?version=20220412014519.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CONNECTED; MUSIC & VISUAL ARTS Vol. 1 Café Jazz BGM Work & Study, Relaxing Music (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1426,9 +1429,9 @@ Robert French
 </p>
 <p>
 <time datetime="">2022.04.11</time>
-<span class="albumType">정규</span>
+<span class="albumType">라이브</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/176867/17686714.jpg?version=20220411000014.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176867/17686714.jpg?version=20220412014901.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beautiful People (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1686,7 +1689,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204614/20461425.jpg?version=20220411180011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204614/20461425.jpg?version=20220412014939.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Luminous (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1776,7 +1779,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461110.jpg?version=20220411121017.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461110.jpg?version=20220412015333.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강변의 추억여행 뮤직캠프 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1806,7 +1809,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461105.jpg?version=20220411121017.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461105.jpg?version=20220412013101.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추억 만들기 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1866,7 +1869,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461072.jpg?version=20220411121015.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461072.jpg?version=20220412014537.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명품트롯 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2151,7 +2154,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461119.jpg?version=1649646618000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461119.jpg?version=1649696013000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Episode #11 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2211,7 +2214,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461092.jpg?version=1649646021000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461092.jpg?version=1649694990000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sometimes I Remember (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2256,7 +2259,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461073.jpg?version=1649646021000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461073.jpg?version=1649695519000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CONNECTED; MUSIC & VISUAL ARTS Vol. 1 Café Jazz BGM Work & Study, Relaxing Music (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2409,7 +2412,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204614/20461425.jpg?version=1649667611000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204614/20461425.jpg?version=1649695779000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Luminous (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2499,7 +2502,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461110.jpg?version=1649646617000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461110.jpg?version=1649696013000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강변의 추억여행 뮤직캠프 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2529,7 +2532,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461105.jpg?version=1649646617000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461105.jpg?version=1649694661000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추억 만들기 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2589,7 +2592,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461072.jpg?version=1649646615000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461072.jpg?version=1649695537000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명품트롯 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2757,7 +2760,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204612/20461279.jpg?version=1649646021000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204612/20461279.jpg?version=1649695302000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주여 이 죄인이 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2832,7 +2835,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461162.jpg?version=1649646021000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461162.jpg?version=1649695761000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Restart (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2910,7 +2913,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461143.jpg?version=1649646015000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461143.jpg?version=1649695518000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벚꽃 보러 갈래? (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3105,7 +3108,7 @@ Rene Bottlang
 <time datetime="">2022.04.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204608/20460897.jpg?version=1649646014000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204608/20460897.jpg?version=1649695917000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카페인 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>

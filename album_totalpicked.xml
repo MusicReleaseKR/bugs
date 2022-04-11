@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 16:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 17:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
 <time datetime="">2022.04.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204614/20461425.jpg?version=20220411180011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204614/20461425.jpg?version=20220412014939.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그걸로도 충분해요 (Feat. 수안) (웹툰 '죽음 대신 결혼' X San E)]]></title>
@@ -445,7 +445,7 @@ Ashid
 <time datetime="">2022.04.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204608/20460897.jpg?version=20220411120014.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204608/20460897.jpg?version=20220412015157.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I Made It]]></title>
@@ -565,7 +565,7 @@ Ashid
 <time datetime="">2022.04.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461143.jpg?version=20220411120015.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204611/20461143.jpg?version=20220412014518.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YONN]]></title>
@@ -673,7 +673,7 @@ Supershy
 <time datetime="">2022.04.08</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/176848/17684846.jpg?version=20220411110130.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176848/17684846.jpg?version=20220412015016.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I Don't Have Control Sometimes]]></title>
@@ -726,14 +726,17 @@ Supershy
             <guid>https://music.bugs.co.kr/album/17656593?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 11 Apr 2022 03:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80254987?wl_ref=list_ab_04" class="artistTitle" title="BIA(비아)" onclick="
-" target="_self">BIA(비아)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80254987?wl_ref=list_ab_04" class="artistTitle" title="BIA(비아)">BIA(비아)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'BIA||BIA(비아)||80254987||OK\\nJ. Cole||J. Cole(제이콜)||80090304||OK', ''); return false;">
+BIA(비아)
+</a> </p>
 <p>
 <time datetime="">2022.04.08</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/176565/17656593.jpg?version=20220409065129.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176565/17656593.jpg?version=20220412014915.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Back To The Start (feat. Isaac Warburton)]]></title>
@@ -838,7 +841,7 @@ Supershy
 <time datetime="">2022.04.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40739/4073984.jpg?version=20220411180010.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40739/4073984.jpg?version=20220412020059.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안녕하쉐어 OST]]></title>
@@ -987,7 +990,7 @@ Supershy
 <time datetime="">2022.04.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204603/20460366.jpg?version=20220411113210.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204603/20460366.jpg?version=20220412013849.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그대를 비출게요]]></title>
