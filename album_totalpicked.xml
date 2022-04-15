@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 03:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 04:40:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,21 @@
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40742/4074252.jpg?version=20220415120011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Darl+ing]]></title>
+            <link>https://music.bugs.co.kr/album/4074354?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4074354?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 15 Apr 2022 04:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80232283?wl_ref=list_ab_04" class="artistTitle" title="세븐틴(SEVENTEEN)" onclick="
+" target="_self">세븐틴(SEVENTEEN)</a>
+</p>
+<p>
+<time datetime="">2022.04.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40743/4074354.jpg?version=20220415130002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<퀸덤2> Part.2-1]]></title>
@@ -55,21 +70,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40742/4074254.jpg?version=20220415070004.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Memories]]></title>
-            <link>https://music.bugs.co.kr/album/17693064?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17693064?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 15 Apr 2022 03:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80321173?wl_ref=list_ab_04" class="artistTitle" title="Conan Gray" onclick="
-" target="_self">Conan Gray</a>
-</p>
-<p>
-<time datetime="">2022.04.15</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/176930/17693064.jpg?version=20220415110414.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[JUST BEGUN]]></title>
             <link>https://music.bugs.co.kr/album/4073726?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4073726?wl_ref=list_ab_03</guid>
@@ -83,6 +83,21 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40737/4073726.jpg?version=20220415013517.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Memories]]></title>
+            <link>https://music.bugs.co.kr/album/17693064?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17693064?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 15 Apr 2022 03:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80321173?wl_ref=list_ab_04" class="artistTitle" title="Conan Gray" onclick="
+" target="_self">Conan Gray</a>
+</p>
+<p>
+<time datetime="">2022.04.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176930/17693064.jpg?version=20220415110414.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grandpa's Book]]></title>
@@ -1066,21 +1081,6 @@ V.O.S.
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204620/20462062.jpg?version=20220415101030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Move it]]></title>
-            <link>https://music.bugs.co.kr/album/20461064?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20461064?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 14 Apr 2022 09:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20124109?wl_ref=list_ab_04" class="artistTitle" title="It's my turn" onclick="
-" target="_self">It's my turn</a>
-</p>
-<p>
-<time datetime="">2022.04.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204610/20461064.jpg?version=20220414180017.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
