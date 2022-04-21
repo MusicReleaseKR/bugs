@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 06:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 07:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1384,21 +1384,6 @@ AronChupa(아론처파)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204621/20462120.jpg?version=20220421120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Live At Birdland (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/17720485?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17720485?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Apr 2022 03:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/69262?wl_ref=list_ab_04" class="artistTitle" title="Carol Sloane(캐롤 슬론)" onclick="
-" target="_self">Carol Sloane(캐롤 슬론)</a>
-</p>
-<p>
-<time datetime="">2022.04.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/177204/17720485.jpg?version=20220421032004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Project X10 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/17719064?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17719064?wl_ref=list_ab_03</guid>
@@ -2144,6 +2129,21 @@ Muzică Spațială Pentru Somn
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204627/20462768.jpg?version=20220421120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heartport (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20462759?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20462759?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 21 Apr 2022 07:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20151526?wl_ref=list_ab_04" class="artistTitle" title="Jun Isoyama" onclick="
+" target="_self">Jun Isoyama</a>
+</p>
+<p>
+<time datetime="">2022.04.21</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204627/20462759.jpg?version=20220421120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beauty Pocket #4 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
