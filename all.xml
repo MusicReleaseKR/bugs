@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 09:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1599,6 +1599,21 @@ Fabio Giachino
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204544/20454420.jpg?version=20220422120026.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[La Belle Epoque (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/17723289?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17723289?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Apr 2022 10:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/34327?wl_ref=list_ab_04" class="artistTitle" title="Andre Rieu(앙드레 류)" onclick="
+" target="_self">Andre Rieu(앙드레 류)</a>
+</p>
+<p>
+<time datetime="">2022.04.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/177232/17723289.jpg?version=20220422170004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[VORTICI (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/17720968?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17720968?wl_ref=list_ab_03</guid>
@@ -2111,21 +2126,6 @@ Jon Balke(욘 발케)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/177194/17719477.jpg?version=20220422004948.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[EPITHYMIA (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/17719473?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17719473?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Apr 2022 03:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12492666?wl_ref=list_ab_04" class="artistTitle" title="Die Andere Seite" onclick="
-" target="_self">Die Andere Seite</a>
-</p>
-<p>
-<time datetime="">2022.04.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/177194/17719473.jpg?version=20220422004224.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[낭만이 흐르는 카페 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20463884?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20463884?wl_ref=list_ab_03</guid>
@@ -2425,6 +2425,21 @@ Jon Balke(욘 발케)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204632/20463288.jpg?version=1650596426000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Someday (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20463217?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20463217?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Apr 2022 09:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20039611?wl_ref=list_ab_04" class="artistTitle" title="주낸드(Joonand)" onclick="
+" target="_self">주낸드(Joonand)</a>
+</p>
+<p>
+<time datetime="">2022.04.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204632/20463217.jpg?version=1650618015000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[형상 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20463109?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20463109?wl_ref=list_ab_03</guid>
@@ -2468,6 +2483,51 @@ Jon Balke(욘 발케)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204624/20462492.jpg?version=1650596426000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAVIOR (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4074681?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4074681?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Apr 2022 09:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80070516?wl_ref=list_ab_04" class="artistTitle" title="김성규" onclick="
+" target="_self">김성규</a>
+</p>
+<p>
+<time datetime="">2022.04.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40746/4074681.jpg?version=1650618878000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[COLD WAR (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4074668?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4074668?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Apr 2022 10:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20031487?wl_ref=list_ab_04" class="artistTitle" title="TIZKOI" onclick="
+" target="_self">TIZKOI</a>
+</p>
+<p>
+<time datetime="">2022.04.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40746/4074668.jpg?version=1650618019000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BORI (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4074640?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4074640?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Apr 2022 09:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20096887?wl_ref=list_ab_04" class="artistTitle" title="DJ co.kr" onclick="
+" target="_self">DJ co.kr</a>
+</p>
+<p>
+<time datetime="">2022.04.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40746/4074640.jpg?version=1650618015000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아로새기다 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2701,6 +2761,24 @@ Jon Balke(욘 발케)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204637/20463793.jpg?version=1650596419000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dingo X 신스(SINCE), 하회(HAHOE), 보나조이(Bona Zoe) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20463771?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20463771?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Apr 2022 09:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20056615?wl_ref=list_ab_04" class="artistTitle" title="SINCE">SINCE</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'SINCE||SINCE||20056615||OK\\n하회||하회(HAHOE)||20028183||OK\\n보나조이||보나조이(Bona Zoe)||20014871||OK', ''); return false;">
+SINCE
+</a> </p>
+<p>
+<time datetime="">2022.04.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204637/20463771.jpg?version=1650618015000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[백억 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20463767?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20463767?wl_ref=list_ab_03</guid>
@@ -2774,6 +2852,21 @@ Jon Balke(욘 발케)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204637/20463712.jpg?version=1650596426000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[날 보러 와요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20463711?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20463711?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Apr 2022 09:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80042899?wl_ref=list_ab_04" class="artistTitle" title="나비 (Navi)" onclick="
+" target="_self">나비 (Navi)</a>
+</p>
+<p>
+<time datetime="">2022.04.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204637/20463711.jpg?version=1650618015000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타라이트 (starlight) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2864,6 +2957,21 @@ Jon Balke(욘 발케)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204636/20463664.jpg?version=1650596426000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Temperature : Midnight City (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20463661?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20463661?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Apr 2022 10:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8059037?wl_ref=list_ab_04" class="artistTitle" title="김현진(현진)" onclick="
+" target="_self">김현진(현진)</a>
+</p>
+<p>
+<time datetime="">2022.04.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204636/20463661.jpg?version=1650618019000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숨 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3074,111 +3182,6 @@ Jon Balke(욘 발케)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204635/20463520.jpg?version=1650596426000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말씀은 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20463518?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20463518?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Apr 2022 03:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20158365?wl_ref=list_ab_04" class="artistTitle" title="나라가임하는워십" onclick="
-" target="_self">나라가임하는워십</a>
-</p>
-<p>
-<time datetime="">2022.04.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204635/20463518.jpg?version=1650596426000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Birthday (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20463514?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20463514?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Apr 2022 03:49:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80331157?wl_ref=list_ab_04" class="artistTitle" title="oddbob (오드밥)" onclick="
-" target="_self">oddbob (오드밥)</a>
-</p>
-<p>
-<time datetime="">2022.04.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204635/20463514.jpg?version=1650596406000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주님만 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20463507?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20463507?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Apr 2022 03:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20042424?wl_ref=list_ab_04" class="artistTitle" title="김남웅" onclick="
-" target="_self">김남웅</a>
-</p>
-<p>
-<time datetime="">2022.04.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204635/20463507.jpg?version=1650596426000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믿음의 고백 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20463501?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20463501?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Apr 2022 03:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20112914?wl_ref=list_ab_04" class="artistTitle" title="Ground Worship" onclick="
-" target="_self">Ground Worship</a>
-</p>
-<p>
-<time datetime="">2022.04.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204635/20463501.jpg?version=1650596426000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Finding Hope (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20463499?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20463499?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Apr 2022 03:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80075090?wl_ref=list_ab_04" class="artistTitle" title="레이디오울(LadyOwl)" onclick="
-" target="_self">레이디오울(LadyOwl)</a>
-</p>
-<p>
-<time datetime="">2022.04.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204634/20463499.jpg?version=1650596426000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONe SeLF (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20463492?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20463492?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Apr 2022 03:49:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80203238?wl_ref=list_ab_04" class="artistTitle" title="바운 (BOUN)" onclick="
-" target="_self">바운 (BOUN)</a>
-</p>
-<p>
-<time datetime="">2022.04.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204634/20463492.jpg?version=1650596416000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민들레씨 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20463491?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20463491?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Apr 2022 03:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20146862?wl_ref=list_ab_04" class="artistTitle" title="히읗(hieut)" onclick="
-" target="_self">히읗(hieut)</a>
-</p>
-<p>
-<time datetime="">2022.04.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204634/20463491.jpg?version=1650596426000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
