@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 09:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 10:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -608,6 +608,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/174573/17457380.jpg?version=20220425120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SERIES 'O' [ROUND 3 : WHOLE]]]></title>
+            <link>https://music.bugs.co.kr/album/4074735?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4074735?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 25 Apr 2022 10:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20066107?wl_ref=list_ab_04" class="artistTitle" title="VERIVERY" onclick="
+" target="_self">VERIVERY</a>
+</p>
+<p>
+<time datetime="">2022.04.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40747/4074735.jpg?version=20220425180007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘도 살아야하니까]]></title>
             <link>https://music.bugs.co.kr/album/4074704?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4074704?wl_ref=list_ab_03</guid>
@@ -804,6 +819,21 @@ Francis North
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204636/20463674.jpg?version=20220425120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[망상소년]]></title>
+            <link>https://music.bugs.co.kr/album/20463572?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20463572?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 25 Apr 2022 10:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20120072?wl_ref=list_ab_04" class="artistTitle" title="로웰 스트레이트 (Lowell Straight)" onclick="
+" target="_self">로웰 스트레이트 (Lowell Straight)</a>
+</p>
+<p>
+<time datetime="">2022.04.25</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204635/20463572.jpg?version=20220425180021.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미래인간 Mixtape]]></title>
@@ -1029,36 +1059,6 @@ Francis North
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/176970/17697046.jpg?version=20220425000016.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Second Side]]></title>
-            <link>https://music.bugs.co.kr/album/17697042?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17697042?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 25 Apr 2022 04:30:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12183410?wl_ref=list_ab_04" class="artistTitle" title="Jester's Tale" onclick="
-" target="_self">Jester's Tale</a>
-</p>
-<p>
-<time datetime="">2022.04.25</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/176970/17697042.jpg?version=20220425000016.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Figure]]></title>
-            <link>https://music.bugs.co.kr/album/17696898?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17696898?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 25 Apr 2022 04:30:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12290605?wl_ref=list_ab_04" class="artistTitle" title="Out of the Vox" onclick="
-" target="_self">Out of the Vox</a>
-</p>
-<p>
-<time datetime="">2022.04.25</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/176968/17696898.jpg?version=20220425000016.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
