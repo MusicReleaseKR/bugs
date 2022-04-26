@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 14:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 15:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -235,7 +235,7 @@
 <time datetime="">2022.04.26</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204642/20464230.jpg?version=20220426120020.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204642/20464230.jpg?version=20220427002226.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DECRESCENDO]]></title>
@@ -705,6 +705,21 @@ Glass Animals(글래스 애니멀스)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/176899/17689928.jpg?version=20220423064217.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[See you Soon]]></title>
+            <link>https://music.bugs.co.kr/album/17597179?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17597179?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 26 Apr 2022 15:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80323655?wl_ref=list_ab_04" class="artistTitle" title="beabadoobee" onclick="
+" target="_self">beabadoobee</a>
+</p>
+<p>
+<time datetime="">2022.04.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/175971/17597179.jpg?version=20220426010007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Slut Me Out]]></title>
             <link>https://music.bugs.co.kr/album/17723427?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17723427?wl_ref=list_ab_03</guid>
@@ -1057,21 +1072,6 @@ Riot Ten
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204642/20464213.jpg?version=20220426005733.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SITCOM]]></title>
-            <link>https://music.bugs.co.kr/album/20464015?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20464015?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 25 Apr 2022 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80212283?wl_ref=list_ab_04" class="artistTitle" title="나상현씨밴드" onclick="
-" target="_self">나상현씨밴드</a>
-</p>
-<p>
-<time datetime="">2022.04.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204640/20464015.jpg?version=20220425120014.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
