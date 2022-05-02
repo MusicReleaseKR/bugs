@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 05:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:36:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1457,6 +1457,21 @@ The Audible Doctor
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204641/20464105.jpg?version=20220502120026.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[IM HERO (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20462525?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20462525?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 02 May 2022 05:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80265501?wl_ref=list_ab_04" class="artistTitle" title="임영웅" onclick="
+" target="_self">임영웅</a>
+</p>
+<p>
+<time datetime="">2022.04.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204625/20462525.jpg?version=20220423014809.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Všechno nejlepší! (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/17914526?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17914526?wl_ref=list_ab_03</guid>
@@ -2108,21 +2123,6 @@ Profeta Matto
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40751/4075163.jpg?version=20220502120030.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[21-22 시즌 삼성화재 블루팡스 배구단 선수 응원가 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/4075125?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4075125?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 02 May 2022 03:59:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20083777?wl_ref=list_ab_04" class="artistTitle" title="허니크루" onclick="
-" target="_self">허니크루</a>
-</p>
-<p>
-<time datetime="">2022.05.02</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40751/4075125.jpg?version=20220502120018.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Rain On Me (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20465400?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20465400?wl_ref=list_ab_03</guid>
@@ -2391,6 +2391,21 @@ Profeta Matto
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204641/20464105.jpg?version=1651460426000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IM HERO (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20462525?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20462525?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 02 May 2022 05:36:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80265501?wl_ref=list_ab_04" class="artistTitle" title="임영웅" onclick="
+" target="_self">임영웅</a>
+</p>
+<p>
+<time datetime="">2022.04.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204625/20462525.jpg?version=1650646089000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lullaby Theory by The Sound of Nature Vol.3 : Classic Lullaby 1 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3158,21 +3173,6 @@ Profeta Matto
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204652/20465278.jpg?version=1651460418000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금필연 애창곡 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20465273?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20465273?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 02 May 2022 03:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20158895?wl_ref=list_ab_04" class="artistTitle" title="금필연" onclick="
-" target="_self">금필연</a>
-</p>
-<p>
-<time datetime="">2022.05.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204652/20465273.jpg?version=1651460426000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
