@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 15:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 16:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,14 +13,17 @@
             <guid>https://music.bugs.co.kr/album/14457221?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 03 May 2022 15:24:48 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12001017?wl_ref=list_ab_04" class="artistTitle" title="Sego Lily" onclick="
-" target="_self">Sego Lily</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12001017?wl_ref=list_ab_04" class="artistTitle" title="Sego Lily">Sego Lily</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Sego Lily||Sego Lily||12001017||OK\\nBayuk||Bayuk||11119033||OK', ''); return false;">
+Sego Lily
+</a> </p>
 <p>
-<time datetime="">2020.09.11</time>
+<time datetime="">2022.05.04</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/144572/14457221.jpg?version=20220503180154.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/144572/14457221.jpg?version=20220504013517.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stellive Vol.44 | Simple Enough]]></title>
@@ -50,7 +53,7 @@
 <time datetime="">2022.05.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204658/20465803.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204658/20465803.jpg?version=20220504013526.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ash of Pompeii [ beat tape ] - EP]]></title>
@@ -95,7 +98,7 @@
 <time datetime="">2022.05.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465754.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465754.jpg?version=20220504002942.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다나랜드 인기동요 5]]></title>
@@ -155,7 +158,7 @@
 <time datetime="">2022.05.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204656/20465643.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204656/20465643.jpg?version=20220504002733.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 힘이신 여호와여]]></title>
@@ -185,7 +188,7 @@
 <time datetime="">2022.05.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204655/20465589.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204655/20465589.jpg?version=20220504013009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[황금심의 추억의 가요무대]]></title>
@@ -215,7 +218,7 @@
 <time datetime="">2022.05.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204655/20465581.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204655/20465581.jpg?version=20220504011736.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MARO & Manel]]></title>
@@ -248,7 +251,7 @@ MARO
 <time datetime="">2022.05.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204653/20465371.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204653/20465371.jpg?version=20220504013249.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Thomas Jensen Legacy, Vol. 11]]></title>
@@ -413,7 +416,7 @@ MARO
 <time datetime="">2022.05.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/179145/17914549.jpg?version=20220503102230.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/179145/17914549.jpg?version=20220504002539.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Muros e Caminhos]]></title>
@@ -608,7 +611,7 @@ MARO
 <time datetime="">2022.05.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40751/4075182.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40751/4075182.jpg?version=20220504010142.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Canyons]]></title>
@@ -653,7 +656,7 @@ MARO
 <time datetime="">2022.05.03</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204658/20465807.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204658/20465807.jpg?version=20220504005825.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MacGuffin]]></title>
@@ -668,7 +671,7 @@ MARO
 <time datetime="">2022.05.03</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465799.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465799.jpg?version=20220504005139.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GOAT]]></title>
@@ -746,7 +749,7 @@ MARO
 <time datetime="">2022.05.03</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465722.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465722.jpg?version=20220504004724.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SELF-REFLECTION]]></title>
@@ -974,7 +977,7 @@ MARO
 <time datetime="">2022.05.03</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204641/20464162.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204641/20464162.jpg?version=20220504011437.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고전음악편곡연주작품 제1집]]></title>
@@ -989,7 +992,7 @@ MARO
 <time datetime="">2022.05.03</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204641/20464161.jpg?version=20220503120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204641/20464161.jpg?version=20220504005548.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Through These Tears]]></title>
