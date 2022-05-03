@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 06:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 07:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,21 +188,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465799.jpg?version=1651546822000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[꼬꼬스토이 2nd(영어)]]></title>
-            <link>https://music.bugs.co.kr/album/20465766?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20465766?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 03 May 2022 03:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20150293?wl_ref=list_ab_04" class="artistTitle" title="꼬꼬스토이" onclick="
-" target="_self">꼬꼬스토이</a>
-</p>
-<p>
-<time datetime="">2022.05.03</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465766.jpg?version=1651546822000" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[성경낭독 (구약32-요나 Jonah) (개역개정)]]></title>
             <link>https://music.bugs.co.kr/album/20465762?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20465762?wl_ref=list_ab_03</guid>
@@ -234,21 +219,6 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465750.jpg?version=1651546822000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼬꼬스토이 2nd(한국어)]]></title>
-            <link>https://music.bugs.co.kr/album/20465747?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20465747?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 03 May 2022 03:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20150293?wl_ref=list_ab_04" class="artistTitle" title="꼬꼬스토이" onclick="
-" target="_self">꼬꼬스토이</a>
-</p>
-<p>
-<time datetime="">2022.05.03</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465747.jpg?version=1651546822000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Little Special]]></title>
@@ -1065,6 +1035,36 @@ League of Legends
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204654/20465407.jpg?version=1651546822000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해파리엔딩]]></title>
+            <link>https://music.bugs.co.kr/album/20465398?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20465398?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 03 May 2022 07:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20155354?wl_ref=list_ab_04" class="artistTitle" title="안지 X 꾸짬마 (Angie X Kuzzamma)" onclick="
+" target="_self">안지 X 꾸짬마 (Angie X Kuzzamma)</a>
+</p>
+<p>
+<time datetime="">2022.05.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204653/20465398.jpg?version=1651546822000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TRUTH]]></title>
+            <link>https://music.bugs.co.kr/album/20465387?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20465387?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 03 May 2022 07:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20157603?wl_ref=list_ab_04" class="artistTitle" title="로드리게스(Rodriguez)" onclick="
+" target="_self">로드리게스(Rodriguez)</a>
+</p>
+<p>
+<time datetime="">2022.05.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204653/20465387.jpg?version=1651546822000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
