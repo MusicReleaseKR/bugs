@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 14:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 15:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1078,6 +1078,21 @@ Sego Lily
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204655/20465532.jpg?version=20220503180016.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Deep End (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/15790764?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/15790764?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 04 May 2022 15:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12062321?wl_ref=list_ab_04" class="artistTitle" title="Andrés Belloso" onclick="
+" target="_self">Andrés Belloso</a>
+</p>
+<p>
+<time datetime="">2022.05.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/157907/15790764.jpg?version=20220505000019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[키즈타임즈_652 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20466060?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20466060?wl_ref=list_ab_03</guid>
@@ -2059,7 +2074,7 @@ Iratus
 <time datetime="">2022.05.04</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204659/20465911.jpg?version=20220504120018.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204659/20465911.jpg?version=20220505002416.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Its Not me (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2120,21 +2135,6 @@ Iratus
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204658/20465820.jpg?version=20220504120018.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This City Make Me FREAK (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20465812?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20465812?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 04 May 2022 10:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20056646?wl_ref=list_ab_04" class="artistTitle" title="프리키(Freaky)" onclick="
-" target="_self">프리키(Freaky)</a>
-</p>
-<p>
-<time datetime="">2022.05.04</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204658/20465812.jpg?version=20220504180018.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키즈타임즈_652 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3037,7 +3037,7 @@ Asaph
 <time datetime="">2022.05.04</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204659/20465971.jpg?version=1651633218000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204659/20465971.jpg?version=1651677816000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아직그대로남아 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
