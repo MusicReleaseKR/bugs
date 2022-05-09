@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 01:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -705,21 +705,6 @@ Muzica pentru dormit pentru copii
             <enclosure url="https://image.bugsm.co.kr/album/images/170/179199/17919973.jpg?version=20220509063033.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Topo Calls Mama For Mother's Day (Live On The Ed Sullivan Show, May 8, 1966)]]></title>
-            <link>https://music.bugs.co.kr/album/17919972?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17919972?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 08 May 2022 04:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10385857?wl_ref=list_ab_04" class="artistTitle" title="Topo Gigio" onclick="
-" target="_self">Topo Gigio</a>
-</p>
-<p>
-<time datetime="">2022.05.08</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/179199/17919972.jpg?version=20220509063032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Sjálfráða]]></title>
             <link>https://music.bugs.co.kr/album/17919862?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17919862?wl_ref=list_ab_03</guid>
@@ -1072,6 +1057,24 @@ Boris Bredin
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/179124/17912496.jpg?version=20220509063102.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Фотоальбом]]></title>
+            <link>https://music.bugs.co.kr/album/17912495?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17912495?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 May 2022 03:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12751633?wl_ref=list_ab_04" class="artistTitle" title="Boris Bredin">Boris Bredin</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Boris Bredin||Boris Bredin||12751633||OK\\nRay||Ray||8165409||OK', ''); return false;">
+Boris Bredin
+</a> </p>
+<p>
+<time datetime="">2022.05.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/179124/17912495.jpg?version=20220509063102.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
