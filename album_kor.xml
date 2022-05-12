@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 14:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 15:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Last Thing Left]]></title>
+            <link>https://music.bugs.co.kr/album/20455961?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20455961?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 12 May 2022 15:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80206132?wl_ref=list_ab_04" class="artistTitle" title="세이수미(Say Sue Me)" onclick="
+" target="_self">세이수미(Say Sue Me)</a>
+</p>
+<p>
+<time datetime="">2022.04.20</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204559/20455961.jpg?version=1650469207000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Emro New Vol.4]]></title>
             <link>https://music.bugs.co.kr/album/20467442?wl_ref=list_ab_03</link>
@@ -1047,21 +1062,6 @@ RUMEXX &amp; KEEGO
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204673/20467370.jpg?version=1652324423000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[夢]]></title>
-            <link>https://music.bugs.co.kr/album/20467363?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20467363?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 12 May 2022 04:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20127512?wl_ref=list_ab_04" class="artistTitle" title="이선규" onclick="
-" target="_self">이선규</a>
-</p>
-<p>
-<time datetime="">2022.05.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204673/20467363.jpg?version=1652324423000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
