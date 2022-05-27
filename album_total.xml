@@ -4,9 +4,87 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 01:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 03:33:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hong Kong 2124]]></title>
+            <link>https://music.bugs.co.kr/album/17925836?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17925836?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12540395?wl_ref=list_ab_04" class="artistTitle" title="Revenira" onclick="
+" target="_self">Revenira</a>
+</p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/179258/17925836.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Polaroids]]></title>
+            <link>https://music.bugs.co.kr/album/17671318?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17671318?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20091691?wl_ref=list_ab_04" class="artistTitle" title="damo" onclick="
+" target="_self">damo</a>
+</p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176713/17671318.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dawn To Dusk]]></title>
+            <link>https://music.bugs.co.kr/album/20452010?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20452010?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80144097?wl_ref=list_ab_04" class="artistTitle" title="레이(LAY)">레이(LAY)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '레이(LAY)||레이(LAY)||80144097||OK\\n24KGoldn||24KGoldn||80327336||OK', ''); return false;">
+레이(LAY)
+</a> </p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204520/20452010.jpg?version=20220527120013.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freedom]]></title>
+            <link>https://music.bugs.co.kr/album/17926767?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17926767?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12070856?wl_ref=list_ab_04" class="artistTitle" title="Yatix" onclick="
+" target="_self">Yatix</a>
+</p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/179267/17926767.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Memories]]></title>
+            <link>https://music.bugs.co.kr/album/16155360?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16155360?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8219864?wl_ref=list_ab_04" class="artistTitle" title="Nania" onclick="
+" target="_self">Nania</a>
+</p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/161553/16155360.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SHE'S THE BOSS]]></title>
             <link>https://music.bugs.co.kr/album/4075636?wl_ref=list_ab_03</link>
@@ -21,6 +99,21 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40756/4075636.jpg?version=20220527011809.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shida Yako]]></title>
+            <link>https://music.bugs.co.kr/album/17994094?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17994094?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11860070?wl_ref=list_ab_04" class="artistTitle" title="TheOnlyRosa" onclick="
+" target="_self">TheOnlyRosa</a>
+</p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/179940/17994094.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pa Que Sude (Gonna Make You Sweat/Chosen Few Mix)]]></title>
@@ -41,6 +134,96 @@ Jon Z
             <enclosure url="https://image.bugsm.co.kr/album/images/170/179353/17935349.jpg?version=20220527092009.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Be Mine (Remix ii)]]></title>
+            <link>https://music.bugs.co.kr/album/17926389?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17926389?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10499421?wl_ref=list_ab_04" class="artistTitle" title="Emmavie">Emmavie</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Emmavie||Emmavie||10499421||OK\\nCreatxr Beats||Creatxr Beats||12761403||OK', ''); return false;">
+Emmavie
+</a> </p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/179263/17926389.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Be Mine (Remix)]]></title>
+            <link>https://music.bugs.co.kr/album/17618153?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17618153?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10499421?wl_ref=list_ab_04" class="artistTitle" title="Emmavie">Emmavie</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Emmavie||Emmavie||10499421||OK\\nCay Caleb||Cay Caleb||12509782||OK\\nPhonte||Phonte||80070904||OK', ''); return false;">
+Emmavie
+</a> </p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176181/17618153.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tune (Remix ii)]]></title>
+            <link>https://music.bugs.co.kr/album/17618152?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17618152?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10499421?wl_ref=list_ab_04" class="artistTitle" title="Emmavie">Emmavie</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Emmavie||Emmavie||10499421||OK\\nDanny Ives||Danny Ives||12712328||OK', ''); return false;">
+Emmavie
+</a> </p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176181/17618152.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2003 (Remix)]]></title>
+            <link>https://music.bugs.co.kr/album/17618151?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17618151?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10499421?wl_ref=list_ab_04" class="artistTitle" title="Emmavie">Emmavie</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Emmavie||Emmavie||10499421||OK\\nRuby Francis||Ruby Francis||80226205||OK', ''); return false;">
+Emmavie
+</a> </p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176181/17618151.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Avalanche (Remix)]]></title>
+            <link>https://music.bugs.co.kr/album/17618149?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17618149?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10499421?wl_ref=list_ab_04" class="artistTitle" title="Emmavie">Emmavie</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Emmavie||Emmavie||10499421||OK\\nSans||Sans||10802983||OK', ''); return false;">
+Emmavie
+</a> </p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176181/17618149.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Welcome To The Show]]></title>
             <link>https://music.bugs.co.kr/album/17600026?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17600026?wl_ref=list_ab_03</guid>
@@ -54,6 +237,81 @@ Jon Z
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/176000/17600026.jpg?version=20220527000013.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trapped]]></title>
+            <link>https://music.bugs.co.kr/album/17154423?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17154423?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8219864?wl_ref=list_ab_04" class="artistTitle" title="Nania" onclick="
+" target="_self">Nania</a>
+</p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/171544/17154423.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boreas]]></title>
+            <link>https://music.bugs.co.kr/album/16497030?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16497030?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8219864?wl_ref=list_ab_04" class="artistTitle" title="Nania" onclick="
+" target="_self">Nania</a>
+</p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/164970/16497030.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winteranfang]]></title>
+            <link>https://music.bugs.co.kr/album/16393451?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16393451?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8219864?wl_ref=list_ab_04" class="artistTitle" title="Nania" onclick="
+" target="_self">Nania</a>
+</p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/163934/16393451.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stranger's Mind]]></title>
+            <link>https://music.bugs.co.kr/album/16388383?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16388383?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12366320?wl_ref=list_ab_04" class="artistTitle" title="Charli Dea" onclick="
+" target="_self">Charli Dea</a>
+</p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/163883/16388383.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Visionen]]></title>
+            <link>https://music.bugs.co.kr/album/15104622?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/15104622?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8219864?wl_ref=list_ab_04" class="artistTitle" title="Nania" onclick="
+" target="_self">Nania</a>
+</p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/151046/15104622.jpg?version=20220527120019.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jazz Cafe BGM Vol.1]]></title>
@@ -816,261 +1074,6 @@ Canciones De Cuna Para Dormir Bebes
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204702/20470220.jpg?version=20220527005924.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가요대행진]]></title>
-            <link>https://music.bugs.co.kr/album/20470203?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20470203?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20121887?wl_ref=list_ab_04" class="artistTitle" title="백주현" onclick="
-" target="_self">백주현</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204702/20470203.jpg?version=20220526120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 운세]]></title>
-            <link>https://music.bugs.co.kr/album/20470196?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20470196?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20160445?wl_ref=list_ab_04" class="artistTitle" title="강설민" onclick="
-" target="_self">강설민</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204701/20470196.jpg?version=20220526120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Orlang - Preview]]></title>
-            <link>https://music.bugs.co.kr/album/20470146?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20470146?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 10:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20160433?wl_ref=list_ab_04" class="artistTitle" title="올랑 (The Orlang)" onclick="
-" target="_self">올랑 (The Orlang)</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204701/20470146.jpg?version=20220526180017.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화분]]></title>
-            <link>https://music.bugs.co.kr/album/20470129?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20470129?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20092004?wl_ref=list_ab_04" class="artistTitle" title="희망요정" onclick="
-" target="_self">희망요정</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204701/20470129.jpg?version=20220526120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Good Bye]]></title>
-            <link>https://music.bugs.co.kr/album/20470113?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20470113?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20139337?wl_ref=list_ab_04" class="artistTitle" title="유브리" onclick="
-" target="_self">유브리</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204701/20470113.jpg?version=20220526120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중년신사 라이브 뮤직카페에서]]></title>
-            <link>https://music.bugs.co.kr/album/20470066?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20470066?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20158344?wl_ref=list_ab_04" class="artistTitle" title="윤흥노" onclick="
-" target="_self">윤흥노</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204700/20470066.jpg?version=20220526120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIVES ACROSS]]></title>
-            <link>https://music.bugs.co.kr/album/20470064?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20470064?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 10:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20158623?wl_ref=list_ab_04" class="artistTitle" title="CLASS:y (클라씨) " onclick="
-" target="_self">CLASS:y (클라씨) </a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204700/20470064.jpg?version=20220526180017.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ANOMALY]]></title>
-            <link>https://music.bugs.co.kr/album/20470054?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20470054?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11755746?wl_ref=list_ab_04" class="artistTitle" title="LOCS" onclick="
-" target="_self">LOCS</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204700/20470054.jpg?version=20220527012242.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shimmering]]></title>
-            <link>https://music.bugs.co.kr/album/20469951?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20469951?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80144710?wl_ref=list_ab_04" class="artistTitle" title="아진(Azin)" onclick="
-" target="_self">아진(Azin)</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204699/20469951.jpg?version=20220527020759.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Chase]]></title>
-            <link>https://music.bugs.co.kr/album/20469920?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20469920?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/9463415?wl_ref=list_ab_04" class="artistTitle" title="Kage" onclick="
-" target="_self">Kage</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204699/20469920.jpg?version=20220526120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iceland]]></title>
-            <link>https://music.bugs.co.kr/album/20469857?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20469857?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20115653?wl_ref=list_ab_04" class="artistTitle" title="신현필 &amp; 고희안" onclick="
-" target="_self">신현필 &amp; 고희안</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204698/20469857.jpg?version=20220526120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤덴프로이데]]></title>
-            <link>https://music.bugs.co.kr/album/20469854?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20469854?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20032640?wl_ref=list_ab_04" class="artistTitle" title="알레프(ALEPH)" onclick="
-" target="_self">알레프(ALEPH)</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204698/20469854.jpg?version=20220526120013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Only Lovers Left Alive]]></title>
-            <link>https://music.bugs.co.kr/album/20469797?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20469797?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80107279?wl_ref=list_ab_04" class="artistTitle" title="이성수" onclick="
-" target="_self">이성수</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204697/20469797.jpg?version=20220526120013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Half]]></title>
-            <link>https://music.bugs.co.kr/album/20469790?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20469790?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20116501?wl_ref=list_ab_04" class="artistTitle" title="Yooth" onclick="
-" target="_self">Yooth</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204697/20469790.jpg?version=20220526120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란한 밤]]></title>
-            <link>https://music.bugs.co.kr/album/20469722?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20469722?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 10:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20066040?wl_ref=list_ab_04" class="artistTitle" title="임다이(Im DAI)" onclick="
-" target="_self">임다이(Im DAI)</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204697/20469722.jpg?version=20220527012738.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Changing Way EP]]></title>
-            <link>https://music.bugs.co.kr/album/20469498?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20469498?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20109218?wl_ref=list_ab_04" class="artistTitle" title="Le Rubrique" onclick="
-" target="_self">Le Rubrique</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204694/20469498.jpg?version=20220526120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Making Me High]]></title>
-            <link>https://music.bugs.co.kr/album/20469496?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20469496?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20139229?wl_ref=list_ab_04" class="artistTitle" title="Lerr" onclick="
-" target="_self">Lerr</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204694/20469496.jpg?version=20220526120021.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
