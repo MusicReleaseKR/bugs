@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 03:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 04:58:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40761/4076130.jpg?version=20220527120011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SEVENTEEN 4th Album 'Face the Sun']]></title>
+            <link>https://music.bugs.co.kr/album/4074354?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4074354?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 04:57:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80232283?wl_ref=list_ab_04" class="artistTitle" title="세븐틴(SEVENTEEN)" onclick="
+" target="_self">세븐틴(SEVENTEEN)</a>
+</p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40743/4074354.jpg?version=20220527130008.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<퀸덤2> FINAL 신곡대결]]></title>
@@ -55,6 +70,21 @@ Neiked
             <enclosure url="https://image.bugsm.co.kr/album/images/170/180593/18059341.jpg?version=20220527002855.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[욕심의 반대편으로]]></title>
+            <link>https://music.bugs.co.kr/album/4076070?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4076070?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 26 May 2022 09:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20084746?wl_ref=list_ab_04" class="artistTitle" title="최유리" onclick="
+" target="_self">최유리</a>
+</p>
+<p>
+<time datetime="">2022.05.26</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40760/4076070.jpg?version=20220527014230.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Potion]]></title>
             <link>https://music.bugs.co.kr/album/4076183?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4076183?wl_ref=list_ab_03</guid>
@@ -73,19 +103,19 @@ Calvin Harris(캘빈 해리스)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40761/4076183.jpg?version=20220527113531.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[욕심의 반대편으로]]></title>
-            <link>https://music.bugs.co.kr/album/4076070?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4076070?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 09:22:44 GMT</pubDate>
+            <title><![CDATA[Sunday]]></title>
+            <link>https://music.bugs.co.kr/album/4076133?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4076133?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 May 2022 03:32:44 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20084746?wl_ref=list_ab_04" class="artistTitle" title="최유리" onclick="
-" target="_self">최유리</a>
+<a href="https://music.bugs.co.kr/artist/80148309?wl_ref=list_ab_04" class="artistTitle" title="이천원" onclick="
+" target="_self">이천원</a>
 </p>
 <p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">EP(미니)</span>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40760/4076070.jpg?version=20220527014230.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40761/4076133.jpg?version=20220527120011.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[= (Tour Edition)]]></title>
@@ -101,21 +131,6 @@ Calvin Harris(캘빈 해리스)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/180595/18059582.jpg?version=20220527112035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday]]></title>
-            <link>https://music.bugs.co.kr/album/4076133?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4076133?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 27 May 2022 03:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80148309?wl_ref=list_ab_04" class="artistTitle" title="이천원" onclick="
-" target="_self">이천원</a>
-</p>
-<p>
-<time datetime="">2022.05.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40761/4076133.jpg?version=20220527120011.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청춘스타 Part2]]></title>
@@ -1073,21 +1088,6 @@ Pink Sweat$
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204697/20469797.jpg?version=20220526120013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Second Date]]></title>
-            <link>https://music.bugs.co.kr/album/20470309?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20470309?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 May 2022 03:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20014301?wl_ref=list_ab_04" class="artistTitle" title="윤새 (Yunsae)" onclick="
-" target="_self">윤새 (Yunsae)</a>
-</p>
-<p>
-<time datetime="">2022.05.26</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204703/20470309.jpg?version=20220527020324.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
