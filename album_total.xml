@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 01:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 03:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Art of Ratchet (Radio Edit)]]></title>
+            <link>https://music.bugs.co.kr/album/15290271?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/15290271?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 Jun 2022 03:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12218030?wl_ref=list_ab_04" class="artistTitle" title="The Art Of Ratchet" onclick="
+" target="_self">The Art Of Ratchet</a>
+</p>
+<p>
+<time datetime="">2022.06.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/152902/15290271.jpg?version=20220604120014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Art of Ratchet (Explicit)]]></title>
+            <link>https://music.bugs.co.kr/album/15283875?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/15283875?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 Jun 2022 03:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12218030?wl_ref=list_ab_04" class="artistTitle" title="The Art Of Ratchet" onclick="
+" target="_self">The Art Of Ratchet</a>
+</p>
+<p>
+<time datetime="">2022.06.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/152838/15283875.jpg?version=20220604120014.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VACANCY]]></title>
             <link>https://music.bugs.co.kr/album/20472043?wl_ref=list_ab_03</link>
@@ -1044,36 +1074,6 @@ Hollywood Stargirl - Cast
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/180928/18092884.jpg?version=20220604064920.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Talking]]></title>
-            <link>https://music.bugs.co.kr/album/18092868?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18092868?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 03 Jun 2022 04:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80025238?wl_ref=list_ab_04" class="artistTitle" title="Eli Young Band(엘리 영 밴드)" onclick="
-" target="_self">Eli Young Band(엘리 영 밴드)</a>
-</p>
-<p>
-<time datetime="">2022.06.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/180928/18092868.jpg?version=20220604064911.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scott Joplin – The King of Ragtime: Complete Piano Works]]></title>
-            <link>https://music.bugs.co.kr/album/18092845?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18092845?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 03 Jun 2022 04:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8109212?wl_ref=list_ab_04" class="artistTitle" title="Phillip Dyson" onclick="
-" target="_self">Phillip Dyson</a>
-</p>
-<p>
-<time datetime="">2022.06.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/180928/18092845.jpg?version=20220604064223.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
