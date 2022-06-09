@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 09:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 10:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -824,6 +824,21 @@ Bedtime Baby Bo
             <enclosure url="https://image.bugsm.co.kr/album/images/170/171663/17166366.jpg?version=20220609004524.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뽀로로 한글 동요]]></title>
+            <link>https://music.bugs.co.kr/album/4076589?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4076589?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 09 Jun 2022 10:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12068005?wl_ref=list_ab_04" class="artistTitle" title="뽀로로" onclick="
+" target="_self">뽀로로</a>
+</p>
+<p>
+<time datetime="">2022.06.09</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40765/4076589.jpg?version=20220609180010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LOST IN TOKYO]]></title>
             <link>https://music.bugs.co.kr/album/4076587?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4076587?wl_ref=list_ab_03</guid>
@@ -1034,6 +1049,24 @@ Bedtime Baby Bo
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204722/20472281.jpg?version=20220609120021.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ØTHER$IDE THE HEAVEN: 반전세계]]></title>
+            <link>https://music.bugs.co.kr/album/20472268?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20472268?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 09 Jun 2022 10:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20117148?wl_ref=list_ab_04" class="artistTitle" title="SEEGMR (시그마)">SEEGMR (시그마)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'SEEGMR||SEEGMR (시그마)||20117148||OK\\nK1NU||K1NU||20101910||OK', ''); return false;">
+SEEGMR (시그마)
+</a> </p>
+<p>
+<time datetime="">2022.06.09</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204722/20472268.jpg?version=20220609180020.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Colorless ON!]]></title>
             <link>https://music.bugs.co.kr/album/20472206?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20472206?wl_ref=list_ab_03</guid>
@@ -1047,39 +1080,6 @@ Bedtime Baby Bo
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204722/20472206.jpg?version=20220609120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Love Music]]></title>
-            <link>https://music.bugs.co.kr/album/20472170?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20472170?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 09 Jun 2022 04:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11250774?wl_ref=list_ab_04" class="artistTitle" title="Mike LeDonne">Mike LeDonne</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Mike LeDonne||Mike LeDonne||11250774||OK\\nThe Groover Quartet||The Groover Quartet||20161078||OK', ''); return false;">
-Mike LeDonne
-</a> </p>
-<p>
-<time datetime="">2022.06.09</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204721/20472170.jpg?version=20220609120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stream of Consciousness]]></title>
-            <link>https://music.bugs.co.kr/album/20472163?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20472163?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 09 Jun 2022 04:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80004659?wl_ref=list_ab_04" class="artistTitle" title="Jim Snidero(짐 스니데로)" onclick="
-" target="_self">Jim Snidero(짐 스니데로)</a>
-</p>
-<p>
-<time datetime="">2022.06.09</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204721/20472163.jpg?version=20220609120021.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
