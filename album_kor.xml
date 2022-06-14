@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 09:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 10:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,6 +98,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204733/20473387.jpg?version=1655175612000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[FAMILY SITCOM]]></title>
+            <link>https://music.bugs.co.kr/album/20473360?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20473360?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 14 Jun 2022 10:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80168814?wl_ref=list_ab_04" class="artistTitle" title="LEGIT GOONS (리짓군즈)" onclick="
+" target="_self">LEGIT GOONS (리짓군즈)</a>
+</p>
+<p>
+<time datetime="">2022.06.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204733/20473360.jpg?version=1655197211000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[키바스 오디오 바이블]]></title>
             <link>https://music.bugs.co.kr/album/20473350?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20473350?wl_ref=list_ab_03</guid>
@@ -126,6 +141,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204731/20473194.jpg?version=1655175619000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yellow]]></title>
+            <link>https://music.bugs.co.kr/album/20473143?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20473143?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 14 Jun 2022 10:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20078798?wl_ref=list_ab_04" class="artistTitle" title="백지(100z)" onclick="
+" target="_self">백지(100z)</a>
+</p>
+<p>
+<time datetime="">2022.06.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204731/20473143.jpg?version=1655197215000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Forgotten Love]]></title>
@@ -308,6 +338,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181167/18116712.jpg?version=1655175612000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Star - EP]]></title>
+            <link>https://music.bugs.co.kr/album/4076759?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4076759?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 14 Jun 2022 10:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80178689?wl_ref=list_ab_04" class="artistTitle" title="폴킴(Paul Kim)" onclick="
+" target="_self">폴킴(Paul Kim)</a>
+</p>
+<p>
+<time datetime="">2022.06.14</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40767/4076759.jpg?version=1655198841000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[HAAN X Chan : Synergy]]></title>
             <link>https://music.bugs.co.kr/album/4076713?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4076713?wl_ref=list_ab_03</guid>
@@ -354,6 +399,21 @@ HAAN
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204735/20473560.jpg?version=1655175671000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[좋아해요]]></title>
+            <link>https://music.bugs.co.kr/album/20473554?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20473554?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 14 Jun 2022 10:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8064042?wl_ref=list_ab_04" class="artistTitle" title="시영" onclick="
+" target="_self">시영</a>
+</p>
+<p>
+<time datetime="">2022.06.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204735/20473554.jpg?version=1655197211000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lonesome]]></title>
@@ -1005,69 +1065,6 @@ Keepro
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204732/20473211.jpg?version=1655175619000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FAST]]></title>
-            <link>https://music.bugs.co.kr/album/20473199?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20473199?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Jun 2022 04:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20161435?wl_ref=list_ab_04" class="artistTitle" title="Kid Kind" onclick="
-" target="_self">Kid Kind</a>
-</p>
-<p>
-<time datetime="">2022.06.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204731/20473199.jpg?version=1655175619000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[favorite]]></title>
-            <link>https://music.bugs.co.kr/album/20473165?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20473165?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Jun 2022 04:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20148697?wl_ref=list_ab_04" class="artistTitle" title="KNOWUS" onclick="
-" target="_self">KNOWUS</a>
-</p>
-<p>
-<time datetime="">2022.06.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204731/20473165.jpg?version=1655175619000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그리고 (And)]]></title>
-            <link>https://music.bugs.co.kr/album/20473153?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20473153?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Jun 2022 04:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20101690?wl_ref=list_ab_04" class="artistTitle" title="멜로우제이 (Mellow J)" onclick="
-" target="_self">멜로우제이 (Mellow J)</a>
-</p>
-<p>
-<time datetime="">2022.06.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204731/20473153.jpg?version=1655175619000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선택]]></title>
-            <link>https://music.bugs.co.kr/album/20473147?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20473147?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Jun 2022 04:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80329270?wl_ref=list_ab_04" class="artistTitle" title="Geniejin (지니진)">Geniejin (지니진)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Geniejin||Geniejin (지니진)||80329270||OK\\nGoati Yard||Goati Yard||20114981||OK', ''); return false;">
-Geniejin (지니진)
-</a> </p>
-<p>
-<time datetime="">2022.06.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204731/20473147.jpg?version=1655175619000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
