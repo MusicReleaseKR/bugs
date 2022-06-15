@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 09:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 10:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204738/20473803.jpg?version=20220615120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faint of Heart (Album)]]></title>
+            <link>https://music.bugs.co.kr/album/20473765?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20473765?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 15 Jun 2022 10:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20068447?wl_ref=list_ab_04" class="artistTitle" title="The Strike" onclick="
+" target="_self">The Strike</a>
+</p>
+<p>
+<time datetime="">2022.06.15</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204737/20473765.jpg?version=20220615133518.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gardenstrumentals 2]]></title>
@@ -66,6 +81,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204736/20473623.jpg?version=20220615120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[樂서(Story Written in Music)]]></title>
+            <link>https://music.bugs.co.kr/album/20473616?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20473616?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 15 Jun 2022 10:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20137510?wl_ref=list_ab_04" class="artistTitle" title="OMEGA X (오메가엑스)" onclick="
+" target="_self">OMEGA X (오메가엑스)</a>
+</p>
+<p>
+<time datetime="">2022.06.15</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204736/20473616.jpg?version=20220615180008.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Late Night Essentials]]></title>
@@ -920,6 +950,21 @@ DELANILA
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204735/20473591.jpg?version=20220615120026.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[REBORN]]></title>
+            <link>https://music.bugs.co.kr/album/20473570?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20473570?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 15 Jun 2022 10:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20126583?wl_ref=list_ab_04" class="artistTitle" title="PIXY (픽시)" onclick="
+" target="_self">PIXY (픽시)</a>
+</p>
+<p>
+<time datetime="">2022.06.15</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204735/20473570.jpg?version=20220615180006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Everybody Is Welcome]]></title>
             <link>https://music.bugs.co.kr/album/20473558?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20473558?wl_ref=list_ab_03</guid>
@@ -1026,54 +1071,6 @@ Skua
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204731/20473178.jpg?version=20220615120026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Language of Jazz EP]]></title>
-            <link>https://music.bugs.co.kr/album/20473070?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20473070?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 15 Jun 2022 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/8219810?wl_ref=list_ab_04" class="artistTitle" title="Mr. ID">Mr. ID</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Mr. ID||Mr. ID||8219810||OK\\nKerri Chandler||Kerri Chandler(케리 챈들러)||80015264||OK', ''); return false;">
-Mr. ID
-</a> </p>
-<p>
-<time datetime="">2022.06.15</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204730/20473070.jpg?version=20220615120026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잔향]]></title>
-            <link>https://music.bugs.co.kr/album/20472883?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20472883?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 15 Jun 2022 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20161296?wl_ref=list_ab_04" class="artistTitle" title="황태현" onclick="
-" target="_self">황태현</a>
-</p>
-<p>
-<time datetime="">2022.06.15</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204728/20472883.jpg?version=20220615120026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carbone Toxique]]></title>
-            <link>https://music.bugs.co.kr/album/20472762?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20472762?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 15 Jun 2022 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80090831?wl_ref=list_ab_04" class="artistTitle" title="The Toxic Avenger(톡식 어벤저)" onclick="
-" target="_self">The Toxic Avenger(톡식 어벤저)</a>
-</p>
-<p>
-<time datetime="">2022.06.15</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204727/20472762.jpg?version=20220615120026.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
