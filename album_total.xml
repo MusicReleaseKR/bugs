@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 14:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 15:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Today's Haul]]></title>
+            <link>https://music.bugs.co.kr/album/18083904?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18083904?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 15 Jun 2022 15:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12787816?wl_ref=list_ab_04" class="artistTitle" title="Femmes de la Mer" onclick="
+" target="_self">Femmes de la Mer</a>
+</p>
+<p>
+<time datetime="">2022.06.16</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/180839/18083904.jpg?version=20220616000022.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미사리의 그 통기타 카페]]></title>
             <link>https://music.bugs.co.kr/album/20473803?wl_ref=list_ab_03</link>
@@ -1056,21 +1071,6 @@ Skua
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204731/20473180.jpg?version=20220615120026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라떼는 마리아]]></title>
-            <link>https://music.bugs.co.kr/album/20473178?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20473178?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 15 Jun 2022 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20161424?wl_ref=list_ab_04" class="artistTitle" title="김세웅" onclick="
-" target="_self">김세웅</a>
-</p>
-<p>
-<time datetime="">2022.06.15</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204731/20473178.jpg?version=20220615120026.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
