@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 09:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 10:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -734,6 +734,36 @@ Sound Of Ceres
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204649/20464966.jpg?version=20220617120019.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Boyband Demos]]></title>
+            <link>https://music.bugs.co.kr/album/18143868?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18143868?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 17 Jun 2022 10:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12037685?wl_ref=list_ab_04" class="artistTitle" title="Go Roneo" onclick="
+" target="_self">Go Roneo</a>
+</p>
+<p>
+<time datetime="">2022.06.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/181438/18143868.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Honestly, Nevermind]]></title>
+            <link>https://music.bugs.co.kr/album/18143850?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18143850?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 17 Jun 2022 10:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80058247?wl_ref=list_ab_04" class="artistTitle" title="Drake(드레이크)" onclick="
+" target="_self">Drake(드레이크)</a>
+</p>
+<p>
+<time datetime="">2022.06.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/181438/18143850.jpg?version=20220617142756.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ferro del mestiere]]></title>
             <link>https://music.bugs.co.kr/album/18143702?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/18143702?wl_ref=list_ab_03</guid>
@@ -747,6 +777,21 @@ Sound Of Ceres
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181437/18143702.jpg?version=20220617090014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRUNKSTAR]]></title>
+            <link>https://music.bugs.co.kr/album/18143321?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18143321?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 17 Jun 2022 10:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/5848062?wl_ref=list_ab_04" class="artistTitle" title="Duke Deuce" onclick="
+" target="_self">Duke Deuce</a>
+</p>
+<p>
+<time datetime="">2022.06.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/181433/18143321.jpg?version=20220617142756.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[On a star]]></title>
@@ -839,7 +884,7 @@ Sound Of Ceres
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181399/18139925.jpg?version=20220617114727.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arrival]]></title>
+            <title><![CDATA[Arrival (Deluxe)]]></title>
             <link>https://music.bugs.co.kr/album/18139924?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/18139924?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 17 Jun 2022 04:37:37 GMT</pubDate>
@@ -851,7 +896,7 @@ Sound Of Ceres
 <time datetime="">2022.06.17</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/181399/18139924.jpg?version=20220617114727.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/181399/18139924.jpg?version=20220617185501.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soul Deep 30]]></title>
@@ -1020,51 +1065,6 @@ Bernard Butler(버나드 버틀러)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181398/18139858.jpg?version=20220617114727.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hope]]></title>
-            <link>https://music.bugs.co.kr/album/18139845?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18139845?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 17 Jun 2022 04:37:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/301898?wl_ref=list_ab_04" class="artistTitle" title="Sigma(시그마)" onclick="
-" target="_self">Sigma(시그마)</a>
-</p>
-<p>
-<time datetime="">2022.06.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/181398/18139845.jpg?version=20220617114727.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Storm Before The Calm]]></title>
-            <link>https://music.bugs.co.kr/album/18139838?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18139838?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 17 Jun 2022 04:37:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8104080?wl_ref=list_ab_04" class="artistTitle" title="Chris Cheney" onclick="
-" target="_self">Chris Cheney</a>
-</p>
-<p>
-<time datetime="">2022.06.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/181398/18139838.jpg?version=20220617114727.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Disciplined Breakdown (Expanded Edition)]]></title>
-            <link>https://music.bugs.co.kr/album/18139834?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18139834?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 17 Jun 2022 04:37:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8582?wl_ref=list_ab_04" class="artistTitle" title="Collective Soul(콜렉티브 소울)" onclick="
-" target="_self">Collective Soul(콜렉티브 소울)</a>
-</p>
-<p>
-<time datetime="">2022.06.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/181398/18139834.jpg?version=20220617114727.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 09:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 10:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -281,6 +281,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181393/18139330.jpg?version=1655434819000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잔망루피와 ASMR 시간 Part. 2]]></title>
+            <link>https://music.bugs.co.kr/album/4076848?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4076848?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 17 Jun 2022 10:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80371456?wl_ref=list_ab_04" class="artistTitle" title="잔망루피" onclick="
+" target="_self">잔망루피</a>
+</p>
+<p>
+<time datetime="">2022.06.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40768/4076848.jpg?version=1655456419000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[선재을 강근모 CCM Project 1]]></title>
             <link>https://music.bugs.co.kr/album/20474303?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20474303?wl_ref=list_ab_03</guid>
@@ -293,7 +308,7 @@
 <time datetime="">2022.06.17</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204743/20474303.jpg?version=1655434819000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204743/20474303.jpg?version=1655459314000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클래식 산책 Vol.6 (바흐)]]></title>
@@ -474,6 +489,21 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204736/20473641.jpg?version=1655434819000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[summer, texture]]></title>
+            <link>https://music.bugs.co.kr/album/20473615?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20473615?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 17 Jun 2022 10:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20146425?wl_ref=list_ab_04" class="artistTitle" title="신난준재" onclick="
+" target="_self">신난준재</a>
+</p>
+<p>
+<time datetime="">2022.06.17</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204736/20473615.jpg?version=1655456419000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beginning of Fairy tale]]></title>
@@ -1029,36 +1059,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204741/20474159.jpg?version=1655434806000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EXIT]]></title>
-            <link>https://music.bugs.co.kr/album/20474154?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20474154?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 17 Jun 2022 04:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20134364?wl_ref=list_ab_04" class="artistTitle" title="Musist" onclick="
-" target="_self">Musist</a>
-</p>
-<p>
-<time datetime="">2022.06.17</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204741/20474154.jpg?version=1655434819000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slow Mind]]></title>
-            <link>https://music.bugs.co.kr/album/20474144?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20474144?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 17 Jun 2022 04:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20088658?wl_ref=list_ab_04" class="artistTitle" title="Downstair" onclick="
-" target="_self">Downstair</a>
-</p>
-<p>
-<time datetime="">2022.06.17</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204741/20474144.jpg?version=1655434819000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
