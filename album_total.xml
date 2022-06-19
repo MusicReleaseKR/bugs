@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 13:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 15:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Admit It]]></title>
+            <link>https://music.bugs.co.kr/album/20464061?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20464061?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 19 Jun 2022 15:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20014700?wl_ref=list_ab_04" class="artistTitle" title="Jeangu Macrooy (장고 맥크로이)" onclick="
+" target="_self">Jeangu Macrooy (장고 맥크로이)</a>
+</p>
+<p>
+<time datetime="">2022.06.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204640/20464061.jpg?version=20220618020010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ilu]]></title>
+            <link>https://music.bugs.co.kr/album/17924479?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17924479?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 19 Jun 2022 15:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10945093?wl_ref=list_ab_04" class="artistTitle" title="Aniel Someillan">Aniel Someillan</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Aniel Someillan||Aniel Someillan||10945093||OK\\nBarbaro Crespo aka Machito||Barbaro Crespo aka Machito||12353882||OK\\nJoaquín Sosa||Joaquín Sosa||12354014||OK', ''); return false;">
+Aniel Someillan
+</a> </p>
+<p>
+<time datetime="">2022.06.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/179244/17924479.jpg?version=20220620000017.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BUSYNESS MANE X IAMMONEY [BUSYNESS MONEY VS THE WORLD]]]></title>
             <link>https://music.bugs.co.kr/album/20473927?wl_ref=list_ab_03</link>
@@ -1051,36 +1084,6 @@ Jorge Metralla
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/180968/18096891.jpg?version=20220619000017.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alento]]></title>
-            <link>https://music.bugs.co.kr/album/18083416?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18083416?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 19 Jun 2022 03:57:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12356970?wl_ref=list_ab_04" class="artistTitle" title="Dom Santana" onclick="
-" target="_self">Dom Santana</a>
-</p>
-<p>
-<time datetime="">2022.06.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/180834/18083416.jpg?version=20220619000017.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Comfirmation]]></title>
-            <link>https://music.bugs.co.kr/album/18059760?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18059760?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 19 Jun 2022 03:57:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8987124?wl_ref=list_ab_04" class="artistTitle" title="Mikey D" onclick="
-" target="_self">Mikey D</a>
-</p>
-<p>
-<time datetime="">2022.06.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/180597/18059760.jpg?version=20220619120018.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
