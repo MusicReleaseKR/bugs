@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 14:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 15:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1093,6 +1093,21 @@ Alok
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204740/20474059.jpg?version=20220619120014.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Vibe (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/18029552?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18029552?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 20 Jun 2022 15:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11031492?wl_ref=list_ab_04" class="artistTitle" title="Preet Inder" onclick="
+" target="_self">Preet Inder</a>
+</p>
+<p>
+<time datetime="">2022.06.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/180295/18029552.jpg?version=20220621000012.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[명상 #2 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20474793?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20474793?wl_ref=list_ab_03</guid>
@@ -2135,21 +2150,6 @@ Alok
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/179252/17925253.jpg?version=20220620000017.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Special [Flip That] (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/4076949?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4076949?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 20 Jun 2022 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80272163?wl_ref=list_ab_04" class="artistTitle" title="이달의 소녀" onclick="
-" target="_self">이달의 소녀</a>
-</p>
-<p>
-<time datetime="">2022.06.20</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40769/4076949.jpg?version=20220620180024.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명상 #2 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
