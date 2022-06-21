@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 08:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 09:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,6 +171,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204746/20474668.jpg?version=20220621120012.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Highway]]></title>
+            <link>https://music.bugs.co.kr/album/20474658?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20474658?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 21 Jun 2022 09:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11965239?wl_ref=list_ab_04" class="artistTitle" title="Kid Bloom" onclick="
+" target="_self">Kid Bloom</a>
+</p>
+<p>
+<time datetime="">2022.06.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204746/20474658.jpg?version=20220621180016.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chopin - 24 Preludes, Op.28 Complete]]></title>
@@ -854,6 +869,21 @@ Reinhard Vanbergen
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204747/20474707.jpg?version=20220621120019.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SUWON PLUG]]></title>
+            <link>https://music.bugs.co.kr/album/20474679?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20474679?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 21 Jun 2022 09:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20153783?wl_ref=list_ab_04" class="artistTitle" title="Loui Stoner" onclick="
+" target="_self">Loui Stoner</a>
+</p>
+<p>
+<time datetime="">2022.06.21</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204746/20474679.jpg?version=20220621180020.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[to. / much]]]></title>
             <link>https://music.bugs.co.kr/album/20474669?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20474669?wl_ref=list_ab_03</guid>
@@ -1038,36 +1068,6 @@ Lata Mangeshkar(라타 만게스카)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181525/18152574.jpg?version=20220621040808.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coisa Linda]]></title>
-            <link>https://music.bugs.co.kr/album/18152573?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18152573?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 21 Jun 2022 04:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12279515?wl_ref=list_ab_04" class="artistTitle" title="Simone Faitu" onclick="
-" target="_self">Simone Faitu</a>
-</p>
-<p>
-<time datetime="">2022.06.21</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/181525/18152573.jpg?version=20220621015345.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Temple Templates]]></title>
-            <link>https://music.bugs.co.kr/album/18152037?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18152037?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 21 Jun 2022 04:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/9826814?wl_ref=list_ab_04" class="artistTitle" title="Home Town Warriar" onclick="
-" target="_self">Home Town Warriar</a>
-</p>
-<p>
-<time datetime="">2022.06.21</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/181520/18152037.jpg?version=20220621134255.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
