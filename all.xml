@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 14:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 15:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -325,7 +325,7 @@ Chillin Homie
 <time datetime="">2022.06.23</time>
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40770/4077020.jpg?version=20220623120013.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40770/4077020.jpg?version=20220624002234.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1082,6 +1082,54 @@ Qing Feng Wu
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204749/20474909.jpg?version=20220622180011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 Variations Sur Un Thème (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/17081395?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17081395?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 23 Jun 2022 15:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10610029?wl_ref=list_ab_04" class="artistTitle" title="gacha Bakradze">gacha Bakradze</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'gacha Bakradze||gacha Bakradze||10610029||OK\\nLocked Groove||Locked Groove||80133181||OK', ''); return false;">
+gacha Bakradze
+</a> </p>
+<p>
+<time datetime="">2022.06.24</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/170813/17081395.jpg?version=20220624000022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hollywood Rain (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/17802546?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17802546?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 23 Jun 2022 15:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/9857195?wl_ref=list_ab_04" class="artistTitle" title="Pamela McNeill" onclick="
+" target="_self">Pamela McNeill</a>
+</p>
+<p>
+<time datetime="">2022.06.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/178025/17802546.jpg?version=20220624000022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stuck In A Dream (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/17656496?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17656496?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 23 Jun 2022 15:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11946472?wl_ref=list_ab_04" class="artistTitle" title="BILBOYSAN" onclick="
+" target="_self">BILBOYSAN</a>
+</p>
+<p>
+<time datetime="">2022.06.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176564/17656496.jpg?version=20220624000022.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Trackers (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2110,54 +2158,6 @@ Cazwell
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204752/20475216.jpg?version=20220623120019.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fine Dining (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20475149?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20475149?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Jun 2022 03:41:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20157080?wl_ref=list_ab_04" class="artistTitle" title="OURBEATZ" onclick="
-" target="_self">OURBEATZ</a>
-</p>
-<p>
-<time datetime="">2022.06.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204751/20475149.jpg?version=20220623120019.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[spirit (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20475101?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20475101?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Jun 2022 03:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20068195?wl_ref=list_ab_04" class="artistTitle" title="산하 (SANHA)">산하 (SANHA)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '산하||산하 (SANHA)||20068195||OK\\n제이잭스||제이잭스 (JJAX)||80200070||OK', ''); return false;">
-산하 (SANHA)
-</a> </p>
-<p>
-<time datetime="">2022.06.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204751/20475101.jpg?version=20220623120007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[^___^ (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20475067?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20475067?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Jun 2022 09:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20080164?wl_ref=list_ab_04" class="artistTitle" title="잠비노 (Jambino)" onclick="
-" target="_self">잠비노 (Jambino)</a>
-</p>
-<p>
-<time datetime="">2022.06.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204750/20475067.jpg?version=20220623180015.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Comfort and Hope (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20475511?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20475511?wl_ref=list_ab_03</guid>
@@ -3067,7 +3067,7 @@ Keepro
 <time datetime="">2022.06.23</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204753/20475345.jpg?version=1655953219000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204753/20475345.jpg?version=1655997810000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[붐박스 (Boombox) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
