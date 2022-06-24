@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 03:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 04:42:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,39 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40770/4077043.jpg?version=20220624120016.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[IM NAYEON]]></title>
+            <link>https://music.bugs.co.kr/album/20475802?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20475802?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Jun 2022 04:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80250504?wl_ref=list_ab_04" class="artistTitle" title="나연 (TWICE)" onclick="
+" target="_self">나연 (TWICE)</a>
+</p>
+<p>
+<time datetime="">2022.06.24</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204758/20475802.jpg?version=20220624130306.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Left and Right (Feat. Jung Kook of BTS)]]></title>
+            <link>https://music.bugs.co.kr/album/4077049?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4077049?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Jun 2022 04:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80221620?wl_ref=list_ab_04" class="artistTitle" title="Charlie Puth(찰리 푸스)">Charlie Puth(찰리 푸스)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Charlie Puth||Charlie Puth(찰리 푸스)||80221620||OK\\n정국||정국||80180889||OK\\n방탄소년단||방탄소년단||80079394||OK', ''); return false;">
+Charlie Puth(찰리 푸스)
+</a> </p>
+<p>
+<time datetime="">2022.06.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40770/4077049.jpg?version=20220624132431.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Superache]]></title>
             <link>https://music.bugs.co.kr/album/18171729?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/18171729?wl_ref=list_ab_03</guid>
@@ -39,6 +72,36 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181717/18171729.jpg?version=20220624102503.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[필라이트 (feelight!)]]></title>
+            <link>https://music.bugs.co.kr/album/4077000?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4077000?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 23 Jun 2022 09:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80306228?wl_ref=list_ab_04" class="artistTitle" title="리밋(Limit)" onclick="
+" target="_self">리밋(Limit)</a>
+</p>
+<p>
+<time datetime="">2022.06.23</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40770/4077000.jpg?version=20220624010025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Life’s Too Short]]></title>
+            <link>https://music.bugs.co.kr/album/20475757?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20475757?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Jun 2022 04:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80347326?wl_ref=list_ab_04" class="artistTitle" title="aespa" onclick="
+" target="_self">aespa</a>
+</p>
+<p>
+<time datetime="">2022.06.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204757/20475757.jpg?version=20220624130006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카메라 뒤에서]]></title>
@@ -69,21 +132,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40770/4077015.jpg?version=20220624011230.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필라이트 (feelight!)]]></title>
-            <link>https://music.bugs.co.kr/album/4077000?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4077000?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Jun 2022 09:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80306228?wl_ref=list_ab_04" class="artistTitle" title="리밋(Limit)" onclick="
-" target="_self">리밋(Limit)</a>
-</p>
-<p>
-<time datetime="">2022.06.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40770/4077000.jpg?version=20220624010025.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국가가 부른다 Part17]]></title>
@@ -1032,51 +1080,6 @@ Masashi Nukata
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40770/4077014.jpg?version=20220624063629.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너에게로]]></title>
-            <link>https://music.bugs.co.kr/album/20473646?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20473646?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Jun 2022 03:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20161603?wl_ref=list_ab_04" class="artistTitle" title="정승현" onclick="
-" target="_self">정승현</a>
-</p>
-<p>
-<time datetime="">2022.06.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204736/20473646.jpg?version=20220623120013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lonely]]></title>
-            <link>https://music.bugs.co.kr/album/20475431?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20475431?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Jun 2022 03:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20080653?wl_ref=list_ab_04" class="artistTitle" title="바이트랙(bitrack)" onclick="
-" target="_self">바이트랙(bitrack)</a>
-</p>
-<p>
-<time datetime="">2022.06.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204754/20475431.jpg?version=20220624004727.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[널 원해]]></title>
-            <link>https://music.bugs.co.kr/album/4077025?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4077025?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Jun 2022 03:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20089236?wl_ref=list_ab_04" class="artistTitle" title="Obze (오브제)" onclick="
-" target="_self">Obze (오브제)</a>
-</p>
-<p>
-<time datetime="">2022.06.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40770/4077025.jpg?version=20220624063806.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
