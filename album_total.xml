@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 09:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 10:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arkhon]]></title>
+            <link>https://music.bugs.co.kr/album/20476051?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20476051?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Jun 2022 10:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80255329?wl_ref=list_ab_04" class="artistTitle" title="Zola Jesus" onclick="
+" target="_self">Zola Jesus</a>
+</p>
+<p>
+<time datetime="">2022.06.24</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204760/20476051.jpg?version=20220624180015.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Esabit Vol.11]]></title>
             <link>https://music.bugs.co.kr/album/20475718?wl_ref=list_ab_03</link>
@@ -1044,21 +1059,6 @@ El Michels Affair
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181720/18172021.jpg?version=20220624135329.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camaleón]]></title>
-            <link>https://music.bugs.co.kr/album/18172007?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18172007?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 24 Jun 2022 03:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11453209?wl_ref=list_ab_04" class="artistTitle" title="Los Diferentes de la Sierra" onclick="
-" target="_self">Los Diferentes de la Sierra</a>
-</p>
-<p>
-<time datetime="">2022.06.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/181720/18172007.jpg?version=20220624004847.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
