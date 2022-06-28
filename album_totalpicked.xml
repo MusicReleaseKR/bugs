@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 14:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 15:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -659,6 +659,21 @@ The Quiett
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204763/20476311.jpg?version=20220628120014.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jealousy]]></title>
+            <link>https://music.bugs.co.kr/album/18140509?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18140509?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Jun 2022 15:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20034313?wl_ref=list_ab_04" class="artistTitle" title="Pale Waves" onclick="
+" target="_self">Pale Waves</a>
+</p>
+<p>
+<time datetime="">2022.06.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/181405/18140509.jpg?version=20220628021014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Asshole]]></title>
             <link>https://music.bugs.co.kr/album/4077217?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4077217?wl_ref=list_ab_03</guid>
@@ -735,6 +750,21 @@ DaBaby
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181811/18181153.jpg?version=20220625064252.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Catch Me In The Air]]></title>
+            <link>https://music.bugs.co.kr/album/18052203?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18052203?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Jun 2022 15:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20044243?wl_ref=list_ab_04" class="artistTitle" title="Rina Sawayama(리나 사와야마)" onclick="
+" target="_self">Rina Sawayama(리나 사와야마)</a>
+</p>
+<p>
+<time datetime="">2022.06.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/180522/18052203.jpg?version=20220628010004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HANDSOME]]></title>
@@ -1041,36 +1071,6 @@ B.I(비아이)
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204759/20475951.jpg?version=20220628012137.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애의 참견 2022 OST - Part.13]]></title>
-            <link>https://music.bugs.co.kr/album/4077045?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4077045?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 26 Jun 2022 09:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80231408?wl_ref=list_ab_04" class="artistTitle" title="최도영(CANDO)" onclick="
-" target="_self">최도영(CANDO)</a>
-</p>
-<p>
-<time datetime="">2022.06.26</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40770/4077045.jpg?version=20220627002508.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 월간 브라운 6월호]]></title>
-            <link>https://music.bugs.co.kr/album/4077152?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4077152?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 27 Jun 2022 04:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20031776?wl_ref=list_ab_04" class="artistTitle" title="브라운티거(Brown Tigger)" onclick="
-" target="_self">브라운티거(Brown Tigger)</a>
-</p>
-<p>
-<time datetime="">2022.06.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40771/4077152.jpg?version=20220628063625.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
