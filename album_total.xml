@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 09:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 10:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -488,6 +488,24 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/182129/18212914.jpg?version=20220701070013.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Multimillo, Vol. 1]]></title>
+            <link>https://music.bugs.co.kr/album/18212885?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18212885?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Jul 2022 10:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80182519?wl_ref=list_ab_04" class="artistTitle" title="Wisin(위신)">Wisin(위신)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Wisin||Wisin(위신)||80182519||OK\\nLos Legendarios||Los Legendarios||11201487||OK', ''); return false;">
+Wisin(위신)
+</a> </p>
+<p>
+<time datetime="">2022.07.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/182128/18212885.jpg?version=20220701134148.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nephtys]]></title>
             <link>https://music.bugs.co.kr/album/18209599?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/18209599?wl_ref=list_ab_03</guid>
@@ -806,7 +824,7 @@ Bobby Cruz
 <time datetime="">2022.07.01</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/181909/18190978.jpg?version=20220701122204.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/181909/18190978.jpg?version=20220701185504.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sense of Peace]]></title>
@@ -1053,21 +1071,6 @@ Bee Boy$oul
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181907/18190788.jpg?version=20220701022327.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Músicas Favoritas do CoComelon, Vol.2]]></title>
-            <link>https://music.bugs.co.kr/album/18190782?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18190782?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Jul 2022 08:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12379130?wl_ref=list_ab_04" class="artistTitle" title="CoComelon em Português" onclick="
-" target="_self">CoComelon em Português</a>
-</p>
-<p>
-<time datetime="">2022.07.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/181907/18190782.jpg?version=20220701005754.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
