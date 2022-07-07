@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 04:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 05:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -261,21 +261,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204773/20477358.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그대와 같이]]></title>
-            <link>https://music.bugs.co.kr/album/20477302?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20477302?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Jul 2022 04:06:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20162867?wl_ref=list_ab_04" class="artistTitle" title="유영민" onclick="
-" target="_self">유영민</a>
-</p>
-<p>
-<time datetime="">2022.07.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204773/20477302.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hoff Dylan]]></title>
@@ -749,21 +734,6 @@ Ngielix
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181253/18125388.jpg?version=20220707000012.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Today's Haul]]></title>
-            <link>https://music.bugs.co.kr/album/18083904?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18083904?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Jul 2022 15:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12787816?wl_ref=list_ab_04" class="artistTitle" title="Femmes de la Mer" onclick="
-" target="_self">Femmes de la Mer</a>
-</p>
-<p>
-<time datetime="">2022.07.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/180839/18083904.jpg?version=20220707000012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[THE TIME MACHINE]]></title>
             <link>https://music.bugs.co.kr/album/4077509?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4077509?wl_ref=list_ab_03</guid>
@@ -1062,6 +1032,35 @@ Ngielix
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204772/20477281.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAMEN RIDER 50th Anniversary SONG BEST BOX]]></title>
+            <link>https://music.bugs.co.kr/album/20477271?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20477271?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Jul 2022 05:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<span class="artistTitle" title="">Various Artists</span>
+</p>
+<p>
+<time datetime="">2022.07.07</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204772/20477271.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[一等星☆ / 野に咲く花／ITTOSEI☆ / NONISAKUHANA]]></title>
+            <link>https://music.bugs.co.kr/album/20477008?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20477008?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Jul 2022 05:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80001561?wl_ref=list_ab_04" class="artistTitle" title="Ketsumeishi(케츠메이시/ケツメイシ)" onclick="
+" target="_self">Ketsumeishi(케츠메이시/ケツメイシ)</a>
+</p>
+<p>
+<time datetime="">2022.07.07</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204770/20477008.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
