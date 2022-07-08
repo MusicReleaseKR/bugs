@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 23:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 02:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Letter From Mars EP]]></title>
+            <link>https://music.bugs.co.kr/album/20474702?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20474702?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 08 Jul 2022 02:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10364143?wl_ref=list_ab_04" class="artistTitle" title="SLV" onclick="
+" target="_self">SLV</a>
+</p>
+<p>
+<time datetime="">2022.06.24</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204747/20474702.jpg?version=20220708004238.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girls - The 2nd Mini Album]]></title>
+            <link>https://music.bugs.co.kr/album/20471520?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20471520?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 08 Jul 2022 02:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80347326?wl_ref=list_ab_04" class="artistTitle" title="aespa" onclick="
+" target="_self">aespa</a>
+</p>
+<p>
+<time datetime="">2022.06.01</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204715/20471520.jpg?version=20220610011259.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Story to Tell]]></title>
             <link>https://music.bugs.co.kr/album/18179905?wl_ref=list_ab_03</link>
@@ -1035,36 +1065,6 @@ Ngielix
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204781/20478165.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Festival]]></title>
-            <link>https://music.bugs.co.kr/album/20478147?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20478147?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Jul 2022 04:06:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80182708?wl_ref=list_ab_04" class="artistTitle" title="은종" onclick="
-" target="_self">은종</a>
-</p>
-<p>
-<time datetime="">2022.07.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204781/20478147.jpg?version=20220707120017.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dive in the ocean]]></title>
-            <link>https://music.bugs.co.kr/album/20477827?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20477827?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Jul 2022 04:06:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20157080?wl_ref=list_ab_04" class="artistTitle" title="OURBEATZ" onclick="
-" target="_self">OURBEATZ</a>
-</p>
-<p>
-<time datetime="">2022.07.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204778/20477827.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
