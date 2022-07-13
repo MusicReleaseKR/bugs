@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:29:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -576,14 +576,17 @@ Jonas Blue(조나스 블루)
             <guid>https://music.bugs.co.kr/album/20478280?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 13 Jul 2022 04:00:22 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80293893?wl_ref=list_ab_04" class="artistTitle" title="League of Legends" onclick="
-" target="_self">League of Legends</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80293893?wl_ref=list_ab_04" class="artistTitle" title="League of Legends">League of Legends</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'League of Legends||League of Legends||80293893||OK\\nLeague of Legends: Wild Rift||League of Legends: Wild Rift||20151724||OK', ''); return false;">
+League of Legends
+</a> </p>
 <p>
 <time datetime="">2022.07.13</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204782/20478280.jpg?version=20220713120017.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204782/20478280.jpg?version=20220713152102.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Road : Keep on Going - The 11th Album Vol.1]]></title>
@@ -643,7 +646,7 @@ Jonas Blue(조나스 블루)
 <time datetime="">2022.07.12</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40776/4077612.jpg?version=20220713101805.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40776/4077612.jpg?version=20220713151729.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Need To Know]]></title>
@@ -991,7 +994,7 @@ seshin
 <time datetime="">2022.07.12</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204791/20479100.jpg?version=20220712120012.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204791/20479100.jpg?version=20220713144205.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Signal]]></title>
