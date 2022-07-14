@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 09:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 10:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,6 +81,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204791/20479183.jpg?version=20220714120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[unorthodox]]></title>
+            <link>https://music.bugs.co.kr/album/20479158?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20479158?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 14 Jul 2022 10:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80275503?wl_ref=list_ab_04" class="artistTitle" title="Devine Channel" onclick="
+" target="_self">Devine Channel</a>
+</p>
+<p>
+<time datetime="">2022.07.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204791/20479158.jpg?version=20220714180014.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MERAKI]]></title>
@@ -171,6 +186,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204790/20479031.jpg?version=20220714120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DAFT LOVE]]></title>
+            <link>https://music.bugs.co.kr/album/18291247?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18291247?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 14 Jul 2022 10:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80268715?wl_ref=list_ab_04" class="artistTitle" title="BOYCOLD" onclick="
+" target="_self">BOYCOLD</a>
+</p>
+<p>
+<time datetime="">2022.07.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/182912/18291247.jpg?version=20220714180013.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Gloom]]></title>
@@ -476,6 +506,21 @@ Muzică Spațială Pentru Somn
             <enclosure url="https://image.bugsm.co.kr/album/images/170/167456/16745629.jpg?version=20220714120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pororo Animal Songs]]></title>
+            <link>https://music.bugs.co.kr/album/4077748?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4077748?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 14 Jul 2022 10:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12068005?wl_ref=list_ab_04" class="artistTitle" title="뽀로로" onclick="
+" target="_self">뽀로로</a>
+</p>
+<p>
+<time datetime="">2022.07.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40777/4077748.jpg?version=20220714180010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Enter​.​] The Spiritual Flight]]></title>
             <link>https://music.bugs.co.kr/album/20479767?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20479767?wl_ref=list_ab_03</guid>
@@ -579,6 +624,21 @@ Muzică Spațială Pentru Somn
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204793/20479323.jpg?version=20220714120006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[별거 아닌걸로]]></title>
+            <link>https://music.bugs.co.kr/album/20479319?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20479319?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 14 Jul 2022 10:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20039515?wl_ref=list_ab_04" class="artistTitle" title="Shemu" onclick="
+" target="_self">Shemu</a>
+</p>
+<p>
+<time datetime="">2022.07.14</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204793/20479319.jpg?version=20220714180017.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Head Home]]></title>
@@ -1026,66 +1086,6 @@ Futhermuckers
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/182199/18219942.jpg?version=20220714000020.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kaleidoscope]]></title>
-            <link>https://music.bugs.co.kr/album/18219534?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18219534?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 14 Jul 2022 04:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11872615?wl_ref=list_ab_04" class="artistTitle" title="aRIEL" onclick="
-" target="_self">aRIEL</a>
-</p>
-<p>
-<time datetime="">2022.07.14</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/182195/18219534.jpg?version=20220714000020.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[טקסים שצריך לסיים]]></title>
-            <link>https://music.bugs.co.kr/album/18217203?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18217203?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 14 Jul 2022 04:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12834575?wl_ref=list_ab_04" class="artistTitle" title="ארד טומשין" onclick="
-" target="_self">ארד טומשין</a>
-</p>
-<p>
-<time datetime="">2022.07.14</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/182172/18217203.jpg?version=20220714000020.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wagenmuzik]]></title>
-            <link>https://music.bugs.co.kr/album/18215370?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18215370?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 14 Jul 2022 04:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12590897?wl_ref=list_ab_04" class="artistTitle" title="Dirty Bird" onclick="
-" target="_self">Dirty Bird</a>
-</p>
-<p>
-<time datetime="">2022.07.14</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/182153/18215370.jpg?version=20220714120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aquilo]]></title>
-            <link>https://music.bugs.co.kr/album/18192993?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18192993?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 14 Jul 2022 04:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11950301?wl_ref=list_ab_04" class="artistTitle" title="Lester Lam" onclick="
-" target="_self">Lester Lam</a>
-</p>
-<p>
-<time datetime="">2022.07.14</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/181929/18192993.jpg?version=20220714000020.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
