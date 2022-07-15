@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 04:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
 <time datetime="">2022.07.15</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40778/4077801.jpg?version=20220715130008.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40778/4077801.jpg?version=20220715132624.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHECKMATE]]></title>
@@ -828,17 +828,14 @@ Billlie (빌리)
             <guid>https://music.bugs.co.kr/album/20479724?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 14 Jul 2022 09:22:21 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20126733?wl_ref=list_ab_04" class="artistTitle" title="Aden (에이든)">Aden (에이든)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Aden||Aden (에이든)||20126733||OK\\nMainvow||Mainvow||20163633||OK', ''); return false;">
-Aden (에이든)
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/20163633?wl_ref=list_ab_04" class="artistTitle" title="Mainvow" onclick="
+" target="_self">Mainvow</a>
+</p>
 <p>
 <time datetime="">2022.07.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204797/20479724.jpg?version=20220714180017.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204797/20479724.jpg?version=20220715135755.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Summer Ride]]></title>
