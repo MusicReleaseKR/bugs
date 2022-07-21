@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 07:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 08:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,8 +13,8 @@
             <guid>https://music.bugs.co.kr/album/4077931?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 21 Jul 2022 03:59:42 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80373293?wl_ref=list_ab_04" class="artistTitle" title="우연소" onclick="
-" target="_self">우연소</a>
+<a href="https://music.bugs.co.kr/artist/80373293?wl_ref=list_ab_04" class="artistTitle" title="우연소(遇緣所)" onclick="
+" target="_self">우연소(遇緣所)</a>
 </p>
 <p>
 <time datetime="">2022.07.21</time>
@@ -1637,24 +1637,6 @@ Milc
             <enclosure url="https://image.bugsm.co.kr/album/images/170/185336/18533698.jpg?version=20220721120023.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ao Vivo No Porto (Ao Vivo) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/18531128?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18531128?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Jul 2022 04:00:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80250537?wl_ref=list_ab_04" class="artistTitle" title="Pedro Abrunhosa">Pedro Abrunhosa</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Pedro Abrunhosa||Pedro Abrunhosa||80250537||OK\\nComité Caviar||Comité Caviar||80329265||OK\\nOrquestra Clássica do Sul||Orquestra Clássica do Sul||12853335||OK', ''); return false;">
-Pedro Abrunhosa
-</a> </p>
-<p>
-<time datetime="">2022.07.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/185311/18531128.jpg?version=20220721102224.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[A Concert for Ukraine (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/18531124?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/18531124?wl_ref=list_ab_03</guid>
@@ -2151,6 +2133,21 @@ Pedro Abrunhosa
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204812/20481206.jpg?version=20220721120023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crosswind (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20481193?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20481193?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 21 Jul 2022 08:27:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12323928?wl_ref=list_ab_04" class="artistTitle" title="azayaka" onclick="
+" target="_self">azayaka</a>
+</p>
+<p>
+<time datetime="">2022.07.21</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204811/20481193.jpg?version=20220721120023.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무법자 (Outlaw) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
