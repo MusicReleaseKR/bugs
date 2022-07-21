@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 09:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -995,6 +995,21 @@ Milc
             <enclosure url="https://image.bugsm.co.kr/album/images/170/179218/17921842.jpg?version=20220721000021.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pororo Baby Songs]]></title>
+            <link>https://music.bugs.co.kr/album/4077954?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4077954?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 21 Jul 2022 10:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12068005?wl_ref=list_ab_04" class="artistTitle" title="뽀로로" onclick="
+" target="_self">뽀로로</a>
+</p>
+<p>
+<time datetime="">2022.07.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40779/4077954.jpg?version=20220721180009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Levitate]]></title>
             <link>https://music.bugs.co.kr/album/20481252?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20481252?wl_ref=list_ab_03</guid>
@@ -1053,21 +1068,6 @@ Milc
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204812/20481206.jpg?version=20220721120023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crosswind]]></title>
-            <link>https://music.bugs.co.kr/album/20481193?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20481193?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Jul 2022 08:27:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12323928?wl_ref=list_ab_04" class="artistTitle" title="azayaka" onclick="
-" target="_self">azayaka</a>
-</p>
-<p>
-<time datetime="">2022.07.21</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204811/20481193.jpg?version=20220721120023.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
