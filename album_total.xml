@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 09:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 10:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -99,6 +99,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204831/20483117.jpg?version=20220729120025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Closure]]></title>
+            <link>https://music.bugs.co.kr/album/20483103?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20483103?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 29 Jul 2022 10:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20089491?wl_ref=list_ab_04" class="artistTitle" title="Ryan Innes" onclick="
+" target="_self">Ryan Innes</a>
+</p>
+<p>
+<time datetime="">2022.07.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204831/20483103.jpg?version=20220729180011.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AKASHA]]></title>
@@ -686,6 +701,54 @@ Psychic Ills
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204770/20477015.jpg?version=20220729120025.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Tom & Jerri]]></title>
+            <link>https://music.bugs.co.kr/album/18917784?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18917784?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 29 Jul 2022 10:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12503396?wl_ref=list_ab_04" class="artistTitle" title="Classic Deep">Classic Deep</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Classic Deep||Classic Deep||12503396||OK\\nSix40||Six40||12869783||OK', ''); return false;">
+Classic Deep
+</a> </p>
+<p>
+<time datetime="">2022.07.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189177/18917784.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ich würd's wieder tun]]></title>
+            <link>https://music.bugs.co.kr/album/18917657?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18917657?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 29 Jul 2022 10:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8290386?wl_ref=list_ab_04" class="artistTitle" title="Andrea Berg" onclick="
+" target="_self">Andrea Berg</a>
+</p>
+<p>
+<time datetime="">2022.07.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189176/18917657.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From Trap To Rap 2]]></title>
+            <link>https://music.bugs.co.kr/album/18914840?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18914840?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 29 Jul 2022 10:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11866437?wl_ref=list_ab_04" class="artistTitle" title="Bankroll Freddie" onclick="
+" target="_self">Bankroll Freddie</a>
+</p>
+<p>
+<time datetime="">2022.07.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189148/18914840.jpg?version=20220729130042.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[My Life]]></title>
             <link>https://music.bugs.co.kr/album/18914469?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/18914469?wl_ref=list_ab_03</guid>
@@ -729,6 +792,36 @@ Psychic Ills
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/189143/18914311.jpg?version=20220729003929.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CATCH ME IF YOU CAN]]></title>
+            <link>https://music.bugs.co.kr/album/18914281?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18914281?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 29 Jul 2022 10:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80261332?wl_ref=list_ab_04" class="artistTitle" title="Doe Boy" onclick="
+" target="_self">Doe Boy</a>
+</p>
+<p>
+<time datetime="">2022.07.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189142/18914281.jpg?version=20220729130018.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CATCH ME IF YOU CAN]]></title>
+            <link>https://music.bugs.co.kr/album/18914275?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18914275?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 29 Jul 2022 10:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80261332?wl_ref=list_ab_04" class="artistTitle" title="Doe Boy" onclick="
+" target="_self">Doe Boy</a>
+</p>
+<p>
+<time datetime="">2022.07.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189142/18914275.jpg?version=20220729130018.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Barcadi Fest]]></title>
@@ -804,6 +897,21 @@ Psychic Ills
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/188456/18845684.jpg?version=20220729000021.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dharma +]]></title>
+            <link>https://music.bugs.co.kr/album/18845652?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18845652?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 29 Jul 2022 10:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80254774?wl_ref=list_ab_04" class="artistTitle" title="Sebastián Yatra" onclick="
+" target="_self">Sebastián Yatra</a>
+</p>
+<p>
+<time datetime="">2022.07.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/188456/18845652.jpg?version=20220729130039.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ibiza Sessions]]></title>
@@ -975,111 +1083,6 @@ Aaron Wheeler
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/188455/18845560.jpg?version=20220729114546.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eyes In The Tower]]></title>
-            <link>https://music.bugs.co.kr/album/18845552?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18845552?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 29 Jul 2022 04:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20084959?wl_ref=list_ab_04" class="artistTitle" title="=CoN+KwAkE=" onclick="
-" target="_self">=CoN+KwAkE=</a>
-</p>
-<p>
-<time datetime="">2022.07.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/188455/18845552.jpg?version=20220729114546.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barnkammarboken - Godnattvisor]]></title>
-            <link>https://music.bugs.co.kr/album/18845517?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18845517?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 29 Jul 2022 04:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11661690?wl_ref=list_ab_04" class="artistTitle" title="Barnkammarboken" onclick="
-" target="_self">Barnkammarboken</a>
-</p>
-<p>
-<time datetime="">2022.07.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/188455/18845517.jpg?version=20220729012053.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Clérambault: Orphée & Médée]]></title>
-            <link>https://music.bugs.co.kr/album/18845499?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18845499?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 29 Jul 2022 04:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/300541?wl_ref=list_ab_04" class="artistTitle" title="Rachel Yakar(라헬 야카)" onclick="
-" target="_self">Rachel Yakar(라헬 야카)</a>
-</p>
-<p>
-<time datetime="">2022.07.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/188454/18845499.jpg?version=20220729005756.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Child]]></title>
-            <link>https://music.bugs.co.kr/album/18845494?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18845494?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 29 Jul 2022 04:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12820250?wl_ref=list_ab_04" class="artistTitle" title="Wee2Hard" onclick="
-" target="_self">Wee2Hard</a>
-</p>
-<p>
-<time datetime="">2022.07.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/188454/18845494.jpg?version=20220729012442.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[love songs from dreams (Deluxe Version)]]></title>
-            <link>https://music.bugs.co.kr/album/18845484?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18845484?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 29 Jul 2022 04:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8200638?wl_ref=list_ab_04" class="artistTitle" title="Justin Lo" onclick="
-" target="_self">Justin Lo</a>
-</p>
-<p>
-<time datetime="">2022.07.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/188454/18845484.jpg?version=20220729011145.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keep The Blue]]></title>
-            <link>https://music.bugs.co.kr/album/18845450?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18845450?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 29 Jul 2022 04:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11210339?wl_ref=list_ab_04" class="artistTitle" title="Justin Chart" onclick="
-" target="_self">Justin Chart</a>
-</p>
-<p>
-<time datetime="">2022.07.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/188454/18845450.jpg?version=20220729002623.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blippi Wonders]]></title>
-            <link>https://music.bugs.co.kr/album/18845449?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18845449?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 29 Jul 2022 04:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8911557?wl_ref=list_ab_04" class="artistTitle" title="Blippi" onclick="
-" target="_self">Blippi</a>
-</p>
-<p>
-<time datetime="">2022.07.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/188454/18845449.jpg?version=20220729010246.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
