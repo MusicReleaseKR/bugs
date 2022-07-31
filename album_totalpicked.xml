@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 14:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 15:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40782/4078216.jpg?version=20220731180012.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mixtape : Time Out]]></title>
+            <link>https://music.bugs.co.kr/album/20483398?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20483398?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 31 Jul 2022 15:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20046081?wl_ref=list_ab_04" class="artistTitle" title="Stray Kids (스트레이 키즈)" onclick="
+" target="_self">Stray Kids (스트레이 키즈)</a>
+</p>
+<p>
+<time datetime="">2022.08.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204833/20483398.jpg?version=20220801000019.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kiss]]></title>
@@ -53,21 +68,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204833/20483393.jpg?version=20220731180002.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가식]]></title>
-            <link>https://music.bugs.co.kr/album/4078249?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4078249?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 31 Jul 2022 09:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20074152?wl_ref=list_ab_04" class="artistTitle" title="경제환" onclick="
-" target="_self">경제환</a>
-</p>
-<p>
-<time datetime="">2022.07.31</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40782/4078249.jpg?version=20220731180012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[HOT SUMMER]]></title>
             <link>https://music.bugs.co.kr/album/4078209?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4078209?wl_ref=list_ab_03</guid>
@@ -84,6 +84,21 @@ OP (오피)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40782/4078209.jpg?version=20220731120020.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가식]]></title>
+            <link>https://music.bugs.co.kr/album/4078249?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4078249?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 31 Jul 2022 09:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20074152?wl_ref=list_ab_04" class="artistTitle" title="경제환" onclick="
+" target="_self">경제환</a>
+</p>
+<p>
+<time datetime="">2022.07.31</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40782/4078249.jpg?version=20220731180012.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마녀는 살아있다 OST Part 4]]></title>
@@ -1057,21 +1072,6 @@ Boy Wonder(보이원더)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40781/4078191.jpg?version=20220729180011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Changes]]></title>
-            <link>https://music.bugs.co.kr/album/20482419?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20482419?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 29 Jul 2022 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80051783?wl_ref=list_ab_04" class="artistTitle" title="JUUNO" onclick="
-" target="_self">JUUNO</a>
-</p>
-<p>
-<time datetime="">2022.07.29</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204824/20482419.jpg?version=20220729180011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 14:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 15:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[O Feeling]]></title>
+            <link>https://music.bugs.co.kr/album/11246083?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/11246083?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 31 Jul 2022 15:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10939985?wl_ref=list_ab_04" class="artistTitle" title="La Famax" onclick="
+" target="_self">La Famax</a>
+</p>
+<p>
+<time datetime="">2022.08.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/112460/11246083.jpg?version=20220730005540.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그래도 나는 너]]></title>
             <link>https://music.bugs.co.kr/album/20483312?wl_ref=list_ab_03</link>
@@ -1068,21 +1083,6 @@ Poumlaut
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/188421/18842149.jpg?version=20220731120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Estrella Fugaz]]></title>
-            <link>https://music.bugs.co.kr/album/18842092?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18842092?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 31 Jul 2022 04:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12439930?wl_ref=list_ab_04" class="artistTitle" title="Los Dejados" onclick="
-" target="_self">Los Dejados</a>
-</p>
-<p>
-<time datetime="">2022.07.31</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/188420/18842092.jpg?version=20220731120024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
