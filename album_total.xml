@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 09:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 10:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,6 +111,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204832/20483215.jpg?version=20220801120023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딸배트랩 & 딸배퐁크]]></title>
+            <link>https://music.bugs.co.kr/album/20482976?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20482976?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 01 Aug 2022 10:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20128805?wl_ref=list_ab_04" class="artistTitle" title="KING SOUTH G" onclick="
+" target="_self">KING SOUTH G</a>
+</p>
+<p>
+<time datetime="">2022.08.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204829/20482976.jpg?version=20220801180019.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VIVALDI POP SYMPHONY – THE 4 SEASONS]]></title>
@@ -1056,21 +1071,6 @@ Paul Gelsomine
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/188439/18843941.jpg?version=20220801120023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Зая]]></title>
-            <link>https://music.bugs.co.kr/album/18842683?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18842683?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 01 Aug 2022 04:36:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12833796?wl_ref=list_ab_04" class="artistTitle" title="ToRhyme" onclick="
-" target="_self">ToRhyme</a>
-</p>
-<p>
-<time datetime="">2022.08.01</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/188426/18842683.jpg?version=20220801120023.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
