@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 14:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 15:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Duro]]></title>
+            <link>https://music.bugs.co.kr/album/18192070?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18192070?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 03 Aug 2022 15:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80126462?wl_ref=list_ab_04" class="artistTitle" title="Dani Torres" onclick="
+" target="_self">Dani Torres</a>
+</p>
+<p>
+<time datetime="">2022.08.04</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/181920/18192070.jpg?version=20220804000015.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키즈타임즈_665]]></title>
             <link>https://music.bugs.co.kr/album/20484066?wl_ref=list_ab_03</link>
@@ -1053,21 +1068,6 @@ THRILL(스릴)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204832/20483253.jpg?version=20220803120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hello, Sea :) lofi hiphop mix]]></title>
-            <link>https://music.bugs.co.kr/album/20483220?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20483220?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 03 Aug 2022 04:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20142888?wl_ref=list_ab_04" class="artistTitle" title="O.T.O" onclick="
-" target="_self">O.T.O</a>
-</p>
-<p>
-<time datetime="">2022.08.03</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204832/20483220.jpg?version=20220803120021.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
