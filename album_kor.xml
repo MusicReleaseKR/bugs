@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 09:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 10:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FOREVER 1 - The 7th Album]]></title>
+            <link>https://music.bugs.co.kr/album/20484595?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20484595?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 Aug 2022 10:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80026432?wl_ref=list_ab_04" class="artistTitle" title="소녀시대 (GIRLS' GENERATION)" onclick="
+" target="_self">소녀시대 (GIRLS' GENERATION)</a>
+</p>
+<p>
+<time datetime="">2022.08.05</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204845/20484595.jpg?version=1659691176000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은혜로운 오르골 찬송가 2]]></title>
             <link>https://music.bugs.co.kr/album/20484557?wl_ref=list_ab_03</link>
@@ -398,6 +413,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204841/20484176.jpg?version=1659668411000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Canvas]]></title>
+            <link>https://music.bugs.co.kr/album/20484101?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20484101?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 Aug 2022 10:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20135207?wl_ref=list_ab_04" class="artistTitle" title="최웅헌" onclick="
+" target="_self">최웅헌</a>
+</p>
+<p>
+<time datetime="">2022.08.05</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204841/20484101.jpg?version=1659690018000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가디 더 디몬]]></title>
             <link>https://music.bugs.co.kr/album/20484014?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484014?wl_ref=list_ab_03</guid>
@@ -428,6 +458,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204837/20483706.jpg?version=1659668418000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YNG]]></title>
+            <link>https://music.bugs.co.kr/album/20483083?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20483083?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 Aug 2022 10:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20102768?wl_ref=list_ab_04" class="artistTitle" title="Odd95" onclick="
+" target="_self">Odd95</a>
+</p>
+<p>
+<time datetime="">2022.08.05</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204830/20483083.jpg?version=1659690014000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[We]]></title>
             <link>https://music.bugs.co.kr/album/4078408?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4078408?wl_ref=list_ab_03</guid>
@@ -456,6 +501,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204846/20484604.jpg?version=1659668418000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑은 늘 그렇게 이별을 원하고 (웹툰 '죽음 대신 결혼' X 라운드어바웃 (RoundAbout))]]></title>
+            <link>https://music.bugs.co.kr/album/20484544?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20484544?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 Aug 2022 10:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20064678?wl_ref=list_ab_04" class="artistTitle" title="라운드어바웃(RoundAbout)" onclick="
+" target="_self">라운드어바웃(RoundAbout)</a>
+</p>
+<p>
+<time datetime="">2022.08.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204845/20484544.jpg?version=1659690014000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IMAIZING]]></title>
@@ -999,66 +1059,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204843/20484321.jpg?version=1659668411000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[sarang]]></title>
-            <link>https://music.bugs.co.kr/album/20484299?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20484299?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 Aug 2022 03:51:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20156947?wl_ref=list_ab_04" class="artistTitle" title="Sof'boy Han" onclick="
-" target="_self">Sof'boy Han</a>
-</p>
-<p>
-<time datetime="">2022.08.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204842/20484299.jpg?version=1659668411000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바람이었네]]></title>
-            <link>https://music.bugs.co.kr/album/20484281?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20484281?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 Aug 2022 03:51:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20122909?wl_ref=list_ab_04" class="artistTitle" title="박대성" onclick="
-" target="_self">박대성</a>
-</p>
-<p>
-<time datetime="">2022.08.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204842/20484281.jpg?version=1659668418000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부러울 것이 없어라 (Nothing to Envy)]]></title>
-            <link>https://music.bugs.co.kr/album/20484173?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20484173?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 Aug 2022 03:51:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20125829?wl_ref=list_ab_04" class="artistTitle" title="해파리" onclick="
-" target="_self">해파리</a>
-</p>
-<p>
-<time datetime="">2022.08.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204841/20484173.jpg?version=1659668418000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름바다]]></title>
-            <link>https://music.bugs.co.kr/album/20484165?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20484165?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 Aug 2022 03:51:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80143678?wl_ref=list_ab_04" class="artistTitle" title="제니스(Zenith)" onclick="
-" target="_self">제니스(Zenith)</a>
-</p>
-<p>
-<time datetime="">2022.08.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204841/20484165.jpg?version=1659668815000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
