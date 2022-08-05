@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 19:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 20:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -773,21 +773,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/189271/18927115.jpg?version=20220806003748.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Recuérdame Bonito]]></title>
-            <link>https://music.bugs.co.kr/album/18927073?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18927073?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 Aug 2022 03:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80033824?wl_ref=list_ab_04" class="artistTitle" title="Pepe Aguilar" onclick="
-" target="_self">Pepe Aguilar</a>
-</p>
-<p>
-<time datetime="">1992.11.12</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/189270/18927073.jpg?version=20220806041503.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Dreamland (Real Life Edition)]]></title>
             <link>https://music.bugs.co.kr/album/18927021?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/18927021?wl_ref=list_ab_03</guid>
@@ -1056,6 +1041,24 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/189267/18926747.jpg?version=20220805012803.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Invisible Light: Spells]]></title>
+            <link>https://music.bugs.co.kr/album/18926715?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18926715?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 Aug 2022 20:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/36093?wl_ref=list_ab_04" class="artistTitle" title="T-bone Burnett">T-bone Burnett</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'T-bone Burnett||T-bone Burnett||36093||OK\\nJay Bellerose||Jay Bellerose||10478984||OK\\nKeefus Ciancia||Keefus Ciancia||8303815||OK', ''); return false;">
+T-bone Burnett
+</a> </p>
+<p>
+<time datetime="">2022.08.05</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189267/18926715.jpg?version=20220805004718.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
