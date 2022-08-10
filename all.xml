@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 14:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 15:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1075,6 +1075,36 @@ Matisse
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204842/20484284.jpg?version=20220810152324.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Poco a Poco (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/18030873?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18030873?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 10 Aug 2022 15:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10570246?wl_ref=list_ab_04" class="artistTitle" title="Pastrana" onclick="
+" target="_self">Pastrana</a>
+</p>
+<p>
+<time datetime="">2022.08.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/180308/18030873.jpg?version=20220811000017.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Dandlin' Song (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/16406312?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16406312?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 10 Aug 2022 15:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10901416?wl_ref=list_ab_04" class="artistTitle" title="The Little Gaelic Singers" onclick="
+" target="_self">The Little Gaelic Singers</a>
+</p>
+<p>
+<time datetime="">2022.08.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/164063/16406312.jpg?version=20220811000017.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Emro New Vol.7 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20485420?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485420?wl_ref=list_ab_03</guid>
@@ -2099,36 +2129,6 @@ Phocuz
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204842/20484228.jpg?version=20220810120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spilker immer mittendrin (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20484219?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20484219?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80038145?wl_ref=list_ab_04" class="artistTitle" title="Die Sterne" onclick="
-" target="_self">Die Sterne</a>
-</p>
-<p>
-<time datetime="">2022.08.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204842/20484219.jpg?version=20220810120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jumper (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20484210?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20484210?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20119043?wl_ref=list_ab_04" class="artistTitle" title="Courting" onclick="
-" target="_self">Courting</a>
-</p>
-<p>
-<time datetime="">2022.08.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204842/20484210.jpg?version=20220810120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Emro New Vol.7 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
