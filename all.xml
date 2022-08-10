@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 04:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 05:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,17 +378,14 @@
             <guid>https://music.bugs.co.kr/album/20485269?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80228660?wl_ref=list_ab_04" class="artistTitle" title="IN&amp;CHOO(인앤추)">IN&amp;CHOO(인앤추)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'IN&amp;CHOO||IN&amp;CHOO(인앤추)||80228660||OK\\nIK BROTHERS||IK BROTHERS(아이케이 브라더즈)||80202389||OK', ''); return false;">
-IN&amp;CHOO(인앤추)
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/80202389?wl_ref=list_ab_04" class="artistTitle" title="IK BROTHERS(아이케이 브라더즈)" onclick="
+" target="_self">IK BROTHERS(아이케이 브라더즈)</a>
+</p>
 <p>
 <time datetime="">2022.08.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204852/20485269.jpg?version=20220810120016.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204852/20485269.jpg?version=20220810134534.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHEESEHIGH COOL (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1297,7 +1294,7 @@ Phocuz
             <title><![CDATA[Round Spiritual Ring (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20484701?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484701?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20031387?wl_ref=list_ab_04" class="artistTitle" title="Stimulator Jones(스티뮬레이터 존스)" onclick="
 " target="_self">Stimulator Jones(스티뮬레이터 존스)</a>
@@ -1720,7 +1717,7 @@ Phocuz
             <title><![CDATA[CHEESEHIGH COOL (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20485335?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485335?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20020521?wl_ref=list_ab_04" class="artistTitle" title="A9904" onclick="
 " target="_self">A9904</a>
@@ -1765,7 +1762,7 @@ Phocuz
             <title><![CDATA[sunflower (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20485282?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485282?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20087989?wl_ref=list_ab_04" class="artistTitle" title="Sein" onclick="
 " target="_self">Sein</a>
@@ -1870,7 +1867,7 @@ Phocuz
             <title><![CDATA[Stella, My Dear (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20484897?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484897?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/10817943?wl_ref=list_ab_04" class="artistTitle" title="Jackson Lundy" onclick="
 " target="_self">Jackson Lundy</a>
@@ -1885,7 +1882,7 @@ Phocuz
             <title><![CDATA[HIDDEN (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20484755?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484755?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20102938?wl_ref=list_ab_04" class="artistTitle" title="Plo6" onclick="
 " target="_self">Plo6</a>
@@ -2139,7 +2136,7 @@ Phocuz
             <title><![CDATA[Emro New Vol.7 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485420?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485420?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20154802?wl_ref=list_ab_04" class="artistTitle" title="Emro" onclick="
 " target="_self">Emro</a>
@@ -2154,7 +2151,7 @@ Phocuz
             <title><![CDATA[키즈타임즈_666 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485392?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485392?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20074726?wl_ref=list_ab_04" class="artistTitle" title="타임즈코어" onclick="
 " target="_self">타임즈코어</a>
@@ -2169,7 +2166,7 @@ Phocuz
             <title><![CDATA[그루비한 남자 알앤비 Vol.3 MR (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485350?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485350?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20134138?wl_ref=list_ab_04" class="artistTitle" title="금영노래방" onclick="
 " target="_self">금영노래방</a>
@@ -2184,7 +2181,7 @@ Phocuz
             <title><![CDATA[하늘이 준 사랑 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485331?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485331?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20165610?wl_ref=list_ab_04" class="artistTitle" title="하주봉" onclick="
 " target="_self">하주봉</a>
@@ -2199,7 +2196,7 @@ Phocuz
             <title><![CDATA[이 계절의 끝 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485310?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485310?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80167045?wl_ref=list_ab_04" class="artistTitle" title="흰수염 고래" onclick="
 " target="_self">흰수염 고래</a>
@@ -2214,7 +2211,7 @@ Phocuz
             <title><![CDATA[늘 그리운 사람 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485304?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485304?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80131215?wl_ref=list_ab_04" class="artistTitle" title="지음" onclick="
 " target="_self">지음</a>
@@ -2229,7 +2226,7 @@ Phocuz
             <title><![CDATA[바람에 흩날리는 꽃잎처럼 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485300?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485300?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80137537?wl_ref=list_ab_04" class="artistTitle" title="이시원" onclick="
 " target="_self">이시원</a>
@@ -2244,7 +2241,7 @@ Phocuz
             <title><![CDATA[보내지 못해서 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485293?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485293?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80004444?wl_ref=list_ab_04" class="artistTitle" title="몽당연필" onclick="
 " target="_self">몽당연필</a>
@@ -2259,7 +2256,7 @@ Phocuz
             <title><![CDATA[이별 이야기 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485287?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485287?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80151051?wl_ref=list_ab_04" class="artistTitle" title="나무향" onclick="
 " target="_self">나무향</a>
@@ -2274,7 +2271,7 @@ Phocuz
             <title><![CDATA[밍고와 노래해요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484961?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484961?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20165497?wl_ref=list_ab_04" class="artistTitle" title="밍고" onclick="
 " target="_self">밍고</a>
@@ -2289,7 +2286,7 @@ Phocuz
             <title><![CDATA[강태홍류 가야금산조 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484903?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484903?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20165462?wl_ref=list_ab_04" class="artistTitle" title="김혜진" onclick="
 " target="_self">김혜진</a>
@@ -2304,7 +2301,7 @@ Phocuz
             <title><![CDATA[Polaris (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484590?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484590?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20164981?wl_ref=list_ab_04" class="artistTitle" title="김민철" onclick="
 " target="_self">김민철</a>
@@ -2319,7 +2316,7 @@ Phocuz
             <title><![CDATA[All these emotions (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484586?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484586?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20107915?wl_ref=list_ab_04" class="artistTitle" title="RU-2(루이)" onclick="
 " target="_self">RU-2(루이)</a>
@@ -2334,7 +2331,7 @@ Phocuz
             <title><![CDATA[Turning Point (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484584?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484584?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20104676?wl_ref=list_ab_04" class="artistTitle" title="더스티 룹(Dusty Roop)" onclick="
 " target="_self">더스티 룹(Dusty Roop)</a>
@@ -2349,7 +2346,7 @@ Phocuz
             <title><![CDATA[흐름 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484540?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484540?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80242145?wl_ref=list_ab_04" class="artistTitle" title="전찬준" onclick="
 " target="_self">전찬준</a>
@@ -2364,7 +2361,7 @@ Phocuz
             <title><![CDATA[Night After Night :) lofi hiphop mix (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484413?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484413?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20142888?wl_ref=list_ab_04" class="artistTitle" title="O.T.O" onclick="
 " target="_self">O.T.O</a>
@@ -2379,7 +2376,7 @@ Phocuz
             <title><![CDATA[고독한 나 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484302?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484302?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20099219?wl_ref=list_ab_04" class="artistTitle" title="예화" onclick="
 " target="_self">예화</a>
@@ -2394,7 +2391,7 @@ Phocuz
             <title><![CDATA[성생님(liberation) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484254?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484254?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20165258?wl_ref=list_ab_04" class="artistTitle" title="성생님" onclick="
 " target="_self">성생님</a>
@@ -2409,7 +2406,7 @@ Phocuz
             <title><![CDATA[가톨릭성가 성모2 (바오로딸뮤직) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/4078563?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4078563?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/521?wl_ref=list_ab_04" class="artistTitle" title="가톨릭합창단(Catholic Choir)" onclick="
 " target="_self">가톨릭합창단(Catholic Choir)</a>
@@ -2424,7 +2421,7 @@ Phocuz
             <title><![CDATA[Welcoming Cocktail Party (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485453?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485453?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20161574?wl_ref=list_ab_04" class="artistTitle" title="Plusis Trio" onclick="
 " target="_self">Plusis Trio</a>
@@ -2439,7 +2436,7 @@ Phocuz
             <title><![CDATA[ALIEN LOVE (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485405?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485405?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20147511?wl_ref=list_ab_04" class="artistTitle" title="고래(GORAE)" onclick="
 " target="_self">고래(GORAE)</a>
@@ -2454,7 +2451,7 @@ Phocuz
             <title><![CDATA[CHEESEHIGH COOL (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485335?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485335?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20020521?wl_ref=list_ab_04" class="artistTitle" title="A9904" onclick="
 " target="_self">A9904</a>
@@ -2469,7 +2466,7 @@ Phocuz
             <title><![CDATA[都営地下鉄新宿線(도에이 지하철 신주쿠 선) #3 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485332?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485332?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20104793?wl_ref=list_ab_04" class="artistTitle" title="Midorii(미도리)" onclick="
 " target="_self">Midorii(미도리)</a>
@@ -2484,7 +2481,7 @@ Phocuz
             <title><![CDATA[Starlight (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485298?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485298?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20126230?wl_ref=list_ab_04" class="artistTitle" title="Presso Note(프레소 노트)" onclick="
 " target="_self">Presso Note(프레소 노트)</a>
@@ -2499,7 +2496,7 @@ Phocuz
             <title><![CDATA[sunflower (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485282?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485282?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20087989?wl_ref=list_ab_04" class="artistTitle" title="Sein" onclick="
 " target="_self">Sein</a>
@@ -2514,7 +2511,7 @@ Phocuz
             <title><![CDATA[best of me is soon to be (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485053?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485053?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20126335?wl_ref=list_ab_04" class="artistTitle" title="choiboi (초이보이)" onclick="
 " target="_self">choiboi (초이보이)</a>
@@ -2529,7 +2526,7 @@ Phocuz
             <title><![CDATA[Daydreaming (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485029?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485029?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20124575?wl_ref=list_ab_04" class="artistTitle" title="Melody Lover Boi" onclick="
 " target="_self">Melody Lover Boi</a>
@@ -2544,7 +2541,7 @@ Phocuz
             <title><![CDATA[쉼 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484956?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484956?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20165488?wl_ref=list_ab_04" class="artistTitle" title="배유경" onclick="
 " target="_self">배유경</a>
@@ -2559,7 +2556,7 @@ Phocuz
             <title><![CDATA[JUSTLANA (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484916?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484916?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20165472?wl_ref=list_ab_04" class="artistTitle" title="LANA" onclick="
 " target="_self">LANA</a>
@@ -2574,7 +2571,7 @@ Phocuz
             <title><![CDATA[HIDDEN (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484755?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484755?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20102938?wl_ref=list_ab_04" class="artistTitle" title="Plo6" onclick="
 " target="_self">Plo6</a>
@@ -2589,7 +2586,7 @@ Phocuz
             <title><![CDATA[창작의 노래1-4집 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484704?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484704?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20005812?wl_ref=list_ab_04" class="artistTitle" title="홍성수" onclick="
 " target="_self">홍성수</a>
@@ -2604,7 +2601,7 @@ Phocuz
             <title><![CDATA[Blue Bird (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484609?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484609?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20165367?wl_ref=list_ab_04" class="artistTitle" title="RoundAbouTrio" onclick="
 " target="_self">RoundAbouTrio</a>
@@ -2619,7 +2616,7 @@ Phocuz
             <title><![CDATA[21C 소년 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/4078555?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4078555?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20117520?wl_ref=list_ab_04" class="artistTitle" title="이우든" onclick="
 " target="_self">이우든</a>
@@ -2784,7 +2781,7 @@ Phocuz
             <title><![CDATA[인생의 페어웨이 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485357?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485357?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80084202?wl_ref=list_ab_04" class="artistTitle" title="최영천" onclick="
 " target="_self">최영천</a>
@@ -2829,7 +2826,7 @@ Phocuz
             <title><![CDATA[Friends Vol.11 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485337?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485337?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <!-- a tag title -->
 <a href="https://music.bugs.co.kr/artist/6852?wl_ref=list_ab_04" class="artistTitle" title="조성민">조성민</a>
@@ -2877,7 +2874,7 @@ Phocuz
             <title><![CDATA[너무 사랑스러운 걸 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485330?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485330?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20035576?wl_ref=list_ab_04" class="artistTitle" title="모닝커피" onclick="
 " target="_self">모닝커피</a>
@@ -2892,7 +2889,7 @@ Phocuz
             <title><![CDATA[Type 8 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485329?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485329?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80020987?wl_ref=list_ab_04" class="artistTitle" title="달리(Darley)" onclick="
 " target="_self">달리(Darley)</a>
@@ -2931,13 +2928,13 @@ Phocuz
 <time datetime="">2022.08.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204852/20485290.jpg?version=1660100422000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204852/20485290.jpg?version=1660106291000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[My Little Universe (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485280?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485280?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20165601?wl_ref=list_ab_04" class="artistTitle" title="루해 (Luhae)" onclick="
 " target="_self">루해 (Luhae)</a>
@@ -2952,7 +2949,7 @@ Phocuz
             <title><![CDATA[You & Me (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485274?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485274?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80175689?wl_ref=list_ab_04" class="artistTitle" title="진독(JINDOK)" onclick="
 " target="_self">진독(JINDOK)</a>
@@ -2982,7 +2979,7 @@ Phocuz
             <title><![CDATA[Needy (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485272?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485272?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20021399?wl_ref=list_ab_04" class="artistTitle" title="COE" onclick="
 " target="_self">COE</a>
@@ -2997,19 +2994,16 @@ Phocuz
             <title><![CDATA[음악이 좋아 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485269?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485269?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80228660?wl_ref=list_ab_04" class="artistTitle" title="IN&amp;CHOO(인앤추)">IN&amp;CHOO(인앤추)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'IN&amp;CHOO||IN&amp;CHOO(인앤추)||80228660||OK\\nIK BROTHERS||IK BROTHERS(아이케이 브라더즈)||80202389||OK', ''); return false;">
-IN&amp;CHOO(인앤추)
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/80202389?wl_ref=list_ab_04" class="artistTitle" title="IK BROTHERS(아이케이 브라더즈)" onclick="
+" target="_self">IK BROTHERS(아이케이 브라더즈)</a>
+</p>
 <p>
 <time datetime="">2022.08.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204852/20485269.jpg?version=1660100416000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204852/20485269.jpg?version=1660106734000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Daily Recipe (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3030,7 +3024,7 @@ IN&amp;CHOO(인앤추)
             <title><![CDATA[Seven,(세븐 콤마) <빛을 따라서...> (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485264?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485264?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/5004?wl_ref=list_ab_04" class="artistTitle" title="임재범" onclick="
 " target="_self">임재범</a>
@@ -3057,7 +3051,7 @@ IN&amp;CHOO(인앤추)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204851/20485186.jpg?version=1660100422000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보글보글(BGBG) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <title><![CDATA[보글보글(BGBG) (Feat. OLNL) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485174?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485174?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
@@ -3069,7 +3063,7 @@ IN&amp;CHOO(인앤추)
 <time datetime="">2022.08.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204851/20485174.jpg?version=1660100422000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204851/20485174.jpg?version=1660106157000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wonderful (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3135,7 +3129,7 @@ IN&amp;CHOO(인앤추)
             <title><![CDATA[Not Your Love (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485114?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485114?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20155770?wl_ref=list_ab_04" class="artistTitle" title="루아나 (Ru.a.na)" onclick="
 " target="_self">루아나 (Ru.a.na)</a>
@@ -3165,7 +3159,7 @@ IN&amp;CHOO(인앤추)
             <title><![CDATA[You & You (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485076?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485076?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Aug 2022 04:27:25 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20100545?wl_ref=list_ab_04" class="artistTitle" title="JA!L" onclick="
 " target="_self">JA!L</a>
