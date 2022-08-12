@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 03:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 04:36:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,7 +23,22 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40786/4078640.jpg?version=20220812120010.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블루 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <title><![CDATA[Boogie Woogie (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/4078669?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4078669?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 12 Aug 2022 04:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20105867?wl_ref=list_ab_04" class="artistTitle" title="CRAVITY" onclick="
+" target="_self">CRAVITY</a>
+</p>
+<p>
+<time datetime="">2022.08.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40786/4078669.jpg?version=20220812130014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLUE (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
             <link>https://music.bugs.co.kr/album/4078601?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4078601?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 12 Aug 2022 03:38:34 GMT</pubDate>
@@ -35,7 +50,7 @@
 <time datetime="">2022.08.12</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40786/4078601.jpg?version=20220812120010.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40786/4078601.jpg?version=20220812133238.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#DONMALIKSMTM11 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -53,21 +68,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204860/20486000.jpg?version=20220812120010.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Heart's On Fire (Feat. Alex Karlsson) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20485962?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20485962?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:38:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80195227?wl_ref=list_ab_04" class="artistTitle" title="IMLAY" onclick="
-" target="_self">IMLAY</a>
-</p>
-<p>
-<time datetime="">2022.08.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204859/20485962.jpg?version=20220812120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나린 리메이크 프로젝트 Part 1 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
             <link>https://music.bugs.co.kr/album/4078594?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4078594?wl_ref=list_ab_03</guid>
@@ -81,6 +81,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40785/4078594.jpg?version=20220812003811.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heart's On Fire (Feat. Alex Karlsson) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20485962?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20485962?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 12 Aug 2022 03:38:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80195227?wl_ref=list_ab_04" class="artistTitle" title="IMLAY" onclick="
+" target="_self">IMLAY</a>
+</p>
+<p>
+<time datetime="">2022.08.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204859/20485962.jpg?version=20220812120012.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DNA 싱어 - 판타스틱 패밀리 Round 7 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1051,21 +1066,6 @@ Ronald Isley(로널드 아이슬리)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204848/20484885.jpg?version=20220811120017.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름비가 내리면 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/4078591?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4078591?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 11 Aug 2022 03:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20003650?wl_ref=list_ab_04" class="artistTitle" title="김동하" onclick="
-" target="_self">김동하</a>
-</p>
-<p>
-<time datetime="">2022.08.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40785/4078591.jpg?version=20220812002758.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[City Bumps (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20486051?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20486051?wl_ref=list_ab_03</guid>
@@ -1324,7 +1324,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[TOYBOY (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20485181?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485181?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80223055?wl_ref=list_ab_04" class="artistTitle" title="덕스(Ducks)" onclick="
 " target="_self">덕스(Ducks)</a>
@@ -1339,7 +1339,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[EMBRACE REANIMATED (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20485124?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485124?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80112166?wl_ref=list_ab_04" class="artistTitle" title="Kill The Noise(킬 더 노이즈)" onclick="
 " target="_self">Kill The Noise(킬 더 노이즈)</a>
@@ -2125,7 +2125,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[Day Nap (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20486005?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20486005?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20128243?wl_ref=list_ab_04" class="artistTitle" title="이승민" onclick="
 " target="_self">이승민</a>
@@ -2140,7 +2140,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[LAUDA ANIMA (내 영혼아 찬양하라) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485926?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485926?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20072466?wl_ref=list_ab_04" class="artistTitle" title="베스퍼스 (VESPERS)" onclick="
 " target="_self">베스퍼스 (VESPERS)</a>
@@ -2155,7 +2155,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[너와 나이기를 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485911?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485911?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80145142?wl_ref=list_ab_04" class="artistTitle" title="프리지아" onclick="
 " target="_self">프리지아</a>
@@ -2170,7 +2170,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[좋아 보여요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485909?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485909?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80134566?wl_ref=list_ab_04" class="artistTitle" title="민티" onclick="
 " target="_self">민티</a>
@@ -2185,7 +2185,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[작은 창가의 햇살 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485905?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485905?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80144578?wl_ref=list_ab_04" class="artistTitle" title="디오티마" onclick="
 " target="_self">디오티마</a>
@@ -2200,7 +2200,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[차오름 2ND ALBUM (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485812?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485812?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20055766?wl_ref=list_ab_04" class="artistTitle" title="차오름" onclick="
 " target="_self">차오름</a>
@@ -2215,7 +2215,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[남자의 눈물 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485746?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485746?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20096326?wl_ref=list_ab_04" class="artistTitle" title="이현승" onclick="
 " target="_self">이현승</a>
@@ -2230,7 +2230,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[베베핀 생활습관동요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485676?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485676?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80373604?wl_ref=list_ab_04" class="artistTitle" title="베베핀" onclick="
 " target="_self">베베핀</a>
@@ -2245,7 +2245,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[Moments of Acoustic Jazz Guitar, KineMaster Music Collection (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485563?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485563?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80258993?wl_ref=list_ab_04" class="artistTitle" title="김홍석" onclick="
 " target="_self">김홍석</a>
@@ -2260,7 +2260,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[BGM Jazz Library_277 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485557?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485557?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20034354?wl_ref=list_ab_04" class="artistTitle" title="Do&amp;Be Sound" onclick="
 " target="_self">Do&amp;Be Sound</a>
@@ -2275,7 +2275,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[은모래해변에서 (여름) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485308?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485308?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20053326?wl_ref=list_ab_04" class="artistTitle" title="권월" onclick="
 " target="_self">권월</a>
@@ -2290,7 +2290,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[TOYBOY (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485181?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485181?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80223055?wl_ref=list_ab_04" class="artistTitle" title="덕스(Ducks)" onclick="
 " target="_self">덕스(Ducks)</a>
@@ -2305,7 +2305,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[Just Instinct (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484911?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484911?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80078449?wl_ref=list_ab_04" class="artistTitle" title="리오(Rio)" onclick="
 " target="_self">리오(Rio)</a>
@@ -2320,7 +2320,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[떠나버려 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484774?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484774?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <!-- a tag title -->
 <a href="https://music.bugs.co.kr/artist/20081243?wl_ref=list_ab_04" class="artistTitle" title="고효진">고효진</a>
@@ -2338,7 +2338,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[Real Charm (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484720?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484720?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20107069?wl_ref=list_ab_04" class="artistTitle" title="재이(JAY)" onclick="
 " target="_self">재이(JAY)</a>
@@ -2353,7 +2353,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[You never know (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484718?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484718?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20104872?wl_ref=list_ab_04" class="artistTitle" title="Yton color(와이톤컬러)" onclick="
 " target="_self">Yton color(와이톤컬러)</a>
@@ -2368,7 +2368,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[HYMN Project 22-3rd ＂Peace & Consolation＂(Inst.) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484578?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484578?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:56 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80169356?wl_ref=list_ab_04" class="artistTitle" title="새린" onclick="
 " target="_self">새린</a>
@@ -2383,7 +2383,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[Rhythmic Music for You (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20484512?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20484512?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:56 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20153069?wl_ref=list_ab_04" class="artistTitle" title="BGMG" onclick="
 " target="_self">BGMG</a>
@@ -2398,7 +2398,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[The Second Story: Finnish Vacation (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20486070?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20486070?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/10780518?wl_ref=list_ab_04" class="artistTitle" title="Peachy!" onclick="
 " target="_self">Peachy!</a>
@@ -2428,7 +2428,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[순종하며 따라갑니다 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485474?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485474?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20013623?wl_ref=list_ab_04" class="artistTitle" title="사랑향기" onclick="
 " target="_self">사랑향기</a>
@@ -2530,10 +2530,10 @@ Ronald Isley(로널드 아이슬리)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204837/20483765.jpg?version=1660273217000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블루 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <title><![CDATA[BLUE (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/4078601?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4078601?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:34 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80193357?wl_ref=list_ab_04" class="artistTitle" title="O.O.O (오오오)" onclick="
 " target="_self">O.O.O (오오오)</a>
@@ -2542,7 +2542,7 @@ Ronald Isley(로널드 아이슬리)
 <time datetime="">2022.08.12</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40786/4078601.jpg?version=1660273210000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40786/4078601.jpg?version=1660278758000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마음의 뮤직 34화: Decade (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2563,7 +2563,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[오아시스(Oasis) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20486078?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20486078?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20051884?wl_ref=list_ab_04" class="artistTitle" title="송인영(Song In Young)" onclick="
 " target="_self">송인영(Song In Young)</a>
@@ -2653,7 +2653,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[두 번째 고백 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20486032?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20486032?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20126444?wl_ref=list_ab_04" class="artistTitle" title="HYUN" onclick="
 " target="_self">HYUN</a>
@@ -2728,7 +2728,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[#DONMALIKSMTM11 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20486000?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20486000?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:34 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80210189?wl_ref=list_ab_04" class="artistTitle" title="던말릭(Don Malik)" onclick="
 " target="_self">던말릭(Don Malik)</a>
@@ -2758,7 +2758,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[Magic Woman Remix (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485981?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485981?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/5803?wl_ref=list_ab_04" class="artistTitle" title="윤영아" onclick="
 " target="_self">윤영아</a>
@@ -2788,7 +2788,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[Heart's On Fire (Feat. Alex Karlsson) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485962?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485962?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:34 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80195227?wl_ref=list_ab_04" class="artistTitle" title="IMLAY" onclick="
 " target="_self">IMLAY</a>
@@ -2818,7 +2818,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[빛자욱 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485951?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485951?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20153858?wl_ref=list_ab_04" class="artistTitle" title="해도" onclick="
 " target="_self">해도</a>
@@ -2848,7 +2848,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[KIRBY CLUB BABY (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485947?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485947?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:34 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20126790?wl_ref=list_ab_04" class="artistTitle" title="Lil kirby" onclick="
 " target="_self">Lil kirby</a>
@@ -2896,7 +2896,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[이불 속 선물 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485932?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485932?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <!-- a tag title -->
 <a href="https://music.bugs.co.kr/artist/20075973?wl_ref=list_ab_04" class="artistTitle" title="클라디(CLADI)">클라디(CLADI)</a>
@@ -2914,7 +2914,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[사라져버린 언더씬 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485922?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485922?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20118323?wl_ref=list_ab_04" class="artistTitle" title="WooKo" onclick="
 " target="_self">WooKo</a>
@@ -2929,7 +2929,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[쉼표 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485921?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485921?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:34 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20136851?wl_ref=list_ab_04" class="artistTitle" title="유난이" onclick="
 " target="_self">유난이</a>
@@ -3004,7 +3004,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[Lovers (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485852?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485852?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80353903?wl_ref=list_ab_04" class="artistTitle" title="서울다반사" onclick="
 " target="_self">서울다반사</a>
@@ -3109,7 +3109,7 @@ Ronald Isley(로널드 아이슬리)
             <title><![CDATA[오직 그대뿐 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20485779?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20485779?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Aug 2022 03:39:15 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 03:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80115955?wl_ref=list_ab_04" class="artistTitle" title="마끼아또" onclick="
 " target="_self">마끼아또</a>
