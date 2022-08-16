@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 14:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 15:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[UTSUROI]]></title>
+            <link>https://music.bugs.co.kr/album/20482968?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20482968?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 16 Aug 2022 15:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/64843?wl_ref=list_ab_04" class="artistTitle" title="동방신기 (TVXQ!)" onclick="
+" target="_self">동방신기 (TVXQ!)</a>
+</p>
+<p>
+<time datetime="">2022.08.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204829/20482968.jpg?version=20220817000004.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI ON MUSICAL (카이 온 뮤지컬)]]></title>
             <link>https://music.bugs.co.kr/album/20486533?wl_ref=list_ab_03</link>
@@ -1043,21 +1058,6 @@ Arjan Dhillon
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204864/20486451.jpg?version=20220816180017.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frenzy]]></title>
-            <link>https://music.bugs.co.kr/album/20486428?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20486428?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 16 Aug 2022 04:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12201806?wl_ref=list_ab_04" class="artistTitle" title="Ivoryghost" onclick="
-" target="_self">Ivoryghost</a>
-</p>
-<p>
-<time datetime="">2022.08.16</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204864/20486428.jpg?version=20220816120021.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
