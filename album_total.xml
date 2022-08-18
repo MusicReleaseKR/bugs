@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 14:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 15:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Live]]></title>
+            <link>https://music.bugs.co.kr/album/18228573?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18228573?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 18 Aug 2022 15:36:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80098754?wl_ref=list_ab_04" class="artistTitle" title="Samantha Fish(사만다 피시)" onclick="
+" target="_self">Samantha Fish(사만다 피시)</a>
+</p>
+<p>
+<time datetime="">2022.08.19</time>
+<span class="albumType">라이브</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/182285/18228573.jpg?version=20220819000020.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키즈타임즈_667]]></title>
             <link>https://music.bugs.co.kr/album/20487015?wl_ref=list_ab_03</link>
@@ -515,7 +530,7 @@
 <time datetime="">2022.08.18</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/189522/18952276.jpg?version=20220818000017.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189522/18952276.jpg?version=20220819002234.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Totally Real]]></title>
@@ -1040,21 +1055,6 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204855/20485512.jpg?version=20220818120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kitsune: Deezy Daisy]]></title>
-            <link>https://music.bugs.co.kr/album/20485478?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20485478?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 18 Aug 2022 04:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80155561?wl_ref=list_ab_04" class="artistTitle" title="Portland" onclick="
-" target="_self">Portland</a>
-</p>
-<p>
-<time datetime="">2022.08.18</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204854/20485478.jpg?version=20220818120028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
