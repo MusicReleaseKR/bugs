@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 14:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 15:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Could I]]></title>
+            <link>https://music.bugs.co.kr/album/4077717?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4077717?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 19 Aug 2022 15:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20025321?wl_ref=list_ab_04" class="artistTitle" title="JIDA(지다)">JIDA(지다)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'JIDA||JIDA(지다)||20025321||OK\\nLILAC||LILAC (라일락)||80244381||OK', ''); return false;">
+JIDA(지다)
+</a> </p>
+<p>
+<time datetime="">2022.07.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40777/4077717.jpg?version=20220714180017.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Morae Vol.1]]></title>
             <link>https://music.bugs.co.kr/album/20487336?wl_ref=list_ab_03</link>
@@ -1047,21 +1065,6 @@ Studio 100
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/189869/18986986.jpg?version=20220819102248.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SOS]]></title>
-            <link>https://music.bugs.co.kr/album/18986985?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18986985?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 19 Aug 2022 04:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11381629?wl_ref=list_ab_04" class="artistTitle" title="Koky" onclick="
-" target="_self">Koky</a>
-</p>
-<p>
-<time datetime="">2022.08.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/189869/18986985.jpg?version=20220819152510.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
