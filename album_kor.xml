@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 07:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 08:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1039,17 +1039,14 @@ GLENCHOII
             <guid>https://music.bugs.co.kr/album/20486971?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 19 Aug 2022 04:09:20 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20166142?wl_ref=list_ab_04" class="artistTitle" title="Darren Choi">Darren Choi</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Darren Choi||Darren Choi||20166142||OK\\nSoomee Han||Soomee Han||20166143||OK', ''); return false;">
-Darren Choi
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/20166142?wl_ref=list_ab_04" class="artistTitle" title="Darren Choi &amp; Soomee Han" onclick="
+" target="_self">Darren Choi &amp; Soomee Han</a>
+</p>
 <p>
 <time datetime="">2022.08.19</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204869/20486971.jpg?version=1660878022000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204869/20486971.jpg?version=1660894953000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영원한 사랑]]></title>
