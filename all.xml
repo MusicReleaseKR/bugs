@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 14:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 15:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1075,6 +1075,21 @@ GHOST9(고스트나인)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204882/20488242.jpg?version=20220826120000.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Buddha Bar by Amine K & Ravin (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/16505929?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16505929?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 28 Aug 2022 15:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80141469?wl_ref=list_ab_04" class="artistTitle" title="Buddha-Bar" onclick="
+" target="_self">Buddha-Bar</a>
+</p>
+<p>
+<time datetime="">2022.08.29</time>
+<span class="albumType">컴필레이션</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/165059/16505929.jpg?version=20220828003411.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주영희 작곡집 1집 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20488264?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20488264?wl_ref=list_ab_03</guid>
@@ -2124,21 +2139,6 @@ Mc Toy
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/190902/19090255.jpg?version=20220828000004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I'm Going Now (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/19089913?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19089913?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 28 Aug 2022 04:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12751617?wl_ref=list_ab_04" class="artistTitle" title="BALVICH" onclick="
-" target="_self">BALVICH</a>
-</p>
-<p>
-<time datetime="">2022.08.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/190899/19089913.jpg?version=20220828120006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주영희 작곡집 1집 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
