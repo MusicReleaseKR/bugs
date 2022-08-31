@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 09:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 10:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204892/20489202.jpg?version=20220831120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Crossroads]]></title>
+            <link>https://music.bugs.co.kr/album/20489175?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20489175?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 Aug 2022 10:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20167030?wl_ref=list_ab_04" class="artistTitle" title="Teresa Ellie" onclick="
+" target="_self">Teresa Ellie</a>
+</p>
+<p>
+<time datetime="">2022.08.31</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204891/20489175.jpg?version=20220831180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[EGOIST]]></title>
             <link>https://music.bugs.co.kr/album/20489155?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20489155?wl_ref=list_ab_03</guid>
@@ -339,6 +354,21 @@ RAWAX
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204887/20488701.jpg?version=20220831120007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[0화]]></title>
+            <link>https://music.bugs.co.kr/album/20487906?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20487906?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 Aug 2022 10:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20125055?wl_ref=list_ab_04" class="artistTitle" title="정승희" onclick="
+" target="_self">정승희</a>
+</p>
+<p>
+<time datetime="">2022.08.31</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204879/20487906.jpg?version=20220831180004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[空気になりたい / Kuki ni Naritai (공기가 되고파)]]></title>
@@ -1047,36 +1077,6 @@ Carlos Meisel
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/184752/18475236.jpg?version=20220831000004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[If You Would Only Listen, I Could Make It Quiet]]></title>
-            <link>https://music.bugs.co.kr/album/18220341?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18220341?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 31 Aug 2022 05:02:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12836006?wl_ref=list_ab_04" class="artistTitle" title="Nude Cloak" onclick="
-" target="_self">Nude Cloak</a>
-</p>
-<p>
-<time datetime="">2022.08.31</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/182203/18220341.jpg?version=20220831000004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sea Life]]></title>
-            <link>https://music.bugs.co.kr/album/18189699?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18189699?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 31 Aug 2022 05:02:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12828740?wl_ref=list_ab_04" class="artistTitle" title="Roelroel" onclick="
-" target="_self">Roelroel</a>
-</p>
-<p>
-<time datetime="">2022.08.31</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/181896/18189699.jpg?version=20220831120007.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
