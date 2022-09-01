@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 09:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 10:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204897/20489748.jpg?version=20220901120010.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[동성로]]></title>
+            <link>https://music.bugs.co.kr/album/20489711?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20489711?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 01 Sep 2022 10:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20161197?wl_ref=list_ab_04" class="artistTitle" title="Potato Shaped Sheep" onclick="
+" target="_self">Potato Shaped Sheep</a>
+</p>
+<p>
+<time datetime="">2022.09.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204897/20489711.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Making Steak]]></title>
             <link>https://music.bugs.co.kr/album/20489655?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20489655?wl_ref=list_ab_03</guid>
@@ -312,6 +327,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204894/20489448.jpg?version=20220901120010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AGAIN?]]></title>
+            <link>https://music.bugs.co.kr/album/20489426?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20489426?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 01 Sep 2022 10:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20164336?wl_ref=list_ab_04" class="artistTitle" title="DID NOT!" onclick="
+" target="_self">DID NOT!</a>
+</p>
+<p>
+<time datetime="">2022.09.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204894/20489426.jpg?version=20220901180004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IV]]></title>
@@ -1041,36 +1071,6 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/189535/18953549.jpg?version=20220901000007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ma mère chantait toujours]]></title>
-            <link>https://music.bugs.co.kr/album/18953424?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18953424?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 01 Sep 2022 04:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10400885?wl_ref=list_ab_04" class="artistTitle" title="Cindy Daniel" onclick="
-" target="_self">Cindy Daniel</a>
-</p>
-<p>
-<time datetime="">2022.09.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/189534/18953424.jpg?version=20220901000007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[There's No Turning Back]]></title>
-            <link>https://music.bugs.co.kr/album/18953413?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18953413?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 01 Sep 2022 04:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12880347?wl_ref=list_ab_04" class="artistTitle" title="Maccan" onclick="
-" target="_self">Maccan</a>
-</p>
-<p>
-<time datetime="">2022.09.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/189534/18953413.jpg?version=20220901000007.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
