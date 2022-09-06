@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 07:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 08:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -832,14 +832,17 @@ Sheku Kanneh-Mason
             <guid>https://music.bugs.co.kr/album/20490789?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 05 Sep 2022 04:49:50 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80208835?wl_ref=list_ab_04" class="artistTitle" title="은교" onclick="
-" target="_self">은교</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80208835?wl_ref=list_ab_04" class="artistTitle" title="은교">은교</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '은교||은교||80208835||OK\\nMichael Choi||Michael Choi||20165943||OK', ''); return false;">
+은교
+</a> </p>
 <p>
 <time datetime="">2022.09.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204907/20490789.jpg?version=20220906010244.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204907/20490789.jpg?version=20220906165137.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나를 사랑하지 않아도 돼 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
