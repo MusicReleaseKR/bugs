@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 09:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 10:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[镜象马戏团音乐秀(미러서커스 뮤직쇼)]]></title>
+            <link>https://music.bugs.co.kr/album/20492071?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20492071?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 10 Sep 2022 10:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20073413?wl_ref=list_ab_04" class="artistTitle" title="ONER(坤音四子)" onclick="
+" target="_self">ONER(坤音四子)</a>
+</p>
+<p>
+<time datetime="">2022.09.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204920/20492071.jpg?version=20220910130004.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NerdBoy]]></title>
             <link>https://music.bugs.co.kr/album/20491756?wl_ref=list_ab_03</link>
@@ -234,6 +249,24 @@ Sleepy Aurora Music
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204914/20491416.jpg?version=20220910120005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FASM]]></title>
+            <link>https://music.bugs.co.kr/album/20489789?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20489789?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 10 Sep 2022 10:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20167164?wl_ref=list_ab_04" class="artistTitle" title="HOT MAN CASHIER">HOT MAN CASHIER</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'HOT MAN CASHIER||HOT MAN CASHIER||20167164||OK\\nPASSTHEVOID||PASSTHEVOID||20131504||OK', ''); return false;">
+HOT MAN CASHIER
+</a> </p>
+<p>
+<time datetime="">2022.09.10</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204897/20489789.jpg?version=20220910180007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CRACK IN THE SKY]]></title>
@@ -491,6 +524,39 @@ Sleepy Aurora Music
             <enclosure url="https://image.bugsm.co.kr/album/images/170/189536/18953622.jpg?version=20220910000006.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[ STARTREK ]]]></title>
+            <link>https://music.bugs.co.kr/album/4079534?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4079534?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 10 Sep 2022 10:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20115439?wl_ref=list_ab_04" class="artistTitle" title="XIMO">XIMO</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'XIMO||XIMO||20115439||OK\\nFLASKO||FLASKO||20152569||OK', ''); return false;">
+XIMO
+</a> </p>
+<p>
+<time datetime="">2022.09.10</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40795/4079534.jpg?version=20220910180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[City Lights]]></title>
+            <link>https://music.bugs.co.kr/album/20492109?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20492109?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 10 Sep 2022 10:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20040756?wl_ref=list_ab_04" class="artistTitle" title="릴러말즈 (Leellamarz)" onclick="
+" target="_self">릴러말즈 (Leellamarz)</a>
+</p>
+<p>
+<time datetime="">2022.09.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204921/20492109.jpg?version=20220910180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[작은 시인의 노래]]></title>
             <link>https://music.bugs.co.kr/album/20491912?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20491912?wl_ref=list_ab_03</guid>
@@ -521,6 +587,21 @@ Sleepy Aurora Music
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204919/20491911.jpg?version=20220910120002.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[RAINBOW STATION Episode.3]]></title>
+            <link>https://music.bugs.co.kr/album/20491876?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20491876?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 10 Sep 2022 10:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20033108?wl_ref=list_ab_04" class="artistTitle" title="이서진" onclick="
+" target="_self">이서진</a>
+</p>
+<p>
+<time datetime="">2022.09.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204918/20491876.jpg?version=20220910180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[No Limit (ft. Dok2)]]></title>
             <link>https://music.bugs.co.kr/album/20491859?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20491859?wl_ref=list_ab_03</guid>
@@ -549,6 +630,36 @@ Sleepy Aurora Music
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204917/20491768.jpg?version=20220910120005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왓챠 오리지널 <인사이드 리릭스> 'Airbag']]></title>
+            <link>https://music.bugs.co.kr/album/20491701?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20491701?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 10 Sep 2022 10:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20065235?wl_ref=list_ab_04" class="artistTitle" title="SURL(설)" onclick="
+" target="_self">SURL(설)</a>
+</p>
+<p>
+<time datetime="">2022.09.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204917/20491701.jpg?version=20220910180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘지내나요]]></title>
+            <link>https://music.bugs.co.kr/album/20491683?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20491683?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 10 Sep 2022 10:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20029012?wl_ref=list_ab_04" class="artistTitle" title="경지" onclick="
+" target="_self">경지</a>
+</p>
+<p>
+<time datetime="">2022.09.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204916/20491683.jpg?version=20220910180004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HOLIMODA 0002]]></title>
@@ -687,6 +798,24 @@ Sleepy Aurora Music
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204913/20491344.jpg?version=20220910120002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Just Love!]]></title>
+            <link>https://music.bugs.co.kr/album/20491303?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20491303?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 10 Sep 2022 10:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20147380?wl_ref=list_ab_04" class="artistTitle" title="Foolish">Foolish</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Foolish||Foolish||20147380||OK\\nKIM ROMAN||KIM ROMAN||20167733||OK', ''); return false;">
+Foolish
+</a> </p>
+<p>
+<time datetime="">2022.09.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204913/20491303.jpg?version=20220910180007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송편 만들기]]></title>
@@ -945,126 +1074,6 @@ Alfa Kappa
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/193597/19359763.jpg?version=20220910000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fukrey]]></title>
-            <link>https://music.bugs.co.kr/album/19359762?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19359762?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Sep 2022 04:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10062282?wl_ref=list_ab_04" class="artistTitle" title="Anuradha" onclick="
-" target="_self">Anuradha</a>
-</p>
-<p>
-<time datetime="">2022.09.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/193597/19359762.jpg?version=20220910000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Ain’t Lying]]></title>
-            <link>https://music.bugs.co.kr/album/19359761?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19359761?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Sep 2022 04:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12625656?wl_ref=list_ab_04" class="artistTitle" title="JAS KAHLON" onclick="
-" target="_self">JAS KAHLON</a>
-</p>
-<p>
-<time datetime="">2022.09.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/193597/19359761.jpg?version=20220910000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[It's 2 Late]]></title>
-            <link>https://music.bugs.co.kr/album/19359720?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19359720?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Sep 2022 04:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20091098?wl_ref=list_ab_04" class="artistTitle" title="N Kay" onclick="
-" target="_self">N Kay</a>
-</p>
-<p>
-<time datetime="">2022.09.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/193597/19359720.jpg?version=20220910000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ambarsariya]]></title>
-            <link>https://music.bugs.co.kr/album/19359718?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19359718?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Sep 2022 04:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12927245?wl_ref=list_ab_04" class="artistTitle" title="Ishita Sodhi" onclick="
-" target="_self">Ishita Sodhi</a>
-</p>
-<p>
-<time datetime="">2022.09.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/193597/19359718.jpg?version=20220910000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Çare]]></title>
-            <link>https://music.bugs.co.kr/album/19359650?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19359650?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Sep 2022 04:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12927291?wl_ref=list_ab_04" class="artistTitle" title="Türkan Velizade" onclick="
-" target="_self">Türkan Velizade</a>
-</p>
-<p>
-<time datetime="">2022.09.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/193596/19359650.jpg?version=20220910000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Dança do Iggy]]></title>
-            <link>https://music.bugs.co.kr/album/19359471?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19359471?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Sep 2022 04:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12844436?wl_ref=list_ab_04" class="artistTitle" title="Babyloonz Português" onclick="
-" target="_self">Babyloonz Português</a>
-</p>
-<p>
-<time datetime="">2022.09.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/193594/19359471.jpg?version=20220910000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Baby Doll]]></title>
-            <link>https://music.bugs.co.kr/album/19359469?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19359469?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Sep 2022 04:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80319679?wl_ref=list_ab_04" class="artistTitle" title="Psycho Rhyme" onclick="
-" target="_self">Psycho Rhyme</a>
-</p>
-<p>
-<time datetime="">2022.09.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/193594/19359469.jpg?version=20220910000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bhorer Kuasha]]></title>
-            <link>https://music.bugs.co.kr/album/19358515?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19358515?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Sep 2022 04:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12386252?wl_ref=list_ab_04" class="artistTitle" title="S.T.A Turjo" onclick="
-" target="_self">S.T.A Turjo</a>
-</p>
-<p>
-<time datetime="">2022.09.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/193585/19358515.jpg?version=20220910120005.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
