@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 14:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 15:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Feelin' Like]]></title>
+            <link>https://music.bugs.co.kr/album/4078815?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4078815?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 13 Sep 2022 15:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80269668?wl_ref=list_ab_04" class="artistTitle" title="펜타곤" onclick="
+" target="_self">펜타곤</a>
+</p>
+<p>
+<time datetime="">2022.09.14</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40788/4078815.jpg?version=20220914000003.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Story 17]]></title>
             <link>https://music.bugs.co.kr/album/20492290?wl_ref=list_ab_03</link>
@@ -1049,21 +1064,6 @@ Muzica pentru dormit pentru copii
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204922/20492288.jpg?version=20220913120009.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mawlee (RIOT TEN VIP Mix)]]></title>
-            <link>https://music.bugs.co.kr/album/20492179?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20492179?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 13 Sep 2022 04:53:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8165884?wl_ref=list_ab_04" class="artistTitle" title="Riot Ten" onclick="
-" target="_self">Riot Ten</a>
-</p>
-<p>
-<time datetime="">2022.09.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204921/20492179.jpg?version=20220913120009.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
