@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 04:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 06:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -306,6 +306,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204919/20491975.jpg?version=1663297210000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머물러 있는 것 또한 아름다울 수 있는 건]]></title>
+            <link>https://music.bugs.co.kr/album/20491123?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20491123?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 16 Sep 2022 06:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80294022?wl_ref=list_ab_04" class="artistTitle" title="SOLE(쏠)" onclick="
+" target="_self">SOLE(쏠)</a>
+</p>
+<p>
+<time datetime="">2022.09.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204911/20491123.jpg?version=1663308355000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RESCUE TAYO]]></title>
@@ -1053,21 +1068,6 @@ THUGBOYY
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204928/20492877.jpg?version=1663297210000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I'm In The Maze]]></title>
-            <link>https://music.bugs.co.kr/album/20492859?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20492859?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 16 Sep 2022 04:54:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20168354?wl_ref=list_ab_04" class="artistTitle" title="석해" onclick="
-" target="_self">석해</a>
-</p>
-<p>
-<time datetime="">2022.09.16</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204928/20492859.jpg?version=1663297210000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
