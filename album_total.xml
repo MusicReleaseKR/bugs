@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 23:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 02:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
 <time datetime="">2022.09.16</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/193594/19359429.jpg?version=20220916000005.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/193594/19359429.jpg?version=20220916105018.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[abcdefu]]></title>
@@ -173,7 +173,7 @@ Hurricane Wisdom
 <time datetime="">2022.09.15</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204929/20492917.jpg?version=20220916011243.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204929/20492917.jpg?version=20220916104824.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Burn]]></title>
@@ -650,6 +650,21 @@ Ventt
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204920/20492039.jpg?version=20220915120008.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[핑크퐁 어린이 베스트 인기 동요 모음집]]></title>
+            <link>https://music.bugs.co.kr/album/20491748?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20491748?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 16 Sep 2022 02:34:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80258731?wl_ref=list_ab_04" class="artistTitle" title="핑크퐁" onclick="
+" target="_self">핑크퐁</a>
+</p>
+<p>
+<time datetime="">2022.09.15</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204917/20491748.jpg?version=20220916100711.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비애 (悲哀)]]></title>
             <link>https://music.bugs.co.kr/album/20491417?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20491417?wl_ref=list_ab_03</guid>
@@ -1059,21 +1074,6 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/191529/19152919.jpg?version=20220916063232.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Semantics]]></title>
-            <link>https://music.bugs.co.kr/album/19152918?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19152918?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 15 Sep 2022 17:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11504315?wl_ref=list_ab_04" class="artistTitle" title="Andrew Rathbun" onclick="
-" target="_self">Andrew Rathbun</a>
-</p>
-<p>
-<time datetime="">2022.09.15</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/191529/19152918.jpg?version=20220916063231.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
