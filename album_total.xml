@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 14:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 15:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Look On These Works]]></title>
+            <link>https://music.bugs.co.kr/album/19896711?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19896711?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Nov 2022 15:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12916175?wl_ref=list_ab_04" class="artistTitle" title="Driven Serious" onclick="
+" target="_self">Driven Serious</a>
+</p>
+<p>
+<time datetime="">2022.11.19</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/198967/19896711.jpg?version=20221119000007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Too Involved]]></title>
+            <link>https://music.bugs.co.kr/album/17183239?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17183239?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Nov 2022 15:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80318311?wl_ref=list_ab_04" class="artistTitle" title="3LetterzNUK" onclick="
+" target="_self">3LetterzNUK</a>
+</p>
+<p>
+<time datetime="">2022.03.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/171832/17183239.jpg?version=20221118152149.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Into The Rift (Deluxe)]]></title>
             <link>https://music.bugs.co.kr/album/30059350?wl_ref=list_ab_03</link>
@@ -1041,36 +1071,6 @@ Renaud Capucon(르노 카퓌숑)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/300570/30057008.jpg?version=20221118003005.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Not So Silent Night]]></title>
-            <link>https://music.bugs.co.kr/album/30057001?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30057001?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 18 Nov 2022 04:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/39836?wl_ref=list_ab_04" class="artistTitle" title="Sarah Connor(사라 코너)" onclick="
-" target="_self">Sarah Connor(사라 코너)</a>
-</p>
-<p>
-<time datetime="">2022.11.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/300570/30057001.jpg?version=20221118011701.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[De Pelos]]></title>
-            <link>https://music.bugs.co.kr/album/30056989?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30056989?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 18 Nov 2022 04:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10974935?wl_ref=list_ab_04" class="artistTitle" title="Los Pelos" onclick="
-" target="_self">Los Pelos</a>
-</p>
-<p>
-<time datetime="">2022.11.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/300569/30056989.jpg?version=20221118010628.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
