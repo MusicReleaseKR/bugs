@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 23:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 01:56:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/198506/19850665.jpg?version=20221118000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweet Sorrow of Mother]]></title>
+            <link>https://music.bugs.co.kr/album/4080101?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4080101?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Nov 2022 01:55:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20070472?wl_ref=list_ab_04" class="artistTitle" title="비비(BIBI)" onclick="
+" target="_self">비비(BIBI)</a>
+</p>
+<p>
+<time datetime="">2022.10.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40801/4080101.jpg?version=20221029015526.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Silalishi]]></title>
@@ -54,6 +69,24 @@ Dzo 729
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/300154/30015448.jpg?version=20221118002729.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aristo]]></title>
+            <link>https://music.bugs.co.kr/album/30012957?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30012957?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Nov 2022 01:55:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80079168?wl_ref=list_ab_04" class="artistTitle" title="Big A">Big A</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Big A||Big A||80079168||OK\\n2Baba||2Baba||10712360||OK', ''); return false;">
+Big A
+</a> </p>
+<p>
+<time datetime="">2022.11.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/300129/30012957.jpg?version=20221118092003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rich Man]]></title>
@@ -1056,36 +1089,6 @@ Ab 17
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/199976/19997600.jpg?version=20221118063856.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anatolian Sniper (8D Drone Anamorphic Music)]]></title>
-            <link>https://music.bugs.co.kr/album/19997158?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19997158?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Nov 2022 04:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12058156?wl_ref=list_ab_04" class="artistTitle" title="Noora Hahl" onclick="
-" target="_self">Noora Hahl</a>
-</p>
-<p>
-<time datetime="">2022.11.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/199971/19997158.jpg?version=20221118063846.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[МЕТАФИЗИЧЕСКИЙ БУНТ]]></title>
-            <link>https://music.bugs.co.kr/album/19990393?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19990393?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Nov 2022 04:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12070825?wl_ref=list_ab_04" class="artistTitle" title="Unsinkable" onclick="
-" target="_self">Unsinkable</a>
-</p>
-<p>
-<time datetime="">2022.11.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/199903/19990393.jpg?version=20221118064136.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
