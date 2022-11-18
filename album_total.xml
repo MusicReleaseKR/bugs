@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 01:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 03:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,6 +87,51 @@ Big A
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/300129/30012957.jpg?version=20221118092003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Around The Block]]></title>
+            <link>https://music.bugs.co.kr/album/19974526?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19974526?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Nov 2022 03:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12424624?wl_ref=list_ab_04" class="artistTitle" title="Diev" onclick="
+" target="_self">Diev</a>
+</p>
+<p>
+<time datetime="">2022.11.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/199745/19974526.jpg?version=20221118120008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Suíte 4x4]]></title>
+            <link>https://music.bugs.co.kr/album/19937913?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19937913?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Nov 2022 03:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12235774?wl_ref=list_ab_04" class="artistTitle" title="Yuri e Kaynã" onclick="
+" target="_self">Yuri e Kaynã</a>
+</p>
+<p>
+<time datetime="">2022.11.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/199379/19937913.jpg?version=20221118120008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Samadhan (with Mr Rizan & Siam Hawladar)]]></title>
+            <link>https://music.bugs.co.kr/album/19422174?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19422174?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Nov 2022 03:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12847052?wl_ref=list_ab_04" class="artistTitle" title="Ryhan Production" onclick="
+" target="_self">Ryhan Production</a>
+</p>
+<p>
+<time datetime="">2022.11.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/194221/19422174.jpg?version=20221118120008.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rich Man]]></title>
@@ -1038,57 +1083,6 @@ Study Music For Concentration
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205057/20505737.jpg?version=20221118063854.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kind of Beethoven]]></title>
-            <link>https://music.bugs.co.kr/album/20505694?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20505694?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Nov 2022 04:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12878476?wl_ref=list_ab_04" class="artistTitle" title="Xavi Torres">Xavi Torres</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Xavi Torres||Xavi Torres||12878476||OK\\nJoris Roelofs||Joris Roelofs||1012203||OK\\nJoan Terol||Joan Terol||12987779||OK', ''); return false;">
-Xavi Torres
-</a> </p>
-<p>
-<time datetime="">2022.11.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205056/20505694.jpg?version=20221118063851.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy Trippy Creepy]]></title>
-            <link>https://music.bugs.co.kr/album/20504529?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20504529?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Nov 2022 04:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20116247?wl_ref=list_ab_04" class="artistTitle" title="Wona" onclick="
-" target="_self">Wona</a>
-</p>
-<p>
-<time datetime="">2022.11.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205045/20504529.jpg?version=20221118004747.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TEZ FILAM]]></title>
-            <link>https://music.bugs.co.kr/album/19997600?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19997600?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Nov 2022 04:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12828043?wl_ref=list_ab_04" class="artistTitle" title="Ab 17">Ab 17</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ab 17||Ab 17||12828043||OK\\nSez on the Beat||Sez on the Beat||11955112||OK', ''); return false;">
-Ab 17
-</a> </p>
-<p>
-<time datetime="">2022.11.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/199976/19997600.jpg?version=20221118063856.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
