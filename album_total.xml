@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 01:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 03:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/198967/19896711.jpg?version=20221119000007.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MIL]]></title>
+            <link>https://music.bugs.co.kr/album/19587298?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19587298?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 19 Nov 2022 03:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8159920?wl_ref=list_ab_04" class="artistTitle" title="Mati" onclick="
+" target="_self">Mati</a>
+</p>
+<p>
+<time datetime="">2022.11.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/195872/19587298.jpg?version=20221119120011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Too Involved]]></title>
             <link>https://music.bugs.co.kr/album/17183239?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17183239?wl_ref=list_ab_03</guid>
@@ -35,7 +50,7 @@
 <time datetime="">2022.11.19</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/171832/17183239.jpg?version=20221119002805.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/171832/17183239.jpg?version=20221119120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Into The Rift (Deluxe)]]></title>
@@ -1056,21 +1071,6 @@ Renaud Capucon(르노 카퓌숑)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/300570/30057012.jpg?version=20221119065121.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Creatures Of The Night (40th Anniversary / Super Deluxe)]]></title>
-            <link>https://music.bugs.co.kr/album/30057008?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30057008?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 18 Nov 2022 04:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/609?wl_ref=list_ab_04" class="artistTitle" title="Kiss(키스)" onclick="
-" target="_self">Kiss(키스)</a>
-</p>
-<p>
-<time datetime="">2022.11.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/300570/30057008.jpg?version=20221119065117.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
