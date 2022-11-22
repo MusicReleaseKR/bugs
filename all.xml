@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 09:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 10:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
 <time datetime="">2022.11.22</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40817/4081707.jpg?version=20221122180035.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40817/4081707.jpg?version=20221122182911.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ON and ON (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1111,6 +1111,24 @@ GRAY (그레이)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/300589/30058954.jpg?version=20221122000005.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K-hiphop Music Playlist (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/30057478?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30057478?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Nov 2022 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20042483?wl_ref=list_ab_04" class="artistTitle" title="페페(PePe)">페페(PePe)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '페페(PePe)||페페(PePe)||20042483||OK\\n이글라프||EGLAF(이글라프)||20040587||OK', ''); return false;">
+페페(PePe)
+</a> </p>
+<p>
+<time datetime="">2022.11.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/300574/30057478.jpg?version=20221122180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[At the Movies, Vol. 1 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/30057272?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30057272?wl_ref=list_ab_03</guid>
@@ -2149,19 +2167,22 @@ Gord Downie
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205293/20529321.jpg?version=20221122120008.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Receive a bullet with open arms (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20529298?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20529298?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Nov 2022 04:27:28 GMT</pubDate>
+            <title><![CDATA[K-hiphop Music Playlist (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/30057478?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30057478?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Nov 2022 09:21:09 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20157514?wl_ref=list_ab_04" class="artistTitle" title="AK-47" onclick="
-" target="_self">AK-47</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20042483?wl_ref=list_ab_04" class="artistTitle" title="페페(PePe)">페페(PePe)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '페페(PePe)||페페(PePe)||20042483||OK\\n이글라프||EGLAF(이글라프)||20040587||OK', ''); return false;">
+페페(PePe)
+</a> </p>
 <p>
 <time datetime="">2022.11.22</time>
-<span class="albumType">EP(미니)</span>
+<span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529298.jpg?version=20221122120008.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/300574/30057478.jpg?version=1669107604000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캬바레 종합편 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2509,6 +2530,21 @@ Gord Downie
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529298.jpg?version=1669086008000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Forgive Me - The 3rd Mini Album (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20529294?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20529294?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Nov 2022 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/1168?wl_ref=list_ab_04" class="artistTitle" title="보아 (BoA)" onclick="
+" target="_self">보아 (BoA)</a>
+</p>
+<p>
+<time datetime="">2022.11.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529294.jpg?version=1669107639000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[PHONE (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20529242?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20529242?wl_ref=list_ab_03</guid>
@@ -2764,6 +2800,36 @@ Gord Downie
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205289/20528940.jpg?version=1669086008000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Substantial Dreams (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20528793?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20528793?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Nov 2022 10:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20173260?wl_ref=list_ab_04" class="artistTitle" title="Le Stack" onclick="
+" target="_self">Le Stack</a>
+</p>
+<p>
+<time datetime="">2022.11.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205287/20528793.jpg?version=1669107608000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[emotionless poetry (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20528791?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20528791?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Nov 2022 10:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20173260?wl_ref=list_ab_04" class="artistTitle" title="Le Stack" onclick="
+" target="_self">Le Stack</a>
+</p>
+<p>
+<time datetime="">2022.11.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205287/20528791.jpg?version=1669107608000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Come To Jesus (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20528395?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20528395?wl_ref=list_ab_03</guid>
@@ -2779,6 +2845,21 @@ Gord Downie
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205283/20528395.jpg?version=1669086008000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ON and ON (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20528148?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20528148?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Nov 2022 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80364512?wl_ref=list_ab_04" class="artistTitle" title="TEMPEST(템페스트)" onclick="
+" target="_self">TEMPEST(템페스트)</a>
+</p>
+<p>
+<time datetime="">2022.11.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205281/20528148.jpg?version=1669107636000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Overgrowth (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20528123?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20528123?wl_ref=list_ab_03</guid>
@@ -2792,6 +2873,24 @@ Gord Downie
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205281/20528123.jpg?version=1669086008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤고개 블루스 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20527383?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20527383?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Nov 2022 10:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20051584?wl_ref=list_ab_04" class="artistTitle" title="24Oz">24Oz</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '24Oz||24Oz||20051584||OK\\n박찬||박찬||20172884||OK', ''); return false;">
+24Oz
+</a> </p>
+<p>
+<time datetime="">2022.11.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205273/20527383.jpg?version=1669107608000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[fall away (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3049,6 +3148,21 @@ Gord Downie
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529299.jpg?version=1669086001000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[what do you want now (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20529296?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20529296?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Nov 2022 10:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20165474?wl_ref=list_ab_04" class="artistTitle" title="Cuaco" onclick="
+" target="_self">Cuaco</a>
+</p>
+<p>
+<time datetime="">2022.11.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529296.jpg?version=1669107608000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Blue day (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20529291?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20529291?wl_ref=list_ab_03</guid>
@@ -3107,114 +3221,6 @@ Gord Downie
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529279.jpg?version=1669086008000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Your Pads (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20529267?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20529267?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Nov 2022 04:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20035356?wl_ref=list_ab_04" class="artistTitle" title="블랙 박스(BLACK BOX)" onclick="
-" target="_self">블랙 박스(BLACK BOX)</a>
-</p>
-<p>
-<time datetime="">2022.11.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529267.jpg?version=1669086008000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[When we were us (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20529265?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20529265?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Nov 2022 04:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20161302?wl_ref=list_ab_04" class="artistTitle" title="yeocloud" onclick="
-" target="_self">yeocloud</a>
-</p>
-<p>
-<time datetime="">2022.11.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529265.jpg?version=1669086008000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아무생각없이 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20529257?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20529257?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Nov 2022 03:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20155988?wl_ref=list_ab_04" class="artistTitle" title="안(An)" onclick="
-" target="_self">안(An)</a>
-</p>
-<p>
-<time datetime="">2022.11.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529257.jpg?version=1669086001000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Be Yourself (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20529255?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20529255?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Nov 2022 04:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20173502?wl_ref=list_ab_04" class="artistTitle" title="프로젝트 뉴 플래닛" onclick="
-" target="_self">프로젝트 뉴 플래닛</a>
-</p>
-<p>
-<time datetime="">2022.11.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529255.jpg?version=1669086064000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트폰 좀비 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20529250?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20529250?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Nov 2022 04:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20170327?wl_ref=list_ab_04" class="artistTitle" title="읽어주는 그림동화" onclick="
-" target="_self">읽어주는 그림동화</a>
-</p>
-<p>
-<time datetime="">2022.11.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529250.jpg?version=1669086008000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[cliché (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20529241?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20529241?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Nov 2022 03:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20148724?wl_ref=list_ab_04" class="artistTitle" title="멜라니 (MELANY)">멜라니 (MELANY)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '멜라니 (MELANY)||멜라니 (MELANY)||20148724||OK\\nA:IN||A:IN||20154884||OK\\nJINJU||JINJU||20154888||OK', ''); return false;">
-멜라니 (MELANY)
-</a> </p>
-<p>
-<time datetime="">2022.11.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529241.jpg?version=1669095631000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이 많은 여우 새미 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20529240?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20529240?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Nov 2022 04:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20170327?wl_ref=list_ab_04" class="artistTitle" title="읽어주는 그림동화" onclick="
-" target="_self">읽어주는 그림동화</a>
-</p>
-<p>
-<time datetime="">2022.11.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205292/20529240.jpg?version=1669086008000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
