@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 01:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 03:06:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Find (feat. Jovid)]]></title>
+            <link>https://music.bugs.co.kr/album/19956467?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19956467?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 25 Nov 2022 03:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12090980?wl_ref=list_ab_04" class="artistTitle" title="Apollo Twins" onclick="
+" target="_self">Apollo Twins</a>
+</p>
+<p>
+<time datetime="">2022.11.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/199564/19956467.jpg?version=20221125120010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Found Love]]></title>
+            <link>https://music.bugs.co.kr/album/19872415?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19872415?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 25 Nov 2022 03:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12776723?wl_ref=list_ab_04" class="artistTitle" title="Marsellie" onclick="
+" target="_self">Marsellie</a>
+</p>
+<p>
+<time datetime="">2022.11.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/198724/19872415.jpg?version=20221125120005.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cajita Feliz]]></title>
             <link>https://music.bugs.co.kr/album/19429836?wl_ref=list_ab_03</link>
@@ -314,7 +344,7 @@ Ron Carter Quartet
 <time datetime="">2022.11.24</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/300689/30068950.jpg?version=20221125063930.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/300689/30068950.jpg?version=20221125110818.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sounds To Unwind]]></title>
@@ -1073,36 +1103,6 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205262/20526231.jpg?version=20221125063833.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9 жизней]]></title>
-            <link>https://music.bugs.co.kr/album/20526162?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20526162?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 24 Nov 2022 04:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12982064?wl_ref=list_ab_04" class="artistTitle" title="Наташа Милая" onclick="
-" target="_self">Наташа Милая</a>
-</p>
-<p>
-<time datetime="">2022.11.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205261/20526162.jpg?version=20221125063810.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Your Life]]></title>
-            <link>https://music.bugs.co.kr/album/20507536?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20507536?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 24 Nov 2022 04:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8214670?wl_ref=list_ab_04" class="artistTitle" title="Sam Stoner" onclick="
-" target="_self">Sam Stoner</a>
-</p>
-<p>
-<time datetime="">2022.11.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205075/20507536.jpg?version=20221125063832.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
