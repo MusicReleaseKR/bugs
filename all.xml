@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 14:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 15:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1081,6 +1081,24 @@ yetep
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40818/4081899.jpg?version=20221201064433.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Odkrywamy Kartę (Radio Edit) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/30021514?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30021514?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 01 Dec 2022 15:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12853887?wl_ref=list_ab_04" class="artistTitle" title="ALEX L">ALEX L</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'ALEX L||ALEX L||12853887||OK\\nERVVIN||ERVVIN||13007594||OK', ''); return false;">
+ALEX L
+</a> </p>
+<p>
+<time datetime="">2022.12.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/300215/30021514.jpg?version=20221202000003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Christmas Lounge (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/30237033?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30237033?wl_ref=list_ab_03</guid>
@@ -2136,21 +2154,6 @@ Justo the MC
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205307/20530754.jpg?version=20221201120009.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Volume 2 : E 2°22'46'055 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20530700?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20530700?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 01 Dec 2022 04:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20174032?wl_ref=list_ab_04" class="artistTitle" title="Ladam" onclick="
-" target="_self">Ladam</a>
-</p>
-<p>
-<time datetime="">2022.12.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205307/20530700.jpg?version=20221201120009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Morae Vol.4 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
