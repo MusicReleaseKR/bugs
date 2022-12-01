@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 22:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 23:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1099,6 +1099,21 @@ ALEX L
             <enclosure url="https://image.bugsm.co.kr/album/images/170/300215/30021514.jpg?version=20221202000003.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Van Gogh (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/18845150?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18845150?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 01 Dec 2022 23:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11702747?wl_ref=list_ab_04" class="artistTitle" title="Shadi" onclick="
+" target="_self">Shadi</a>
+</p>
+<p>
+<time datetime="">2022.12.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/188451/18845150.jpg?version=20221202080005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Christmas Lounge (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/30237033?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30237033?wl_ref=list_ab_03</guid>
@@ -2139,21 +2154,6 @@ Justo the MC
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205308/20530896.jpg?version=20221201120009.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Is A Killer (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20530754?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20530754?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 01 Dec 2022 04:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20174048?wl_ref=list_ab_04" class="artistTitle" title="In My Head" onclick="
-" target="_self">In My Head</a>
-</p>
-<p>
-<time datetime="">2022.12.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205307/20530754.jpg?version=20221201120009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Morae Vol.4 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
