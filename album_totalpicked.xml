@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40819/4081966.jpg?version=20221202120010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indigo]]></title>
+            <link>https://music.bugs.co.kr/album/4081989?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4081989?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 02 Dec 2022 05:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80180881?wl_ref=list_ab_04" class="artistTitle" title="RM" onclick="
+" target="_self">RM</a>
+</p>
+<p>
+<time datetime="">2022.12.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40819/4081989.jpg?version=20221202140005.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Treasure]]></title>
@@ -281,7 +296,7 @@
 <time datetime="">2022.12.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205317/20531799.jpg?version=20221202120003.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205317/20531799.jpg?version=20221202140733.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[축하할게]]></title>
@@ -746,7 +761,7 @@ brb.
 <time datetime="">2022.12.01</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205313/20531338.jpg?version=20221202025155.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205313/20531338.jpg?version=20221202133121.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WISH]]></title>
@@ -1067,21 +1082,6 @@ VAITEI
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205313/20531395.jpg?version=20221201180002.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cybernetic Surrealizm : 불면도시]]></title>
-            <link>https://music.bugs.co.kr/album/4081938?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4081938?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 01 Dec 2022 03:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80373732?wl_ref=list_ab_04" class="artistTitle" title="다이엔(Da’ien)" onclick="
-" target="_self">다이엔(Da’ien)</a>
-</p>
-<p>
-<time datetime="">2022.12.01</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40819/4081938.jpg?version=20221202005643.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

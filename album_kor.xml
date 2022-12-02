@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -659,21 +659,6 @@ OddSong(옫쏭)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/301829/30182986.jpg?version=1669950003000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[얼마나 좋아]]></title>
-            <link>https://music.bugs.co.kr/album/20531914?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20531914?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 02 Dec 2022 04:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20073213?wl_ref=list_ab_04" class="artistTitle" title="연어초밥(Salmon Sushi)" onclick="
-" target="_self">연어초밥(Salmon Sushi)</a>
-</p>
-<p>
-<time datetime="">2022.12.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205319/20531914.jpg?version=1669950009000" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[God's Gift In 1820 Project, 2nd]]></title>
             <link>https://music.bugs.co.kr/album/20531911?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20531911?wl_ref=list_ab_03</guid>
@@ -881,7 +866,7 @@ OddSong(옫쏭)
 <time datetime="">2022.12.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205317/20531799.jpg?version=1669950003000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205317/20531799.jpg?version=1669957653000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왕이 나셨네]]></title>
@@ -1065,6 +1050,21 @@ OddSong(옫쏭)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205315/20531571.jpg?version=1669950009000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YCL Project No.7]]></title>
+            <link>https://music.bugs.co.kr/album/20531569?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20531569?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 02 Dec 2022 05:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80216140?wl_ref=list_ab_04" class="artistTitle" title="유체리쉬 (Yucherish)" onclick="
+" target="_self">유체리쉬 (Yucherish)</a>
+</p>
+<p>
+<time datetime="">2022.12.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205315/20531569.jpg?version=1669950009000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
