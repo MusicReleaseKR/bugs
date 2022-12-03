@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 01:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 02:38:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -702,21 +702,6 @@ Tredici Pietro
             <enclosure url="https://image.bugsm.co.kr/album/images/170/302318/30231832.jpg?version=20221203070055.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arrivals & Departures]]></title>
-            <link>https://music.bugs.co.kr/album/30231829?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30231829?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 02 Dec 2022 04:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80027803?wl_ref=list_ab_04" class="artistTitle" title="Silverstein(실버스테인)" onclick="
-" target="_self">Silverstein(실버스테인)</a>
-</p>
-<p>
-<time datetime="">2007.07.02</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/302318/30231829.jpg?version=20221203101502.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Radio Music Society (Deluxe Edition)]]></title>
             <link>https://music.bugs.co.kr/album/30231827?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30231827?wl_ref=list_ab_03</guid>
@@ -1066,6 +1051,21 @@ Craig Duncan
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/302315/30231596.jpg?version=20221203070114.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Christmas Duets]]></title>
+            <link>https://music.bugs.co.kr/album/30231595?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30231595?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 03 Dec 2022 02:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80167280?wl_ref=list_ab_04" class="artistTitle" title="Keith &amp; Kristyn Getty" onclick="
+" target="_self">Keith &amp; Kristyn Getty</a>
+</p>
+<p>
+<time datetime="">2022.12.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/302315/30231595.jpg?version=20221203070113.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
