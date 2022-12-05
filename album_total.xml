@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:44:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hollywood]]></title>
+            <link>https://music.bugs.co.kr/album/19872319?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19872319?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 05 Dec 2022 02:44:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11051401?wl_ref=list_ab_04" class="artistTitle" title="Natio">Natio</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Natio||Natio||11051401||OK\\nNina Carr||Nina Carr||8603197||OK', ''); return false;">
+Natio
+</a> </p>
+<p>
+<time datetime="">2022.11.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/198723/19872319.jpg?version=20221203015503.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[_2022 Alle Meezing Sinterklaasliedjes]]></title>
             <link>https://music.bugs.co.kr/album/30252001?wl_ref=list_ab_03</link>
@@ -1092,21 +1110,6 @@ Saurabh Royale
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/302519/30251977.jpg?version=20221205063740.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hamar Bhojpuri]]></title>
-            <link>https://music.bugs.co.kr/album/30251975?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30251975?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 04 Dec 2022 10:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13035714?wl_ref=list_ab_04" class="artistTitle" title="Sheshnath Ojha" onclick="
-" target="_self">Sheshnath Ojha</a>
-</p>
-<p>
-<time datetime="">2022.12.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/302519/30251975.jpg?version=20221205063738.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
