@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 23:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 01:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Caméra]]></title>
+            <link>https://music.bugs.co.kr/album/17598583?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17598583?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 07 Dec 2022 01:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12714440?wl_ref=list_ab_04" class="artistTitle" title="La Dernière Voix" onclick="
+" target="_self">La Dernière Voix</a>
+</p>
+<p>
+<time datetime="">2022.04.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/175985/17598583.jpg?version=20221207100305.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jain Kathayein]]></title>
             <link>https://music.bugs.co.kr/album/30360140?wl_ref=list_ab_03</link>
@@ -1067,21 +1082,6 @@ Hiroshi Takashima
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/303599/30359956.jpg?version=20221207063507.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khóc Trong Tim (Sped Up)]]></title>
-            <link>https://music.bugs.co.kr/album/30359936?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30359936?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 06 Dec 2022 19:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12829231?wl_ref=list_ab_04" class="artistTitle" title="N.Anh" onclick="
-" target="_self">N.Anh</a>
-</p>
-<p>
-<time datetime="">2022.12.06</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/303599/30359936.jpg?version=20221207063455.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
