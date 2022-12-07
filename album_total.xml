@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 02:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 03:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노래와 추억 그리고 사람들]]></title>
+            <link>https://music.bugs.co.kr/album/20125367?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20125367?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 07 Dec 2022 03:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20045609?wl_ref=list_ab_04" class="artistTitle" title="성중기" onclick="
+" target="_self">성중기</a>
+</p>
+<p>
+<time datetime="">2022.12.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/201253/20125367.jpg?version=20221207120008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slow Down]]></title>
+            <link>https://music.bugs.co.kr/album/19919703?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19919703?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 07 Dec 2022 03:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11955340?wl_ref=list_ab_04" class="artistTitle" title="HAVOQ">HAVOQ</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'HAVOQ||HAVOQ||11955340||OK\\nDANÊL||DANÊL||20070100||OK\\nOskr||Oskr||12946020||OK', ''); return false;">
+HAVOQ
+</a> </p>
+<p>
+<time datetime="">2022.12.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/199197/19919703.jpg?version=20221207120008.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Caméra]]></title>
             <link>https://music.bugs.co.kr/album/17598583?wl_ref=list_ab_03</link>
@@ -935,21 +968,6 @@ Hiroshi Takashima
             <enclosure url="https://image.bugsm.co.kr/album/images/170/199058/19905858.jpg?version=20221207063550.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ambient Two]]></title>
-            <link>https://music.bugs.co.kr/album/17673635?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17673635?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 06 Dec 2022 04:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12513460?wl_ref=list_ab_04" class="artistTitle" title="Relax X" onclick="
-" target="_self">Relax X</a>
-</p>
-<p>
-<time datetime="">2022.12.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/176736/17673635.jpg?version=20221206020758.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Singles III]]></title>
             <link>https://music.bugs.co.kr/album/16476174?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/16476174?wl_ref=list_ab_03</guid>
@@ -1067,21 +1085,6 @@ Hiroshi Takashima
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/303600/30360017.jpg?version=20221207063204.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Midnight]]></title>
-            <link>https://music.bugs.co.kr/album/30359956?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30359956?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 06 Dec 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13039392?wl_ref=list_ab_04" class="artistTitle" title="Zent Bax" onclick="
-" target="_self">Zent Bax</a>
-</p>
-<p>
-<time datetime="">2022.12.06</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/303599/30359956.jpg?version=20221207063507.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
