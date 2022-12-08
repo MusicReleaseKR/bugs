@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 09:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 10:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[De l'autre côté de mon rêve (Remasterisé en 2022)]]></title>
+            <link>https://music.bugs.co.kr/album/30371426?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30371426?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 08 Dec 2022 10:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80002883?wl_ref=list_ab_04" class="artistTitle" title="Véronique Sanson" onclick="
+" target="_self">Véronique Sanson</a>
+</p>
+<p>
+<time datetime="">2022.12.08</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/303714/30371426.jpg?version=20221208175245.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sped Up Christmas songs - Nightcore Christmas]]></title>
+            <link>https://music.bugs.co.kr/album/30371381?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30371381?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 08 Dec 2022 10:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12322135?wl_ref=list_ab_04" class="artistTitle" title="Frederik Smith">Frederik Smith</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Frederik Smith||Frederik Smith||12322135||OK\\nSped up Christmas||Sped up Christmas||13043250||OK\\nNightcore Christmas||Nightcore Christmas||13043247||OK', ''); return false;">
+Frederik Smith
+</a> </p>
+<p>
+<time datetime="">2022.12.08</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/303713/30371381.jpg?version=20221208173012.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Space Race]]></title>
             <link>https://music.bugs.co.kr/album/30364064?wl_ref=list_ab_03</link>
@@ -140,7 +173,7 @@
 <time datetime="">2022.12.08</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/302897/30289704.jpg?version=20221208002310.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/302897/30289704.jpg?version=20221208190505.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hidden Places (Extended)]]></title>
@@ -743,6 +776,21 @@ Yotto
             <enclosure url="https://image.bugsm.co.kr/album/images/170/300134/30013496.jpg?version=20221208000002.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hybrid]]></title>
+            <link>https://music.bugs.co.kr/album/30005588?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30005588?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 08 Dec 2022 10:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80243010?wl_ref=list_ab_04" class="artistTitle" title="EK" onclick="
+" target="_self">EK</a>
+</p>
+<p>
+<time datetime="">2022.12.08</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/300055/30005588.jpg?version=20221208180008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[This Entity Makes Music]]></title>
             <link>https://music.bugs.co.kr/album/20533173?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20533173?wl_ref=list_ab_03</guid>
@@ -1047,51 +1095,6 @@ Sarera
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205315/20531598.jpg?version=20221208120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진달래연가(金達莱戀歌)]]></title>
-            <link>https://music.bugs.co.kr/album/20531555?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20531555?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 08 Dec 2022 04:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80116493?wl_ref=list_ab_04" class="artistTitle" title="최화자" onclick="
-" target="_self">최화자</a>
-</p>
-<p>
-<time datetime="">2022.12.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205315/20531555.jpg?version=20221208120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FLASHBACK]]></title>
-            <link>https://music.bugs.co.kr/album/20531242?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20531242?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 08 Dec 2022 04:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20174271?wl_ref=list_ab_04" class="artistTitle" title="D&amp;B" onclick="
-" target="_self">D&amp;B</a>
-</p>
-<p>
-<time datetime="">2022.12.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205312/20531242.jpg?version=20221208120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이었나봐]]></title>
-            <link>https://music.bugs.co.kr/album/20531094?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20531094?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 08 Dec 2022 04:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20174201?wl_ref=list_ab_04" class="artistTitle" title="리버티 기타 (Liberty Guitar)" onclick="
-" target="_self">리버티 기타 (Liberty Guitar)</a>
-</p>
-<p>
-<time datetime="">2022.12.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205310/20531094.jpg?version=20221208120002.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
