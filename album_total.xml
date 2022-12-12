@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 02:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 03:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Textbook Love Story]]></title>
+            <link>https://music.bugs.co.kr/album/30181202?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30181202?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 12 Dec 2022 03:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12530474?wl_ref=list_ab_04" class="artistTitle" title="joripu." onclick="
+" target="_self">joripu.</a>
+</p>
+<p>
+<time datetime="">2022.12.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/301812/30181202.jpg?version=20221212120013.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Set Sobre Funk]]></title>
             <link>https://music.bugs.co.kr/album/19952901?wl_ref=list_ab_03</link>
@@ -1101,21 +1116,6 @@ Archiesman kundu
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/303702/30370280.jpg?version=20221212063011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Make Me Jolly]]></title>
-            <link>https://music.bugs.co.kr/album/30369934?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30369934?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 11 Dec 2022 04:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11525582?wl_ref=list_ab_04" class="artistTitle" title="Chrissiah" onclick="
-" target="_self">Chrissiah</a>
-</p>
-<p>
-<time datetime="">2022.12.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/303699/30369934.jpg?version=20221212063009.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
