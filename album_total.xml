@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 14:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 15:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blue Moon]]></title>
+            <link>https://music.bugs.co.kr/album/20528782?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20528782?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 13 Dec 2022 15:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20111285?wl_ref=list_ab_04" class="artistTitle" title="NiziU (니쥬)" onclick="
+" target="_self">NiziU (니쥬)</a>
+</p>
+<p>
+<time datetime="">2022.12.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205287/20528782.jpg?version=20221214000003.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ruthless Monster]]></title>
             <link>https://music.bugs.co.kr/album/30437105?wl_ref=list_ab_03</link>
@@ -1079,21 +1094,6 @@ Russ Rich
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/302533/30253323.jpg?version=20221213000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Off Disk]]></title>
-            <link>https://music.bugs.co.kr/album/30252703?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30252703?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 13 Dec 2022 04:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12979636?wl_ref=list_ab_04" class="artistTitle" title="Caioronte" onclick="
-" target="_self">Caioronte</a>
-</p>
-<p>
-<time datetime="">2022.12.13</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/302527/30252703.jpg?version=20221213000006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
