@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 23:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 01:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -859,17 +859,14 @@ Martin Jensen(마틴 젠슨)
             <guid>https://music.bugs.co.kr/album/4082220?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 12 Dec 2022 09:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/56559?wl_ref=list_ab_04" class="artistTitle" title="KCM">KCM</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'KCM||KCM||56559||OK\\n자정||자정||13009393||OK', ''); return false;">
-KCM
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/13009393?wl_ref=list_ab_04" class="artistTitle" title="자정" onclick="
+" target="_self">자정</a>
+</p>
 <p>
 <time datetime="">2022.12.12</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40822/4082220.jpg?version=20221213064349.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40822/4082220.jpg?version=20221214101342.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Letter To Dolphins (Unhappy is not me anymore)]]></title>
