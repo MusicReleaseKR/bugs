@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 14:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 15:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[W]]></title>
+            <link>https://music.bugs.co.kr/album/16014554?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16014554?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 16 Dec 2022 15:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80318311?wl_ref=list_ab_04" class="artistTitle" title="3LetterzNUK" onclick="
+" target="_self">3LetterzNUK</a>
+</p>
+<p>
+<time datetime="">2021.09.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/160145/16014554.jpg?version=20221216153704.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1 Beat 1 Letra]]></title>
             <link>https://music.bugs.co.kr/album/30469682?wl_ref=list_ab_03</link>
@@ -628,7 +643,7 @@ Killa Dude
 <time datetime="">2022.12.16</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/304376/30437642.jpg?version=20221216010108.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/304376/30437642.jpg?version=20221216234001.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elegante]]></title>
@@ -1055,21 +1070,6 @@ Renelle 893
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/304367/30436773.jpg?version=20221216120007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pastime]]></title>
-            <link>https://music.bugs.co.kr/album/30436006?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30436006?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 16 Dec 2022 04:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11591863?wl_ref=list_ab_04" class="artistTitle" title="Agera Beatz" onclick="
-" target="_self">Agera Beatz</a>
-</p>
-<p>
-<time datetime="">2022.12.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/304360/30436006.jpg?version=20221216120007.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
