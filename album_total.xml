@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 09:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 10:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -628,6 +628,21 @@ White Noise Therapy
             <enclosure url="https://image.bugsm.co.kr/album/images/170/300608/30060855.jpg?version=20221217120010.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[WEATHER REPORT Instrumentals]]></title>
+            <link>https://music.bugs.co.kr/album/20535331?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20535331?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 17 Dec 2022 10:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80275369?wl_ref=list_ab_04" class="artistTitle" title="Slom" onclick="
+" target="_self">Slom</a>
+</p>
+<p>
+<time datetime="">2022.12.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205353/20535331.jpg?version=20221217180000.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주니토니 크리스마스 캐롤 2]]></title>
             <link>https://music.bugs.co.kr/album/20535162?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20535162?wl_ref=list_ab_03</guid>
@@ -704,6 +719,21 @@ MelodicDissonance
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205349/20534916.jpg?version=20221217120010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STICKY MAFIA CHRISTMAS VOL.2 “STICKY MAFIA SAVE THE WORLD”]]></title>
+            <link>https://music.bugs.co.kr/album/20534539?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20534539?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 17 Dec 2022 10:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20123875?wl_ref=list_ab_04" class="artistTitle" title="Sticky Mafia" onclick="
+" target="_self">Sticky Mafia</a>
+</p>
+<p>
+<time datetime="">2022.12.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205345/20534539.jpg?version=20221217180004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tunnel]]></title>
@@ -1058,36 +1088,6 @@ Humlan Djojj
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205347/20534765.jpg?version=20221217120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다]]></title>
-            <link>https://music.bugs.co.kr/album/20534693?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20534693?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 17 Dec 2022 04:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80207005?wl_ref=list_ab_04" class="artistTitle" title="애거서 초이(Agatha Choi)" onclick="
-" target="_self">애거서 초이(Agatha Choi)</a>
-</p>
-<p>
-<time datetime="">2022.12.17</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205346/20534693.jpg?version=20221217120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CATWORLD]]></title>
-            <link>https://music.bugs.co.kr/album/20534619?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20534619?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 17 Dec 2022 04:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20155573?wl_ref=list_ab_04" class="artistTitle" title="jew ian" onclick="
-" target="_self">jew ian</a>
-</p>
-<p>
-<time datetime="">2022.12.17</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205346/20534619.jpg?version=20221217120010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
