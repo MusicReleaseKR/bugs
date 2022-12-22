@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 01:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 02:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,6 +81,21 @@
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40824/4082435.jpg?version=20221221120003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STAY]]></title>
+            <link>https://music.bugs.co.kr/album/4082426?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4082426?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 22 Dec 2022 02:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20071829?wl_ref=list_ab_04" class="artistTitle" title="르네(Renée)" onclick="
+" target="_self">르네(Renée)</a>
+</p>
+<p>
+<time datetime="">2022.12.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40824/4082426.jpg?version=20221221002629.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Refresh project]]></title>
@@ -292,7 +307,7 @@
 <time datetime="">2022.12.21</time>
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40824/4082479.jpg?version=20221222063656.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40824/4082479.jpg?version=20221222112755.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그때 그 아인]]></title>
@@ -1054,24 +1069,6 @@ PERC%NT
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205353/20535324.jpg?version=20221220120000.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TRY]]></title>
-            <link>https://music.bugs.co.kr/album/20535400?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20535400?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 20 Dec 2022 03:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20138178?wl_ref=list_ab_04" class="artistTitle" title="Green">Green</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Green||Green||20138178||OK\\nTHERAY(더레이)||THERAY(더레이)||80018682||OK', ''); return false;">
-Green
-</a> </p>
-<p>
-<time datetime="">2022.12.20</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205354/20535400.jpg?version=20221220120004.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
