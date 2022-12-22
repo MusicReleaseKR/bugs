@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 02:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 03:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Galaxy]]></title>
+            <link>https://music.bugs.co.kr/album/30180568?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30180568?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 22 Dec 2022 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12876152?wl_ref=list_ab_04" class="artistTitle" title="Jack Anders" onclick="
+" target="_self">Jack Anders</a>
+</p>
+<p>
+<time datetime="">2022.12.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/301805/30180568.jpg?version=20221222120010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nimjox]]></title>
+            <link>https://music.bugs.co.kr/album/19975943?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19975943?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 22 Dec 2022 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12396581?wl_ref=list_ab_04" class="artistTitle" title="Pillzaxx" onclick="
+" target="_self">Pillzaxx</a>
+</p>
+<p>
+<time datetime="">2022.12.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/199759/19975943.jpg?version=20221222120010.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Singles 1981-85 Akina Nakamori 11 Great Hit Singles +6 by Yuzo Shimada]]></title>
             <link>https://music.bugs.co.kr/album/30508367?wl_ref=list_ab_03</link>
@@ -1055,36 +1085,6 @@ Selfmade
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205358/20535810.jpg?version=20221221120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Explain Why]]></title>
-            <link>https://music.bugs.co.kr/album/20535771?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20535771?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 21 Dec 2022 04:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20175918?wl_ref=list_ab_04" class="artistTitle" title="Kerica Magee" onclick="
-" target="_self">Kerica Magee</a>
-</p>
-<p>
-<time datetime="">2022.12.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205357/20535771.jpg?version=20221221120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지혜 찬송가 앨범 We Loved Hymn]]></title>
-            <link>https://music.bugs.co.kr/album/20535767?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20535767?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 21 Dec 2022 04:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80268905?wl_ref=list_ab_04" class="artistTitle" title="이지혜" onclick="
-" target="_self">이지혜</a>
-</p>
-<p>
-<time datetime="">2022.12.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205357/20535767.jpg?version=20221221120010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
