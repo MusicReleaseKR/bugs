@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 05:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 06:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,21 +102,6 @@ Caidy
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205368/20536847.jpg?version=1672110012000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복한 오르골 캐롤]]></title>
-            <link>https://music.bugs.co.kr/album/20536538?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20536538?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 27 Dec 2022 04:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20161690?wl_ref=list_ab_04" class="artistTitle" title="코코자장가" onclick="
-" target="_self">코코자장가</a>
-</p>
-<p>
-<time datetime="">2022.12.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205365/20536538.jpg?version=1672110012000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dancing On The Ruins]]></title>
@@ -1074,6 +1059,21 @@ Hey
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205370/20537069.jpg?version=1672110012000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그리움은 내게로 온다]]></title>
+            <link>https://music.bugs.co.kr/album/20537063?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20537063?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 27 Dec 2022 06:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80227982?wl_ref=list_ab_04" class="artistTitle" title="Elly(엘리)" onclick="
+" target="_self">Elly(엘리)</a>
+</p>
+<p>
+<time datetime="">2022.12.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205370/20537063.jpg?version=1672110009000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

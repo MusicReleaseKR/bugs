@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 05:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 06:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,21 +384,6 @@ Caidy
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205368/20536847.jpg?version=20221227120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복한 오르골 캐롤]]></title>
-            <link>https://music.bugs.co.kr/album/20536538?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20536538?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 27 Dec 2022 04:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20161690?wl_ref=list_ab_04" class="artistTitle" title="코코자장가" onclick="
-" target="_self">코코자장가</a>
-</p>
-<p>
-<time datetime="">2022.12.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205365/20536538.jpg?version=20221227120012.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dancing On The Ruins]]></title>
@@ -1104,6 +1089,21 @@ Tse
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/305246/30524677.jpg?version=20221227140456.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[baby i love you]]></title>
+            <link>https://music.bugs.co.kr/album/30522997?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30522997?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 27 Dec 2022 06:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13059618?wl_ref=list_ab_04" class="artistTitle" title="Xie" onclick="
+" target="_self">Xie</a>
+</p>
+<p>
+<time datetime="">2022.12.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/305229/30522997.jpg?version=20221227000008.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
