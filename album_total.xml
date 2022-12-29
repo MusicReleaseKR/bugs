@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 02:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 03:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Audi]]></title>
+            <link>https://music.bugs.co.kr/album/30248316?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30248316?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 29 Dec 2022 03:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12234076?wl_ref=list_ab_04" class="artistTitle" title="Moize" onclick="
+" target="_self">Moize</a>
+</p>
+<p>
+<time datetime="">2022.12.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/302483/30248316.jpg?version=20221229120009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Don't Wanna Know]]></title>
+            <link>https://music.bugs.co.kr/album/19936723?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19936723?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 29 Dec 2022 03:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11940880?wl_ref=list_ab_04" class="artistTitle" title="Setou &amp; Senyo">Setou &amp; Senyo</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Setou &amp; Senyo||Setou &amp; Senyo||11940880||OK\\nRickysee||Rickysee||20054538||OK', ''); return false;">
+Setou &amp; Senyo
+</a> </p>
+<p>
+<time datetime="">2022.12.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/199367/19936723.jpg?version=20221229120006.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Freaky Winter]]></title>
             <link>https://music.bugs.co.kr/album/30537069?wl_ref=list_ab_03</link>
@@ -1067,36 +1100,6 @@ Tidur Bayi Musik
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/305034/30503472.jpg?version=20221229063330.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[xanta]]></title>
-            <link>https://music.bugs.co.kr/album/30473851?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30473851?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 28 Dec 2022 04:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13054734?wl_ref=list_ab_04" class="artistTitle" title="LOWKEYBOY" onclick="
-" target="_self">LOWKEYBOY</a>
-</p>
-<p>
-<time datetime="">2022.12.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/304738/30473851.jpg?version=20221229063357.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Stars My Destination]]></title>
-            <link>https://music.bugs.co.kr/album/30440726?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30440726?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 28 Dec 2022 04:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13047520?wl_ref=list_ab_04" class="artistTitle" title="Romain Richard" onclick="
-" target="_self">Romain Richard</a>
-</p>
-<p>
-<time datetime="">2022.12.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/304407/30440726.jpg?version=20221229063548.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
