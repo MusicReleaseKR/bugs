@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 06:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 07:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -991,14 +991,17 @@ Sese (쎄쎄)
             <guid>https://music.bugs.co.kr/album/20537183?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 28 Dec 2022 03:20:16 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20176505?wl_ref=list_ab_04" class="artistTitle" title="MUSIA" onclick="
-" target="_self">MUSIA</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80322418?wl_ref=list_ab_04" class="artistTitle" title="보니">보니</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '보니||보니||80322418||OK\\n라라||라라||80322416||OK', ''); return false;">
+보니
+</a> </p>
 <p>
 <time datetime="">2022.12.28</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205371/20537183.jpg?version=20221228120001.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205371/20537183.jpg?version=20221229160714.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[끝나지 않는 밤과 맘]]></title>
