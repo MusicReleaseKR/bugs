@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 14:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 15:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1076,6 +1076,72 @@ Big Gee
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205373/20537365.jpg?version=20221229120004.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Rendez-vous ya bien (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/16923403?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16923403?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 30 Dec 2022 15:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80183536?wl_ref=list_ab_04" class="artistTitle" title="Werrason" onclick="
+" target="_self">Werrason</a>
+</p>
+<p>
+<time datetime="">2022.12.31</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/169234/16923403.jpg?version=20221231000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Not Perfect (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/17725261?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17725261?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 30 Dec 2022 15:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80332932?wl_ref=list_ab_04" class="artistTitle" title="SFRNG">SFRNG</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'SFRNG||SFRNG||80332932||OK\\nSam-D||Sam-D||8305087||OK\\nBrogs||Brogs||12714516||OK', ''); return false;">
+SFRNG
+</a> </p>
+<p>
+<time datetime="">2022.12.31</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/177252/17725261.jpg?version=20221231000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[C'est la Vie (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/17689494?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17689494?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 30 Dec 2022 15:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10864884?wl_ref=list_ab_04" class="artistTitle" title="Ivan Cano">Ivan Cano</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ivan Cano||Ivan Cano||10864884||OK\\nPhonkid Prod||Phonkid Prod||12010779||OK', ''); return false;">
+Ivan Cano
+</a> </p>
+<p>
+<time datetime="">2022.12.31</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176894/17689494.jpg?version=20221231000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sad Girl Heaven (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/14963567?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/14963567?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 30 Dec 2022 15:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80139036?wl_ref=list_ab_04" class="artistTitle" title="Elle Winter" onclick="
+" target="_self">Elle Winter</a>
+</p>
+<p>
+<time datetime="">2021.01.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/149635/14963567.jpg?version=20221230151205.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Flor de ceibo (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/30590765?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30590765?wl_ref=list_ab_03</guid>
@@ -2072,75 +2138,6 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/304396/30439684.jpg?version=20221230120009.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[* ocean waves lucid dreams * (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/30439249?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30439249?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 30 Dec 2022 04:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/8845808?wl_ref=list_ab_04" class="artistTitle" title="Ocean Sounds">Ocean Sounds</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ocean Sounds||Ocean Sounds||8845808||OK\\nOcean Waves For Sleep||Ocean Waves For Sleep||10441915||OK\\nRelajación||Relajación||10491118||OK', ''); return false;">
-Ocean Sounds
-</a> </p>
-<p>
-<time datetime="">2022.12.30</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/304392/30439249.jpg?version=20221230120009.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part Of Us (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/30439092?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30439092?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 30 Dec 2022 04:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11964509?wl_ref=list_ab_04" class="artistTitle" title="Neen" onclick="
-" target="_self">Neen</a>
-</p>
-<p>
-<time datetime="">2022.12.30</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/304390/30439092.jpg?version=20221230120009.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[* rain to relax to * (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/30439088?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30439088?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 30 Dec 2022 04:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11690505?wl_ref=list_ab_04" class="artistTitle" title="Lightning, Thunder and Rain Storm">Lightning, Thunder and Rain Storm</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Lightning, Thunder and Rain Storm||Lightning, Thunder and Rain Storm||11690505||OK\\nWeather Factory||Weather Factory||12737387||OK\\nRelaxing Rain Sounds||Relaxing Rain Sounds||10441145||OK', ''); return false;">
-Lightning
-</a> </p>
-<p>
-<time datetime="">2022.12.30</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/304390/30439088.jpg?version=20221230120009.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[* gaming lofi night * (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/30439083?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30439083?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 30 Dec 2022 04:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12401522?wl_ref=list_ab_04" class="artistTitle" title="Lofi Beats">Lofi Beats</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Lofi Beats||Lofi Beats||12401522||OK\\nChillhop Cafe||Chillhop Cafe||12054721||OK\\nBeats De Rap||Beats De Rap||11816465||OK', ''); return false;">
-Lofi Beats
-</a> </p>
-<p>
-<time datetime="">2022.12.30</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/304390/30439083.jpg?version=20221230120009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나를 이곳에 부르신 이유 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
