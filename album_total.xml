@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 08:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 09:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -784,6 +784,21 @@ Ahntist
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205348/20534867.jpg?version=20221231120006.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Retrospect]]></title>
+            <link>https://music.bugs.co.kr/album/20532725?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20532725?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 31 Dec 2022 09:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20065053?wl_ref=list_ab_04" class="artistTitle" title="쟈드 (Jade)" onclick="
+" target="_self">쟈드 (Jade)</a>
+</p>
+<p>
+<time datetime="">2022.12.31</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205327/20532725.jpg?version=20221231180005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[空と海が青い理由 / Sora to Umi ga Aoi Riyu (하늘과 바다가 푸른 이유)]]></title>
             <link>https://music.bugs.co.kr/album/20531968?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20531968?wl_ref=list_ab_03</guid>
@@ -1070,21 +1085,6 @@ Torben Snekkestad
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/304732/30473219.jpg?version=20221231000004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Achieved Morse Transmissions]]></title>
-            <link>https://music.bugs.co.kr/album/30472940?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30472940?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 31 Dec 2022 04:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12967348?wl_ref=list_ab_04" class="artistTitle" title="Nouvelles Lectures Cosmopolites" onclick="
-" target="_self">Nouvelles Lectures Cosmopolites</a>
-</p>
-<p>
-<time datetime="">2022.12.31</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/304729/30472940.jpg?version=20221231000004.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
