@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 02:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 03:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Shi Arabi]]></title>
+            <link>https://music.bugs.co.kr/album/30507221?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30507221?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 04 Jan 2023 03:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12817181?wl_ref=list_ab_04" class="artistTitle" title="ZEUSAEED" onclick="
+" target="_self">ZEUSAEED</a>
+</p>
+<p>
+<time datetime="">2023.01.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/305072/30507221.jpg?version=20230104120012.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Planosphere]]></title>
             <link>https://music.bugs.co.kr/album/30663040?wl_ref=list_ab_03</link>
@@ -1083,21 +1098,6 @@ Chhote Raja
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/306630/30663032.jpg?version=20230104063625.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Balam Kalkatiya]]></title>
-            <link>https://music.bugs.co.kr/album/30663031?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30663031?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 03 Jan 2023 10:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8047442?wl_ref=list_ab_04" class="artistTitle" title="Rahul Raj" onclick="
-" target="_self">Rahul Raj</a>
-</p>
-<p>
-<time datetime="">2023.01.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/306630/30663031.jpg?version=20230104063535.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
