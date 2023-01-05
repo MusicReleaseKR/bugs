@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 05:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 06:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
 <time datetime="">2023.01.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40828/4082841.jpg?version=20230105120002.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40828/4082841.jpg?version=20230105151105.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Chapter 1. (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1702,8 +1702,8 @@ Mga Tunog ng Kalikasan
             <guid>https://music.bugs.co.kr/album/20538340?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 05 Jan 2023 04:22:49 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20176947?wl_ref=list_ab_04" class="artistTitle" title="Best Sleep Music" onclick="
-" target="_self">Best Sleep Music</a>
+<a href="https://music.bugs.co.kr/artist/20176947?wl_ref=list_ab_04" class="artistTitle" title="베스트슬립 뮤직" onclick="
+" target="_self">베스트슬립 뮤직</a>
 </p>
 <p>
 <time datetime="">2023.01.05</time>
@@ -1785,6 +1785,24 @@ Mga Tunog ng Kalikasan
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205371/20537139.jpg?version=20230105120125.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Espero 1st, Romance on Classic (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20535825?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20535825?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 05 Jan 2023 06:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20175944?wl_ref=list_ab_04" class="artistTitle" title="에스페로">에스페로</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '에스페로||에스페로||20175944||OK\\n김호중||김호중||80150416||OK', ''); return false;">
+에스페로
+</a> </p>
+<p>
+<time datetime="">2022.12.20</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205358/20535825.jpg?version=20221228021103.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eternal Sleep (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2234,24 +2252,6 @@ A természet leggyönyörűbb hangjai
             <enclosure url="https://image.bugsm.co.kr/album/images/170/199712/19971298.jpg?version=20230105120010.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Musique de spa relaxante (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/19971289?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19971289?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 05 Jan 2023 04:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12981330?wl_ref=list_ab_04" class="artistTitle" title="Chansons de yoga relaxantes">Chansons de yoga relaxantes</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Chansons de yoga relaxantes||Chansons de yoga relaxantes||12981330||OK\\nChansons relaxantes au piano||Chansons relaxantes au piano||12981331||OK\\nMusique Pour Sommeil Profond||Musique Pour Sommeil Profond||11752270||OK', ''); return false;">
-Chansons de yoga relaxantes
-</a> </p>
-<p>
-<time datetime="">2023.01.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/199712/19971289.jpg?version=20230105120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Camping #8 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20538639?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20538639?wl_ref=list_ab_03</guid>
@@ -2302,14 +2302,14 @@ Chansons de yoga relaxantes
             <guid>https://music.bugs.co.kr/album/20538340?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 05 Jan 2023 04:22:49 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20176947?wl_ref=list_ab_04" class="artistTitle" title="Best Sleep Music" onclick="
-" target="_self">Best Sleep Music</a>
+<a href="https://music.bugs.co.kr/artist/20176947?wl_ref=list_ab_04" class="artistTitle" title="베스트슬립 뮤직" onclick="
+" target="_self">베스트슬립 뮤직</a>
 </p>
 <p>
 <time datetime="">2023.01.05</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205383/20538340.jpg?version=1672887610000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205383/20538340.jpg?version=1672899704000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베베핀 영어 학습동요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2340,6 +2340,24 @@ Chansons de yoga relaxantes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205371/20537139.jpg?version=1672887685000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Espero 1st, Romance on Classic (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20535825?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20535825?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 05 Jan 2023 06:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20175944?wl_ref=list_ab_04" class="artistTitle" title="에스페로">에스페로</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '에스페로||에스페로||20175944||OK\\n김호중||김호중||80150416||OK', ''); return false;">
+에스페로
+</a> </p>
+<p>
+<time datetime="">2022.12.20</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205358/20535825.jpg?version=1672161063000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Destino (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3044,7 +3062,7 @@ Chansons de yoga relaxantes
 <time datetime="">2023.01.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205384/20538446.jpg?version=1672887610000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205384/20538446.jpg?version=1672897471000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Energy / Don't care (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3306,21 +3324,6 @@ Cat Psalm
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205382/20538249.jpg?version=1672887610000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 만나요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20538248?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20538248?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 05 Jan 2023 04:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20163434?wl_ref=list_ab_04" class="artistTitle" title="소파프로젝트" onclick="
-" target="_self">소파프로젝트</a>
-</p>
-<p>
-<time datetime="">2023.01.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205382/20538248.jpg?version=1672887610000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
