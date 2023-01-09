@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 02:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 03:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Light Of Sanctuary]]></title>
+            <link>https://music.bugs.co.kr/album/15651518?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/15651518?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 Jan 2023 03:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80007631?wl_ref=list_ab_04" class="artistTitle" title="임준걸(林俊杰/JJ Lin)" onclick="
+" target="_self">임준걸(林俊杰/JJ Lin)</a>
+</p>
+<p>
+<time datetime="">2023.01.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/156515/15651518.jpg?version=20230109120011.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rappers 2: DRAFT 60, Vol. 1]]></title>
             <link>https://music.bugs.co.kr/album/30788252?wl_ref=list_ab_03</link>
@@ -1096,21 +1111,6 @@ Shilpi Raj
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/307882/30788227.jpg?version=20230109063536.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ayite Naiharwa Mangiya Liha Dho]]></title>
-            <link>https://music.bugs.co.kr/album/30788226?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30788226?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 08 Jan 2023 10:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13088863?wl_ref=list_ab_04" class="artistTitle" title="Ahira Star Kundan Lal Yadav" onclick="
-" target="_self">Ahira Star Kundan Lal Yadav</a>
-</p>
-<p>
-<time datetime="">2023.01.08</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/307882/30788226.jpg?version=20230109063536.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
