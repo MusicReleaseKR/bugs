@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 06:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 07:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -539,6 +539,21 @@ Moon Tunes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/305238/30523826.jpg?version=20230110120007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shi Arabi]]></title>
+            <link>https://music.bugs.co.kr/album/30507221?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30507221?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 10 Jan 2023 07:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12817181?wl_ref=list_ab_04" class="artistTitle" title="ZEUSAEED" onclick="
+" target="_self">ZEUSAEED</a>
+</p>
+<p>
+<time datetime="">2023.01.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/305072/30507221.jpg?version=20230110120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ashira No Estúdio Showlivre (Ao Vivo)]]></title>
@@ -1136,24 +1151,6 @@ Ocean Sounds
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/307887/30788789.jpg?version=20230110030137.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In The Darkest Place / Painted From Memory / Anyone Who Had A Heart (Live)]]></title>
-            <link>https://music.bugs.co.kr/album/30788036?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30788036?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 10 Jan 2023 04:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/2930?wl_ref=list_ab_04" class="artistTitle" title="Elvis Costello(엘비스 코스텔로)">Elvis Costello(엘비스 코스텔로)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Elvis Costello||Elvis Costello(엘비스 코스텔로)||2930||OK\\nBurt Bacharach||Burt Bacharach(버트 바카락)||1250||OK\\nSteve Nieve||Steve Nieve||80107315||OK', ''); return false;">
-Elvis Costello(엘비스 코스텔로)
-</a> </p>
-<p>
-<time datetime="">2023.01.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/307880/30788036.jpg?version=20230110013656.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
