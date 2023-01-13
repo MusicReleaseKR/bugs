@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 14:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 15:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sick of You]]></title>
+            <link>https://music.bugs.co.kr/album/13061317?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/13061317?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 13 Jan 2023 15:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80139036?wl_ref=list_ab_04" class="artistTitle" title="Elle Winter" onclick="
+" target="_self">Elle Winter</a>
+</p>
+<p>
+<time datetime="">2019.05.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/130613/13061317.jpg?version=20230113200424.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ambiguo]]></title>
             <link>https://music.bugs.co.kr/album/30874262?wl_ref=list_ab_03</link>
@@ -1046,21 +1061,6 @@ TraviS
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/308644/30864423.jpg?version=20230113120009.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Waterfall Sounds]]></title>
-            <link>https://music.bugs.co.kr/album/30864306?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30864306?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 13 Jan 2023 04:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10565947?wl_ref=list_ab_04" class="artistTitle" title="Deep Sounds" onclick="
-" target="_self">Deep Sounds</a>
-</p>
-<p>
-<time datetime="">2023.01.13</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/308643/30864306.jpg?version=20230113120009.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
