@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 14:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 15:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 사라져도]]></title>
+            <link>https://music.bugs.co.kr/album/4080095?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4080095?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 23 Jan 2023 15:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80332597?wl_ref=list_ab_04" class="artistTitle" title="이한울" onclick="
+" target="_self">이한울</a>
+</p>
+<p>
+<time datetime="">2022.12.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40800/4080095.jpg?version=1673454682000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Romance]]></title>
             <link>https://music.bugs.co.kr/album/20541338?wl_ref=list_ab_03</link>
@@ -1053,21 +1068,6 @@ Jonah Kim (요나킴)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205408/20540805.jpg?version=1674356405000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Creepin]]></title>
-            <link>https://music.bugs.co.kr/album/20540794?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20540794?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 22 Jan 2023 04:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80141452?wl_ref=list_ab_04" class="artistTitle" title="라보 (RABO)" onclick="
-" target="_self">라보 (RABO)</a>
-</p>
-<p>
-<time datetime="">2023.01.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205407/20540794.jpg?version=1674356405000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
