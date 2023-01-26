@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 02:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 03:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Baby Dont Cry Girl]]></title>
+            <link>https://music.bugs.co.kr/album/19977866?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19977866?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 26 Jan 2023 03:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10491448?wl_ref=list_ab_04" class="artistTitle" title="Alonestar" onclick="
+" target="_self">Alonestar</a>
+</p>
+<p>
+<time datetime="">2023.01.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/199778/19977866.jpg?version=20230126120006.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MAI CREATE]]></title>
             <link>https://music.bugs.co.kr/album/30927925?wl_ref=list_ab_03</link>
@@ -1147,24 +1162,6 @@ Canciones lunares
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/306647/30664783.jpg?version=20230126064027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reine Umgebungswellen]]></title>
-            <link>https://music.bugs.co.kr/album/30664766?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30664766?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 25 Jan 2023 04:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13080163?wl_ref=list_ab_04" class="artistTitle" title="Mondmelodien">Mondmelodien</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Mondmelodien||Mondmelodien||13080163||OK\\nKonzentrationsfluss Studienmusik||Konzentrationsfluss Studienmusik||13080117||OK', ''); return false;">
-Mondmelodien
-</a> </p>
-<p>
-<time datetime="">2023.01.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/306647/30664766.jpg?version=20230126064026.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
