@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 04:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 05:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,36 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40833/4083331.jpg?version=20230127120223.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이름의 장: TEMPTATION]]></title>
+            <link>https://music.bugs.co.kr/album/4083345?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4083345?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 Jan 2023 05:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80328357?wl_ref=list_ab_04" class="artistTitle" title="투모로우바이투게더" onclick="
+" target="_self">투모로우바이투게더</a>
+</p>
+<p>
+<time datetime="">2023.01.27</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40833/4083345.jpg?version=20230127140005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MOONLIGHT SUNRISE (The Remixes)]]></title>
+            <link>https://music.bugs.co.kr/album/20542727?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20542727?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 Jan 2023 05:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80249916?wl_ref=list_ab_04" class="artistTitle" title="TWICE (트와이스)" onclick="
+" target="_self">TWICE (트와이스)</a>
+</p>
+<p>
+<time datetime="">2023.01.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205427/20542727.jpg?version=20230127140002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Gloria]]></title>
             <link>https://music.bugs.co.kr/album/30917774?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30917774?wl_ref=list_ab_03</guid>
@@ -36,6 +66,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309177/30917774.jpg?version=20230127111210.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조선 정신과 의사 유세풍2 OST Part.3]]></title>
+            <link>https://music.bugs.co.kr/album/4083299?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4083299?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 26 Jan 2023 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20080591?wl_ref=list_ab_04" class="artistTitle" title="백예슬(Baek Ye Seul)" onclick="
+" target="_self">백예슬(Baek Ye Seul)</a>
+</p>
+<p>
+<time datetime="">2023.01.26</time>
+<span class="albumType">OST</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40832/4083299.jpg?version=20230127005327.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스터트롯2 1:1 데스매치 베스트 PART2]]></title>
@@ -65,21 +110,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309278/30927849.jpg?version=20230127012814.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선 정신과 의사 유세풍2 OST Part.3]]></title>
-            <link>https://music.bugs.co.kr/album/4083299?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4083299?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 Jan 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20080591?wl_ref=list_ab_04" class="artistTitle" title="백예슬(Baek Ye Seul)" onclick="
-" target="_self">백예슬(Baek Ye Seul)</a>
-</p>
-<p>
-<time datetime="">2023.01.26</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40832/4083299.jpg?version=20230127005327.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑을 여읜 사람들]]></title>
@@ -1041,36 +1071,6 @@ Surf Mesa
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205421/20542158.jpg?version=20230126120002.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 혼자서도 이미]]></title>
-            <link>https://music.bugs.co.kr/album/20539859?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20539859?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 Jan 2023 03:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20147228?wl_ref=list_ab_04" class="artistTitle" title="아사히" onclick="
-" target="_self">아사히</a>
-</p>
-<p>
-<time datetime="">2023.01.26</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205398/20539859.jpg?version=20230126120000.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠오를까봐]]></title>
-            <link>https://music.bugs.co.kr/album/20542202?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20542202?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 Jan 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20155160?wl_ref=list_ab_04" class="artistTitle" title="임엘린" onclick="
-" target="_self">임엘린</a>
-</p>
-<p>
-<time datetime="">2023.01.26</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205422/20542202.jpg?version=20230126180002.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
