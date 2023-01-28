@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 14:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 15:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[להיות אור]]></title>
+            <link>https://music.bugs.co.kr/album/30913949?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30913949?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 28 Jan 2023 15:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13105277?wl_ref=list_ab_04" class="artistTitle" title="לינוי טייב" onclick="
+" target="_self">לינוי טייב</a>
+</p>
+<p>
+<time datetime="">2023.01.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309139/30913949.jpg?version=20230129000005.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Call Of My Angel]]></title>
             <link>https://music.bugs.co.kr/album/30942481?wl_ref=list_ab_03</link>
@@ -1068,24 +1083,6 @@ Shree Dev Raj
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309411/30941105.jpg?version=20230128004923.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deewane - Single]]></title>
-            <link>https://music.bugs.co.kr/album/30941078?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30941078?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 28 Jan 2023 04:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/10988014?wl_ref=list_ab_04" class="artistTitle" title="Miel">Miel</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Miel||Miel||10988014||OK\\nDaoud Music||Daoud Music||12641275||OK\\nChann Angrez||Chann Angrez||13119490||OK', ''); return false;">
-Miel
-</a> </p>
-<p>
-<time datetime="">2023.01.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309410/30941078.jpg?version=20230128012040.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
