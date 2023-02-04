@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 02:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 03:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I'm not lost (thanks for asking)]]></title>
+            <link>https://music.bugs.co.kr/album/30867653?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30867653?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 Feb 2023 03:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12961981?wl_ref=list_ab_04" class="artistTitle" title="Magic Death Canoe" onclick="
+" target="_self">Magic Death Canoe</a>
+</p>
+<p>
+<time datetime="">2023.02.04</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/308676/30867653.jpg?version=20230204120009.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thought Of Me]]></title>
             <link>https://music.bugs.co.kr/album/13552129?wl_ref=list_ab_03</link>
@@ -20,7 +35,7 @@
 <time datetime="">2023.02.04</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/135521/13552129.jpg?version=20230204043854.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/135521/13552129.jpg?version=20230204120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wake Me Up When It's Over (Clean Ver.)]]></title>
@@ -1071,21 +1086,6 @@ Arun Chaturvedi
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309538/30953843.jpg?version=20230204070205.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Non è giusto]]></title>
-            <link>https://music.bugs.co.kr/album/30947700?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30947700?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 03 Feb 2023 04:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8038182?wl_ref=list_ab_04" class="artistTitle" title="Humus" onclick="
-" target="_self">Humus</a>
-</p>
-<p>
-<time datetime="">2023.02.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309477/30947700.jpg?version=20230204063640.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
