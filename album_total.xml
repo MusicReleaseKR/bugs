@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 02:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 03:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[deberías llamart l1nd4 pk t ves muy l1nd4]]></title>
+            <link>https://music.bugs.co.kr/album/30908090?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30908090?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 05 Feb 2023 03:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13125342?wl_ref=list_ab_04" class="artistTitle" title="jxirq archives" onclick="
+" target="_self">jxirq archives</a>
+</p>
+<p>
+<time datetime="">2023.02.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309080/30908090.jpg?version=20230205120010.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Panteonmurgo]]></title>
             <link>https://music.bugs.co.kr/album/30967897?wl_ref=list_ab_03</link>
@@ -1095,21 +1110,6 @@ Aishwarya Majmudar
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309648/30964857.jpg?version=20230205063754.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Doliya Me Lejai Bhatar]]></title>
-            <link>https://music.bugs.co.kr/album/30964856?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30964856?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 04 Feb 2023 04:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11037841?wl_ref=list_ab_04" class="artistTitle" title="Amarjit Yadav" onclick="
-" target="_self">Amarjit Yadav</a>
-</p>
-<p>
-<time datetime="">2023.02.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309648/30964856.jpg?version=20230205063753.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
