@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 09:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 10:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -411,6 +411,36 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205440/20544031.jpg?version=1675911607000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NAVI]]></title>
+            <link>https://music.bugs.co.kr/album/20543152?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20543152?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 09 Feb 2023 10:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20178557?wl_ref=list_ab_04" class="artistTitle" title="M4DEN" onclick="
+" target="_self">M4DEN</a>
+</p>
+<p>
+<time datetime="">2023.02.09</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205431/20543152.jpg?version=1675933206000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뽀로로 생일축하송]]></title>
+            <link>https://music.bugs.co.kr/album/4083689?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4083689?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 09 Feb 2023 10:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12068005?wl_ref=list_ab_04" class="artistTitle" title="뽀로로" onclick="
+" target="_self">뽀로로</a>
+</p>
+<p>
+<time datetime="">2023.02.09</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40836/4083689.jpg?version=1675933232000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FUN!]]></title>
@@ -1026,36 +1056,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205451/20545171.jpg?version=1675912167000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YURIKO]]></title>
-            <link>https://music.bugs.co.kr/album/20545167?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20545167?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 09 Feb 2023 04:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20154991?wl_ref=list_ab_04" class="artistTitle" title="Agenda" onclick="
-" target="_self">Agenda</a>
-</p>
-<p>
-<time datetime="">2023.02.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205451/20545167.jpg?version=1675911612000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설월화]]></title>
-            <link>https://music.bugs.co.kr/album/20545164?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20545164?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 09 Feb 2023 04:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80196338?wl_ref=list_ab_04" class="artistTitle" title="그네" onclick="
-" target="_self">그네</a>
-</p>
-<p>
-<time datetime="">2023.02.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205451/20545164.jpg?version=1675911604000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
