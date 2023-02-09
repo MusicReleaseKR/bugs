@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 14:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 15:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1057,6 +1057,69 @@ Jayci yucca(제이씨 유카)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205442/20544264.jpg?version=20230208120000.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Walking Street (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/30252461?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30252461?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 09 Feb 2023 15:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12917386?wl_ref=list_ab_04" class="artistTitle" title="Mugun" onclick="
+" target="_self">Mugun</a>
+</p>
+<p>
+<time datetime="">2023.02.10</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/302524/30252461.jpg?version=20230210000003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Piece of me (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/30963882?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30963882?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 09 Feb 2023 15:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10170317?wl_ref=list_ab_04" class="artistTitle" title="Erik Segerstedt" onclick="
+" target="_self">Erik Segerstedt</a>
+</p>
+<p>
+<time datetime="">2023.02.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309638/30963882.jpg?version=20230210000003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Toxico (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/30791624?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30791624?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 09 Feb 2023 15:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12914492?wl_ref=list_ab_04" class="artistTitle" title="Mr Sonic">Mr Sonic</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Mr Sonic||Mr Sonic||12914492||OK\\nChristian Pagan||Christian Pagan||80256359||OK', ''); return false;">
+Mr Sonic
+</a> </p>
+<p>
+<time datetime="">2023.02.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/307916/30791624.jpg?version=20230210000003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Infierno (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/19903254?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19903254?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 09 Feb 2023 15:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11996513?wl_ref=list_ab_04" class="artistTitle" title="Ciané" onclick="
+" target="_self">Ciané</a>
+</p>
+<p>
+<time datetime="">2023.02.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/199032/19903254.jpg?version=20230210000003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Piano Covers Pt. 2 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/30993427?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30993427?wl_ref=list_ab_03</guid>
@@ -2087,66 +2150,6 @@ Jeff "Tain" Watts
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205451/20545180.jpg?version=20230209120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love dreams (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20545047?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20545047?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 09 Feb 2023 04:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20179208?wl_ref=list_ab_04" class="artistTitle" title="Orson" onclick="
-" target="_self">Orson</a>
-</p>
-<p>
-<time datetime="">2023.02.09</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205450/20545047.jpg?version=20230209120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Wish I Could (Go Back In Time) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20544815?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20544815?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 09 Feb 2023 10:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20168958?wl_ref=list_ab_04" class="artistTitle" title="BigPete" onclick="
-" target="_self">BigPete</a>
-</p>
-<p>
-<time datetime="">2023.02.09</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205448/20544815.jpg?version=20230209180006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ANNCELLY (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20544814?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20544814?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 09 Feb 2023 10:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20179146?wl_ref=list_ab_04" class="artistTitle" title="MARCOS LOPES" onclick="
-" target="_self">MARCOS LOPES</a>
-</p>
-<p>
-<time datetime="">2023.02.09</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205448/20544814.jpg?version=20230209180006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Skylane (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20544711?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20544711?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 09 Feb 2023 04:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20104812?wl_ref=list_ab_04" class="artistTitle" title="김연송" onclick="
-" target="_self">김연송</a>
-</p>
-<p>
-<time datetime="">2023.02.09</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205447/20544711.jpg?version=20230209120004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bagatelle (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
