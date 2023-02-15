@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 14:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 15:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sebatas Mimpi]]></title>
+            <link>https://music.bugs.co.kr/album/31010248?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31010248?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 15 Feb 2023 15:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12957262?wl_ref=list_ab_04" class="artistTitle" title="Appa Remix" onclick="
+" target="_self">Appa Remix</a>
+</p>
+<p>
+<time datetime="">2023.02.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310102/31010248.jpg?version=20230216000004.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I'm better now]]></title>
             <link>https://music.bugs.co.kr/album/31010525?wl_ref=list_ab_03</link>
@@ -1140,24 +1155,6 @@ Moon Tunes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/308632/30863275.jpg?version=20230215120007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nhạc cổ điển ru những giấc mơ]]></title>
-            <link>https://music.bugs.co.kr/album/30863258?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30863258?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 15 Feb 2023 04:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13091982?wl_ref=list_ab_04" class="artistTitle" title="Âm thanh đưa vào giấc ngủ">Âm thanh đưa vào giấc ngủ</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Âm thanh đưa vào giấc ngủ||Âm thanh đưa vào giấc ngủ||13091982||OK\\nNhạc giúp tập trung tư duy học tập||Nhạc giúp tập trung tư duy học tập||13091774||OK', ''); return false;">
-Âm thanh đưa vào giấc ngủ
-</a> </p>
-<p>
-<time datetime="">2023.02.15</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/308632/30863258.jpg?version=20230215120007.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

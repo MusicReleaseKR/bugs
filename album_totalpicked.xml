@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 14:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 15:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,21 @@ Sada Baby
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309145/30914587.jpg?version=20230215064057.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Glue Song]]></title>
+            <link>https://music.bugs.co.kr/album/30943441?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30943441?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 15 Feb 2023 15:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80323655?wl_ref=list_ab_04" class="artistTitle" title="beabadoobee" onclick="
+" target="_self">beabadoobee</a>
+</p>
+<p>
+<time datetime="">2023.02.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309434/30943441.jpg?version=20230215031012.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[28]]></title>
             <link>https://music.bugs.co.kr/album/30998124?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30998124?wl_ref=list_ab_03</guid>
@@ -1057,21 +1072,6 @@ HAAN
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205455/20545571.jpg?version=20230215004420.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maze]]></title>
-            <link>https://music.bugs.co.kr/album/20546060?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20546060?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Feb 2023 03:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20073437?wl_ref=list_ab_04" class="artistTitle" title="리플리(RIPLEY)" onclick="
-" target="_self">리플리(RIPLEY)</a>
-</p>
-<p>
-<time datetime="">2023.02.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205460/20546060.jpg?version=20230214120006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
