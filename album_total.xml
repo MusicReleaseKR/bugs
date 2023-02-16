@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 16:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 17:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,21 +21,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/199641/19964187.jpg?version=20230217003337.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sick of Saying Sorry]]></title>
-            <link>https://music.bugs.co.kr/album/14110352?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/14110352?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 16 Feb 2023 15:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11027395?wl_ref=list_ab_04" class="artistTitle" title="High Waisted" onclick="
-" target="_self">High Waisted</a>
-</p>
-<p>
-<time datetime="">2020.05.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/141103/14110352.jpg?version=20230216171612.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Guai Ni Guo Fen Mei Li]]></title>
@@ -80,7 +65,7 @@
 <time datetime="">2023.02.17</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309201/30920168.jpg?version=20230217000004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309201/30920168.jpg?version=20230217013315.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Goat Simulator]]></title>
@@ -1101,6 +1086,21 @@ Blas Duran
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205464/20546449.jpg?version=20230216120008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Goodnights]]></title>
+            <link>https://music.bugs.co.kr/album/20546374?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20546374?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 16 Feb 2023 17:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20179619?wl_ref=list_ab_04" class="artistTitle" title="Whittney Williams" onclick="
+" target="_self">Whittney Williams</a>
+</p>
+<p>
+<time datetime="">2023.02.16</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205463/20546374.jpg?version=20230217014922.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
