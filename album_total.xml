@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 09:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 10:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -995,6 +995,36 @@ Blas Duran
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205464/20546449.jpg?version=20230216120008.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Goodnights]]></title>
+            <link>https://music.bugs.co.kr/album/20546374?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20546374?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 16 Feb 2023 10:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20179619?wl_ref=list_ab_04" class="artistTitle" title="Whittney Williams" onclick="
+" target="_self">Whittney Williams</a>
+</p>
+<p>
+<time datetime="">2023.02.16</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205463/20546374.jpg?version=20230216180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nothing Brings Me Happiness // Last year of my life]]></title>
+            <link>https://music.bugs.co.kr/album/20546369?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20546369?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 16 Feb 2023 10:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20179616?wl_ref=list_ab_04" class="artistTitle" title="Lil Moregun" onclick="
+" target="_self">Lil Moregun</a>
+</p>
+<p>
+<time datetime="">2023.02.16</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205463/20546369.jpg?version=20230216180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Mollis]]></title>
             <link>https://music.bugs.co.kr/album/20546240?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20546240?wl_ref=list_ab_03</guid>
@@ -1068,36 +1098,6 @@ Blas Duran
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205461/20546142.jpg?version=20230216120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Goodbye]]></title>
-            <link>https://music.bugs.co.kr/album/20546141?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20546141?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 16 Feb 2023 04:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20179543?wl_ref=list_ab_04" class="artistTitle" title="TOKYOSIOKOUJI" onclick="
-" target="_self">TOKYOSIOKOUJI</a>
-</p>
-<p>
-<time datetime="">2023.02.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205461/20546141.jpg?version=20230216120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arlequine]]></title>
-            <link>https://music.bugs.co.kr/album/20546104?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20546104?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 16 Feb 2023 04:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20073788?wl_ref=list_ab_04" class="artistTitle" title="The Rodeo" onclick="
-" target="_self">The Rodeo</a>
-</p>
-<p>
-<time datetime="">2023.02.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205461/20546104.jpg?version=20230216120002.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
