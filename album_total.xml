@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 09:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 10:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,6 +518,21 @@ apollo 808
             <enclosure url="https://image.bugsm.co.kr/album/images/170/300730/30073052.jpg?version=20230219000002.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[THE FROST ON YOUR EDGE]]></title>
+            <link>https://music.bugs.co.kr/album/20547116?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20547116?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 19 Feb 2023 10:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20074968?wl_ref=list_ab_04" class="artistTitle" title="서리(30)" onclick="
+" target="_self">서리(30)</a>
+</p>
+<p>
+<time datetime="">2023.02.19</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205471/20547116.jpg?version=20230219180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샤이닝 (Shining)]]></title>
             <link>https://music.bugs.co.kr/album/20545850?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20545850?wl_ref=list_ab_03</guid>
@@ -762,6 +777,21 @@ YungKowser
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205472/20547266.jpg?version=20230219120002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살자]]></title>
+            <link>https://music.bugs.co.kr/album/20546635?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20546635?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 19 Feb 2023 10:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20106280?wl_ref=list_ab_04" class="artistTitle" title="부다테크 (bxddha tech)" onclick="
+" target="_self">부다테크 (bxddha tech)</a>
+</p>
+<p>
+<time datetime="">2023.02.19</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205466/20546635.jpg?version=20230219180007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[talk to]]></title>
@@ -1083,42 +1113,6 @@ Vishal Saini
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310175/31017545.jpg?version=20230219000002.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teja Ji Selfie Thari]]></title>
-            <link>https://music.bugs.co.kr/album/31017385?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31017385?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 19 Feb 2023 04:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12194870?wl_ref=list_ab_04" class="artistTitle" title="T. A. Maahir">T. A. Maahir</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'T. A. Maahir||T. A. Maahir||12194870||OK\\nPradeep Sharma||Pradeep Sharma||12174928||OK', ''); return false;">
-T. A. Maahir
-</a> </p>
-<p>
-<time datetime="">2023.02.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310173/31017385.jpg?version=20230219000002.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beat Bellatrix]]></title>
-            <link>https://music.bugs.co.kr/album/31016914?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31016914?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 19 Feb 2023 04:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/10930144?wl_ref=list_ab_04" class="artistTitle" title="MC Pikachu">MC Pikachu</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'MC Pikachu||MC Pikachu||10930144||OK\\nDJ GORDINHO DA VF||DJ GORDINHO DA VF||12724236||OK\\nDJ MARQUESA||DJ MARQUESA||13121507||OK', ''); return false;">
-MC Pikachu
-</a> </p>
-<p>
-<time datetime="">2023.02.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310169/31016914.jpg?version=20230219000002.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
