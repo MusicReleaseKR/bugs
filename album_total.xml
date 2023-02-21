@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 09:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 10:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -953,6 +953,21 @@ Dre Dilla
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205470/20547056.jpg?version=20230221120008.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Round and Round]]></title>
+            <link>https://music.bugs.co.kr/album/20546833?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20546833?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 21 Feb 2023 10:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20040201?wl_ref=list_ab_04" class="artistTitle" title="김수영" onclick="
+" target="_self">김수영</a>
+</p>
+<p>
+<time datetime="">2023.02.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205468/20546833.jpg?version=20230221180035.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국민사랑 애창곡 Vol.1]]></title>
             <link>https://music.bugs.co.kr/album/20546581?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20546581?wl_ref=list_ab_03</guid>
@@ -1080,21 +1095,6 @@ Bedtime Baby Bo
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40839/4083954.jpg?version=20230221120158.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Electricity]]></title>
-            <link>https://music.bugs.co.kr/album/4083931?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4083931?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 21 Feb 2023 04:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8090886?wl_ref=list_ab_04" class="artistTitle" title="Red Mecca" onclick="
-" target="_self">Red Mecca</a>
-</p>
-<p>
-<time datetime="">2023.02.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40839/4083931.jpg?version=20230221120008.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
