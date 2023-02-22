@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 09:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 10:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The 22nd]]></title>
+            <link>https://music.bugs.co.kr/album/31088244?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31088244?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 22 Feb 2023 10:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12744989?wl_ref=list_ab_04" class="artistTitle" title="Athan" onclick="
+" target="_self">Athan</a>
+</p>
+<p>
+<time datetime="">2023.02.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://file.bugsm.co.kr/wbugs/common/i_default_170x170.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["Rodeo Note" vol.2]]></title>
             <link>https://music.bugs.co.kr/album/31078049?wl_ref=list_ab_03</link>
@@ -321,6 +336,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310139/31013992.jpg?version=20230222000005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freddie's Inferno (Deluxe)]]></title>
+            <link>https://music.bugs.co.kr/album/31013991?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31013991?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 22 Feb 2023 10:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10786200?wl_ref=list_ab_04" class="artistTitle" title="Freddie Dredd" onclick="
+" target="_self">Freddie Dredd</a>
+</p>
+<p>
+<time datetime="">2023.02.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310139/31013991.jpg?version=20230222140004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[* white noise for resting *]]></title>
@@ -1035,36 +1065,6 @@ Grödash
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205479/20547964.jpg?version=20230222120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CINEMATICS]]></title>
-            <link>https://music.bugs.co.kr/album/20547960?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20547960?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 Feb 2023 04:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10760667?wl_ref=list_ab_04" class="artistTitle" title="CDZ!" onclick="
-" target="_self">CDZ!</a>
-</p>
-<p>
-<time datetime="">2023.02.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205479/20547960.jpg?version=20230222120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HIGH WATER EXPANSION PACK: BLACK WAVE]]></title>
-            <link>https://music.bugs.co.kr/album/20547930?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20547930?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 Feb 2023 04:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10814338?wl_ref=list_ab_04" class="artistTitle" title="Justin Sky" onclick="
-" target="_self">Justin Sky</a>
-</p>
-<p>
-<time datetime="">2023.02.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205479/20547930.jpg?version=20230222120008.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
