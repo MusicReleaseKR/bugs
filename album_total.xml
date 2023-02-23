@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 02:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 03:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[mindjárt vége.]]></title>
+            <link>https://music.bugs.co.kr/album/30962500?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30962500?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 23 Feb 2023 03:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12484773?wl_ref=list_ab_04" class="artistTitle" title="I see the Raccoons" onclick="
+" target="_self">I see the Raccoons</a>
+</p>
+<p>
+<time datetime="">2023.02.23</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309625/30962500.jpg?version=20230223120007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raise Em Up (feat. Ed Sheeran & Jethro Sheeran) (Tropical Mix)]]></title>
+            <link>https://music.bugs.co.kr/album/30525122?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30525122?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 23 Feb 2023 03:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10491448?wl_ref=list_ab_04" class="artistTitle" title="Alonestar" onclick="
+" target="_self">Alonestar</a>
+</p>
+<p>
+<time datetime="">2023.02.23</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/305251/30525122.jpg?version=20230223120007.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The 22nd]]></title>
             <link>https://music.bugs.co.kr/album/31088244?wl_ref=list_ab_03</link>
@@ -1032,36 +1062,6 @@ White Noise Therapy
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205480/20548091.jpg?version=20230222120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE SOUND]]></title>
-            <link>https://music.bugs.co.kr/album/20547998?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20547998?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 Feb 2023 04:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20046081?wl_ref=list_ab_04" class="artistTitle" title="Stray Kids (스트레이 키즈)" onclick="
-" target="_self">Stray Kids (스트레이 키즈)</a>
-</p>
-<p>
-<time datetime="">2023.02.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205479/20547998.jpg?version=20230223012639.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PINK PLANE]]></title>
-            <link>https://music.bugs.co.kr/album/20547964?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20547964?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 Feb 2023 04:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20180181?wl_ref=list_ab_04" class="artistTitle" title="Andew" onclick="
-" target="_self">Andew</a>
-</p>
-<p>
-<time datetime="">2023.02.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205479/20547964.jpg?version=20230223013827.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
