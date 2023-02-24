@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 01:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 02:50:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,6 +113,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309437/30943730.jpg?version=20230224000004.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sunset Memories]]></title>
+            <link>https://music.bugs.co.kr/album/30914563?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30914563?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Feb 2023 02:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20038192?wl_ref=list_ab_04" class="artistTitle" title="Sum Wave" onclick="
+" target="_self">Sum Wave</a>
+</p>
+<p>
+<time datetime="">2023.02.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309145/30914563.jpg?version=20230224100507.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fury]]></title>
             <link>https://music.bugs.co.kr/album/30788743?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30788743?wl_ref=list_ab_03</guid>
@@ -140,7 +155,7 @@
 <time datetime="">2023.02.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/303609/30360961.jpg?version=20230224010823.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/303609/30360961.jpg?version=20230224104625.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chimica]]></title>
@@ -1063,21 +1078,6 @@ Aglàia Ensemble
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/302410/30241053.jpg?version=20230224064503.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[¿a Qué Suena la Montaña?]]></title>
-            <link>https://music.bugs.co.kr/album/30228279?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30228279?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Feb 2023 04:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11909770?wl_ref=list_ab_04" class="artistTitle" title="Ajvsco" onclick="
-" target="_self">Ajvsco</a>
-</p>
-<p>
-<time datetime="">2023.02.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/302282/30228279.jpg?version=20230224064024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
