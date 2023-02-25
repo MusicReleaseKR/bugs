@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 09:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 10:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -527,6 +527,21 @@ Ocean Sounds
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205470/20547052.jpg?version=20230225120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Just Rap Shit]]></title>
+            <link>https://music.bugs.co.kr/album/20546437?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20546437?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 25 Feb 2023 10:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80050523?wl_ref=list_ab_04" class="artistTitle" title="San E (산이)" onclick="
+" target="_self">San E (산이)</a>
+</p>
+<p>
+<time datetime="">2023.02.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205464/20546437.jpg?version=20230225180002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beethoven:Septet.Op.20|String Quintet,Op.4]]></title>
             <link>https://music.bugs.co.kr/album/20545905?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20545905?wl_ref=list_ab_03</guid>
@@ -699,6 +714,24 @@ Jóga És Meditáció
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/169071/16907110.jpg?version=20230225120007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ghệ iu dấu của em ơi (sped up + instrumental)]]></title>
+            <link>https://music.bugs.co.kr/album/31090126?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31090126?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 25 Feb 2023 10:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11998280?wl_ref=list_ab_04" class="artistTitle" title="tlinh">tlinh</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'tlinh||tlinh||11998280||OK\\n2Pillz||2Pillz||12192453||OK\\nWOKEUPAT4AM||WOKEUPAT4AM||12311045||OK', ''); return false;">
+tlinh
+</a> </p>
+<p>
+<time datetime="">2023.02.25</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310901/31090126.jpg?version=20230225140003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sache Patshah]]></title>
@@ -1056,36 +1089,6 @@ Abhishek Yadav
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/311392/31139277.jpg?version=20230225005026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trap Freestyle]]></title>
-            <link>https://music.bugs.co.kr/album/31090804?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31090804?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 25 Feb 2023 04:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12453647?wl_ref=list_ab_04" class="artistTitle" title="SENI062" onclick="
-" target="_self">SENI062</a>
-</p>
-<p>
-<time datetime="">2023.02.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310908/31090804.jpg?version=20230225034830.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bharat Hai Meri Maa]]></title>
-            <link>https://music.bugs.co.kr/album/31090350?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31090350?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 25 Feb 2023 04:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11547295?wl_ref=list_ab_04" class="artistTitle" title="Jatinder Singh" onclick="
-" target="_self">Jatinder Singh</a>
-</p>
-<p>
-<time datetime="">2023.02.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310903/31090350.jpg?version=20230225012617.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
