@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 08:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 09:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -707,6 +707,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/311392/31139221.jpg?version=20230227000004.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Royals]]></title>
+            <link>https://music.bugs.co.kr/album/31139156?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31139156?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 27 Feb 2023 09:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80245313?wl_ref=list_ab_04" class="artistTitle" title="Paul Rey(폴 레이)" onclick="
+" target="_self">Paul Rey(폴 레이)</a>
+</p>
+<p>
+<time datetime="">2023.02.25</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311391/31139156.jpg?version=20230227002159.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dick Arkive: Issue 7]]></title>
             <link>https://music.bugs.co.kr/album/31080130?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31080130?wl_ref=list_ab_03</guid>
@@ -1050,21 +1065,6 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205489/20548977.jpg?version=20230227120005.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시편송 2-3]]></title>
-            <link>https://music.bugs.co.kr/album/20548927?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20548927?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 27 Feb 2023 04:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20099041?wl_ref=list_ab_04" class="artistTitle" title="오순숙" onclick="
-" target="_self">오순숙</a>
-</p>
-<p>
-<time datetime="">2023.02.27</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205489/20548927.jpg?version=20230227120011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
