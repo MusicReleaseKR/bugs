@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 14:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 15:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mozart: Piano Works, Vol. 6. Piano Sonatas, K. 331 "Alla Turca", 332, 333 "Linz" & 457]]></title>
+            <link>https://music.bugs.co.kr/album/31154517?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31154517?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 03 Mar 2023 15:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/38652?wl_ref=list_ab_04" class="artistTitle" title="Walter Gieseking(기제킹)" onclick="
+" target="_self">Walter Gieseking(기제킹)</a>
+</p>
+<p>
+<time datetime="">2023.03.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311545/31154517.jpg?version=20230304000030.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spiegelbild]]></title>
             <link>https://music.bugs.co.kr/album/31163263?wl_ref=list_ab_03</link>
@@ -1068,21 +1083,6 @@ Saxkboy KD
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/311549/31154930.jpg?version=20230303042219.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hits für Kids zum Feiern]]></title>
-            <link>https://music.bugs.co.kr/album/31154923?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31154923?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 03 Mar 2023 04:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12054579?wl_ref=list_ab_04" class="artistTitle" title="Keks &amp; Kumpels" onclick="
-" target="_self">Keks &amp; Kumpels</a>
-</p>
-<p>
-<time datetime="">2023.03.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311549/31154923.jpg?version=20230303031545.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
