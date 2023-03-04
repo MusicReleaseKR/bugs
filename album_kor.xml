@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 14:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 15:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[니가 미치도록 사랑스러운 건지]]></title>
+            <link>https://music.bugs.co.kr/album/4055414?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4055414?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 Mar 2023 15:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80312965?wl_ref=list_ab_04" class="artistTitle" title="윤한솔" onclick="
+" target="_self">윤한솔</a>
+</p>
+<p>
+<time datetime="">2022.07.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40554/4055414.jpg?version=1672762373000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정희라권기백합작앨범]]></title>
             <link>https://music.bugs.co.kr/album/20549959?wl_ref=list_ab_03</link>
@@ -1055,21 +1070,6 @@ Copyright Free Beats
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205501/20550140.jpg?version=1677812429000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[널 바라보다]]></title>
-            <link>https://music.bugs.co.kr/album/20550129?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20550129?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 03 Mar 2023 04:47:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80163989?wl_ref=list_ab_04" class="artistTitle" title="플라워 가든(Flower Garden)" onclick="
-" target="_self">플라워 가든(Flower Garden)</a>
-</p>
-<p>
-<time datetime="">2023.03.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205501/20550129.jpg?version=1677812429000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
