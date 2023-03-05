@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 14:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 15:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1058,6 +1058,36 @@ j-hope
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40842/4084225.jpg?version=20230304071938.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wake Up (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/31015201?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31015201?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 05 Mar 2023 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8892589?wl_ref=list_ab_04" class="artistTitle" title="Jeremy Young" onclick="
+" target="_self">Jeremy Young</a>
+</p>
+<p>
+<time datetime="">2023.03.06</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310152/31015201.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Her Şey Biter (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/30945886?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30945886?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 05 Mar 2023 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13121412?wl_ref=list_ab_04" class="artistTitle" title="Pump" onclick="
+" target="_self">Pump</a>
+</p>
+<p>
+<time datetime="">2023.03.06</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309458/30945886.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[John Eliot Gardiner Conducts Bach (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2135,39 +2165,6 @@ Kitos
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310247/31024716.jpg?version=20230305000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Diamonds & Girls (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/31017996?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31017996?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 05 Mar 2023 04:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80273384?wl_ref=list_ab_04" class="artistTitle" title="Matt Citron" onclick="
-" target="_self">Matt Citron</a>
-</p>
-<p>
-<time datetime="">2023.03.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310179/31017996.jpg?version=20230305000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[triplet (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/31014000?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31014000?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 05 Mar 2023 04:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12412281?wl_ref=list_ab_04" class="artistTitle" title="UniteUp!">UniteUp!</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'UniteUp!||UniteUp!||12412281||OK\\nPROTOSTAR||PROTOSTAR||13136311||OK', ''); return false;">
-UniteUp!
-</a> </p>
-<p>
-<time datetime="">2023.03.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310140/31014000.jpg?version=20230305000031.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Second (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
