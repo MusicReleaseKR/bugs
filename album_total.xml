@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 01:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 02:58:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MOONLIGHT SUNRISE]]></title>
+            <link>https://music.bugs.co.kr/album/20541722?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20541722?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 10 Mar 2023 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80249916?wl_ref=list_ab_04" class="artistTitle" title="TWICE (트와이스)" onclick="
+" target="_self">TWICE (트와이스)</a>
+</p>
+<p>
+<time datetime="">2023.01.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205417/20541722.jpg?version=20230121011938.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nalle Puh]]></title>
             <link>https://music.bugs.co.kr/album/30998786?wl_ref=list_ab_03</link>
@@ -1098,21 +1113,6 @@ HOAX
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205511/20551138.jpg?version=20230309180002.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Is A War]]></title>
-            <link>https://music.bugs.co.kr/album/20550937?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20550937?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 09 Mar 2023 10:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20181146?wl_ref=list_ab_04" class="artistTitle" title="Masbate StolHand" onclick="
-" target="_self">Masbate StolHand</a>
-</p>
-<p>
-<time datetime="">2023.03.09</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205509/20550937.jpg?version=20230310003747.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
