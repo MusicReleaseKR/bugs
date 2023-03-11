@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 01:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beethoven: Piano Sonatas Nos. 4, 6, 7 & 8 "Pathétique"]]></title>
+            <link>https://music.bugs.co.kr/album/31174633?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31174633?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 11 Mar 2023 01:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/38652?wl_ref=list_ab_04" class="artistTitle" title="Walter Gieseking(기제킹)" onclick="
+" target="_self">Walter Gieseking(기제킹)</a>
+</p>
+<p>
+<time datetime="">2023.03.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311746/31174633.jpg?version=20230311084009.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Voyageur]]></title>
             <link>https://music.bugs.co.kr/album/31221130?wl_ref=list_ab_03</link>
@@ -1050,21 +1065,6 @@ Erica Morini(에리카 모리니)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/311752/31175269.jpg?version=20230311064535.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We Dance Full Out]]></title>
-            <link>https://music.bugs.co.kr/album/31175254?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31175254?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 10 Mar 2023 04:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12842835?wl_ref=list_ab_04" class="artistTitle" title="카르마의 세상" onclick="
-" target="_self">카르마의 세상</a>
-</p>
-<p>
-<time datetime="">2023.03.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311752/31175254.jpg?version=20230311064526.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
