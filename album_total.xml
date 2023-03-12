@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 14:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 15:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,6 +356,21 @@ Relaxing Music Therapy
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310180/31018072.jpg?version=20230312000024.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Era]]></title>
+            <link>https://music.bugs.co.kr/album/30866649?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30866649?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 12 Mar 2023 15:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13096018?wl_ref=list_ab_04" class="artistTitle" title="IZIBROY" onclick="
+" target="_self">IZIBROY</a>
+</p>
+<p>
+<time datetime="">2023.03.12</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/308666/30866649.jpg?version=20230312231043.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Electronic Corelli, Vol. 3]]></title>
@@ -1090,21 +1105,6 @@ YEN
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312182/31218276.jpg?version=20230312000024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tình 2000 (lofi)]]></title>
-            <link>https://music.bugs.co.kr/album/31218071?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31218071?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 12 Mar 2023 04:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12064570?wl_ref=list_ab_04" class="artistTitle" title="Hoàng Mai" onclick="
-" target="_self">Hoàng Mai</a>
-</p>
-<p>
-<time datetime="">2023.03.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312180/31218071.jpg?version=20230312000024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
