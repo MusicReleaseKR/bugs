@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 14:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 15:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bridal Shower]]></title>
+            <link>https://music.bugs.co.kr/album/20546488?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20546488?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 13 Mar 2023 15:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20063941?wl_ref=list_ab_04" class="artistTitle" title="저드 (jerd)" onclick="
+" target="_self">저드 (jerd)</a>
+</p>
+<p>
+<time datetime="">2023.02.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205464/20546488.jpg?version=1678118180000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그대, 봄처럼]]></title>
+            <link>https://music.bugs.co.kr/album/20168390?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20168390?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 13 Mar 2023 15:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80228912?wl_ref=list_ab_04" class="artistTitle" title="Shady Plan(쉐이디 플랜)" onclick="
+" target="_self">Shady Plan(쉐이디 플랜)</a>
+</p>
+<p>
+<time datetime="">2018.05.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/201683/20168390.jpg?version=1678689922000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안승철 찬불가 작곡집 인연법]]></title>
             <link>https://music.bugs.co.kr/album/20552165?wl_ref=list_ab_03</link>
@@ -1031,36 +1061,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205516/20551690.jpg?version=1678698022000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늘 웃고 있죠]]></title>
-            <link>https://music.bugs.co.kr/album/20551678?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20551678?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 13 Mar 2023 04:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20181460?wl_ref=list_ab_04" class="artistTitle" title="김서울" onclick="
-" target="_self">김서울</a>
-</p>
-<p>
-<time datetime="">2023.03.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205516/20551678.jpg?version=1678676432000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[O]]></title>
-            <link>https://music.bugs.co.kr/album/20551675?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20551675?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 13 Mar 2023 10:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20181457?wl_ref=list_ab_04" class="artistTitle" title="OKIO" onclick="
-" target="_self">OKIO</a>
-</p>
-<p>
-<time datetime="">2023.03.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205516/20551675.jpg?version=1678698025000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
