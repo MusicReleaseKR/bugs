@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 09:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 10:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Starboy (Deluxe)]]></title>
+            <link>https://music.bugs.co.kr/album/31223976?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31223976?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 14 Mar 2023 10:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80114581?wl_ref=list_ab_04" class="artistTitle" title="The Weeknd(위켄드)" onclick="
+" target="_self">The Weeknd(위켄드)</a>
+</p>
+<p>
+<time datetime="">2023.03.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312239/31223976.jpg?version=20230314141004.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spectron]]></title>
             <link>https://music.bugs.co.kr/album/31223252?wl_ref=list_ab_03</link>
@@ -614,6 +629,21 @@ Relaxing Music Therapy
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309682/30968298.jpg?version=20230314000026.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[My Universe]]></title>
+            <link>https://music.bugs.co.kr/album/20552422?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20552422?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 14 Mar 2023 10:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80008785?wl_ref=list_ab_04" class="artistTitle" title="천단비" onclick="
+" target="_self">천단비</a>
+</p>
+<p>
+<time datetime="">2023.03.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205524/20552422.jpg?version=20230314182340.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[CELLISTA]]></title>
             <link>https://music.bugs.co.kr/album/20552373?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20552373?wl_ref=list_ab_03</guid>
@@ -1062,39 +1092,6 @@ Relaxing Music Therapy
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205485/20548544.jpg?version=20230314041942.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Electronic Satie, Vol. 4]]></title>
-            <link>https://music.bugs.co.kr/album/19978282?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/19978282?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Mar 2023 04:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12925468?wl_ref=list_ab_04" class="artistTitle" title="Al Goranski" onclick="
-" target="_self">Al Goranski</a>
-</p>
-<p>
-<time datetime="">2023.03.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/199782/19978282.jpg?version=20230314120036.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Piano Music For Kids]]></title>
-            <link>https://music.bugs.co.kr/album/17996368?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/17996368?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Mar 2023 04:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11702106?wl_ref=list_ab_04" class="artistTitle" title="Vuggeviser">Vuggeviser</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Vuggeviser||Vuggeviser||11702106||OK\\nBarnsånger På Svenska||Barnsånger På Svenska||11751801||OK\\nVuggesanger||Vuggesanger||11689646||OK', ''); return false;">
-Vuggeviser
-</a> </p>
-<p>
-<time datetime="">2023.03.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/179963/17996368.jpg?version=20230314120036.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
