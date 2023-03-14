@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 15:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 16:32:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,7 +38,7 @@ Claudio Arrau(클라우디오 아라우)
 <time datetime="">2023.03.15</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310104/31010483.jpg?version=20230315000028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310104/31010483.jpg?version=20230315011053.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Summer Dreams]]></title>
@@ -46,14 +46,17 @@ Claudio Arrau(클라우디오 아라우)
             <guid>https://music.bugs.co.kr/album/30910687?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 14 Mar 2023 15:24:42 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80154744?wl_ref=list_ab_04" class="artistTitle" title="B. Martin(비 마틴)" onclick="
-" target="_self">B. Martin(비 마틴)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80380162?wl_ref=list_ab_04" class="artistTitle" title="Wasted Youth">Wasted Youth</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Wasted Youth||Wasted Youth||80380162||OK\\nB Martin||B Martin||80363741||OK', ''); return false;">
+Wasted Youth
+</a> </p>
 <p>
-<time datetime="">2023.03.03</time>
+<time datetime="">2023.03.15</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309106/30910687.jpg?version=20230314215234.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309106/30910687.jpg?version=20230315003847.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Starboy (Deluxe)]]></title>
@@ -98,7 +101,7 @@ Claudio Arrau(클라우디오 아라우)
 <time datetime="">2023.03.14</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312213/31221331.jpg?version=20230314000026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312213/31221331.jpg?version=20230315010501.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I Need You Alive]]></title>
@@ -106,14 +109,14 @@ Claudio Arrau(클라우디오 아라우)
             <guid>https://music.bugs.co.kr/album/31221329?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 14 Mar 2023 04:22:57 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13192276?wl_ref=list_ab_04" class="artistTitle" title="Stuart Goldsmith" onclick="
+<a href="https://music.bugs.co.kr/artist/12556866?wl_ref=list_ab_04" class="artistTitle" title="Stuart Goldsmith" onclick="
 " target="_self">Stuart Goldsmith</a>
 </p>
 <p>
 <time datetime="">2023.03.14</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312213/31221329.jpg?version=20230314000026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312213/31221329.jpg?version=20230315012137.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bijn Tupanat]]></title>
@@ -689,7 +692,7 @@ Relaxing Music Therapy
 <time datetime="">2023.03.14</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205524/20552422.jpg?version=20230314182340.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205524/20552422.jpg?version=20230315011955.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CELLISTA]]></title>
@@ -749,7 +752,7 @@ Relaxing Music Therapy
 <time datetime="">2023.03.14</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205523/20552334.jpg?version=20230314120036.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205523/20552334.jpg?version=20230315004346.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022-2023 내 영혼의 풀 콘서트 Vol.19]]></title>
@@ -1019,7 +1022,7 @@ Relaxing Music Therapy
 <time datetime="">2023.03.14</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205514/20551456.jpg?version=20230314120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205514/20551456.jpg?version=20230315003545.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베베핀 감각 활동 동요]]></title>
@@ -1034,7 +1037,7 @@ Relaxing Music Therapy
 <time datetime="">2023.03.14</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205514/20551418.jpg?version=20230314120024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205514/20551418.jpg?version=20230315010720.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VR]]></title>
@@ -1049,7 +1052,7 @@ Relaxing Music Therapy
 <time datetime="">2023.03.14</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205512/20551260.jpg?version=20230314120009.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205512/20551260.jpg?version=20230315005241.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[歌は涙でできている(노래는 눈물로 되어 있다)]]></title>
