@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 03:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 04:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40845/4084558.jpg?version=20230314120028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피어나도록 (love you twice)]]></title>
+            <link>https://music.bugs.co.kr/album/4084621?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4084621?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 14 Mar 2023 04:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12755790?wl_ref=list_ab_04" class="artistTitle" title="허윤진" onclick="
+" target="_self">허윤진</a>
+</p>
+<p>
+<time datetime="">2023.03.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40846/4084621.jpg?version=20230314130025.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GO LOUD!]]></title>
@@ -68,6 +83,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205522/20552201.jpg?version=20230314120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[PIECE-4 : 영빈]]></title>
+            <link>https://music.bugs.co.kr/album/4084404?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4084404?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 13 Mar 2023 03:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80353865?wl_ref=list_ab_04" class="artistTitle" title="THE PIECES(더 피스)" onclick="
+" target="_self">THE PIECES(더 피스)</a>
+</p>
+<p>
+<time datetime="">2023.03.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40844/4084404.jpg?version=20230314041451.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Please Stop The Wind (바람아 멈추어다오)]]></title>
             <link>https://music.bugs.co.kr/album/20552018?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20552018?wl_ref=list_ab_03</guid>
@@ -84,21 +114,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205520/20552018.jpg?version=20230314120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PIECE-4 : 영빈]]></title>
-            <link>https://music.bugs.co.kr/album/4084404?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4084404?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 13 Mar 2023 03:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80353865?wl_ref=list_ab_04" class="artistTitle" title="THE PIECES(더 피스)" onclick="
-" target="_self">THE PIECES(더 피스)</a>
-</p>
-<p>
-<time datetime="">2023.03.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40844/4084404.jpg?version=20230314041451.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 루쓰]]></title>
@@ -1061,21 +1076,6 @@ Gill Chang
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205518/20551849.jpg?version=20230313120027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이젠 아파하지 말아요]]></title>
-            <link>https://music.bugs.co.kr/album/20551608?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20551608?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 13 Mar 2023 03:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80180028?wl_ref=list_ab_04" class="artistTitle" title="박윤겸" onclick="
-" target="_self">박윤겸</a>
-</p>
-<p>
-<time datetime="">2023.03.13</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205516/20551608.jpg?version=20230313120027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
