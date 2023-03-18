@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 15:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 16:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,24 +24,6 @@ Bielzin
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/311671/31167125.jpg?version=20230319000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tonight (Muliro)]]></title>
-            <link>https://music.bugs.co.kr/album/31164432?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31164432?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 18 Mar 2023 15:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13183805?wl_ref=list_ab_04" class="artistTitle" title="Dj Ashley">Dj Ashley</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Dj Ashley||Dj Ashley||13183805||OK\\nMaurice Davy||Maurice Davy||13183784||OK', ''); return false;">
-Dj Ashley
-</a> </p>
-<p>
-<time datetime="">2023.03.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311644/31164432.jpg?version=20230319000031.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그래야만 했던 이별]]></title>
@@ -1168,6 +1150,24 @@ Relaksująca Muzyka Kosmiczna
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310828/31082890.jpg?version=20230318120034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Muzică pașnică]]></title>
+            <link>https://music.bugs.co.kr/album/31082867?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31082867?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 18 Mar 2023 16:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12461515?wl_ref=list_ab_04" class="artistTitle" title="Muzică Spațială Pentru Somn">Muzică Spațială Pentru Somn</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Muzică Spațială Pentru Somn||Muzică Spațială Pentru Somn||12461515||OK\\nMuzica Pentru Somn||Muzica Pentru Somn||12461513||OK', ''); return false;">
+Muzică Spațială Pentru Somn
+</a> </p>
+<p>
+<time datetime="">2023.03.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310828/31082867.jpg?version=20230318120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
