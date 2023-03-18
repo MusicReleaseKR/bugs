@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 02:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 03:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,36 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312278/31227895.jpg?version=20230318004117.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[For Our Fucking Friend]]></title>
+            <link>https://music.bugs.co.kr/album/20165485?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20165485?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 18 Mar 2023 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80218123?wl_ref=list_ab_04" class="artistTitle" title="뱅크럽츠(The Bankrupts)" onclick="
+" target="_self">뱅크럽츠(The Bankrupts)</a>
+</p>
+<p>
+<time datetime="">2023.03.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/201654/20165485.jpg?version=20230318120034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Me Dice]]></title>
+            <link>https://music.bugs.co.kr/album/31002870?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31002870?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 18 Mar 2023 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13138658?wl_ref=list_ab_04" class="artistTitle" title="Tony Dan" onclick="
+" target="_self">Tony Dan</a>
+</p>
+<p>
+<time datetime="">2023.03.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310028/31002870.jpg?version=20230318120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Oriental Beat (The 40th Anniversary Re(al)mix)]]></title>
@@ -1035,36 +1065,6 @@ Eric Krasno(에릭 크라스노)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312285/31228553.jpg?version=20230318063518.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[XII]]></title>
-            <link>https://music.bugs.co.kr/album/31228547?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31228547?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 17 Mar 2023 04:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80212832?wl_ref=list_ab_04" class="artistTitle" title="Gregory Turpin" onclick="
-" target="_self">Gregory Turpin</a>
-</p>
-<p>
-<time datetime="">2023.03.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312285/31228547.jpg?version=20230318063514.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Si tu as peur, n'aie pas peur de l'amour]]></title>
-            <link>https://music.bugs.co.kr/album/31228529?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31228529?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 17 Mar 2023 04:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13112562?wl_ref=list_ab_04" class="artistTitle" title="Daniel Auteuil" onclick="
-" target="_self">Daniel Auteuil</a>
-</p>
-<p>
-<time datetime="">2023.03.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312285/31228529.jpg?version=20230318063502.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
