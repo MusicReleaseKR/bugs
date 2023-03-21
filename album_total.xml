@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 14:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 15:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A Pipoca É Braba]]></title>
+            <link>https://music.bugs.co.kr/album/30995325?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30995325?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 21 Mar 2023 15:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11767919?wl_ref=list_ab_04" class="artistTitle" title="Luck Muzik">Luck Muzik</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Luck Muzik||Luck Muzik||11767919||OK\\nMC Pipokinha||MC Pipokinha||12355822||OK\\nDJ LK da Escócia||DJ LK da Escócia||12799999||OK', ''); return false;">
+Luck Muzik
+</a> </p>
+<p>
+<time datetime="">2023.03.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309953/30995325.jpg?version=20230322000031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[To Our Children’s Children’s Children (50th Anniversary Edition)]]></title>
+            <link>https://music.bugs.co.kr/album/30881274?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30881274?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 21 Mar 2023 15:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/33935?wl_ref=list_ab_04" class="artistTitle" title="The Moody Blues(무디 블루스)" onclick="
+" target="_self">The Moody Blues(무디 블루스)</a>
+</p>
+<p>
+<time datetime="">2023.03.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/308812/30881274.jpg?version=20230322000031.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Contemos Hasta Veinte]]></title>
             <link>https://music.bugs.co.kr/album/31247349?wl_ref=list_ab_03</link>
@@ -1070,36 +1103,6 @@ Lounge Music Café DEA Channel
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205535/20553559.jpg?version=20230321120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Butterfly Weed]]></title>
-            <link>https://music.bugs.co.kr/album/20553548?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20553548?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 21 Mar 2023 04:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20181938?wl_ref=list_ab_04" class="artistTitle" title="Lazy Garden (레이지가든)" onclick="
-" target="_self">Lazy Garden (레이지가든)</a>
-</p>
-<p>
-<time datetime="">2023.03.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205535/20553548.jpg?version=20230321120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bridal Wreath Spirea]]></title>
-            <link>https://music.bugs.co.kr/album/20553532?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20553532?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 21 Mar 2023 04:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20181938?wl_ref=list_ab_04" class="artistTitle" title="Lazy Garden (레이지가든)" onclick="
-" target="_self">Lazy Garden (레이지가든)</a>
-</p>
-<p>
-<time datetime="">2023.03.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205535/20553532.jpg?version=20230321120033.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
