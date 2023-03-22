@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 01:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 02:35:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1114,6 +1114,21 @@ Luck Muzik
             <enclosure url="https://image.bugsm.co.kr/album/images/170/308812/30881274.jpg?version=20230322102011.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dance with Me (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/30468054?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30468054?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 22 Mar 2023 02:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12606507?wl_ref=list_ab_04" class="artistTitle" title="Dsnt Matter" onclick="
+" target="_self">Dsnt Matter</a>
+</p>
+<p>
+<time datetime="">2023.03.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/304680/30468054.jpg?version=20230322102406.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Contemos Hasta Veinte (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/31247349?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31247349?wl_ref=list_ab_03</guid>
@@ -2161,21 +2176,6 @@ Lounge Music Café DEA Channel
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205536/20553620.jpg?version=20230322013745.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Freesia (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20553559?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20553559?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 21 Mar 2023 04:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20181938?wl_ref=list_ab_04" class="artistTitle" title="Lazy Garden (레이지가든)" onclick="
-" target="_self">Lazy Garden (레이지가든)</a>
-</p>
-<p>
-<time datetime="">2023.03.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205535/20553559.jpg?version=20230321120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Background (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
