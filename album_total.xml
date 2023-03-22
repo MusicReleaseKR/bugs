@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 09:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 10:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -878,6 +878,21 @@ Relajación
             <enclosure url="https://image.bugsm.co.kr/album/images/170/311677/31167788.jpg?version=20230322000031.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ESENCIA]]></title>
+            <link>https://music.bugs.co.kr/album/31167785?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31167785?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 22 Mar 2023 10:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10559737?wl_ref=list_ab_04" class="artistTitle" title="Humbe" onclick="
+" target="_self">Humbe</a>
+</p>
+<p>
+<time datetime="">2023.03.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311677/31167785.jpg?version=20230322150005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Trio Dona Zefa no Estúdio Showlivre (Ao Vivo)]]></title>
             <link>https://music.bugs.co.kr/album/31165693?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31165693?wl_ref=list_ab_03</guid>
@@ -1092,21 +1107,6 @@ ELO
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205539/20553948.jpg?version=20230322120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joyweed]]></title>
-            <link>https://music.bugs.co.kr/album/20553924?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20553924?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 Mar 2023 09:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20181938?wl_ref=list_ab_04" class="artistTitle" title="Lazy Garden (레이지가든)" onclick="
-" target="_self">Lazy Garden (레이지가든)</a>
-</p>
-<p>
-<time datetime="">2023.03.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205539/20553924.jpg?version=20230322120028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
