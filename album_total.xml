@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 02:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 03:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ធ្មេញមាស]]></title>
+            <link>https://music.bugs.co.kr/album/31154372?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31154372?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 23 Mar 2023 03:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12469682?wl_ref=list_ab_04" class="artistTitle" title="La Cima Cartel">La Cima Cartel</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'La Cima Cartel||La Cima Cartel||12469682||OK\\nYCN Tomie||YCN Tomie||12292573||OK\\nAll3rgy||All3rgy||12331996||OK\\nYCN Dizzy||YCN Dizzy||12292571||OK\\nHasha||Hasha||12361700||OK\\nMeezy24k||Meezy24k||12292532||OK\\nYCN Rakhie||YCN Rakhie||12292572||OK', ''); return false;">
+La Cima Cartel
+</a> </p>
+<p>
+<time datetime="">2023.03.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311543/31154372.jpg?version=20230323000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AETERNUM]]></title>
+            <link>https://music.bugs.co.kr/album/31003852?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31003852?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 23 Mar 2023 03:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8058106?wl_ref=list_ab_04" class="artistTitle" title="Pterodactyl" onclick="
+" target="_self">Pterodactyl</a>
+</p>
+<p>
+<time datetime="">2023.03.23</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310038/31003852.jpg?version=20230323120007.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faraway Skies]]></title>
             <link>https://music.bugs.co.kr/album/30944213?wl_ref=list_ab_03</link>
@@ -1077,36 +1110,6 @@ ELO
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205542/20554218.jpg?version=20230322120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream Travel]]></title>
-            <link>https://music.bugs.co.kr/album/20554092?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20554092?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 Mar 2023 20:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20103803?wl_ref=list_ab_04" class="artistTitle" title="달마산 뉴웨이브" onclick="
-" target="_self">달마산 뉴웨이브</a>
-</p>
-<p>
-<time datetime="">2023.03.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205540/20554092.jpg?version=20230322120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Have a drink]]></title>
-            <link>https://music.bugs.co.kr/album/20554016?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20554016?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 Mar 2023 20:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20182221?wl_ref=list_ab_04" class="artistTitle" title="Aretha" onclick="
-" target="_self">Aretha</a>
-</p>
-<p>
-<time datetime="">2023.03.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205540/20554016.jpg?version=20230322120028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
