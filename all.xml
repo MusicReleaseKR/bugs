@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 14:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 15:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -733,6 +733,21 @@ Veethoven
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310228/31022860.jpg?version=20230225023313.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dead To The World (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/31233773?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31233773?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Mar 2023 15:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80108036?wl_ref=list_ab_04" class="artistTitle" title="Noel Gallagher's High Flying Birds(노엘 갤러거스 하이 플라잉 버즈)" onclick="
+" target="_self">Noel Gallagher's High Flying Birds(노엘 갤러거스 하이 플라잉 버즈)</a>
+</p>
+<p>
+<time datetime="">2023.03.25</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312337/31233773.jpg?version=20230324050003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dans nos rêves feat. Clou (Clean Ver.) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
             <link>https://music.bugs.co.kr/album/31162404?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31162404?wl_ref=list_ab_03</guid>
@@ -1053,19 +1068,34 @@ Asgeir(아우스게일)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205542/20554237.jpg?version=20230324003715.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[너의 목소리가 보여 10 Part 1 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20554093?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20554093?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Mar 2023 03:18:26 GMT</pubDate>
+            <title><![CDATA[Vuelo en Modo Peter Pan (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/18918305?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18918305?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Mar 2023 15:19:58 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20182266?wl_ref=list_ab_04" class="artistTitle" title="CHU YU SEN" onclick="
-" target="_self">CHU YU SEN</a>
+<a href="https://music.bugs.co.kr/artist/12285785?wl_ref=list_ab_04" class="artistTitle" title="Finka" onclick="
+" target="_self">Finka</a>
 </p>
 <p>
-<time datetime="">2023.03.23</time>
-<span class="albumType">싱글</span>
+<time datetime="">2023.03.25</time>
+<span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205540/20554093.jpg?version=20230324020150.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189183/18918305.jpg?version=20230325000028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Santa Bárbara (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/31140944?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31140944?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Mar 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13177061?wl_ref=list_ab_04" class="artistTitle" title="Santa Bárbara" onclick="
+" target="_self">Santa Bárbara</a>
+</p>
+<p>
+<time datetime="">2023.03.25</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311409/31140944.jpg?version=20230325000028.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Songbird (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2109,36 +2139,6 @@ Johnny Cocoa
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312491/31249186.jpg?version=20230324002407.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marginalia (Deluxe) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/31249171?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31249171?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 24 Mar 2023 04:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12132276?wl_ref=list_ab_04" class="artistTitle" title="ella jane" onclick="
-" target="_self">ella jane</a>
-</p>
-<p>
-<time datetime="">2023.03.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312491/31249171.jpg?version=20230324003511.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hombre De Ley (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/31249165?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31249165?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 24 Mar 2023 04:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80205946?wl_ref=list_ab_04" class="artistTitle" title="Javier Rosas Y Su Artilleria Pesada" onclick="
-" target="_self">Javier Rosas Y Su Artilleria Pesada</a>
-</p>
-<p>
-<time datetime="">2023.03.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312491/31249165.jpg?version=20230324014439.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tracing back Memories (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>

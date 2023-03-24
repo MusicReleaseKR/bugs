@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 14:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 15:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vuelo en Modo Peter Pan]]></title>
+            <link>https://music.bugs.co.kr/album/18918305?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18918305?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Mar 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12285785?wl_ref=list_ab_04" class="artistTitle" title="Finka" onclick="
+" target="_self">Finka</a>
+</p>
+<p>
+<time datetime="">2023.03.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189183/18918305.jpg?version=20230325000028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Santa Bárbara]]></title>
+            <link>https://music.bugs.co.kr/album/31140944?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31140944?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Mar 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13177061?wl_ref=list_ab_04" class="artistTitle" title="Santa Bárbara" onclick="
+" target="_self">Santa Bárbara</a>
+</p>
+<p>
+<time datetime="">2023.03.25</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311409/31140944.jpg?version=20230325000028.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Songbird]]></title>
             <link>https://music.bugs.co.kr/album/31268698?wl_ref=list_ab_03</link>
@@ -1049,36 +1079,6 @@ Johnny Cocoa
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312491/31249186.jpg?version=20230324002407.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marginalia (Deluxe)]]></title>
-            <link>https://music.bugs.co.kr/album/31249171?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31249171?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 24 Mar 2023 04:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12132276?wl_ref=list_ab_04" class="artistTitle" title="ella jane" onclick="
-" target="_self">ella jane</a>
-</p>
-<p>
-<time datetime="">2023.03.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312491/31249171.jpg?version=20230324003511.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hombre De Ley]]></title>
-            <link>https://music.bugs.co.kr/album/31249165?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31249165?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 24 Mar 2023 04:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80205946?wl_ref=list_ab_04" class="artistTitle" title="Javier Rosas Y Su Artilleria Pesada" onclick="
-" target="_self">Javier Rosas Y Su Artilleria Pesada</a>
-</p>
-<p>
-<time datetime="">2023.03.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312491/31249165.jpg?version=20230324014439.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

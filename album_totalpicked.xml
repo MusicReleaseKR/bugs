@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 14:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 15:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -733,6 +733,21 @@ Veethoven
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310228/31022860.jpg?version=20230225023313.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dead To The World]]></title>
+            <link>https://music.bugs.co.kr/album/31233773?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31233773?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Mar 2023 15:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80108036?wl_ref=list_ab_04" class="artistTitle" title="Noel Gallagher's High Flying Birds(노엘 갤러거스 하이 플라잉 버즈)" onclick="
+" target="_self">Noel Gallagher's High Flying Birds(노엘 갤러거스 하이 플라잉 버즈)</a>
+</p>
+<p>
+<time datetime="">2023.03.25</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312337/31233773.jpg?version=20230324050003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dans nos rêves feat. Clou (Clean Ver.)]]></title>
             <link>https://music.bugs.co.kr/album/31162404?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31162404?wl_ref=list_ab_03</guid>
@@ -1051,21 +1066,6 @@ Asgeir(아우스게일)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205542/20554237.jpg?version=20230324003715.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 목소리가 보여 10 Part 1]]></title>
-            <link>https://music.bugs.co.kr/album/20554093?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20554093?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Mar 2023 03:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20182266?wl_ref=list_ab_04" class="artistTitle" title="CHU YU SEN" onclick="
-" target="_self">CHU YU SEN</a>
-</p>
-<p>
-<time datetime="">2023.03.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205540/20554093.jpg?version=20230324020150.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
