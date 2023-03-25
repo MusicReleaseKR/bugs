@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 09:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 10:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -634,6 +634,36 @@ Ocean Sounds
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205547/20554700.jpg?version=20230325120029.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HATCH]]></title>
+            <link>https://music.bugs.co.kr/album/20554269?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20554269?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 25 Mar 2023 10:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20165899?wl_ref=list_ab_04" class="artistTitle" title="DANI OWL" onclick="
+" target="_self">DANI OWL</a>
+</p>
+<p>
+<time datetime="">2023.03.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205542/20554269.jpg?version=20230325180029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[vanitas]]></title>
+            <link>https://music.bugs.co.kr/album/20553292?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20553292?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 25 Mar 2023 10:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20153458?wl_ref=list_ab_04" class="artistTitle" title="백인호" onclick="
+" target="_self">백인호</a>
+</p>
+<p>
+<time datetime="">2023.03.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205532/20553292.jpg?version=20230325180029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Around Me]]></title>
             <link>https://music.bugs.co.kr/album/20553285?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20553285?wl_ref=list_ab_03</guid>
@@ -1073,36 +1103,6 @@ Erlando
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205546/20554635.jpg?version=20230325120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너는 어떤 계절에 살고 있을까]]></title>
-            <link>https://music.bugs.co.kr/album/20554617?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20554617?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 25 Mar 2023 04:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20146806?wl_ref=list_ab_04" class="artistTitle" title="mellow button" onclick="
-" target="_self">mellow button</a>
-</p>
-<p>
-<time datetime="">2023.03.25</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205546/20554617.jpg?version=20230325120029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿍꿍이]]></title>
-            <link>https://music.bugs.co.kr/album/20553586?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20553586?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 25 Mar 2023 04:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20159754?wl_ref=list_ab_04" class="artistTitle" title="머신(Machine)" onclick="
-" target="_self">머신(Machine)</a>
-</p>
-<p>
-<time datetime="">2023.03.25</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205535/20553586.jpg?version=20230325120029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
