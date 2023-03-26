@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 09:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 10:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -593,6 +593,21 @@ Kiik
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205543/20554308.jpg?version=20230326120023.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[When you're lazy]]></title>
+            <link>https://music.bugs.co.kr/album/20554306?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20554306?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 26 Mar 2023 10:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20143447?wl_ref=list_ab_04" class="artistTitle" title="인흥" onclick="
+" target="_self">인흥</a>
+</p>
+<p>
+<time datetime="">2023.03.26</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205543/20554306.jpg?version=20230326180028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[For My Life]]></title>
             <link>https://music.bugs.co.kr/album/20552050?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20552050?wl_ref=list_ab_03</guid>
@@ -1096,21 +1111,6 @@ Thành DeeDee
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312457/31245791.jpg?version=20230326120027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Overdrive]]></title>
-            <link>https://music.bugs.co.kr/album/31244848?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31244848?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 26 Mar 2023 04:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12965235?wl_ref=list_ab_04" class="artistTitle" title="Vezzra" onclick="
-" target="_self">Vezzra</a>
-</p>
-<p>
-<time datetime="">2023.03.26</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312448/31244848.jpg?version=20230326120027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
