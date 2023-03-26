@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 08:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 09:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,6 +395,21 @@ Ocean Sounds
             <enclosure url="https://image.bugsm.co.kr/album/images/170/311759/31175962.jpg?version=20230326120027.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Capsuleers (Music inspired by Eve Online)]]></title>
+            <link>https://music.bugs.co.kr/album/30986569?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30986569?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 26 Mar 2023 09:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13133777?wl_ref=list_ab_04" class="artistTitle" title="Grant J Robson" onclick="
+" target="_self">Grant J Robson</a>
+</p>
+<p>
+<time datetime="">2023.02.06</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309865/30986569.jpg?version=20230210003926.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꿈속의 피아노2]]></title>
             <link>https://music.bugs.co.kr/album/20553031?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20553031?wl_ref=list_ab_03</guid>
@@ -453,6 +468,21 @@ Ocean Sounds
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309564/30956422.jpg?version=20230326120027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peace of Mind]]></title>
+            <link>https://music.bugs.co.kr/album/30917508?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30917508?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 26 Mar 2023 09:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12963066?wl_ref=list_ab_04" class="artistTitle" title="Marty McPhly" onclick="
+" target="_self">Marty McPhly</a>
+</p>
+<p>
+<time datetime="">2023.01.24</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309175/30917508.jpg?version=20230128012248.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Saturnian Bloodstorm]]></title>
@@ -1081,39 +1111,6 @@ Thành DeeDee
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312448/31244848.jpg?version=20230326120027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dil Me Basae Toke]]></title>
-            <link>https://music.bugs.co.kr/album/31244623?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31244623?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 26 Mar 2023 04:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12852442?wl_ref=list_ab_04" class="artistTitle" title="SACHIN HASSA PURTY" onclick="
-" target="_self">SACHIN HASSA PURTY</a>
-</p>
-<p>
-<time datetime="">2023.03.26</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312446/31244623.jpg?version=20230326120027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sweet Dreams - Sped Up]]></title>
-            <link>https://music.bugs.co.kr/album/31242880?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31242880?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 26 Mar 2023 04:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13148704?wl_ref=list_ab_04" class="artistTitle" title="Soami">Soami</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Soami||Soami||13148704||OK\\nDis\\cøver||Dis\\cøver||13148795||OK', ''); return false;">
-Soami
-</a> </p>
-<p>
-<time datetime="">2023.03.26</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312428/31242880.jpg?version=20230326120027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
