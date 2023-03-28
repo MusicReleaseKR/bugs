@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 14:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 15:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나쁜놈 (Chico malo)]]></title>
+            <link>https://music.bugs.co.kr/album/4084799?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4084799?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Mar 2023 15:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20167049?wl_ref=list_ab_04" class="artistTitle" title="마마무+" onclick="
+" target="_self">마마무+</a>
+</p>
+<p>
+<time datetime="">2023.03.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40847/4084799.jpg?version=1679500808000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[THE CORE TAPE, VOL. 2]]></title>
             <link>https://music.bugs.co.kr/album/20555466?wl_ref=list_ab_03</link>
@@ -215,7 +230,7 @@
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084967.jpg?version=1679994019000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084967.jpg?version=1680015603000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[pat pat]]></title>
@@ -1041,21 +1056,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205552/20555263.jpg?version=1679972429000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MANITO]]></title>
-            <link>https://music.bugs.co.kr/album/20555256?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20555256?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Mar 2023 04:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80359332?wl_ref=list_ab_04" class="artistTitle" title="BaKha (박하)" onclick="
-" target="_self">BaKha (박하)</a>
-</p>
-<p>
-<time datetime="">2023.03.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205552/20555256.jpg?version=1679972429000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
