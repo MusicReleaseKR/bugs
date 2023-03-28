@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 06:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 07:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -761,6 +761,21 @@ Passport Rav
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084953.jpg?version=20230328120035.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SPF]]></title>
+            <link>https://music.bugs.co.kr/album/4084285?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4084285?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Mar 2023 07:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80202598?wl_ref=list_ab_04" class="artistTitle" title="Risso(리소)" onclick="
+" target="_self">Risso(리소)</a>
+</p>
+<p>
+<time datetime="">2023.03.06</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40842/4084285.jpg?version=20230307011843.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fede]]></title>
             <link>https://music.bugs.co.kr/album/31269290?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31269290?wl_ref=list_ab_03</guid>
@@ -1046,21 +1061,6 @@ DJ Phenomena
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312226/31222632.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Patch]]></title>
-            <link>https://music.bugs.co.kr/album/31220144?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31220144?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Mar 2023 05:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80002946?wl_ref=list_ab_04" class="artistTitle" title="Toledo(톨레도)" onclick="
-" target="_self">Toledo(톨레도)</a>
-</p>
-<p>
-<time datetime="">2023.03.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312201/31220144.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
