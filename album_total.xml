@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 02:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 03:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -847,6 +847,21 @@ Pol Palmer
             <enclosure url="https://image.bugsm.co.kr/album/images/170/305342/30534292.jpg?version=20230402065009.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Hall]]></title>
+            <link>https://music.bugs.co.kr/album/30527072?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30527072?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 02 Apr 2023 03:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13072836?wl_ref=list_ab_04" class="artistTitle" title="Gowan and Jones" onclick="
+" target="_self">Gowan and Jones</a>
+</p>
+<p>
+<time datetime="">2023.04.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/305270/30527072.jpg?version=20230402111030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Temptation (Singles Compilation)]]></title>
             <link>https://music.bugs.co.kr/album/30524410?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30524410?wl_ref=list_ab_03</guid>
@@ -1094,21 +1109,6 @@ LON3R JOHNY
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/313828/31382805.jpg?version=20230402065217.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[卯]]></title>
-            <link>https://music.bugs.co.kr/album/31272538?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31272538?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 01 Apr 2023 04:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11907307?wl_ref=list_ab_04" class="artistTitle" title="Beat Friday" onclick="
-" target="_self">Beat Friday</a>
-</p>
-<p>
-<time datetime="">2023.04.01</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312725/31272538.jpg?version=20230402064854.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
