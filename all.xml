@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 20:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 21:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1750,6 +1750,24 @@ Elodie Bouny
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309175/30917505.jpg?version=20230410021011.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dirty OG (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/30906652?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30906652?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 09 Apr 2023 21:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13104359?wl_ref=list_ab_04" class="artistTitle" title="DATNIGAHDIRTY">DATNIGAHDIRTY</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'DATNIGAHDIRTY||DATNIGAHDIRTY||13104359||OK\\nOG $hawn||OG $hawn||13104828||OK', ''); return false;">
+DATNIGAHDIRTY
+</a> </p>
+<p>
+<time datetime="">2023.04.09</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309066/30906652.jpg?version=20230410051052.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Crunk Incorporated (EP) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/30598521?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30598521?wl_ref=list_ab_03</guid>
@@ -2171,21 +2189,6 @@ Hector Delgado
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/314595/31459500.jpg?version=20230410003803.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drive (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/31459491?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31459491?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 09 Apr 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12765533?wl_ref=list_ab_04" class="artistTitle" title="Exipe" onclick="
-" target="_self">Exipe</a>
-</p>
-<p>
-<time datetime="">2023.04.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/314594/31459491.jpg?version=20230409000029.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Narcissus (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
