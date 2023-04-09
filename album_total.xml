@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 02:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 03:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jump Around]]></title>
+            <link>https://music.bugs.co.kr/album/30735398?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30735398?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 09 Apr 2023 03:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12185255?wl_ref=list_ab_04" class="artistTitle" title="Dj Panda Boladao" onclick="
+" target="_self">Dj Panda Boladao</a>
+</p>
+<p>
+<time datetime="">2023.04.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/307353/30735398.jpg?version=20230409112127.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pour The Water]]></title>
             <link>https://music.bugs.co.kr/album/31460819?wl_ref=list_ab_03</link>
@@ -1104,21 +1119,6 @@ Sarvesh Singh
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/314599/31459997.jpg?version=20230409063143.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VOID (Melanie Martinez Sped Up Version)]]></title>
-            <link>https://music.bugs.co.kr/album/31459991?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31459991?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 08 Apr 2023 10:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12788592?wl_ref=list_ab_04" class="artistTitle" title="sped up nightcore" onclick="
-" target="_self">sped up nightcore</a>
-</p>
-<p>
-<time datetime="">2023.04.08</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/314599/31459991.jpg?version=20230409063440.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
