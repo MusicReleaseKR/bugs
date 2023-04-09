@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 16:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 17:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -646,6 +646,21 @@ Elodie Bouny
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312225/31222586.jpg?version=20230409000029.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Opulent]]></title>
+            <link>https://music.bugs.co.kr/album/30917520?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30917520?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 09 Apr 2023 17:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13087981?wl_ref=list_ab_04" class="artistTitle" title="Tanzburine" onclick="
+" target="_self">Tanzburine</a>
+</p>
+<p>
+<time datetime="">2023.04.09</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309175/30917520.jpg?version=20230410021011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Let It Snow]]></title>
             <link>https://music.bugs.co.kr/album/30917518?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30917518?wl_ref=list_ab_03</guid>
@@ -659,6 +674,21 @@ Elodie Bouny
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309175/30917518.jpg?version=20230410003556.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Museum]]></title>
+            <link>https://music.bugs.co.kr/album/30917505?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30917505?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 09 Apr 2023 17:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13087980?wl_ref=list_ab_04" class="artistTitle" title="SpiritHello" onclick="
+" target="_self">SpiritHello</a>
+</p>
+<p>
+<time datetime="">2023.04.09</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309175/30917505.jpg?version=20230410021011.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Crunk Incorporated (EP)]]></title>
@@ -1097,36 +1127,6 @@ Hector Delgado
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/314594/31459491.jpg?version=20230409000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blind Love]]></title>
-            <link>https://music.bugs.co.kr/album/31459439?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31459439?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 09 Apr 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13229365?wl_ref=list_ab_04" class="artistTitle" title="Star in a Jar" onclick="
-" target="_self">Star in a Jar</a>
-</p>
-<p>
-<time datetime="">2023.04.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/314594/31459439.jpg?version=20230409120031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Os Cavaleiros da Macedônia]]></title>
-            <link>https://music.bugs.co.kr/album/31459281?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31459281?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 09 Apr 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13229136?wl_ref=list_ab_04" class="artistTitle" title="Carlinhos Santana de Paula" onclick="
-" target="_self">Carlinhos Santana de Paula</a>
-</p>
-<p>
-<time datetime="">2023.04.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/314592/31459281.jpg?version=20230409000029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
