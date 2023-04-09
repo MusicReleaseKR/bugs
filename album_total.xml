@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 09:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 10:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -519,6 +519,20 @@ Tidur Bayi Musik
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/167456/16745610.jpg?version=20230409120031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cloud Drift]]></title>
+            <link>https://music.bugs.co.kr/album/31467976?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31467976?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 09 Apr 2023 10:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<span class="artistTitle" title="">Various Artists</span>
+</p>
+<p>
+<time datetime="">2023.04.09</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/314679/31467976.jpg?version=20230409181004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dari Dari]]></title>
@@ -1110,24 +1124,6 @@ Hector Delgado
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/314589/31458959.jpg?version=20230409000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toma Pau Cavalona]]></title>
-            <link>https://music.bugs.co.kr/album/31458871?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31458871?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 09 Apr 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11994957?wl_ref=list_ab_04" class="artistTitle" title="Mc Bryan SS">Mc Bryan SS</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Mc Bryan SS||Mc Bryan SS||11994957||OK\\nDJ RENAN DA CITY||DJ RENAN DA CITY||12966273||OK\\nDj Cassimiro||Dj Cassimiro||13229162||OK', ''); return false;">
-Mc Bryan SS
-</a> </p>
-<p>
-<time datetime="">2023.04.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/314588/31458871.jpg?version=20230409000029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
