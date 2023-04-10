@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 01:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 02:32:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kitsch]]></title>
+            <link>https://music.bugs.co.kr/album/4084947?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4084947?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Apr 2023 02:31:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20148657?wl_ref=list_ab_04" class="artistTitle" title="IVE (아이브)" onclick="
+" target="_self">IVE (아이브)</a>
+</p>
+<p>
+<time datetime="">2023.03.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084947.jpg?version=20230404035510.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pyaar Tummse Junior]]></title>
             <link>https://music.bugs.co.kr/album/31402581?wl_ref=list_ab_03</link>
@@ -37,7 +52,7 @@ Mani Dharamkot
 <time datetime="">2023.04.09</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/314595/31459505.jpg?version=20230410063523.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/314595/31459505.jpg?version=20230410112447.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[All In Blues]]></title>
@@ -1112,24 +1127,6 @@ Chintu Saarthak Kalla
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/314595/31459560.jpg?version=20230410064012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carvaan]]></title>
-            <link>https://music.bugs.co.kr/album/31459541?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31459541?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 09 Apr 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13227265?wl_ref=list_ab_04" class="artistTitle" title="INAKA">INAKA</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'INAKA||INAKA||13227265||OK\\nShukra||Shukra||11172594||OK', ''); return false;">
-INAKA
-</a> </p>
-<p>
-<time datetime="">2023.04.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/314595/31459541.jpg?version=20230410064011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
