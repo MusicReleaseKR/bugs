@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 06:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -730,7 +730,7 @@ Toru
 <time datetime="">2023.04.09</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205578/20557895.jpg?version=20230409120027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205578/20557895.jpg?version=20230410144855.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인 노래방]]></title>
@@ -858,13 +858,14 @@ Toru
             <guid>https://music.bugs.co.kr/album/31388630?wl_ref=list_ab_03</guid>
             <pubDate>Sun, 09 Apr 2023 03:17:27 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<span class="artistTitle" title="">Various Artists</span>
+<a href="https://music.bugs.co.kr/artist/80335913?wl_ref=list_ab_04" class="artistTitle" title="NEXON Sound Team" onclick="
+" target="_self">NEXON Sound Team</a>
 </p>
 <p>
 <time datetime="">2023.04.09</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/313886/31388630.jpg?version=20230410064347.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/313886/31388630.jpg?version=20230410151105.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dark Matter]]></title>
