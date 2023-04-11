@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 05:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 06:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,7 +113,7 @@
 <time datetime="">2023.04.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205585/20558515.jpg?version=20230411120027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205585/20558515.jpg?version=20230411144635.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아마도 모를거야]]></title>
@@ -151,14 +151,17 @@
             <guid>https://music.bugs.co.kr/album/20558681?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 11 Apr 2023 03:17:34 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20120824?wl_ref=list_ab_04" class="artistTitle" title="ARON" onclick="
-" target="_self">ARON</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20120824?wl_ref=list_ab_04" class="artistTitle" title="ARON">ARON</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'ARON||ARON||20120824||OK\\nChoisul||Choisul||20144450||OK', ''); return false;">
+ARON
+</a> </p>
 <p>
 <time datetime="">2023.04.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205586/20558681.jpg?version=20230411120027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205586/20558681.jpg?version=20230411143621.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카페 앵커리지 OST Part.6]]></title>
