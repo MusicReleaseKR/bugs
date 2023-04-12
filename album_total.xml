@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 01:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 02:33:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,36 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312761/31276109.jpg?version=20230412000023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Y Ahora Te Vas]]></title>
+            <link>https://music.bugs.co.kr/album/19112162?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19112162?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 12 Apr 2023 02:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10953578?wl_ref=list_ab_04" class="artistTitle" title="Los Ramones De Nuevo Leon" onclick="
+" target="_self">Los Ramones De Nuevo Leon</a>
+</p>
+<p>
+<time datetime="">2023.11.30</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/191121/19112162.jpg?version=20230412102158.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLUE]]></title>
+            <link>https://music.bugs.co.kr/album/4085102?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4085102?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 12 Apr 2023 02:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20068830?wl_ref=list_ab_04" class="artistTitle" title="드림노트(DreamNote)" onclick="
+" target="_self">드림노트(DreamNote)</a>
+</p>
+<p>
+<time datetime="">2023.04.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40851/4085102.jpg?version=20230404075555.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bast]]></title>
@@ -1085,37 +1115,7 @@ Logic(로직)
 <time datetime="">2023.04.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/314678/31467879.jpg?version=20230412064254.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Praslin]]></title>
-            <link>https://music.bugs.co.kr/album/31465835?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31465835?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Apr 2023 04:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13228481?wl_ref=list_ab_04" class="artistTitle" title="Véracité" onclick="
-" target="_self">Véracité</a>
-</p>
-<p>
-<time datetime="">2023.04.11</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/314658/31465835.jpg?version=20230412064208.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Disco Pop]]></title>
-            <link>https://music.bugs.co.kr/album/31462395?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31462395?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Apr 2023 04:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80348926?wl_ref=list_ab_04" class="artistTitle" title="Media Tracks" onclick="
-" target="_self">Media Tracks</a>
-</p>
-<p>
-<time datetime="">2023.04.11</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/314623/31462395.jpg?version=20230412064148.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/314678/31467879.jpg?version=20230412112216.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
