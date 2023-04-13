@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 16:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 17:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,7 +218,7 @@ Gustah
 <time datetime="">2023.04.13</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/315211/31521196.jpg?version=20230413090018.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/315211/31521196.jpg?version=20230414012907.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[El Disco De Los Abrazos]]></title>
@@ -697,14 +697,17 @@ Marcelo Machado Fernandes
             <guid>https://music.bugs.co.kr/album/31404268?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 13 Apr 2023 04:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13119547?wl_ref=list_ab_04" class="artistTitle" title="Stedje, Lothe, Tokvam" onclick="
-" target="_self">Stedje, Lothe, Tokvam</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80132082?wl_ref=list_ab_04" class="artistTitle" title="Olav Stedje">Olav Stedje</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Olav Stedje||Olav Stedje||80132082||OK\\nOdd-Erik Lothe||Odd-Erik Lothe||11295002||OK\\nFinn Tokvam||Finn Tokvam||13237755||OK', ''); return false;">
+Olav Stedje
+</a> </p>
 <p>
 <time datetime="">2023.04.13</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/314042/31404268.jpg?version=20230413000025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/314042/31404268.jpg?version=20230414021320.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Varjoissa]]></title>
@@ -917,7 +920,7 @@ Keila
 <time datetime="">2023.04.13</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205591/20559110.jpg?version=20230413193217.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205591/20559110.jpg?version=20230414020529.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강아지의 하루]]></title>
@@ -947,7 +950,7 @@ Keila
 <time datetime="">2023.04.13</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205590/20559080.jpg?version=20230413193203.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205590/20559080.jpg?version=20230414015327.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노래와 그림책]]></title>
@@ -1052,7 +1055,7 @@ Keila
 <time datetime="">2023.04.13</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205586/20558627.jpg?version=20230413120037.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205586/20558627.jpg?version=20230414021201.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ballet Class Music Vol. 3 <La bayadère>]]></title>
@@ -1097,7 +1100,7 @@ Keila
 <time datetime="">2023.04.13</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205583/20558342.jpg?version=20230413120037.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205583/20558342.jpg?version=20230414012733.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Only a Step to Jesus]]></title>
