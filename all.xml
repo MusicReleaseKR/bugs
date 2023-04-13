@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 01:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 02:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1068,6 +1068,21 @@ Jordan Hawkins
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205582/20558268.jpg?version=20230411120027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strange Way To Love (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/4084762?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4084762?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 13 Apr 2023 02:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80223871?wl_ref=list_ab_04" class="artistTitle" title="예은" onclick="
+" target="_self">예은</a>
+</p>
+<p>
+<time datetime="">2023.03.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40847/4084762.jpg?version=20230331012950.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Black Lotus (Original Soundtrack Album) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2155,19 +2170,19 @@ Relaxing Music Therapy
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205581/20558147.jpg?version=20230412120035.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Songs of Japan -An inspiring heart- (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20558085?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20558085?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 12 Apr 2023 21:15:35 GMT</pubDate>
+            <title><![CDATA[Strange Way To Love (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4084762?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4084762?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 13 Apr 2023 02:33:12 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11698663?wl_ref=list_ab_04" class="artistTitle" title="Shinobu Sato" onclick="
-" target="_self">Shinobu Sato</a>
+<a href="https://music.bugs.co.kr/artist/80223871?wl_ref=list_ab_04" class="artistTitle" title="예은" onclick="
+" target="_self">예은</a>
 </p>
 <p>
-<time datetime="">2023.04.12</time>
-<span class="albumType">정규</span>
+<time datetime="">2023.03.20</time>
+<span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205580/20558085.jpg?version=20230413002523.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40847/4084762.jpg?version=1680193790000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바이그레이스 1집 (Inst.) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3209,21 +3224,6 @@ UNEDUCATED KID
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205587/20558700.jpg?version=1681268435000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙은 색깔 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20558691?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20558691?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 12 Apr 2023 04:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20012025?wl_ref=list_ab_04" class="artistTitle" title="헤이미쉬(Heimish)" onclick="
-" target="_self">헤이미쉬(Heimish)</a>
-</p>
-<p>
-<time datetime="">2023.04.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205586/20558691.jpg?version=1681268435000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
