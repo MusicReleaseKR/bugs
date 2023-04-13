@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 18:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 19:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/314018/31401822.jpg?version=20230414000025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghost Of The Wind]]></title>
+            <link>https://music.bugs.co.kr/album/31381618?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31381618?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 13 Apr 2023 19:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13122403?wl_ref=list_ab_04" class="artistTitle" title="Winterbach" onclick="
+" target="_self">Winterbach</a>
+</p>
+<p>
+<time datetime="">2023.04.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/313816/31381618.jpg?version=20230414031812.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Orange Planets]]></title>
@@ -1101,21 +1116,6 @@ Keila
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205583/20558342.jpg?version=20230414012733.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Only a Step to Jesus]]></title>
-            <link>https://music.bugs.co.kr/album/20558047?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20558047?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 13 Apr 2023 04:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20182553?wl_ref=list_ab_04" class="artistTitle" title="fello" onclick="
-" target="_self">fello</a>
-</p>
-<p>
-<time datetime="">2023.04.13</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205580/20558047.jpg?version=20230413120037.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
