@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 03:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 04:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/315605/31560509.jpg?version=20230414102001.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kill Bill]]></title>
+            <link>https://music.bugs.co.kr/album/4085507?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4085507?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 14 Apr 2023 04:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80210863?wl_ref=list_ab_04" class="artistTitle" title="SZA" onclick="
+" target="_self">SZA</a>
+</p>
+<p>
+<time datetime="">2023.04.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40855/4085507.jpg?version=20230414130026.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너이기 때문에 너라서 참 좋았어]]></title>
@@ -438,7 +453,7 @@
 <time datetime="">2023.04.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/315586/31558607.jpg?version=20230414003152.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/315586/31558607.jpg?version=20230414124109.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Just Don't Know It Yet]]></title>
@@ -1055,21 +1070,6 @@ SOLE(쏠)
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205591/20559124.jpg?version=20230414004506.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀여워 귀여워]]></title>
-            <link>https://music.bugs.co.kr/album/20557271?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20557271?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 13 Apr 2023 03:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20148434?wl_ref=list_ab_04" class="artistTitle" title="밈(mim)" onclick="
-" target="_self">밈(mim)</a>
-</p>
-<p>
-<time datetime="">2023.04.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205572/20557271.jpg?version=20230413120028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
