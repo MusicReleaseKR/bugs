@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 02:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 03:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,39 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312378/31237825.jpg?version=20230415000024.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Castelo Interior (Radio Edit)]]></title>
+            <link>https://music.bugs.co.kr/album/31148309?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31148309?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Apr 2023 03:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12807803?wl_ref=list_ab_04" class="artistTitle" title="Música Popular Católica">Música Popular Católica</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Música Popular Católica||Música Popular Católica||12807803||OK\\nAna Paula Morais||Ana Paula Morais||13177949||OK', ''); return false;">
+Música Popular Católica
+</a> </p>
+<p>
+<time datetime="">2023.04.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311483/31148309.jpg?version=20230415120034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DESPERSONALIZACIÓN]]></title>
+            <link>https://music.bugs.co.kr/album/30937837?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30937837?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Apr 2023 03:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12902157?wl_ref=list_ab_04" class="artistTitle" title="Black Viking" onclick="
+" target="_self">Black Viking</a>
+</p>
+<p>
+<time datetime="">2023.04.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309378/30937837.jpg?version=20230415120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Thrive]]></title>
@@ -1049,36 +1082,6 @@ AD(에이디)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/315592/31559275.jpg?version=20230415063619.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[One of One]]></title>
-            <link>https://music.bugs.co.kr/album/31559265?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31559265?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Apr 2023 04:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12900713?wl_ref=list_ab_04" class="artistTitle" title="Crack White" onclick="
-" target="_self">Crack White</a>
-</p>
-<p>
-<time datetime="">2023.04.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/315592/31559265.jpg?version=20230415063613.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Avenue]]></title>
-            <link>https://music.bugs.co.kr/album/31559261?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31559261?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Apr 2023 04:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11210339?wl_ref=list_ab_04" class="artistTitle" title="Justin Chart" onclick="
-" target="_self">Justin Chart</a>
-</p>
-<p>
-<time datetime="">2023.04.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/315592/31559261.jpg?version=20230415063610.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
