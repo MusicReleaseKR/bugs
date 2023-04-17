@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 14:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 15:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1086,6 +1086,39 @@ Iaco
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205594/20559465.jpg?version=20230416120025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Home (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/31175418?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31175418?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 17 Apr 2023 15:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13189584?wl_ref=list_ab_04" class="artistTitle" title="LILAMORS">LILAMORS</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'LILAMORS||LILAMORS||13189584||OK\\nAna Čop||Ana Čop||13239588||OK', ''); return false;">
+LILAMORS
+</a> </p>
+<p>
+<time datetime="">2023.04.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311754/31175418.jpg?version=20230418000031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ayrılık Kolaymı Senin Yanında (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/30993061?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30993061?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 17 Apr 2023 15:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11321103?wl_ref=list_ab_04" class="artistTitle" title="Nigar Ekinci" onclick="
+" target="_self">Nigar Ekinci</a>
+</p>
+<p>
+<time datetime="">2023.04.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309930/30993061.jpg?version=20230418000031.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ocean (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2184,36 +2217,6 @@ Música de Ninar
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/315700/31570072.jpg?version=20230417120026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peaceful Harmony (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/31560025?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31560025?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 17 Apr 2023 04:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12361605?wl_ref=list_ab_04" class="artistTitle" title="Bass6" onclick="
-" target="_self">Bass6</a>
-</p>
-<p>
-<time datetime="">2023.04.17</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/315600/31560025.jpg?version=20230417000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[It's 2023, Pt. 2 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/31517863?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31517863?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 17 Apr 2023 04:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13139341?wl_ref=list_ab_04" class="artistTitle" title="Sckiiv" onclick="
-" target="_self">Sckiiv</a>
-</p>
-<p>
-<time datetime="">2023.04.17</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/315178/31517863.jpg?version=20230417120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Reaching Out (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
