@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 01:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 02:35:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람 Pt.2 (feat. 아이유)]]></title>
+            <link>https://music.bugs.co.kr/album/4085269?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4085269?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 21 Apr 2023 02:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13226533?wl_ref=list_ab_04" class="artistTitle" title="Agust D" onclick="
+" target="_self">Agust D</a>
+</p>
+<p>
+<time datetime="">2023.04.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40852/4085269.jpg?version=1680906103000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[택배 왔는가봐 TV 좀 꺼]]></title>
             <link>https://music.bugs.co.kr/album/20560883?wl_ref=list_ab_03</link>
@@ -1041,21 +1056,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205606/20560652.jpg?version=1681959633000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부모와 아이를 위한 재즈동요 Vol.2 [플룻이 들려주는 예쁜 손가락]]]></title>
-            <link>https://music.bugs.co.kr/album/20560634?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20560634?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 20 Apr 2023 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80155892?wl_ref=list_ab_04" class="artistTitle" title="지담" onclick="
-" target="_self">지담</a>
-</p>
-<p>
-<time datetime="">2023.04.20</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205606/20560634.jpg?version=1681959633000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
