@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 03:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 04:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40856/4085695.jpg?version=20230421120003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[D-DAY]]></title>
+            <link>https://music.bugs.co.kr/album/4085269?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4085269?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 21 Apr 2023 04:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13226533?wl_ref=list_ab_04" class="artistTitle" title="Agust D" onclick="
+" target="_self">Agust D</a>
+</p>
+<p>
+<time datetime="">2023.04.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40852/4085269.jpg?version=20230421130008.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Boat]]></title>
@@ -53,6 +68,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316173/31617307.jpg?version=20230421101508.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연애의 참견 2023 OST - Part.11]]></title>
+            <link>https://music.bugs.co.kr/album/4085612?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4085612?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 20 Apr 2023 09:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80170799?wl_ref=list_ab_04" class="artistTitle" title="어쿠루브" onclick="
+" target="_self">어쿠루브</a>
+</p>
+<p>
+<time datetime="">2023.04.20</time>
+<span class="albumType">OST</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40856/4085612.jpg?version=20230420180028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Up & Down]]></title>
             <link>https://music.bugs.co.kr/album/4085628?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4085628?wl_ref=list_ab_03</guid>
@@ -69,21 +99,6 @@ The Chainsmokers(체인스모커스)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40856/4085628.jpg?version=20230421000028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애의 참견 2023 OST - Part.11]]></title>
-            <link>https://music.bugs.co.kr/album/4085612?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4085612?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 20 Apr 2023 09:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80170799?wl_ref=list_ab_04" class="artistTitle" title="어쿠루브" onclick="
-" target="_self">어쿠루브</a>
-</p>
-<p>
-<time datetime="">2023.04.20</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40856/4085612.jpg?version=20230420180028.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자처]]></title>
@@ -1052,21 +1067,6 @@ polar (폴라)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40856/4085644.jpg?version=20230421015502.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[On My Way]]></title>
-            <link>https://music.bugs.co.kr/album/20560247?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20560247?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 20 Apr 2023 03:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20145949?wl_ref=list_ab_04" class="artistTitle" title="오아랜 (or&amp;)" onclick="
-" target="_self">오아랜 (or&amp;)</a>
-</p>
-<p>
-<time datetime="">2023.04.20</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205602/20560247.jpg?version=20230420120027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
