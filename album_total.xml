@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 02:35:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 03:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,19 +23,37 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40839/4083984.jpg?version=20230223064301.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ama Perdona]]></title>
+            <link>https://music.bugs.co.kr/album/31213755?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31213755?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 26 Apr 2023 03:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11863330?wl_ref=list_ab_04" class="artistTitle" title="Joseph Pineda V" onclick="
+" target="_self">Joseph Pineda V</a>
+</p>
+<p>
+<time datetime="">2023.04.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312137/31213755.jpg?version=20230426120031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드림 OST]]></title>
             <link>https://music.bugs.co.kr/album/4085609?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4085609?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 25 Apr 2023 15:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20052078?wl_ref=list_ab_04" class="artistTitle" title="하현상" onclick="
-" target="_self">하현상</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20052078?wl_ref=list_ab_04" class="artistTitle" title="하현상">하현상</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '하현상||하현상||20052078||OK\\n신인류||신인류||20066236||OK', ''); return false;">
+하현상
+</a> </p>
 <p>
-<time datetime="">2023.04.19</time>
+<time datetime="">2023.04.26</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40856/4085609.jpg?version=20230420064144.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40856/4085609.jpg?version=20230426120004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ad Günün Mübarek, Vol. 3]]></title>
@@ -1096,21 +1114,6 @@ Relaxing Music Therapy
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205605/20560542.jpg?version=20230425120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chemical Reaction]]></title>
-            <link>https://music.bugs.co.kr/album/31621613?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31621613?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 25 Apr 2023 10:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8014343?wl_ref=list_ab_04" class="artistTitle" title="Bella" onclick="
-" target="_self">Bella</a>
-</p>
-<p>
-<time datetime="">2023.04.25</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316216/31621613.jpg?version=20230426011917.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
