@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 09:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 10:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Polo World 2]]></title>
+            <link>https://music.bugs.co.kr/album/31633480?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31633480?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 27 Apr 2023 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13249359?wl_ref=list_ab_04" class="artistTitle" title="Crazio Wild" onclick="
+" target="_self">Crazio Wild</a>
+</p>
+<p>
+<time datetime="">2023.04.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316334/31633480.jpg?version=20230427160920.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Spirit of Love's Courage]]></title>
             <link>https://music.bugs.co.kr/album/31633391?wl_ref=list_ab_03</link>
@@ -986,6 +1001,21 @@ TITO SHERPA
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205625/20562511.jpg?version=20230427120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Good Match]]></title>
+            <link>https://music.bugs.co.kr/album/20562455?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20562455?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 27 Apr 2023 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20185191?wl_ref=list_ab_04" class="artistTitle" title="카리나 네뷸라 (Carina Nebula)" onclick="
+" target="_self">카리나 네뷸라 (Carina Nebula)</a>
+</p>
+<p>
+<time datetime="">2023.04.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205624/20562455.jpg?version=20230427180028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KOREAN CHEF II]]></title>
             <link>https://music.bugs.co.kr/album/20562192?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20562192?wl_ref=list_ab_03</guid>
@@ -1092,36 +1122,6 @@ TITO SHERPA
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205618/20561812.jpg?version=20230427120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Siesta]]></title>
-            <link>https://music.bugs.co.kr/album/20561800?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20561800?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Apr 2023 04:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20182307?wl_ref=list_ab_04" class="artistTitle" title="Qnel" onclick="
-" target="_self">Qnel</a>
-</p>
-<p>
-<time datetime="">2023.04.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205618/20561800.jpg?version=20230427120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기억의조각]]></title>
-            <link>https://music.bugs.co.kr/album/20561724?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20561724?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Apr 2023 04:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80067102?wl_ref=list_ab_04" class="artistTitle" title="백송현" onclick="
-" target="_self">백송현</a>
-</p>
-<p>
-<time datetime="">2023.04.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205617/20561724.jpg?version=20230427120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
