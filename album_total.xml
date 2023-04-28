@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 02:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 03:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,6 +89,21 @@ DJ Glen
             <enclosure url="https://image.bugsm.co.kr/album/images/170/315895/31589581.jpg?version=20230428103525.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Cageless]]></title>
+            <link>https://music.bugs.co.kr/album/31567421?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31567421?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 28 Apr 2023 03:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12236239?wl_ref=list_ab_04" class="artistTitle" title="Gunnel Boek" onclick="
+" target="_self">Gunnel Boek</a>
+</p>
+<p>
+<time datetime="">2023.04.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/315674/31567421.jpg?version=20230428120029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Great Golden Gate]]></title>
             <link>https://music.bugs.co.kr/album/31558760?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31558760?wl_ref=list_ab_03</guid>
@@ -155,6 +170,24 @@ La Toya Linger
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312763/31276359.jpg?version=20230428000025.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fogo Na Cabeça]]></title>
+            <link>https://music.bugs.co.kr/album/31252150?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31252150?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 28 Apr 2023 03:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11703778?wl_ref=list_ab_04" class="artistTitle" title="Jorda">Jorda</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Jorda||Jorda||11703778||OK\\nASSI||ASSI||11763636||OK', ''); return false;">
+Jorda
+</a> </p>
+<p>
+<time datetime="">2023.04.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312521/31252150.jpg?version=20230428120029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Garden]]></title>
             <link>https://music.bugs.co.kr/album/31222597?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31222597?wl_ref=list_ab_03</guid>
@@ -213,6 +246,21 @@ La Toya Linger
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/302542/30254262.jpg?version=20230428000025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 그래]]></title>
+            <link>https://music.bugs.co.kr/album/20290969?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20290969?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 28 Apr 2023 03:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20096205?wl_ref=list_ab_04" class="artistTitle" title="이희철" onclick="
+" target="_self">이희철</a>
+</p>
+<p>
+<time datetime="">2023.04.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/202909/20290969.jpg?version=20230428120029.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SIETE]]></title>
@@ -1086,51 +1134,6 @@ TITO SHERPA
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/313923/31392383.jpg?version=20230428064411.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE LAST DAYTONA]]></title>
-            <link>https://music.bugs.co.kr/album/31275501?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31275501?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Apr 2023 04:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80311817?wl_ref=list_ab_04" class="artistTitle" title="WIINSTON" onclick="
-" target="_self">WIINSTON</a>
-</p>
-<p>
-<time datetime="">2023.04.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312755/31275501.jpg?version=20230428063959.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADDICTED TO UNDERSTANDING]]></title>
-            <link>https://music.bugs.co.kr/album/31239890?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31239890?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Apr 2023 04:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13199169?wl_ref=list_ab_04" class="artistTitle" title="ADDICTED TO UNDERSTANDING" onclick="
-" target="_self">ADDICTED TO UNDERSTANDING</a>
-</p>
-<p>
-<time datetime="">2023.04.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312398/31239890.jpg?version=20230428064010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Classical Music for Dogs: Nocturnes by Frédéric Chopin]]></title>
-            <link>https://music.bugs.co.kr/album/31225353?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31225353?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Apr 2023 04:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11883085?wl_ref=list_ab_04" class="artistTitle" title="Dog Relaxation" onclick="
-" target="_self">Dog Relaxation</a>
-</p>
-<p>
-<time datetime="">2023.04.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312253/31225353.jpg?version=20230428064502.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
