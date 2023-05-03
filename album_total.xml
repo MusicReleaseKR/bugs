@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 09:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 10:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nature's Breath: Sooting Wind Sounds]]></title>
+            <link>https://music.bugs.co.kr/album/31652283?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31652283?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 03 May 2023 10:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13238432?wl_ref=list_ab_04" class="artistTitle" title="Earth Echoes" onclick="
+" target="_self">Earth Echoes</a>
+</p>
+<p>
+<time datetime="">2023.05.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316522/31652283.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[İyi ki Doğdun, Vol. 26 (İsme Özel)]]></title>
+            <link>https://music.bugs.co.kr/album/31652262?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31652262?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 03 May 2023 10:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12828415?wl_ref=list_ab_04" class="artistTitle" title="Erman Tazegül" onclick="
+" target="_self">Erman Tazegül</a>
+</p>
+<p>
+<time datetime="">2023.05.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316522/31652262.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rucciskii]]></title>
             <link>https://music.bugs.co.kr/album/31643282?wl_ref=list_ab_03</link>
@@ -1149,42 +1179,6 @@ Entspannende Yoga-Lieder
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310830/31083083.jpg?version=20230503120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Calm Sleep Sounds]]></title>
-            <link>https://music.bugs.co.kr/album/31083053?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31083053?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 03 May 2023 06:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11752543?wl_ref=list_ab_04" class="artistTitle" title="Yoga Muziek">Yoga Muziek</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Yoga Muziek||Yoga Muziek||11752543||OK\\nSlaapmuziek||Slaapmuziek||11751690||OK', ''); return false;">
-Yoga Muziek
-</a> </p>
-<p>
-<time datetime="">2023.05.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310830/31083053.jpg?version=20230503120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[放松您的大脑]]></title>
-            <link>https://music.bugs.co.kr/album/30932405?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30932405?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 03 May 2023 06:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13092029?wl_ref=list_ab_04" class="artistTitle" title="消磨时光曲">消磨时光曲</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '消磨时光曲||消磨时光曲||13092029||OK\\n沉睡||沉睡||13092028||OK', ''); return false;">
-消磨时光曲
-</a> </p>
-<p>
-<time datetime="">2023.05.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309324/30932405.jpg?version=20230503120008.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
