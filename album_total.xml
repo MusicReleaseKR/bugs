@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 11:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 12:32:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -596,6 +596,24 @@ Chillhop Beats
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316195/31619521.jpg?version=20230504120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dalle]]></title>
+            <link>https://music.bugs.co.kr/album/31607982?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31607982?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 04 May 2023 12:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/8880082?wl_ref=list_ab_04" class="artistTitle" title="Elefante">Elefante</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Elefante||Elefante||8880082||OK\\nLa Mosca Tse-Tse||La Mosca Tse-Tse||8105304||OK\\nTony Dize||Tony Dize||80081989||OK', ''); return false;">
+Elefante
+</a> </p>
+<p>
+<time datetime="">2023.05.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316079/31607982.jpg?version=20230504210050.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Forever Young]]></title>
             <link>https://music.bugs.co.kr/album/31599716?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31599716?wl_ref=list_ab_03</guid>
@@ -699,6 +717,21 @@ Chillhop Beats
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312519/31251961.jpg?version=20230504120034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Puzzle Vol.1]]></title>
+            <link>https://music.bugs.co.kr/album/31218362?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31218362?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 04 May 2023 12:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13193126?wl_ref=list_ab_04" class="artistTitle" title="Gold One" onclick="
+" target="_self">Gold One</a>
+</p>
+<p>
+<time datetime="">2023.05.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312183/31218362.jpg?version=20230504205055.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lullaby White Noise]]></title>
@@ -1089,39 +1122,6 @@ Chillhop Beats
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205609/20560918.jpg?version=20230504180033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MOONROCKSTAR]]></title>
-            <link>https://music.bugs.co.kr/album/20556887?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20556887?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 04 May 2023 10:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20104109?wl_ref=list_ab_04" class="artistTitle" title="chilloud" onclick="
-" target="_self">chilloud</a>
-</p>
-<p>
-<time datetime="">2023.05.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205568/20556887.jpg?version=20230504180033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLK IVY]]></title>
-            <link>https://music.bugs.co.kr/album/31652152?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31652152?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 04 May 2023 04:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12448653?wl_ref=list_ab_04" class="artistTitle" title="Louis Navas">Louis Navas</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Louis Navas||Louis Navas||12448653||OK\\nMALICI4||MALICI4||13240767||OK', ''); return false;">
-Louis Navas
-</a> </p>
-<p>
-<time datetime="">2023.05.04</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316521/31652152.jpg?version=20230504011915.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
