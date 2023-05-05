@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 09:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 10:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -512,6 +512,36 @@ Sandra Luna(산드라 루나)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316522/31652290.jpg?version=20230505000023.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[If Looks Could Kill]]></title>
+            <link>https://music.bugs.co.kr/album/31652092?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31652092?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 May 2023 10:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11794582?wl_ref=list_ab_04" class="artistTitle" title="Destroy Lonely" onclick="
+" target="_self">Destroy Lonely</a>
+</p>
+<p>
+<time datetime="">2023.05.05</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316520/31652092.jpg?version=20230505141501.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hecho En México…Mágico]]></title>
+            <link>https://music.bugs.co.kr/album/31652088?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31652088?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 May 2023 10:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80217015?wl_ref=list_ab_04" class="artistTitle" title="Banda El Recodo De Cruz Lizarraga" onclick="
+" target="_self">Banda El Recodo De Cruz Lizarraga</a>
+</p>
+<p>
+<time datetime="">2023.05.05</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316520/31652088.jpg?version=20230505131003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nós (Ao Vivo)]]></title>
             <link>https://music.bugs.co.kr/album/31652080?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31652080?wl_ref=list_ab_03</guid>
@@ -872,7 +902,7 @@ Eleonora Zouganeli
 <time datetime="">2023.05.05</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316518/31651895.jpg?version=20230505101506.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316518/31651895.jpg?version=20230505191500.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[How To Start A Garden]]></title>
@@ -1044,36 +1074,6 @@ Abbie Gamboa
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316517/31651793.jpg?version=20230505013248.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beethoven and Beyond]]></title>
-            <link>https://music.bugs.co.kr/album/31651785?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31651785?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 May 2023 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12947421?wl_ref=list_ab_04" class="artistTitle" title="María Dueñas" onclick="
-" target="_self">María Dueñas</a>
-</p>
-<p>
-<time datetime="">2023.05.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316517/31651785.jpg?version=20230505013817.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IN WIEN - The song maker - (Live)]]></title>
-            <link>https://music.bugs.co.kr/album/31651784?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31651784?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 May 2023 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80229358?wl_ref=list_ab_04" class="artistTitle" title="Reinhard Mey(라인하르트 메이)" onclick="
-" target="_self">Reinhard Mey(라인하르트 메이)</a>
-</p>
-<p>
-<time datetime="">2023.05.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316517/31651784.jpg?version=20230505010319.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
