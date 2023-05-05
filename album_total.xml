@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 14:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 15:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beethoven: Piano Sonatas Nos. 18, 19, 20, 30 & 31]]></title>
+            <link>https://music.bugs.co.kr/album/31651139?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31651139?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 May 2023 15:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/38652?wl_ref=list_ab_04" class="artistTitle" title="Walter Gieseking(기제킹)" onclick="
+" target="_self">Walter Gieseking(기제킹)</a>
+</p>
+<p>
+<time datetime="">2023.05.06</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316511/31651139.jpg?version=20230506000027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blondie]]></title>
+            <link>https://music.bugs.co.kr/album/20546488?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20546488?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 May 2023 15:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20063941?wl_ref=list_ab_04" class="artistTitle" title="저드 (jerd)" onclick="
+" target="_self">저드 (jerd)</a>
+</p>
+<p>
+<time datetime="">2023.03.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205464/20546488.jpg?version=20230315014238.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[This Is MELON, Vol. 1 (Hardstyle) [Deluxe]]]></title>
             <link>https://music.bugs.co.kr/album/31659066?wl_ref=list_ab_03</link>
@@ -479,7 +509,7 @@ Sandra Luna(산드라 루나)
 <time datetime="">2023.05.05</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316527/31652744.jpg?version=20230505000023.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316527/31652744.jpg?version=20230506000010.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[不止不休 (原创电影原声带)]]></title>
@@ -1044,36 +1074,6 @@ Abbie Gamboa
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316518/31651809.jpg?version=20230505010903.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rich Junkie]]></title>
-            <link>https://music.bugs.co.kr/album/31651806?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31651806?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 May 2023 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12200750?wl_ref=list_ab_04" class="artistTitle" title="Ed Dolo" onclick="
-" target="_self">Ed Dolo</a>
-</p>
-<p>
-<time datetime="">2023.05.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316518/31651806.jpg?version=20230505010043.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealer]]></title>
-            <link>https://music.bugs.co.kr/album/31651793?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31651793?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 May 2023 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80294406?wl_ref=list_ab_04" class="artistTitle" title="Madison Cunningham" onclick="
-" target="_self">Madison Cunningham</a>
-</p>
-<p>
-<time datetime="">2023.05.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316517/31651793.jpg?version=20230505013248.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
