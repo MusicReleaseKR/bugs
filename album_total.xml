@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 09:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 10:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -664,6 +664,24 @@ Relaxing Music Therapy
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205639/20563955.jpg?version=20230506120028.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Breakfast Club : 조찬 클럽]]></title>
+            <link>https://music.bugs.co.kr/album/4086214?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4086214?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 06 May 2023 10:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80067018?wl_ref=list_ab_04" class="artistTitle" title="윤석철">윤석철</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '윤석철||윤석철||80067018||OK\\nSejin||세진(Sejin)||80063930||OK', ''); return false;">
+윤석철
+</a> </p>
+<p>
+<time datetime="">2023.05.06</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40862/4086214.jpg?version=20230506180009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Chembarathi Poo (From "Janaki Jaane")]]></title>
             <link>https://music.bugs.co.kr/album/31659226?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31659226?wl_ref=list_ab_03</guid>
@@ -695,6 +713,21 @@ Leo Ros
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316591/31659189.jpg?version=20230506002600.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Better Tomorrow]]></title>
+            <link>https://music.bugs.co.kr/album/31659112?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31659112?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 06 May 2023 10:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13257464?wl_ref=list_ab_04" class="artistTitle" title="QIER" onclick="
+" target="_self">QIER</a>
+</p>
+<p>
+<time datetime="">2023.05.06</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316591/31659112.jpg?version=20230506130002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[In-Depth]]></title>
@@ -1109,36 +1142,6 @@ Tony Hoàng Anh
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316528/31652815.jpg?version=20230506000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Преподобна Стойна]]></title>
-            <link>https://music.bugs.co.kr/album/31652814?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31652814?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 06 May 2023 04:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12196639?wl_ref=list_ab_04" class="artistTitle" title="Илия Луков" onclick="
-" target="_self">Илия Луков</a>
-</p>
-<p>
-<time datetime="">2023.05.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316528/31652814.jpg?version=20230506000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[立夏時年青]]></title>
-            <link>https://music.bugs.co.kr/album/31652811?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31652811?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 06 May 2023 04:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12927052?wl_ref=list_ab_04" class="artistTitle" title="翟瀟聞" onclick="
-" target="_self">翟瀟聞</a>
-</p>
-<p>
-<time datetime="">2023.05.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316528/31652811.jpg?version=20230506000027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
