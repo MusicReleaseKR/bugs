@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 22:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 23:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1072,6 +1072,24 @@ Industria Del Amor
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205639/20563955.jpg?version=20230506120028.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Alone In]]></title>
+            <link>https://music.bugs.co.kr/album/19960643?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19960643?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 06 May 2023 23:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12979362?wl_ref=list_ab_04" class="artistTitle" title="HELDD">HELDD</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'HELDD||HELDD||12979362||OK\\nHIMARY||HIMARY||12880977||OK', ''); return false;">
+HELDD
+</a> </p>
+<p>
+<time datetime="">2023.05.06</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/199606/19960643.jpg?version=20230507072018.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[On the Run]]></title>
             <link>https://music.bugs.co.kr/album/19406199?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/19406199?wl_ref=list_ab_03</guid>
@@ -1100,21 +1118,6 @@ Industria Del Amor
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/192955/19295596.jpg?version=20230507070517.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Velocissimo]]></title>
-            <link>https://music.bugs.co.kr/album/18253006?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18253006?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 06 May 2023 19:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12843292?wl_ref=list_ab_04" class="artistTitle" title="Daft Panko" onclick="
-" target="_self">Daft Panko</a>
-</p>
-<p>
-<time datetime="">2023.05.06</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/182530/18253006.jpg?version=20230507064345.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
