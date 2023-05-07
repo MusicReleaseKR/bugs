@@ -4,11 +4,74 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 02:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 03:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[겨울향]]></title>
+            <title><![CDATA[Eternity]]></title>
+            <link>https://music.bugs.co.kr/album/31626347?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31626347?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 07 May 2023 03:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13075174?wl_ref=list_ab_04" class="artistTitle" title="Buddha Kan" onclick="
+" target="_self">Buddha Kan</a>
+</p>
+<p>
+<time datetime="">2023.05.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316263/31626347.jpg?version=20230507113115.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Magic Moment]]></title>
+            <link>https://music.bugs.co.kr/album/31389889?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31389889?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 07 May 2023 03:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13225227?wl_ref=list_ab_04" class="artistTitle" title="Dj Fede Nargi" onclick="
+" target="_self">Dj Fede Nargi</a>
+</p>
+<p>
+<time datetime="">2023.05.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/313898/31389889.jpg?version=20230507113112.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MondoSfondo]]></title>
+            <link>https://music.bugs.co.kr/album/31090693?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31090693?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 07 May 2023 03:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13151551?wl_ref=list_ab_04" class="artistTitle" title="The Sticky Truth" onclick="
+" target="_self">The Sticky Truth</a>
+</p>
+<p>
+<time datetime="">2023.05.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310906/31090693.jpg?version=20230507113103.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ginsu]]></title>
+            <link>https://music.bugs.co.kr/album/30437418?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30437418?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 07 May 2023 03:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12378447?wl_ref=list_ab_04" class="artistTitle" title="Jimmy">Jimmy</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Jimmy||Jimmy||12378447||OK\\nVandal Savage||Vandal Savage||10618648||OK', ''); return false;">
+Jimmy
+</a> </p>
+<p>
+<time datetime="">2023.05.07</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/304374/30437418.jpg?version=20230507112024.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[길었던 이야기]]></title>
             <link>https://music.bugs.co.kr/album/4082846?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4082846?wl_ref=list_ab_03</guid>
             <pubDate>Sat, 06 May 2023 15:16:13 GMT</pubDate>
@@ -17,10 +80,10 @@
 " target="_self">김부경</a>
 </p>
 <p>
-<time datetime="">2023.01.05</time>
+<time datetime="">2023.05.07</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40828/4082846.jpg?version=20230105120004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40828/4082846.jpg?version=20230507120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chansons de révolte - Ni Dieu, ni maître]]></title>
@@ -1058,69 +1121,6 @@ Glen Leno
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312486/31248618.jpg?version=20230507071013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Night Vision]]></title>
-            <link>https://music.bugs.co.kr/album/31246544?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31246544?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 06 May 2023 04:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13124806?wl_ref=list_ab_04" class="artistTitle" title="Jere's Room" onclick="
-" target="_self">Jere's Room</a>
-</p>
-<p>
-<time datetime="">2023.05.06</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312465/31246544.jpg?version=20230507064545.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Utopia]]></title>
-            <link>https://music.bugs.co.kr/album/31218447?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31218447?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 06 May 2023 21:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13087981?wl_ref=list_ab_04" class="artistTitle" title="Tanzburine" onclick="
-" target="_self">Tanzburine</a>
-</p>
-<p>
-<time datetime="">2023.05.06</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312184/31218447.jpg?version=20230507063737.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shell]]></title>
-            <link>https://music.bugs.co.kr/album/31218435?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31218435?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 06 May 2023 18:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80189276?wl_ref=list_ab_04" class="artistTitle" title="Bluez" onclick="
-" target="_self">Bluez</a>
-</p>
-<p>
-<time datetime="">2023.05.06</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312184/31218435.jpg?version=20230507063734.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adore You]]></title>
-            <link>https://music.bugs.co.kr/album/31218376?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31218376?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 06 May 2023 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20013970?wl_ref=list_ab_04" class="artistTitle" title="Industria Del Amor">Industria Del Amor</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Industria Del Amor||Industria Del Amor||20013970||OK\\nLa Mosca Tse-Tse||La Mosca Tse-Tse||8105304||OK\\nSamuray||Samuray||12752304||OK', ''); return false;">
-Industria Del Amor
-</a> </p>
-<p>
-<time datetime="">2023.05.06</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312183/31218376.jpg?version=20230507071012.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
