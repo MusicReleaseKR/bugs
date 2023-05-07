@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 09:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 10:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -868,6 +868,24 @@ Jimmy
             <enclosure url="https://image.bugsm.co.kr/album/images/170/194508/19450802.jpg?version=20230507123503.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[VS2]]></title>
+            <link>https://music.bugs.co.kr/album/4086207?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4086207?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 07 May 2023 10:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80086187?wl_ref=list_ab_04" class="artistTitle" title="큐엠(QM)">큐엠(QM)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '큐엠||큐엠(QM)||80086187||OK\\nODEE||ODEE||80161558||OK', ''); return false;">
+큐엠(QM)
+</a> </p>
+<p>
+<time datetime="">2023.05.07</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40862/4086207.jpg?version=20230507180025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[HIJVC KID ll]]></title>
             <link>https://music.bugs.co.kr/album/4086205?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4086205?wl_ref=list_ab_03</guid>
@@ -1124,24 +1142,6 @@ Anil Ajuba
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316591/31659107.jpg?version=20230507000023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Not Everyone's Darling]]></title>
-            <link>https://music.bugs.co.kr/album/31659103?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31659103?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 07 May 2023 04:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11867135?wl_ref=list_ab_04" class="artistTitle" title="Patricia Kelly">Patricia Kelly</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Patricia Kelly||Patricia Kelly||11867135||OK\\nLuca Hänni||Luca Hänni||80134620||OK', ''); return false;">
-Patricia Kelly
-</a> </p>
-<p>
-<time datetime="">2023.05.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316591/31659103.jpg?version=20230507000023.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
