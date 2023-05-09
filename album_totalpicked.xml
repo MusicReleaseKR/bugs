@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 11:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 13:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -590,6 +590,24 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205644/20564436.jpg?version=20230509120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Angel Pt. 1 (feat. Kodak Black, Jimin of BTS, & JVKE) (Trailer Version)]]></title>
+            <link>https://music.bugs.co.kr/album/31659831?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31659831?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 09 May 2023 13:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13048984?wl_ref=list_ab_04" class="artistTitle" title="Fast &amp; Furious: The Fast Saga">Fast &amp; Furious: The Fast Saga</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Fast &amp; Furious: The Fast Saga||Fast &amp; Furious: The Fast Saga||13048984||OK\\nJimin||Jimin||13258766||OK\\nJVKE||JVKE||13043203||OK', ''); return false;">
+Fast &amp; Furious: The Fast Saga
+</a> </p>
+<p>
+<time datetime="">2023.05.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316598/31659831.jpg?version=20230509211005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[< 3 Song]]></title>
             <link>https://music.bugs.co.kr/album/4086090?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4086090?wl_ref=list_ab_03</guid>
@@ -1068,21 +1086,6 @@ Mariline
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316547/31654761.jpg?version=20230509064051.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[After Midnight]]></title>
-            <link>https://music.bugs.co.kr/album/20563612?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20563612?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 08 May 2023 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20082958?wl_ref=list_ab_04" class="artistTitle" title="nawhij" onclick="
-" target="_self">nawhij</a>
-</p>
-<p>
-<time datetime="">2023.05.08</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205636/20563612.jpg?version=20230508120025.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
