@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 02:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 03:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[the youth, emotions and everything in between (deluxe)]]></title>
+            <link>https://music.bugs.co.kr/album/31597820?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31597820?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 10 May 2023 03:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12219011?wl_ref=list_ab_04" class="artistTitle" title="Ella Tiritiello" onclick="
+" target="_self">Ella Tiritiello</a>
+</p>
+<p>
+<time datetime="">2023.05.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/315978/31597820.jpg?version=20230510120032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃 (Prod. ANDRO)]]></title>
+            <link>https://music.bugs.co.kr/album/20090676?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20090676?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 10 May 2023 03:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80087798?wl_ref=list_ab_04" class="artistTitle" title="랑쑈(Rangshow)" onclick="
+" target="_self">랑쑈(Rangshow)</a>
+</p>
+<p>
+<time datetime="">2023.05.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/200906/20090676.jpg?version=20230510120032.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Relax Ways]]></title>
             <link>https://music.bugs.co.kr/album/31661353?wl_ref=list_ab_03</link>
@@ -515,7 +545,7 @@
 <time datetime="">2023.05.09</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205637/20563730.jpg?version=20230510112854.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205637/20563730.jpg?version=20230510115705.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트롯이벤트]]></title>
@@ -1038,39 +1068,6 @@ Denzel Alexander
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205638/20563865.jpg?version=20230509180025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alimentation Generale]]></title>
-            <link>https://music.bugs.co.kr/album/20563805?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20563805?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 09 May 2023 04:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20171984?wl_ref=list_ab_04" class="artistTitle" title="PICOT" onclick="
-" target="_self">PICOT</a>
-</p>
-<p>
-<time datetime="">2023.05.09</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205638/20563805.jpg?version=20230509120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[@SILLIM]]></title>
-            <link>https://music.bugs.co.kr/album/20563767?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20563767?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 09 May 2023 04:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20111903?wl_ref=list_ab_04" class="artistTitle" title="372">372</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '372||372||20111903||OK\\n안경잽이||안경잽이||20092799||OK\\nSipseonbee||Sipseonbee||20139651||OK', ''); return false;">
-372
-</a> </p>
-<p>
-<time datetime="">2023.05.09</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205637/20563767.jpg?version=20230509120028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
