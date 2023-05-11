@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 09:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 10:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316618/31661815.jpg?version=20230511031153.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sólo D’Lira]]></title>
+            <link>https://music.bugs.co.kr/album/31661432?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31661432?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 11 May 2023 10:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80128728?wl_ref=list_ab_04" class="artistTitle" title="Molotov(몰로토브)" onclick="
+" target="_self">Molotov(몰로토브)</a>
+</p>
+<p>
+<time datetime="">2023.05.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316614/31661432.jpg?version=20230511150006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Crocantes da Vida]]></title>
@@ -1107,21 +1122,6 @@ Tom Hillock
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205643/20564385.jpg?version=20230511120027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nor Belgraad]]></title>
-            <link>https://music.bugs.co.kr/album/20564382?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20564382?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 11 May 2023 04:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13212379?wl_ref=list_ab_04" class="artistTitle" title="Nor Belgraad" onclick="
-" target="_self">Nor Belgraad</a>
-</p>
-<p>
-<time datetime="">2023.05.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205643/20564382.jpg?version=20230511120027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
