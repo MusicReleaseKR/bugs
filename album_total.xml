@@ -4,11 +4,11 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 02:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 03:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Wendy]]></title>
+            <title><![CDATA[Emotion]]></title>
             <link>https://music.bugs.co.kr/album/4085348?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4085348?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 10 May 2023 19:16:18 GMT</pubDate>
@@ -17,10 +17,10 @@
 " target="_self">앤드뉴(Andnew)</a>
 </p>
 <p>
-<time datetime="">2023.04.11</time>
-<span class="albumType">싱글</span>
+<time datetime="">2023.05.11</time>
+<span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40853/4085348.jpg?version=20230412064209.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40853/4085348.jpg?version=20230511120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[עולה עולה בית"ר]]></title>
@@ -36,6 +36,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312733/31273334.jpg?version=20230511000031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heat]]></title>
+            <link>https://music.bugs.co.kr/album/31082069?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31082069?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 11 May 2023 03:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12444703?wl_ref=list_ab_04" class="artistTitle" title="Lena Hessels" onclick="
+" target="_self">Lena Hessels</a>
+</p>
+<p>
+<time datetime="">2023.05.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310820/31082069.jpg?version=20230511120027.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[İyi Ki Doğdun, Vol. 3 (Karadeniz Versiyonu)]]></title>
@@ -1116,21 +1131,6 @@ The Duke Ellington Orchestra
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205641/20564127.jpg?version=20230510120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camera Obscura]]></title>
-            <link>https://music.bugs.co.kr/album/20564104?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20564104?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 May 2023 04:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20089339?wl_ref=list_ab_04" class="artistTitle" title="People In The Box" onclick="
-" target="_self">People In The Box</a>
-</p>
-<p>
-<time datetime="">2023.05.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205641/20564104.jpg?version=20230510120032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
