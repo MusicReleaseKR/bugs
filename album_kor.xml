@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 14:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 15:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[May, I Love U]]></title>
+            <link>https://music.bugs.co.kr/album/20561562?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20561562?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 12 May 2023 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20156649?wl_ref=list_ab_04" class="artistTitle" title="김윤영" onclick="
+" target="_self">김윤영</a>
+</p>
+<p>
+<time datetime="">2023.05.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205615/20561562.jpg?version=1683868170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앗싸 신나는 관광 디스코]]></title>
             <link>https://music.bugs.co.kr/album/20565592?wl_ref=list_ab_03</link>
@@ -1047,21 +1062,6 @@ Cosh
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205653/20565320.jpg?version=1683860429000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백월(白月)]]></title>
-            <link>https://music.bugs.co.kr/album/20565308?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20565308?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 May 2023 04:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20186111?wl_ref=list_ab_04" class="artistTitle" title="MIRROR(미러)" onclick="
-" target="_self">MIRROR(미러)</a>
-</p>
-<p>
-<time datetime="">2023.05.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205653/20565308.jpg?version=1683860421000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
