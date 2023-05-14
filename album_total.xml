@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 09:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 10:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -608,6 +608,21 @@ Relaxing Music Therapy
             <enclosure url="https://image.bugsm.co.kr/album/images/170/199741/19974188.jpg?version=20230514120025.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비올 때 듣는 Lo-Fi Jazz 음악]]></title>
+            <link>https://music.bugs.co.kr/album/4086422?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4086422?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 14 May 2023 10:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13268979?wl_ref=list_ab_04" class="artistTitle" title="자는 시간 (Nighty Night Time)" onclick="
+" target="_self">자는 시간 (Nighty Night Time)</a>
+</p>
+<p>
+<time datetime="">2023.05.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40864/4086422.jpg?version=20230514180031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LYKAKAR (Remix)]]></title>
             <link>https://music.bugs.co.kr/album/31671689?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31671689?wl_ref=list_ab_03</guid>
@@ -818,6 +833,21 @@ Relaxing Music Therapy
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205652/20565280.jpg?version=20230514120025.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dear my.]]></title>
+            <link>https://music.bugs.co.kr/album/20565195?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20565195?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 14 May 2023 10:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20084553?wl_ref=list_ab_04" class="artistTitle" title="Whalethemigaloo" onclick="
+" target="_self">Whalethemigaloo</a>
+</p>
+<p>
+<time datetime="">2023.05.14</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205651/20565195.jpg?version=20230514180031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[WHITE CLOUD]]></title>
             <link>https://music.bugs.co.kr/album/20565119?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20565119?wl_ref=list_ab_03</guid>
@@ -861,6 +891,21 @@ Relaxing Music Therapy
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205649/20564938.jpg?version=20230514120025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Opending]]></title>
+            <link>https://music.bugs.co.kr/album/20564261?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20564261?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 14 May 2023 10:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20185799?wl_ref=list_ab_04" class="artistTitle" title="권비(KWONB)" onclick="
+" target="_self">권비(KWONB)</a>
+</p>
+<p>
+<time datetime="">2023.05.14</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205642/20564261.jpg?version=20230514180031.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mi Madre La Más Bella]]></title>
@@ -1077,54 +1122,6 @@ Ante Ciento Veinte
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316717/31671752.jpg?version=20230514120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Palia pligi - Παλιά πληγή]]></title>
-            <link>https://music.bugs.co.kr/album/31671259?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31671259?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 14 May 2023 04:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13244565?wl_ref=list_ab_04" class="artistTitle" title="Cologne Guitar Quartet">Cologne Guitar Quartet</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Cologne Guitar Quartet||Cologne Guitar Quartet||13244565||OK\\nPtolemaios Armaos||Ptolemaios Armaos||12251504||OK', ''); return false;">
-Cologne Guitar Quartet
-</a> </p>
-<p>
-<time datetime="">2023.05.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316712/31671259.jpg?version=20230514120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Outbreak]]></title>
-            <link>https://music.bugs.co.kr/album/31670880?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31670880?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 14 May 2023 04:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12937815?wl_ref=list_ab_04" class="artistTitle" title="Mr. Gamingtor" onclick="
-" target="_self">Mr. Gamingtor</a>
-</p>
-<p>
-<time datetime="">2023.05.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316708/31670880.jpg?version=20230514120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Til We Meet Again]]></title>
-            <link>https://music.bugs.co.kr/album/31670357?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31670357?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 14 May 2023 04:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12283826?wl_ref=list_ab_04" class="artistTitle" title="Lannie Inseparable We" onclick="
-" target="_self">Lannie Inseparable We</a>
-</p>
-<p>
-<time datetime="">2023.05.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316703/31670357.jpg?version=20230514120025.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
