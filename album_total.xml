@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 14:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 15:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -908,6 +908,21 @@ Relaxing Music Therapy
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205642/20564261.jpg?version=20230514180031.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Take "it" Easy]]></title>
+            <link>https://music.bugs.co.kr/album/19853426?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19853426?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 14 May 2023 15:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12956927?wl_ref=list_ab_04" class="artistTitle" title="ORdhn" onclick="
+" target="_self">ORdhn</a>
+</p>
+<p>
+<time datetime="">2023.05.14</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/198534/19853426.jpg?version=20230514233015.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Take Our Time]]></title>
             <link>https://music.bugs.co.kr/album/19853093?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/19853093?wl_ref=list_ab_03</guid>
@@ -921,6 +936,24 @@ Relaxing Music Therapy
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/198530/19853093.jpg?version=20230514230112.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Struggles]]></title>
+            <link>https://music.bugs.co.kr/album/16759653?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16759653?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 14 May 2023 15:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12447516?wl_ref=list_ab_04" class="artistTitle" title="Daizer">Daizer</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Daizer||Daizer||12447516||OK\\nLil Wicked||Lil Wicked||10458851||OK\\nWestside Cartel||Westside Cartel||80086109||OK', ''); return false;">
+Daizer
+</a> </p>
+<p>
+<time datetime="">2023.05.14</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/167596/16759653.jpg?version=20230514233003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mi Madre La Más Bella]]></title>
@@ -1092,36 +1125,6 @@ Ante Ciento Veinte
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316720/31672016.jpg?version=20230514000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You'll Never Walk Alone]]></title>
-            <link>https://music.bugs.co.kr/album/31672003?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31672003?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 14 May 2023 13:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11738429?wl_ref=list_ab_04" class="artistTitle" title="Duncan Laurence" onclick="
-" target="_self">Duncan Laurence</a>
-</p>
-<p>
-<time datetime="">2023.05.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316720/31672003.jpg?version=20230514081501.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fantasy]]></title>
-            <link>https://music.bugs.co.kr/album/31671786?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31671786?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 14 May 2023 13:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20051117?wl_ref=list_ab_04" class="artistTitle" title="Farragol" onclick="
-" target="_self">Farragol</a>
-</p>
-<p>
-<time datetime="">2023.05.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316717/31671786.jpg?version=20230514120025.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
