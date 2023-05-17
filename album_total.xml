@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 14:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 15:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BORRACHO]]></title>
+            <link>https://music.bugs.co.kr/album/31405193?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31405193?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 17 May 2023 15:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12685581?wl_ref=list_ab_04" class="artistTitle" title="ANDERKY" onclick="
+" target="_self">ANDERKY</a>
+</p>
+<p>
+<time datetime="">2023.05.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/314051/31405193.jpg?version=20230518000028.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mole]]></title>
             <link>https://music.bugs.co.kr/album/31696051?wl_ref=list_ab_03</link>
@@ -443,7 +458,7 @@ Ikumi Koyama
 <time datetime="">2023.05.17</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/315996/31599679.jpg?version=20230517120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/315996/31599679.jpg?version=20230518001538.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘 출가합니다 OST]]></title>
@@ -1050,21 +1065,6 @@ Def Leppard(데프 레파드)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316913/31691346.jpg?version=20230517011527.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fine Pass]]></title>
-            <link>https://music.bugs.co.kr/album/31673418?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31673418?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 17 May 2023 04:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13269481?wl_ref=list_ab_04" class="artistTitle" title="TÖME" onclick="
-" target="_self">TÖME</a>
-</p>
-<p>
-<time datetime="">2023.05.17</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316734/31673418.jpg?version=20230517000023.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
