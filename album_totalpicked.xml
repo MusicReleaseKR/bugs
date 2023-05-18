@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 05:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 06:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -503,21 +503,6 @@ Chan
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316176/31617645.jpg?version=20230518112920.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ILY]]></title>
-            <link>https://music.bugs.co.kr/album/20566345?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20566345?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 18 May 2023 03:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80060786?wl_ref=list_ab_04" class="artistTitle" title="Amber Liu (엠버)" onclick="
-" target="_self">Amber Liu (엠버)</a>
-</p>
-<p>
-<time datetime="">2023.05.18</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205663/20566345.jpg?version=20230518120000.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YIN YANG TAPES: Summer Season (1989-1990)]]></title>
@@ -1075,6 +1060,21 @@ COA White
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205662/20566241.jpg?version=20230517120004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Polygon]]></title>
+            <link>https://music.bugs.co.kr/album/20566062?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20566062?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 18 May 2023 06:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20064166?wl_ref=list_ab_04" class="artistTitle" title="바이더문(BY THE MOON)" onclick="
+" target="_self">바이더문(BY THE MOON)</a>
+</p>
+<p>
+<time datetime="">2023.05.17</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205660/20566062.jpg?version=20230517120023.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
