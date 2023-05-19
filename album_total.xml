@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 02:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 03:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,21 @@ Lorenzo De Finti
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/163803/16380398.jpg?version=20230519000032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Firme Fundamento (Jamais)]]></title>
+            <link>https://music.bugs.co.kr/album/31559551?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31559551?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 19 May 2023 03:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80225921?wl_ref=list_ab_04" class="artistTitle" title="Pedras Vivas" onclick="
+" target="_self">Pedras Vivas</a>
+</p>
+<p>
+<time datetime="">2023.05.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/315595/31559551.jpg?version=20230519121003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stars]]></title>
@@ -1136,21 +1151,6 @@ Ambiente Spazio Musica
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310826/31082661.jpg?version=20230519064713.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Música para dormir tranquilo]]></title>
-            <link>https://music.bugs.co.kr/album/31082638?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31082638?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 18 May 2023 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11690374?wl_ref=list_ab_04" class="artistTitle" title="Musica Para Dormir Inspirada En El Espacio" onclick="
-" target="_self">Musica Para Dormir Inspirada En El Espacio</a>
-</p>
-<p>
-<time datetime="">2023.05.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310826/31082638.jpg?version=20230519064703.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
