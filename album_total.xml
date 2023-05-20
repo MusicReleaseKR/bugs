@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 02:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 03:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ILY]]></title>
+            <link>https://music.bugs.co.kr/album/20566345?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20566345?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 20 May 2023 03:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80060786?wl_ref=list_ab_04" class="artistTitle" title="Amber Liu (엠버)" onclick="
+" target="_self">Amber Liu (엠버)</a>
+</p>
+<p>
+<time datetime="">2023.05.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205663/20566345.jpg?version=20230520120026.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[날씨가 따뜻]]></title>
             <link>https://music.bugs.co.kr/album/20562497?wl_ref=list_ab_03</link>
@@ -1059,21 +1074,6 @@ Serenity Architect
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316992/31699224.jpg?version=20230520064752.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In Memoria]]></title>
-            <link>https://music.bugs.co.kr/album/31699220?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31699220?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 19 May 2023 04:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11971736?wl_ref=list_ab_04" class="artistTitle" title="ISIDE" onclick="
-" target="_self">ISIDE</a>
-</p>
-<p>
-<time datetime="">2023.05.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316992/31699220.jpg?version=20230520070911.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
