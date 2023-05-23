@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 01:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 02:35:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[UNIMPRESSICA]]></title>
+            <link>https://music.bugs.co.kr/album/16424605?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16424605?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 23 May 2023 02:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11947469?wl_ref=list_ab_04" class="artistTitle" title="Connor Musarra" onclick="
+" target="_self">Connor Musarra</a>
+</p>
+<p>
+<time datetime="">2021.11.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/164246/16424605.jpg?version=20230523101904.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너와 평범한 날에]]></title>
             <link>https://music.bugs.co.kr/album/4084055?wl_ref=list_ab_03</link>
@@ -1134,21 +1149,6 @@ Rojas Meditation
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205668/20566898.jpg?version=20230522120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Smile For You]]></title>
-            <link>https://music.bugs.co.kr/album/20566830?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20566830?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 22 May 2023 10:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20186593?wl_ref=list_ab_04" class="artistTitle" title="Donahue Bauer" onclick="
-" target="_self">Donahue Bauer</a>
-</p>
-<p>
-<time datetime="">2023.05.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205668/20566830.jpg?version=20230523013207.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
