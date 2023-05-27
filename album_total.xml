@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 02:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 03:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chegou a Hora]]></title>
+            <link>https://music.bugs.co.kr/album/31635240?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31635240?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 27 May 2023 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12966161?wl_ref=list_ab_04" class="artistTitle" title="5DM" onclick="
+" target="_self">5DM</a>
+</p>
+<p>
+<time datetime="">2023.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316352/31635240.jpg?version=20230527120030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1 Num Milhão]]></title>
+            <link>https://music.bugs.co.kr/album/31635239?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31635239?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 27 May 2023 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12966161?wl_ref=list_ab_04" class="artistTitle" title="5DM" onclick="
+" target="_self">5DM</a>
+</p>
+<p>
+<time datetime="">2023.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316352/31635239.jpg?version=20230527120030.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3HUNNA]]></title>
             <link>https://music.bugs.co.kr/album/31732554?wl_ref=list_ab_03</link>
@@ -1034,36 +1064,6 @@ Dead Dawg
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/317183/31718334.jpg?version=20230527063844.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fellini]]></title>
-            <link>https://music.bugs.co.kr/album/31718333?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31718333?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 26 May 2023 04:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11991280?wl_ref=list_ab_04" class="artistTitle" title="Crucchi Gang" onclick="
-" target="_self">Crucchi Gang</a>
-</p>
-<p>
-<time datetime="">2023.05.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317183/31718333.jpg?version=20230527063843.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vamos Todos Cantar, Vol.2]]></title>
-            <link>https://music.bugs.co.kr/album/31718327?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31718327?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 26 May 2023 04:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13108919?wl_ref=list_ab_04" class="artistTitle" title="Little Baby Bum em Português" onclick="
-" target="_self">Little Baby Bum em Português</a>
-</p>
-<p>
-<time datetime="">2023.05.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317183/31718327.jpg?version=20230527064513.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
