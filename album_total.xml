@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 02:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 03:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,22 @@
 <time datetime="">2023.05.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/203043/20304366.jpg?version=20230526002708.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/203043/20304366.jpg?version=20230528120003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Let the light of your face shine upon us]]></title>
+            <link>https://music.bugs.co.kr/album/31409808?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31409808?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 28 May 2023 03:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13006699?wl_ref=list_ab_04" class="artistTitle" title="Chill Sebs" onclick="
+" target="_self">Chill Sebs</a>
+</p>
+<p>
+<time datetime="">2023.05.28</time>
+<span class="albumType">컴필레이션</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/314098/31409808.jpg?version=20230528120027.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A Chunk Of Rock]]></title>
@@ -1146,21 +1161,6 @@ Wilson Serrano
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205683/20568305.jpg?version=20230527120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[trap page]]></title>
-            <link>https://music.bugs.co.kr/album/20567862?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20567862?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 27 May 2023 10:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20176444?wl_ref=list_ab_04" class="artistTitle" title="rampage" onclick="
-" target="_self">rampage</a>
-</p>
-<p>
-<time datetime="">2023.05.27</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205678/20567862.jpg?version=20230527120030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
