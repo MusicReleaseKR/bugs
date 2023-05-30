@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 02:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 03:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BORA]]></title>
+            <link>https://music.bugs.co.kr/album/4085597?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4085597?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 30 May 2023 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20009970?wl_ref=list_ab_04" class="artistTitle" title="키드밀리 (Kid Milli)" onclick="
+" target="_self">키드밀리 (Kid Milli)</a>
+</p>
+<p>
+<time datetime="">2023.04.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40855/4085597.jpg?version=20230419064420.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BE:LOVED]]></title>
+            <link>https://music.bugs.co.kr/album/20565569?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20565569?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 30 May 2023 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80296584?wl_ref=list_ab_04" class="artistTitle" title="WOO" onclick="
+" target="_self">WOO</a>
+</p>
+<p>
+<time datetime="">2023.05.30</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205655/20565569.jpg?version=20230530120005.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MELATONIN]]></title>
             <link>https://music.bugs.co.kr/album/16292682?wl_ref=list_ab_03</link>
@@ -20,7 +50,7 @@
 <time datetime="">2023.05.30</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/162926/16292682.jpg?version=20230527005510.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/162926/16292682.jpg?version=20230530120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mindfulness]]></title>
@@ -1136,36 +1166,6 @@ SINES
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205678/20567815.jpg?version=20230529120006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Midnight Ride]]></title>
-            <link>https://music.bugs.co.kr/album/20567805?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20567805?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 29 May 2023 04:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20183594?wl_ref=list_ab_04" class="artistTitle" title="Mind Nook(마인드눅)" onclick="
-" target="_self">Mind Nook(마인드눅)</a>
-</p>
-<p>
-<time datetime="">2023.05.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205678/20567805.jpg?version=20230529120006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Continuation of Rhymes (押韻的繼續)]]></title>
-            <link>https://music.bugs.co.kr/album/20567768?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20567768?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 29 May 2023 04:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12326519?wl_ref=list_ab_04" class="artistTitle" title="TriPoets" onclick="
-" target="_self">TriPoets</a>
-</p>
-<p>
-<time datetime="">2023.05.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205677/20567768.jpg?version=20230529120006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
