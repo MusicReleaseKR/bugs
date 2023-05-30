@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 09:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 10:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -851,6 +851,21 @@ Jazz Music DEA Channel
             <enclosure url="https://image.bugsm.co.kr/album/images/170/314047/31404793.jpg?version=20230530000024.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[초상화]]></title>
+            <link>https://music.bugs.co.kr/album/20569013?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20569013?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 30 May 2023 10:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20187223?wl_ref=list_ab_04" class="artistTitle" title="김서노" onclick="
+" target="_self">김서노</a>
+</p>
+<p>
+<time datetime="">2023.05.30</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205690/20569013.jpg?version=20230530180032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ailleurs: Rachmaninov Piano Works]]></title>
             <link>https://music.bugs.co.kr/album/20568617?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20568617?wl_ref=list_ab_03</guid>
@@ -1016,6 +1031,21 @@ Jazz Music DEA Channel
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205679/20567937.jpg?version=20230530120028.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Music Fantasy Four]]></title>
+            <link>https://music.bugs.co.kr/album/20567926?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20567926?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 30 May 2023 10:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20185828?wl_ref=list_ab_04" class="artistTitle" title="AlExperience" onclick="
+" target="_self">AlExperience</a>
+</p>
+<p>
+<time datetime="">2023.05.30</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205679/20567926.jpg?version=20230530180032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Life Of Savage (茹毛飲血)]]></title>
             <link>https://music.bugs.co.kr/album/20567785?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20567785?wl_ref=list_ab_03</guid>
@@ -1107,36 +1137,6 @@ Karl Berger(칼 버거)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40855/4085597.jpg?version=20230530180318.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sad Cactus]]></title>
-            <link>https://music.bugs.co.kr/album/31744388?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31744388?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 30 May 2023 04:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11672818?wl_ref=list_ab_04" class="artistTitle" title="Tyler Dial" onclick="
-" target="_self">Tyler Dial</a>
-</p>
-<p>
-<time datetime="">2023.05.30</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317443/31744388.jpg?version=20230530000024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jump For Life]]></title>
-            <link>https://music.bugs.co.kr/album/31744305?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31744305?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 30 May 2023 04:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13287396?wl_ref=list_ab_04" class="artistTitle" title="Lil Andre Paz" onclick="
-" target="_self">Lil Andre Paz</a>
-</p>
-<p>
-<time datetime="">2023.05.30</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317443/31744305.jpg?version=20230530000024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
