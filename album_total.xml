@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 14:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 15:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Speed Walker]]></title>
+            <link>https://music.bugs.co.kr/album/16504018?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16504018?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 May 2023 15:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12430611?wl_ref=list_ab_04" class="artistTitle" title="BOONIE">BOONIE</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'BOONIE||BOONIE||12430611||OK\\nHarry Nathan||Harry Nathan||20076991||OK', ''); return false;">
+BOONIE
+</a> </p>
+<p>
+<time datetime="">2023.06.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/165040/16504018.jpg?version=20230601000023.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Friday Chartbusters]]></title>
             <link>https://music.bugs.co.kr/album/31747633?wl_ref=list_ab_03</link>
@@ -1118,21 +1136,6 @@ Henrique Duailibe
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205691/20569100.jpg?version=20230531120031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chasing Dreams in the Night]]></title>
-            <link>https://music.bugs.co.kr/album/20569095?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20569095?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 31 May 2023 08:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20121898?wl_ref=list_ab_04" class="artistTitle" title="임연주" onclick="
-" target="_self">임연주</a>
-</p>
-<p>
-<time datetime="">2023.05.31</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205690/20569095.jpg?version=20230531120031.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
