@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 02:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 03:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런사랑]]></title>
+            <link>https://music.bugs.co.kr/album/20280540?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20280540?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 May 2023 03:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20092452?wl_ref=list_ab_04" class="artistTitle" title="장수연" onclick="
+" target="_self">장수연</a>
+</p>
+<p>
+<time datetime="">2023.05.31</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/202805/20280540.jpg?version=1685502059000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초상화]]></title>
             <link>https://music.bugs.co.kr/album/20569013?wl_ref=list_ab_03</link>
@@ -1053,21 +1068,6 @@ JINBO
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205683/20568354.jpg?version=1685415628000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달콤한 사랑의 이별노래]]></title>
-            <link>https://music.bugs.co.kr/album/20568350?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20568350?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 30 May 2023 04:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20165695?wl_ref=list_ab_04" class="artistTitle" title="오동석" onclick="
-" target="_self">오동석</a>
-</p>
-<p>
-<time datetime="">2023.05.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205683/20568350.jpg?version=1685415628000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
