@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 07:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 08:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -67,24 +67,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/317450/31745062.jpg?version=20230531004607.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["THE FIRST SLAM DUNK" (Original Motion Picture Soundtrack)]]></title>
-            <link>https://music.bugs.co.kr/album/31744612?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31744612?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 31 May 2023 04:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80236043?wl_ref=list_ab_04" class="artistTitle" title="The Birthday">The Birthday</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'The Birthday||The Birthday||80236043||OK\\nSatoshi Takebe||Satoshi Takebe(사토시 다케베/武部聰志)||80108543||OK\\n10-Feet||10-Feet(10-피트)||80022227||OK', ''); return false;">
-The Birthday
-</a> </p>
-<p>
-<time datetime="">2023.05.31</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317446/31744612.jpg?version=20230531005435.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Beginning Night]]></title>
             <link>https://music.bugs.co.kr/album/31744510?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31744510?wl_ref=list_ab_03</guid>
@@ -128,21 +110,6 @@ The Birthday
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/317444/31744494.jpg?version=20230531004019.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Number Girl Mujonohi (Live)]]></title>
-            <link>https://music.bugs.co.kr/album/31744485?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31744485?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 31 May 2023 04:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11739622?wl_ref=list_ab_04" class="artistTitle" title="Number Girl" onclick="
-" target="_self">Number Girl</a>
-</p>
-<p>
-<time datetime="">2023.05.31</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317444/31744485.jpg?version=20230531010311.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bee And The Whales]]></title>
@@ -1136,6 +1103,36 @@ Henrique Duailibe
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205691/20569160.jpg?version=20230531120031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[doshiin]]></title>
+            <link>https://music.bugs.co.kr/album/20569100?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20569100?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 May 2023 08:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20178543?wl_ref=list_ab_04" class="artistTitle" title="전시관(ZXQ)" onclick="
+" target="_self">전시관(ZXQ)</a>
+</p>
+<p>
+<time datetime="">2023.05.31</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205691/20569100.jpg?version=20230531120031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chasing Dreams in the Night]]></title>
+            <link>https://music.bugs.co.kr/album/20569095?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20569095?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 May 2023 08:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20121898?wl_ref=list_ab_04" class="artistTitle" title="임연주" onclick="
+" target="_self">임연주</a>
+</p>
+<p>
+<time datetime="">2023.05.31</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205690/20569095.jpg?version=20230531120031.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
