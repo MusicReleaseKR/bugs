@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 02:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 03:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -234,21 +234,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205686/20568603.jpg?version=1685553482000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드림팰리스 OST]]></title>
-            <link>https://music.bugs.co.kr/album/20568580?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20568580?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 31 May 2023 04:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80123280?wl_ref=list_ab_04" class="artistTitle" title="연리목" onclick="
-" target="_self">연리목</a>
-</p>
-<p>
-<time datetime="">2023.05.31</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205685/20568580.jpg?version=1685548673000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소명 2집(다시 회복할 본향)]]></title>
@@ -1068,6 +1053,21 @@ Wyoalyx!
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205689/20568984.jpg?version=1685502031000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저녁 아기처럼]]></title>
+            <link>https://music.bugs.co.kr/album/20568983?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20568983?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 01 Jun 2023 03:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20021801?wl_ref=list_ab_04" class="artistTitle" title="양하영" onclick="
+" target="_self">양하영</a>
+</p>
+<p>
+<time datetime="">2023.05.31</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205689/20568983.jpg?version=1685502031000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
