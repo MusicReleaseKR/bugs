@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 05:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 06:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1033,14 +1033,17 @@ n@di (나디)
             <guid>https://music.bugs.co.kr/album/20568952?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 02 Jun 2023 04:20:29 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20184686?wl_ref=list_ab_04" class="artistTitle" title="Sixx" onclick="
-" target="_self">Sixx</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80382722?wl_ref=list_ab_04" class="artistTitle" title="EERST">EERST</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'EERST||EERST||80382722||OK\\nSixx||Sixx||20184686||OK', ''); return false;">
+EERST
+</a> </p>
 <p>
 <time datetime="">2023.06.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205689/20568952.jpg?version=1685674829000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205689/20568952.jpg?version=1685685083000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오 주없인 살수없네]]></title>
