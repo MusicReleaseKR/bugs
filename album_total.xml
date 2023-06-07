@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 16:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 17:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
 <time datetime="">2023.06.08</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317176/31717615.jpg?version=20230608000027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/317176/31717615.jpg?version=20230608015700.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TBT]]></title>
@@ -39,21 +39,6 @@ GMZ
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316611/31661146.jpg?version=20230608000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Edge Drive]]></title>
-            <link>https://music.bugs.co.kr/album/20436465?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20436465?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 07 Jun 2023 15:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20138404?wl_ref=list_ab_04" class="artistTitle" title="Offkey" onclick="
-" target="_self">Offkey</a>
-</p>
-<p>
-<time datetime="">2021.12.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204364/20436465.jpg?version=20230607155233.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Histoires extraordinaires : Le concert solidaire]]></title>
@@ -246,9 +231,9 @@ GMZ
 </p>
 <p>
 <time datetime="">2023.06.07</time>
-<span class="albumType">정규</span>
+<span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318030/31803005.jpg?version=20230607000032.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/318030/31803005.jpg?version=20230608012356.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MOROHA V]]></title>
@@ -278,7 +263,7 @@ GMZ
 <time datetime="">2023.06.07</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318029/31802951.jpg?version=20230607003550.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/318029/31802951.jpg?version=20230608013233.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vinoumia]]></title>
@@ -1140,6 +1125,21 @@ Relaxing Music Therapy
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310769/31076979.jpg?version=20230607120006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Childsplay]]></title>
+            <link>https://music.bugs.co.kr/album/30918576?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30918576?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 07 Jun 2023 17:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80067282?wl_ref=list_ab_04" class="artistTitle" title="Lazy Jay" onclick="
+" target="_self">Lazy Jay</a>
+</p>
+<p>
+<time datetime="">2023.06.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309185/30918576.jpg?version=20230607000032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
