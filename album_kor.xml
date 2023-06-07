@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 14:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 15:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Edge Drive]]></title>
+            <link>https://music.bugs.co.kr/album/20436465?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20436465?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 07 Jun 2023 15:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20138404?wl_ref=list_ab_04" class="artistTitle" title="Offkey" onclick="
+" target="_self">Offkey</a>
+</p>
+<p>
+<time datetime="">2021.12.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204364/20436465.jpg?version=1686120753000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[J Bring That Cash]]></title>
             <link>https://music.bugs.co.kr/album/20570292?wl_ref=list_ab_03</link>
@@ -831,14 +846,14 @@ BaddyBlack
             <guid>https://music.bugs.co.kr/album/20570066?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 07 Jun 2023 04:20:32 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20187562?wl_ref=list_ab_04" class="artistTitle" title="김도진" onclick="
+<a href="https://music.bugs.co.kr/artist/20079604?wl_ref=list_ab_04" class="artistTitle" title="김도진" onclick="
 " target="_self">김도진</a>
 </p>
 <p>
 <time datetime="">2023.06.07</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205700/20570066.jpg?version=1686106800000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205700/20570066.jpg?version=1686147725000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[치킨 치킨]]></title>
@@ -1049,21 +1064,6 @@ BaddyBlack
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205697/20569762.jpg?version=1686106806000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Morning]]></title>
-            <link>https://music.bugs.co.kr/album/20569753?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20569753?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 07 Jun 2023 04:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20187472?wl_ref=list_ab_04" class="artistTitle" title="권아름" onclick="
-" target="_self">권아름</a>
-</p>
-<p>
-<time datetime="">2023.06.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205697/20569753.jpg?version=1686106806000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
