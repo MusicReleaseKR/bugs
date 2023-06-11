@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 14:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 15:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Forest Murmurs]]></title>
+            <link>https://music.bugs.co.kr/album/31717956?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31717956?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 11 Jun 2023 15:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8000093?wl_ref=list_ab_04" class="artistTitle" title="Wolfgang Amadeus Mozart(모차르트)" onclick="
+" target="_self">Wolfgang Amadeus Mozart(모차르트)</a>
+</p>
+<p>
+<time datetime="">2023.06.12</time>
+<span class="albumType">컴필레이션</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/317179/31717956.jpg?version=20230612000026.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Recorde (70 Cd)]]></title>
             <link>https://music.bugs.co.kr/album/31829135?wl_ref=list_ab_03</link>
@@ -1136,21 +1151,6 @@ MC Marc 7
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318283/31828351.jpg?version=20230611000024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[אלופה בלברוח]]></title>
-            <link>https://music.bugs.co.kr/album/31828275?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31828275?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 11 Jun 2023 04:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13105277?wl_ref=list_ab_04" class="artistTitle" title="לינוי טייב" onclick="
-" target="_self">לינוי טייב</a>
-</p>
-<p>
-<time datetime="">2023.06.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318282/31828275.jpg?version=20230611000024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
