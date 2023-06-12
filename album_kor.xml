@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 02:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 03:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산책 (Journey Together)]]></title>
+            <link>https://music.bugs.co.kr/album/20067178?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20067178?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 12 Jun 2023 03:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80077376?wl_ref=list_ab_04" class="artistTitle" title="알피 더 크리에이터" onclick="
+" target="_self">알피 더 크리에이터</a>
+</p>
+<p>
+<time datetime="">2023.06.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/200671/20067178.jpg?version=1686538831000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정윤형의 보성소리 심청가]]></title>
             <link>https://music.bugs.co.kr/album/20570672?wl_ref=list_ab_03</link>
@@ -1062,21 +1077,6 @@ Yeony
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205707/20570745.jpg?version=1686366032000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love124(demo)]]></title>
-            <link>https://music.bugs.co.kr/album/20570652?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20570652?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Jun 2023 04:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20187728?wl_ref=list_ab_04" class="artistTitle" title="문으로" onclick="
-" target="_self">문으로</a>
-</p>
-<p>
-<time datetime="">2023.06.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205706/20570652.jpg?version=1686366032000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
