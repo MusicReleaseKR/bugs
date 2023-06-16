@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 09:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 10:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318468/31846876.jpg?version=20230616073010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[a Gift & a Curse]]></title>
+            <link>https://music.bugs.co.kr/album/31846868?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31846868?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 16 Jun 2023 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/9146589?wl_ref=list_ab_04" class="artistTitle" title="Gunna" onclick="
+" target="_self">Gunna</a>
+</p>
+<p>
+<time datetime="">2023.06.16</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/318468/31846868.jpg?version=20230616130030.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GARA 7]]></title>
@@ -1053,21 +1068,6 @@ Nils Økland
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318400/31840085.jpg?version=20230616010905.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Outlaw Side Of Me]]></title>
-            <link>https://music.bugs.co.kr/album/31840078?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31840078?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 16 Jun 2023 04:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80086246?wl_ref=list_ab_04" class="artistTitle" title="Chris Janson(크리스 젠슨)" onclick="
-" target="_self">Chris Janson(크리스 젠슨)</a>
-</p>
-<p>
-<time datetime="">2023.06.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318400/31840078.jpg?version=20230616004104.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
