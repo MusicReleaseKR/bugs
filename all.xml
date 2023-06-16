@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 11:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 12:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205724/20572438.jpg?version=20230616180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 외치다 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/4087780?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4087780?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 16 Jun 2023 09:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/6368?wl_ref=list_ab_04" class="artistTitle" title="이영현" onclick="
+" target="_self">이영현</a>
+</p>
+<p>
+<time datetime="">2023.06.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40877/4087780.jpg?version=20230616183152.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 우산이 될게 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -111,21 +126,6 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205703/20570391.jpg?version=20230616130004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 외치다 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/4087780?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4087780?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 16 Jun 2023 09:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/6368?wl_ref=list_ab_04" class="artistTitle" title="이영현" onclick="
-" target="_self">이영현</a>
-</p>
-<p>
-<time datetime="">2023.06.16</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40877/4087780.jpg?version=20230616183152.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미끼 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1836,7 +1836,7 @@ weirdtechnogirlfriend
 <time datetime="">2023.06.16</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318402/31840241.jpg?version=20230616004511.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/318402/31840241.jpg?version=20230616204154.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Time Out (Vol. 1 & 2) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
