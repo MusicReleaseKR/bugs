@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 14:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 15:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1079,6 +1079,21 @@ khild
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205723/20572336.jpg?version=20230616120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부디, 행복하세요 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20381331?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20381331?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 18 Jun 2023 15:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20085855?wl_ref=list_ab_04" class="artistTitle" title="지니스 (ZINIS)" onclick="
+" target="_self">지니스 (ZINIS)</a>
+</p>
+<p>
+<time datetime="">2023.06.19</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/203813/20381331.jpg?version=20230617011504.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pixelated Dreams (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2226,19 +2241,19 @@ Space Music For Sleep
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318496/31849657.jpg?version=20230618000025.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Three moods (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/31845128?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31845128?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 18 Jun 2023 03:20:51 GMT</pubDate>
+            <title><![CDATA[부디, 행복하세요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20381331?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20381331?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 18 Jun 2023 15:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11764011?wl_ref=list_ab_04" class="artistTitle" title="OYKNI" onclick="
-" target="_self">OYKNI</a>
+<a href="https://music.bugs.co.kr/artist/20085855?wl_ref=list_ab_04" class="artistTitle" title="지니스 (ZINIS)" onclick="
+" target="_self">지니스 (ZINIS)</a>
 </p>
 <p>
-<time datetime="">2023.06.18</time>
-<span class="albumType">EP(미니)</span>
+<time datetime="">2023.06.19</time>
+<span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318451/31845128.jpg?version=20230618120024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/203813/20381331.jpg?version=1686932104000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Spacedance 1 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3292,21 +3307,6 @@ ASTCO
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205723/20572377.jpg?version=1686970833000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Driving with you (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20572366?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20572366?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 17 Jun 2023 03:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20026267?wl_ref=list_ab_04" class="artistTitle" title="앤츠(Ants)" onclick="
-" target="_self">앤츠(Ants)</a>
-</p>
-<p>
-<time datetime="">2023.06.17</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205723/20572366.jpg?version=1686970828000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
