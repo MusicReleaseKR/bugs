@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 02:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 03:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318395/31839521.jpg?version=20230620011855.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Hurdy-Gurdy Song Remixes]]></title>
+            <link>https://music.bugs.co.kr/album/20570362?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20570362?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 20 Jun 2023 03:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20185284?wl_ref=list_ab_04" class="artistTitle" title="Local Psycho and The Hurdy-Gurdy Orchestra" onclick="
+" target="_self">Local Psycho and The Hurdy-Gurdy Orchestra</a>
+</p>
+<p>
+<time datetime="">2023.06.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205703/20570362.jpg?version=20230620120028.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pehli Baarish - Love Songs]]></title>
@@ -1055,21 +1070,6 @@ Ters
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/317596/31759614.jpg?version=20230620063420.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This Town]]></title>
-            <link>https://music.bugs.co.kr/album/31746794?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31746794?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 20 Jun 2023 02:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/9818743?wl_ref=list_ab_04" class="artistTitle" title="Ross Davis" onclick="
-" target="_self">Ross Davis</a>
-</p>
-<p>
-<time datetime="">2023.06.19</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317467/31746794.jpg?version=20230620063250.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
