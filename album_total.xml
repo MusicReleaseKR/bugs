@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 14:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 15:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TBT]]></title>
+            <link>https://music.bugs.co.kr/album/31661146?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31661146?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 21 Jun 2023 15:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10920598?wl_ref=list_ab_04" class="artistTitle" title="GMZ">GMZ</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'GMZ||GMZ||10920598||OK\\nRiko Viana||Riko Viana||12503435||OK\\nXavier2bit||Xavier2bit||12503458||OK', ''); return false;">
+GMZ
+</a> </p>
+<p>
+<time datetime="">2023.06.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316611/31661146.jpg?version=20230622000024.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[444]]></title>
+            <link>https://music.bugs.co.kr/album/20507825?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20507825?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 21 Jun 2023 15:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12943816?wl_ref=list_ab_04" class="artistTitle" title="Avionne" onclick="
+" target="_self">Avionne</a>
+</p>
+<p>
+<time datetime="">2022.11.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205078/20507825.jpg?version=20230621153411.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[METAMORFOSIS II]]></title>
             <link>https://music.bugs.co.kr/album/31859832?wl_ref=list_ab_03</link>
@@ -1043,36 +1076,6 @@ Jim Hart
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205724/20572465.jpg?version=20230621120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이세벽 레전드 카페 7080 2집]]></title>
-            <link>https://music.bugs.co.kr/album/20572235?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20572235?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 21 Jun 2023 04:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20111351?wl_ref=list_ab_04" class="artistTitle" title="이세벽" onclick="
-" target="_self">이세벽</a>
-</p>
-<p>
-<time datetime="">2023.06.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205722/20572235.jpg?version=20230621120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복한인생길]]></title>
-            <link>https://music.bugs.co.kr/album/20572232?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20572232?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 21 Jun 2023 04:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20188186?wl_ref=list_ab_04" class="artistTitle" title="돌핀" onclick="
-" target="_self">돌핀</a>
-</p>
-<p>
-<time datetime="">2023.06.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205722/20572232.jpg?version=20230621120033.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
