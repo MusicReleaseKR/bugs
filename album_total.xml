@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 02:39:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 03:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Daylight]]></title>
+            <link>https://music.bugs.co.kr/album/20420794?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20420794?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 21 Jun 2023 03:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8008300?wl_ref=list_ab_04" class="artistTitle" title="세비안 (SAVIYN)" onclick="
+" target="_self">세비안 (SAVIYN)</a>
+</p>
+<p>
+<time datetime="">2023.06.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204207/20420794.jpg?version=20230621120033.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Throne]]></title>
             <link>https://music.bugs.co.kr/album/31853654?wl_ref=list_ab_03</link>
@@ -230,7 +245,7 @@
 <time datetime="">2023.06.20</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318395/31839574.jpg?version=20230621105730.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/318395/31839574.jpg?version=20230621114852.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Royal Philharmonic Orchestra - French Music. Debussy, Ravel, Saint-Saëns...]]></title>
@@ -245,7 +260,7 @@
 <time datetime="">2023.06.20</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318395/31839521.jpg?version=20230621110253.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/318395/31839521.jpg?version=20230621114547.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dimention]]></title>
@@ -1050,21 +1065,6 @@ WX-15
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318383/31838360.jpg?version=20230621063717.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Not Maniac]]></title>
-            <link>https://music.bugs.co.kr/album/31831842?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31831842?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 20 Jun 2023 04:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13288309?wl_ref=list_ab_04" class="artistTitle" title="Harris Golden" onclick="
-" target="_self">Harris Golden</a>
-</p>
-<p>
-<time datetime="">2023.06.20</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318318/31831842.jpg?version=20230621063222.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

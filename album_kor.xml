@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 02:39:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 03:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Daylight]]></title>
+            <link>https://music.bugs.co.kr/album/20420794?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20420794?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 21 Jun 2023 03:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8008300?wl_ref=list_ab_04" class="artistTitle" title="세비안 (SAVIYN)" onclick="
+" target="_self">세비안 (SAVIYN)</a>
+</p>
+<p>
+<time datetime="">2023.06.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204207/20420794.jpg?version=1687316433000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아침을 여는 경쾌한 클래식]]></title>
             <link>https://music.bugs.co.kr/album/20573198?wl_ref=list_ab_03</link>
@@ -1047,21 +1062,6 @@ Cotton Vibe
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205726/20572669.jpg?version=1687274856000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름의 노래, 마음을 춤추게 하다]]></title>
-            <link>https://music.bugs.co.kr/album/20572579?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20572579?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 20 Jun 2023 04:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20172792?wl_ref=list_ab_04" class="artistTitle" title="Romantic Speaker" onclick="
-" target="_self">Romantic Speaker</a>
-</p>
-<p>
-<time datetime="">2023.06.20</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205725/20572579.jpg?version=1687230028000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
