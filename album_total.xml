@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 09:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 10:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -892,6 +892,21 @@ Window Seat
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205729/20572954.jpg?version=20230621120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Panda Rivers]]></title>
+            <link>https://music.bugs.co.kr/album/20572879?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20572879?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 21 Jun 2023 10:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20188406?wl_ref=list_ab_04" class="artistTitle" title="Keanu Carter" onclick="
+" target="_self">Keanu Carter</a>
+</p>
+<p>
+<time datetime="">2023.06.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205728/20572879.jpg?version=20230621180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ARIGATO]]></title>
             <link>https://music.bugs.co.kr/album/20572856?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20572856?wl_ref=list_ab_03</guid>
@@ -1058,21 +1073,6 @@ Jim Hart
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205722/20572232.jpg?version=20230621120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Story of Chopin (쇼팽 특집)]]></title>
-            <link>https://music.bugs.co.kr/album/20572229?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20572229?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 21 Jun 2023 04:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20148159?wl_ref=list_ab_04" class="artistTitle" title="스위트메이" onclick="
-" target="_self">스위트메이</a>
-</p>
-<p>
-<time datetime="">2023.06.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205722/20572229.jpg?version=20230621120033.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
