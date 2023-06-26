@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 05:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 06:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,21 +64,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318737/31873727.jpg?version=20230626000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hazaaron Khwaishein Aisi (Original Motion Picture Soundtrack)]]></title>
-            <link>https://music.bugs.co.kr/album/31873726?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31873726?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 26 Jun 2023 04:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13322452?wl_ref=list_ab_04" class="artistTitle" title="Shantanu Moitra" onclick="
-" target="_self">Shantanu Moitra</a>
-</p>
-<p>
-<time datetime="">2023.06.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318737/31873726.jpg?version=20230626000031.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Compassion]]></title>
@@ -1068,6 +1053,21 @@ Amiicus
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/317134/31713406.jpg?version=20230626000031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vidékek vannak idebenn]]></title>
+            <link>https://music.bugs.co.kr/album/31641827?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31641827?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 26 Jun 2023 06:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8264090?wl_ref=list_ab_04" class="artistTitle" title="The Devil's Trade" onclick="
+" target="_self">The Devil's Trade</a>
+</p>
+<p>
+<time datetime="">2023.06.26</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316418/31641827.jpg?version=20230626000031.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
