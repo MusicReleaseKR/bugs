@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 14:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 15:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A Picture of Me Without You]]></title>
+            <link>https://music.bugs.co.kr/album/31829201?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31829201?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 26 Jun 2023 15:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80015669?wl_ref=list_ab_04" class="artistTitle" title="Teddy Thompson(테디 톰슨)" onclick="
+" target="_self">Teddy Thompson(테디 톰슨)</a>
+</p>
+<p>
+<time datetime="">2023.06.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/318292/31829201.jpg?version=20230627000028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[November Coat]]></title>
+            <link>https://music.bugs.co.kr/album/30736085?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30736085?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 26 Jun 2023 15:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12943830?wl_ref=list_ab_04" class="artistTitle" title="March Fry" onclick="
+" target="_self">March Fry</a>
+</p>
+<p>
+<time datetime="">2023.01.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/307360/30736085.jpg?version=20230626151536.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Les immortelles - Un lieu, une chanson]]></title>
             <link>https://music.bugs.co.kr/album/31876359?wl_ref=list_ab_03</link>
@@ -1038,36 +1068,6 @@ Amiicus
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/317613/31761333.jpg?version=20230626120027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FROM THE SUN]]></title>
-            <link>https://music.bugs.co.kr/album/31746841?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31746841?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 26 Jun 2023 04:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12949830?wl_ref=list_ab_04" class="artistTitle" title="NOHRLAND" onclick="
-" target="_self">NOHRLAND</a>
-</p>
-<p>
-<time datetime="">2023.06.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317468/31746841.jpg?version=20230626000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yone]]></title>
-            <link>https://music.bugs.co.kr/album/31746455?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31746455?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 26 Jun 2023 04:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13288198?wl_ref=list_ab_04" class="artistTitle" title="Yone" onclick="
-" target="_self">Yone</a>
-</p>
-<p>
-<time datetime="">2023.06.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317464/31746455.jpg?version=20230626000031.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
