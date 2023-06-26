@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 01:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:06:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,24 @@ Amrit Maan
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318035/31803549.jpg?version=20230626000031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[You Got Me]]></title>
+            <link>https://music.bugs.co.kr/album/31001029?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31001029?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 26 Jun 2023 03:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12158639?wl_ref=list_ab_04" class="artistTitle" title="Foínix">Foínix</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Foínix||Foínix||12158639||OK\\nChris Ruo||Chris Ruo||13138841||OK\\nDonna Tella||Donna Tella||12466629||OK', ''); return false;">
+Foínix
+</a> </p>
+<p>
+<time datetime="">2023.06.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310010/31001029.jpg?version=20230626120018.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rumor Has It]]></title>
@@ -1131,21 +1149,6 @@ Chandan Rana
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318736/31873663.jpg?version=20230626063513.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jug Jug Jiya Ae Baegan Maharaj]]></title>
-            <link>https://music.bugs.co.kr/album/31873662?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31873662?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 25 Jun 2023 04:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11244268?wl_ref=list_ab_04" class="artistTitle" title="Upendra Lal Yadav" onclick="
-" target="_self">Upendra Lal Yadav</a>
-</p>
-<p>
-<time datetime="">2023.06.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318736/31873662.jpg?version=20230626063512.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
