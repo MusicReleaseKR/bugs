@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 13:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 14:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -309,6 +309,21 @@ RM47
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/317131/31713168.jpg?version=20230627000028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Until The Tide Returns]]></title>
+            <link>https://music.bugs.co.kr/album/31626654?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31626654?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 27 Jun 2023 14:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12729814?wl_ref=list_ab_04" class="artistTitle" title="Quokka" onclick="
+" target="_self">Quokka</a>
+</p>
+<p>
+<time datetime="">2023.06.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316266/31626654.jpg?version=20230627231526.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[there for you]]></title>
@@ -1077,21 +1092,6 @@ El Javi
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205746/20574622.jpg?version=20230627180021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunkissed]]></title>
-            <link>https://music.bugs.co.kr/album/20574585?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20574585?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 27 Jun 2023 04:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8027278?wl_ref=list_ab_04" class="artistTitle" title="Ray Okpara" onclick="
-" target="_self">Ray Okpara</a>
-</p>
-<p>
-<time datetime="">2023.06.27</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205745/20574585.jpg?version=20230627120040.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
