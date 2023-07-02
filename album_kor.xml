@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 14:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 15:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rain On Me]]></title>
+            <link>https://music.bugs.co.kr/album/20465400?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20465400?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 02 Jul 2023 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20085855?wl_ref=list_ab_04" class="artistTitle" title="지니스 (ZINIS)" onclick="
+" target="_self">지니스 (ZINIS)</a>
+</p>
+<p>
+<time datetime="">2023.07.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204654/20465400.jpg?version=1688140783000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위로]]></title>
             <link>https://music.bugs.co.kr/album/20575316?wl_ref=list_ab_03</link>
@@ -1053,24 +1068,6 @@ O.D.D(오디디)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205748/20574858.jpg?version=1688180431000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Necklace]]></title>
-            <link>https://music.bugs.co.kr/album/20574845?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20574845?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 01 Jul 2023 10:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20185727?wl_ref=list_ab_04" class="artistTitle" title="YOSI">YOSI</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'YOSI||YOSI||20185727||OK\\nKelsy||Kelsy||20185728||OK', ''); return false;">
-YOSI
-</a> </p>
-<p>
-<time datetime="">2023.07.01</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205748/20574845.jpg?version=1688202029000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
