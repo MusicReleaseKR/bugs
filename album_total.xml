@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 09:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 10:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -512,6 +512,36 @@ Ransom
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205756/20575688.jpg?version=20230704120030.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아무도 모르게]]></title>
+            <link>https://music.bugs.co.kr/album/20575621?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20575621?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 04 Jul 2023 10:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80126655?wl_ref=list_ab_04" class="artistTitle" title="전진희" onclick="
+" target="_self">전진희</a>
+</p>
+<p>
+<time datetime="">2023.07.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205756/20575621.jpg?version=20230704180023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Orange]]></title>
+            <link>https://music.bugs.co.kr/album/20575512?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20575512?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 04 Jul 2023 10:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20189268?wl_ref=list_ab_04" class="artistTitle" title="Kerwin Herty" onclick="
+" target="_self">Kerwin Herty</a>
+</p>
+<p>
+<time datetime="">2023.07.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205755/20575512.jpg?version=20230704180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Natsu O Matsu Riyu]]></title>
             <link>https://music.bugs.co.kr/album/20575373?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20575373?wl_ref=list_ab_03</guid>
@@ -827,6 +857,21 @@ Ransom
             <enclosure url="https://image.bugsm.co.kr/album/images/170/199081/19908124.jpg?version=20230704120030.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[열정]]></title>
+            <link>https://music.bugs.co.kr/album/4088325?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088325?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 04 Jul 2023 10:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13315536?wl_ref=list_ab_04" class="artistTitle" title="표현좌" onclick="
+" target="_self">표현좌</a>
+</p>
+<p>
+<time datetime="">2023.07.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40883/4088325.jpg?version=20230704180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dance of the Cosmos]]></title>
             <link>https://music.bugs.co.kr/album/4088309?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4088309?wl_ref=list_ab_03</guid>
@@ -1023,57 +1068,6 @@ Stephen Jusko
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318334/31833499.jpg?version=20230704000024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WITH TIME & PATIENCE]]></title>
-            <link>https://music.bugs.co.kr/album/31810046?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31810046?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 04 Jul 2023 03:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/10907600?wl_ref=list_ab_04" class="artistTitle" title="Chris Phoenix">Chris Phoenix</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Chris Phoenix||Chris Phoenix||10907600||OK\\nNojay||Nojay||13305079||OK', ''); return false;">
-Chris Phoenix
-</a> </p>
-<p>
-<time datetime="">2023.07.04</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318100/31810046.jpg?version=20230704120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ozone]]></title>
-            <link>https://music.bugs.co.kr/album/31802125?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31802125?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 04 Jul 2023 03:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12296734?wl_ref=list_ab_04" class="artistTitle" title="Xela Edna">Xela Edna</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Xela Edna||Xela Edna||12296734||OK\\nEius Echo||Eius Echo||12618330||OK', ''); return false;">
-Xela Edna
-</a> </p>
-<p>
-<time datetime="">2023.07.04</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318021/31802125.jpg?version=20230704000024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FRIEND ANTHEM]]></title>
-            <link>https://music.bugs.co.kr/album/31674003?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31674003?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 04 Jul 2023 03:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8787651?wl_ref=list_ab_04" class="artistTitle" title="Def Sound" onclick="
-" target="_self">Def Sound</a>
-</p>
-<p>
-<time datetime="">2023.07.04</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316740/31674003.jpg?version=20230704000024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
