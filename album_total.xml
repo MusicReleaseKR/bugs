@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 14:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 15:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Búscame]]></title>
+            <link>https://music.bugs.co.kr/album/18506582?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18506582?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 07 Jul 2023 15:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12619008?wl_ref=list_ab_04" class="artistTitle" title="Keysan" onclick="
+" target="_self">Keysan</a>
+</p>
+<p>
+<time datetime="">2023.07.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/185065/18506582.jpg?version=20230708000030.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PLAYA SATURNO]]></title>
             <link>https://music.bugs.co.kr/album/32057455?wl_ref=list_ab_03</link>
@@ -1062,21 +1077,6 @@ Die For
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/319923/31992396.jpg?version=20230707005331.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Late Nights: The Album (Slowed Down)]]></title>
-            <link>https://music.bugs.co.kr/album/31992368?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31992368?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 07 Jul 2023 04:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80056542?wl_ref=list_ab_04" class="artistTitle" title="Jeremih(제레마이)" onclick="
-" target="_self">Jeremih(제레마이)</a>
-</p>
-<p>
-<time datetime="">2023.07.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/319923/31992368.jpg?version=20230707004337.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
