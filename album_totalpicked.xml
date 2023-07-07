@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 03:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 04:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,22 +23,34 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40885/4088565.jpg?version=20230707120303.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Perfect]]></title>
-            <link>https://music.bugs.co.kr/album/31992658?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31992658?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 07 Jul 2023 03:31:28 GMT</pubDate>
+            <title><![CDATA[NewJeans 'Super Shy']]></title>
+            <link>https://music.bugs.co.kr/album/4088574?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088574?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 07 Jul 2023 04:22:13 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80147640?wl_ref=list_ab_04" class="artistTitle" title="Sam Smith(샘 스미스)">Sam Smith(샘 스미스)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Sam Smith||Sam Smith(샘 스미스)||80147640||OK\\nJessie Reyez||Jessie Reyez||20012366||OK\\nCat Burns||Cat Burns||10500679||OK', ''); return false;">
-Sam Smith(샘 스미스)
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/20164333?wl_ref=list_ab_04" class="artistTitle" title="NewJeans" onclick="
+" target="_self">NewJeans</a>
+</p>
 <p>
 <time datetime="">2023.07.07</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/319926/31992658.jpg?version=20230707111651.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40885/4088574.jpg?version=20230707130003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Speak Now (Taylor's Version)]]></title>
+            <link>https://music.bugs.co.kr/album/32056304?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32056304?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 07 Jul 2023 04:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80039092?wl_ref=list_ab_04" class="artistTitle" title="Taylor Swift(테일러 스위프트)" onclick="
+" target="_self">Taylor Swift(테일러 스위프트)</a>
+</p>
+<p>
+<time datetime="">2023.07.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/320563/32056304.jpg?version=20230707131009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[난 너와]]></title>
@@ -69,6 +81,42 @@ Sam Smith(샘 스미스)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/320518/32051812.jpg?version=20230707080005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do It Like That]]></title>
+            <link>https://music.bugs.co.kr/album/4088577?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088577?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 07 Jul 2023 04:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80328357?wl_ref=list_ab_04" class="artistTitle" title="투모로우바이투게더">투모로우바이투게더</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '투모로우바이투게더||투모로우바이투게더||80328357||OK\\nJonas Brothers||Jonas Brothers(조나스 브라더스)||80023489||OK', ''); return false;">
+투모로우바이투게더
+</a> </p>
+<p>
+<time datetime="">2023.07.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40885/4088577.jpg?version=20230707130004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Perfect]]></title>
+            <link>https://music.bugs.co.kr/album/31992658?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31992658?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 07 Jul 2023 03:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80147640?wl_ref=list_ab_04" class="artistTitle" title="Sam Smith(샘 스미스)">Sam Smith(샘 스미스)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Sam Smith||Sam Smith(샘 스미스)||80147640||OK\\nJessie Reyez||Jessie Reyez||20012366||OK\\nCat Burns||Cat Burns||10500679||OK', ''); return false;">
+Sam Smith(샘 스미스)
+</a> </p>
+<p>
+<time datetime="">2023.07.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/319926/31992658.jpg?version=20230707111651.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정말로, 너를 (Band Ver.)]]></title>
@@ -502,6 +550,21 @@ Norah Jones(노라 존스)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/319926/31992692.jpg?version=20230707111651.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Trynna Link]]></title>
+            <link>https://music.bugs.co.kr/album/31915976?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31915976?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 07 Jul 2023 04:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80320928?wl_ref=list_ab_04" class="artistTitle" title="DDG" onclick="
+" target="_self">DDG</a>
+</p>
+<p>
+<time datetime="">2023.07.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/319159/31915976.jpg?version=20230707130028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sympathy]]></title>
             <link>https://music.bugs.co.kr/album/31918343?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31918343?wl_ref=list_ab_03</guid>
@@ -560,6 +623,21 @@ Norah Jones(노라 존스)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/319135/31913599.jpg?version=20230707040005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이아이(ii)]]></title>
+            <link>https://music.bugs.co.kr/album/20576983?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20576983?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 07 Jul 2023 04:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80383084?wl_ref=list_ab_04" class="artistTitle" title="허니츄러스" onclick="
+" target="_self">허니츄러스</a>
+</p>
+<p>
+<time datetime="">2023.07.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205769/20576983.jpg?version=20230707120029.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Remake . A]]></title>
@@ -1000,84 +1078,6 @@ Norah Jones(노라 존스)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205756/20575652.jpg?version=20230706120027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[D.BGM #SUMMER]]></title>
-            <link>https://music.bugs.co.kr/album/20576220?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20576220?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 06 Jul 2023 04:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20186874?wl_ref=list_ab_04" class="artistTitle" title="Ondo88">Ondo88</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ondo88||Ondo88||20186874||OK\\nU-Star||U-Star||80256431||OK', ''); return false;">
-Ondo88
-</a> </p>
-<p>
-<time datetime="">2023.07.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205762/20576220.jpg?version=20230707005420.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[축가 Part 1]]></title>
-            <link>https://music.bugs.co.kr/album/20576515?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20576515?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 06 Jul 2023 04:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80110445?wl_ref=list_ab_04" class="artistTitle" title="이건율" onclick="
-" target="_self">이건율</a>
-</p>
-<p>
-<time datetime="">2023.07.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205765/20576515.jpg?version=20230707004657.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Something on the B*TCH]]></title>
-            <link>https://music.bugs.co.kr/album/20575740?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20575740?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 06 Jul 2023 04:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20115154?wl_ref=list_ab_04" class="artistTitle" title="XXNANA" onclick="
-" target="_self">XXNANA</a>
-</p>
-<p>
-<time datetime="">2023.07.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205757/20575740.jpg?version=20230706120027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Alive]]></title>
-            <link>https://music.bugs.co.kr/album/20575061?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20575061?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 06 Jul 2023 04:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20174965?wl_ref=list_ab_04" class="artistTitle" title="루샤 (Rusha)" onclick="
-" target="_self">루샤 (Rusha)</a>
-</p>
-<p>
-<time datetime="">2023.07.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205750/20575061.jpg?version=20230706120027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Life Is A Challenge]]></title>
-            <link>https://music.bugs.co.kr/album/20575929?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20575929?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 06 Jul 2023 04:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20186580?wl_ref=list_ab_04" class="artistTitle" title="URE (노성율)" onclick="
-" target="_self">URE (노성율)</a>
-</p>
-<p>
-<time datetime="">2023.07.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205759/20575929.jpg?version=20230706120027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
