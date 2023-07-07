@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 03:00:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 03:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꼬라지]]></title>
+            <link>https://music.bugs.co.kr/album/20559212?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20559212?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 07 Jul 2023 03:32:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/5847?wl_ref=list_ab_04" class="artistTitle" title="유미리" onclick="
+" target="_self">유미리</a>
+</p>
+<p>
+<time datetime="">2023.07.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205592/20559212.jpg?version=1688698829000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옹기장이 일본어 워십9 - 그의 길을 걷는 우리에게]]></title>
             <link>https://music.bugs.co.kr/album/20576577?wl_ref=list_ab_03</link>
@@ -1053,21 +1068,6 @@ RUQOA
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205761/20576152.jpg?version=1688612433000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노래하리 노래하리라 Ver.2]]></title>
-            <link>https://music.bugs.co.kr/album/20576130?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20576130?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 06 Jul 2023 04:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20165111?wl_ref=list_ab_04" class="artistTitle" title="선우다혜" onclick="
-" target="_self">선우다혜</a>
-</p>
-<p>
-<time datetime="">2023.07.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205761/20576130.jpg?version=1688657563000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
