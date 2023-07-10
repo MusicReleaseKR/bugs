@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 14:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 15:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Les rendez-vous de Senlis. Brahms: Danses hongroises - Chopin: Nocturnes & Études - Schubert: Impromptus]]></title>
+            <link>https://music.bugs.co.kr/album/31918492?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31918492?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Jul 2023 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80035186?wl_ref=list_ab_04" class="artistTitle" title="Georges Cziffra(죄르지 치프라)" onclick="
+" target="_self">Georges Cziffra(죄르지 치프라)</a>
+</p>
+<p>
+<time datetime="">2023.07.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/319184/31918492.jpg?version=20230711000030.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Since I Have A Lover (Endel Sleep Soundscape)]]></title>
             <link>https://music.bugs.co.kr/album/32057928?wl_ref=list_ab_03</link>
@@ -1053,21 +1068,6 @@ SINES
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/320556/32055669.jpg?version=20230710000023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Processing]]></title>
-            <link>https://music.bugs.co.kr/album/32055480?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32055480?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Jul 2023 04:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8054949?wl_ref=list_ab_04" class="artistTitle" title="Oliver Rosemann" onclick="
-" target="_self">Oliver Rosemann</a>
-</p>
-<p>
-<time datetime="">2023.07.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/320554/32055480.jpg?version=20230710000023.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
