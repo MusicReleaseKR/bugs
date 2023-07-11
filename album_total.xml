@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 09:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 10:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -95,7 +95,7 @@
 <time datetime="">2023.07.11</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/321533/32153365.jpg?version=20230711011823.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/321533/32153365.jpg?version=20230711185343.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sonar Gaan, Vol. 2]]></title>
@@ -188,7 +188,7 @@ Lord Huron
 <time datetime="">2023.07.11</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/320555/32055521.jpg?version=20230711000030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/320555/32055521.jpg?version=20230711185343.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nordic Cello Noir]]></title>
@@ -204,6 +204,21 @@ Lord Huron
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/320540/32054056.jpg?version=20230711120032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Plan]]></title>
+            <link>https://music.bugs.co.kr/album/32051285?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32051285?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Jul 2023 10:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12078589?wl_ref=list_ab_04" class="artistTitle" title="NINEONE#" onclick="
+" target="_self">NINEONE#</a>
+</p>
+<p>
+<time datetime="">2023.07.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/320512/32051285.jpg?version=20230711130025.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Les rendez-vous de Senlis. Brahms: Danses hongroises - Chopin: Nocturnes & Études - Schubert: Impromptus]]></title>
@@ -851,7 +866,7 @@ Lord Huron
 <time datetime="">2023.07.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/321523/32152396.jpg?version=20230711005814.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/321523/32152396.jpg?version=20230711185343.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[World]]></title>
@@ -896,7 +911,7 @@ Lord Huron
 <time datetime="">2023.07.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/320564/32056413.jpg?version=20230711000030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/320564/32056413.jpg?version=20230711185343.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Distractions]]></title>
@@ -1050,21 +1065,6 @@ Wolfgang Amadeus Mozart(모차르트)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318655/31865503.jpg?version=20230711000030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Intimate]]></title>
-            <link>https://music.bugs.co.kr/album/31852212?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31852212?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Jul 2023 04:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80109509?wl_ref=list_ab_04" class="artistTitle" title="Grace Weber(그레이스 웨버)" onclick="
-" target="_self">Grace Weber(그레이스 웨버)</a>
-</p>
-<p>
-<time datetime="">2023.07.11</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318522/31852212.jpg?version=20230711000030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
