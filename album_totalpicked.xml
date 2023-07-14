@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 23:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 01:51:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40887/4088727.jpg?version=20230714010357.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[I DO]]></title>
+            <link>https://music.bugs.co.kr/album/32224860?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32224860?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 14 Jul 2023 01:50:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20056456?wl_ref=list_ab_04" class="artistTitle" title="(여자)아이들" onclick="
+" target="_self">(여자)아이들</a>
+</p>
+<p>
+<time datetime="">2023.07.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/322248/32224860.jpg?version=20230714103701.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[What Was I Made For? [From The Motion Picture "Barbie"]]]></title>
             <link>https://music.bugs.co.kr/album/32306547?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/32306547?wl_ref=list_ab_03</guid>
@@ -33,9 +48,9 @@
 </p>
 <p>
 <time datetime="">2023.07.13</time>
-<span class="albumType">싱글</span>
+<span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/323065/32306547.jpg?version=20230714005340.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/323065/32306547.jpg?version=20230714093252.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저금통]]></title>
@@ -53,21 +68,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205777/20577761.jpg?version=20230713180023.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[I WANT]]></title>
-            <link>https://music.bugs.co.kr/album/4088804?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4088804?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 13 Jul 2023 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20148657?wl_ref=list_ab_04" class="artistTitle" title="IVE (아이브)" onclick="
-" target="_self">IVE (아이브)</a>
-</p>
-<p>
-<time datetime="">2023.07.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40888/4088804.jpg?version=20230714063848.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나 혼자서 사랑을 하고 너 혼자서 이별을 하니]]></title>
             <link>https://music.bugs.co.kr/album/4088735?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4088735?wl_ref=list_ab_03</guid>
@@ -81,6 +81,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40887/4088735.jpg?version=20230713120002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I WANT]]></title>
+            <link>https://music.bugs.co.kr/album/4088804?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088804?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 13 Jul 2023 09:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20148657?wl_ref=list_ab_04" class="artistTitle" title="IVE (아이브)" onclick="
+" target="_self">IVE (아이브)</a>
+</p>
+<p>
+<time datetime="">2023.07.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40888/4088804.jpg?version=20230714063848.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rush]]></title>
@@ -161,7 +176,7 @@ NCT 도재정
 <time datetime="">2023.07.13</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40888/4088865.jpg?version=20230714063848.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40888/4088865.jpg?version=20230714092345.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rainy day]]></title>
@@ -1063,21 +1078,6 @@ underscores
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205776/20577615.jpg?version=20230712120000.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Song]]></title>
-            <link>https://music.bugs.co.kr/album/20577812?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20577812?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 12 Jul 2023 03:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80207988?wl_ref=list_ab_04" class="artistTitle" title="LOLLY" onclick="
-" target="_self">LOLLY</a>
-</p>
-<p>
-<time datetime="">2023.07.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205778/20577812.jpg?version=20230714005822.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
