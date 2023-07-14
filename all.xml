@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 01:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 03:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
 <time datetime="">2023.07.13</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/323065/32306547.jpg?version=20230714093252.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/323065/32306547.jpg?version=20230714114015.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저금통 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -176,7 +176,7 @@ NCT 도재정
 <time datetime="">2023.07.13</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40888/4088865.jpg?version=20230714092345.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40888/4088865.jpg?version=20230714113104.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rainy day (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1126,6 +1126,24 @@ T3r Elemento
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/320515/32051589.jpg?version=20230714000023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Something (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/32029330?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32029330?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 14 Jul 2023 03:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12948776?wl_ref=list_ab_04" class="artistTitle" title="EBONNE">EBONNE</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'EBONNE||EBONNE||12948776||OK\\nCaio Vargas||Caio Vargas||13334828||OK', ''); return false;">
+EBONNE
+</a> </p>
+<p>
+<time datetime="">2023.07.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/320293/32029330.jpg?version=20230714120019.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Skitne Hender (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2136,21 +2154,6 @@ SINES
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/323018/32301868.jpg?version=20230714063532.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Autosabotaje (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/32224796?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32224796?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 13 Jul 2023 04:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12267959?wl_ref=list_ab_04" class="artistTitle" title="Lua Lacruz" onclick="
-" target="_self">Lua Lacruz</a>
-</p>
-<p>
-<time datetime="">2023.07.13</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/322247/32224796.jpg?version=20230714010221.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아련히 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
