@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 03:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 04:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40887/4088713.jpg?version=20230714120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seven (feat. Latto) - Clean Ver.]]></title>
+            <link>https://music.bugs.co.kr/album/4088912?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088912?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 14 Jul 2023 04:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80180889?wl_ref=list_ab_04" class="artistTitle" title="정국" onclick="
+" target="_self">정국</a>
+</p>
+<p>
+<time datetime="">2023.07.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40889/4088912.jpg?version=20230714130004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Overdrive]]></title>
@@ -50,21 +65,7 @@
 <time datetime="">2023.07.13</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/322248/32224860.jpg?version=20230714103701.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터로또 베스트 PART10]]></title>
-            <link>https://music.bugs.co.kr/album/4088877?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4088877?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Jul 2023 03:31:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<span class="artistTitle" title="">Various Artists</span>
-</p>
-<p>
-<time datetime="">2023.07.14</time>
-<span class="albumType">컴필레이션</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40888/4088877.jpg?version=20230714120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/322248/32224860.jpg?version=20230714131501.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[V12YL by BRANDNEW : got to be U 2023]]></title>
@@ -80,6 +81,35 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40887/4088727.jpg?version=20230714010357.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이브, 프시케 그리고 푸른 수염의 아내 (feat. UPSAHL)]]></title>
+            <link>https://music.bugs.co.kr/album/4088910?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088910?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 14 Jul 2023 04:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20158908?wl_ref=list_ab_04" class="artistTitle" title="LE SSERAFIM (르세라핌)" onclick="
+" target="_self">LE SSERAFIM (르세라핌)</a>
+</p>
+<p>
+<time datetime="">2023.07.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40889/4088910.jpg?version=20230714130002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터로또 베스트 PART10]]></title>
+            <link>https://music.bugs.co.kr/album/4088877?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088877?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 14 Jul 2023 03:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<span class="artistTitle" title="">Various Artists</span>
+</p>
+<p>
+<time datetime="">2023.07.14</time>
+<span class="albumType">컴필레이션</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40888/4088877.jpg?version=20230714120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[No.5]]></title>
@@ -1050,36 +1080,6 @@ NCT 도재정
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205770/20577031.jpg?version=20230713120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우.행.시 (우주비행시간)]]></title>
-            <link>https://music.bugs.co.kr/album/20578017?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20578017?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 13 Jul 2023 04:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20183711?wl_ref=list_ab_04" class="artistTitle" title="토요(toyo)" onclick="
-" target="_self">토요(toyo)</a>
-</p>
-<p>
-<time datetime="">2023.07.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205780/20578017.jpg?version=20230714011524.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUMMER PACKAGE]]></title>
-            <link>https://music.bugs.co.kr/album/20577252?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20577252?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 13 Jul 2023 04:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20115154?wl_ref=list_ab_04" class="artistTitle" title="XXNANA" onclick="
-" target="_self">XXNANA</a>
-</p>
-<p>
-<time datetime="">2023.07.13</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205772/20577252.jpg?version=20230713120024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
