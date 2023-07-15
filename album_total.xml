@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 09:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 10:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -906,6 +906,24 @@ Moon Tunes
             <enclosure url="https://image.bugsm.co.kr/album/images/170/323097/32309721.jpg?version=20230715020008.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Buckle Up (Sped Up / Slowed & Reverb)]]></title>
+            <link>https://music.bugs.co.kr/album/32309663?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32309663?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Jul 2023 10:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12911089?wl_ref=list_ab_04" class="artistTitle" title="Philly Goats">Philly Goats</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Philly Goats||Philly Goats||12911089||OK\\nPGS Spence||PGS Spence||13050814||OK', ''); return false;">
+Philly Goats
+</a> </p>
+<p>
+<time datetime="">2023.07.15</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/323096/32309663.jpg?version=20230715141709.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beautiful]]></title>
             <link>https://music.bugs.co.kr/album/32302565?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/32302565?wl_ref=list_ab_03</guid>
@@ -1099,21 +1117,6 @@ Moon Tunes
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318351/31835152.jpg?version=20230715000032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inflammation (EP)]]></title>
-            <link>https://music.bugs.co.kr/album/31669662?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31669662?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 15 Jul 2023 04:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13092676?wl_ref=list_ab_04" class="artistTitle" title="Phite Noise" onclick="
-" target="_self">Phite Noise</a>
-</p>
-<p>
-<time datetime="">2023.07.15</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316696/31669662.jpg?version=20230715120027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
