@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 14:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 15:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1072,6 +1072,21 @@ OVN(오븐)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205781/20578171.jpg?version=20230714120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Persona (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/4088611?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088611?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Jul 2023 15:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20020910?wl_ref=list_ab_04" class="artistTitle" title="Dept(뎁트)" onclick="
+" target="_self">Dept(뎁트)</a>
+</p>
+<p>
+<time datetime="">2023.07.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40886/4088611.jpg?version=20230709120006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Niet Van De Jongste Meer (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2170,19 +2185,19 @@ Philly Goats
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318609/31860916.jpg?version=20230715120027.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jirisan (Extended Version) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/31835152?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31835152?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 15 Jul 2023 04:21:57 GMT</pubDate>
+            <title><![CDATA[Persona (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4088611?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088611?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Jul 2023 15:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13181887?wl_ref=list_ab_04" class="artistTitle" title="Lofisouls" onclick="
-" target="_self">Lofisouls</a>
+<a href="https://music.bugs.co.kr/artist/20020910?wl_ref=list_ab_04" class="artistTitle" title="Dept(뎁트)" onclick="
+" target="_self">Dept(뎁트)</a>
 </p>
 <p>
-<time datetime="">2023.07.15</time>
-<span class="albumType">EP(미니)</span>
+<time datetime="">2023.07.09</time>
+<span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318351/31835152.jpg?version=20230715000032.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40886/4088611.jpg?version=1688871606000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10years of wave (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3230,21 +3245,6 @@ BLUEHOUR(블루아워)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205783/20578361.jpg?version=1689348314000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 문화 박사 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20578315?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20578315?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Jul 2023 04:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20083656?wl_ref=list_ab_04" class="artistTitle" title="주니토니" onclick="
-" target="_self">주니토니</a>
-</p>
-<p>
-<time datetime="">2023.07.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205783/20578315.jpg?version=1689303630000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
