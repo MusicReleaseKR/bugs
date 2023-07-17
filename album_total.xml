@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 01:54:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 03:06:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gentle Rain for Deep Sleep]]></title>
+            <link>https://music.bugs.co.kr/album/31908341?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31908341?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 17 Jul 2023 03:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13332997?wl_ref=list_ab_04" class="artistTitle" title="Nature Whispers" onclick="
+" target="_self">Nature Whispers</a>
+</p>
+<p>
+<time datetime="">2023.07.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/319083/31908341.jpg?version=20230717120031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ISTJ - The 3rd Album]]></title>
+            <link>https://music.bugs.co.kr/album/4087880?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4087880?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 17 Jul 2023 03:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80266679?wl_ref=list_ab_04" class="artistTitle" title="NCT DREAM" onclick="
+" target="_self">NCT DREAM</a>
+</p>
+<p>
+<time datetime="">2023.06.19</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40878/4087880.jpg?version=20230717111204.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eni (Extended Version)]]></title>
             <link>https://music.bugs.co.kr/album/32307440?wl_ref=list_ab_03</link>
@@ -1034,42 +1064,6 @@ PescaBeats
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/323097/32309723.jpg?version=20230717063600.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ham Khada Bani School Pa]]></title>
-            <link>https://music.bugs.co.kr/album/32309718?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32309718?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 16 Jul 2023 04:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/10593957?wl_ref=list_ab_04" class="artistTitle" title="Tuntun Yadav">Tuntun Yadav</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Tuntun Yadav||Tuntun Yadav||10593957||OK\\nPrabha Raj||Prabha Raj||11799281||OK', ''); return false;">
-Tuntun Yadav
-</a> </p>
-<p>
-<time datetime="">2023.07.16</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/323097/32309718.jpg?version=20230717063559.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gor Bani Bhola Kariya Ho Jaib]]></title>
-            <link>https://music.bugs.co.kr/album/32309717?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32309717?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 16 Jul 2023 04:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12326017?wl_ref=list_ab_04" class="artistTitle" title="Nagendra Pujari">Nagendra Pujari</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Nagendra Pujari||Nagendra Pujari||12326017||OK\\nAntra Anshu||Antra Anshu||13342259||OK', ''); return false;">
-Nagendra Pujari
-</a> </p>
-<p>
-<time datetime="">2023.07.16</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/323097/32309717.jpg?version=20230717063559.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
