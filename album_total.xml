@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 23:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 01:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,36 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/199916/19991664.jpg?version=20230719031132.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P.Y.L (Deluxe Edition)]]></title>
+            <link>https://music.bugs.co.kr/album/658380?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/658380?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 21 Jul 2023 01:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80264682?wl_ref=list_ab_04" class="artistTitle" title="Illion" onclick="
+" target="_self">Illion</a>
+</p>
+<p>
+<time datetime="">2023.07.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/6583/658380.jpg?version=20230721101737.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NewJeans 'Super Shy']]></title>
+            <link>https://music.bugs.co.kr/album/4088574?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088574?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 21 Jul 2023 01:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20164333?wl_ref=list_ab_04" class="artistTitle" title="NewJeans" onclick="
+" target="_self">NewJeans</a>
+</p>
+<p>
+<time datetime="">2023.07.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40885/4088574.jpg?version=20230721013214.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EQUILIBRIUM]]></title>
@@ -1040,36 +1070,6 @@ Norm
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205795/20579559.jpg?version=20230720120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초등 영어 명작동화 Vol.6]]></title>
-            <link>https://music.bugs.co.kr/album/20579548?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20579548?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 20 Jul 2023 04:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20117127?wl_ref=list_ab_04" class="artistTitle" title="나비잠 프로젝트" onclick="
-" target="_self">나비잠 프로젝트</a>
-</p>
-<p>
-<time datetime="">2023.07.20</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205795/20579548.jpg?version=20230720175503.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초등 영어 명작동화 Vol.5]]></title>
-            <link>https://music.bugs.co.kr/album/20579545?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20579545?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 20 Jul 2023 04:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20117127?wl_ref=list_ab_04" class="artistTitle" title="나비잠 프로젝트" onclick="
-" target="_self">나비잠 프로젝트</a>
-</p>
-<p>
-<time datetime="">2023.07.20</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205795/20579545.jpg?version=20230720175512.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
