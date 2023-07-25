@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 02:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 03:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Some Body (2 fuck)]]></title>
+            <link>https://music.bugs.co.kr/album/11419485?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/11419485?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 25 Jul 2023 03:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11014988?wl_ref=list_ab_04" class="artistTitle" title="LACES" onclick="
+" target="_self">LACES</a>
+</p>
+<p>
+<time datetime="">2023.07.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/114194/11419485.jpg?version=20230725120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freedom]]></title>
+            <link>https://music.bugs.co.kr/album/11419097?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/11419097?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 25 Jul 2023 03:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11014988?wl_ref=list_ab_04" class="artistTitle" title="LACES" onclick="
+" target="_self">LACES</a>
+</p>
+<p>
+<time datetime="">2023.07.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/114190/11419097.jpg?version=20230725120026.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Los Iracundos]]></title>
             <link>https://music.bugs.co.kr/album/32702836?wl_ref=list_ab_03</link>
@@ -1032,36 +1062,6 @@ SINES
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205801/20580168.jpg?version=20230724120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[raviannia !]]></title>
-            <link>https://music.bugs.co.kr/album/20580149?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20580149?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 24 Jul 2023 10:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20155340?wl_ref=list_ab_04" class="artistTitle" title="raviann" onclick="
-" target="_self">raviann</a>
-</p>
-<p>
-<time datetime="">2023.07.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205801/20580149.jpg?version=20230725003754.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈꾸는 밤의 자장가 (Lullabies of Dreamy Nights)]]></title>
-            <link>https://music.bugs.co.kr/album/20579870?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20579870?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 24 Jul 2023 16:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20190566?wl_ref=list_ab_04" class="artistTitle" title="블레빗" onclick="
-" target="_self">블레빗</a>
-</p>
-<p>
-<time datetime="">2023.07.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205798/20579870.jpg?version=20230724120028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
