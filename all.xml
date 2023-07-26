@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 14:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 15:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1073,6 +1073,21 @@ Ted Park
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205797/20579728.jpg?version=20230721003816.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Impossible Dream (The Quest) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/12759718?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/12759718?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 26 Jul 2023 15:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20059558?wl_ref=list_ab_04" class="artistTitle" title="Sean Christopher" onclick="
+" target="_self">Sean Christopher</a>
+</p>
+<p>
+<time datetime="">2019.01.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/127597/12759718.jpg?version=20230726101131.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Homeland (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/32706562?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/32706562?wl_ref=list_ab_03</guid>
@@ -2112,21 +2127,6 @@ Sophia Tomelleri
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205803/20580345.jpg?version=20230726120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Piano Crescendo (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20580029?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20580029?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 26 Jul 2023 04:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20153069?wl_ref=list_ab_04" class="artistTitle" title="BGMG" onclick="
-" target="_self">BGMG</a>
-</p>
-<p>
-<time datetime="">2023.07.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205800/20580029.jpg?version=20230726120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경 [經] (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
