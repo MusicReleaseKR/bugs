@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 03:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 04:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40896/4089631.jpg?version=20230728120028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UTOPIA]]></title>
+            <link>https://music.bugs.co.kr/album/4089688?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4089688?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 28 Jul 2023 04:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80154375?wl_ref=list_ab_04" class="artistTitle" title="Travis Scott(트래비스 스캇)" onclick="
+" target="_self">Travis Scott(트래비스 스캇)</a>
+</p>
+<p>
+<time datetime="">2023.07.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40896/4089688.jpg?version=20230728131003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AUSTIN]]></title>
@@ -66,6 +81,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205810/20581008.jpg?version=20230728120028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이브, 프시케 그리고 푸른 수염의 아내 (Rina Sawayama Remix)]]></title>
+            <link>https://music.bugs.co.kr/album/4089669?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4089669?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 28 Jul 2023 04:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20158908?wl_ref=list_ab_04" class="artistTitle" title="LE SSERAFIM (르세라핌)" onclick="
+" target="_self">LE SSERAFIM (르세라핌)</a>
+</p>
+<p>
+<time datetime="">2023.07.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40896/4089669.jpg?version=20230728130002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Desire]]></title>
@@ -1048,36 +1078,6 @@ entoy
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205808/20580891.jpg?version=20230728022039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Run!]]></title>
-            <link>https://music.bugs.co.kr/album/20578355?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20578355?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Jul 2023 03:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80233878?wl_ref=list_ab_04" class="artistTitle" title="백승환" onclick="
-" target="_self">백승환</a>
-</p>
-<p>
-<time datetime="">2023.07.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205783/20578355.jpg?version=20230727120026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하늘의 별]]></title>
-            <link>https://music.bugs.co.kr/album/20580994?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20580994?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Jul 2023 03:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20096611?wl_ref=list_ab_04" class="artistTitle" title="Neeun (니은)" onclick="
-" target="_self">Neeun (니은)</a>
-</p>
-<p>
-<time datetime="">2023.07.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205809/20580994.jpg?version=20230727120006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
