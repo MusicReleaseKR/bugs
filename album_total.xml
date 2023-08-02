@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 14:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 15:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CeroTwo]]></title>
+            <link>https://music.bugs.co.kr/album/30250791?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30250791?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 02 Aug 2023 15:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13038482?wl_ref=list_ab_04" class="artistTitle" title="Synth" onclick="
+" target="_self">Synth</a>
+</p>
+<p>
+<time datetime="">2023.08.03</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/302507/30250791.jpg?version=20230803000024.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[UNHEALTHY (KARAOKE EDITION)]]></title>
             <link>https://music.bugs.co.kr/album/32757889?wl_ref=list_ab_03</link>
@@ -1047,21 +1062,6 @@ Fedeflaviano
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/327097/32709728.jpg?version=20230802120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ajan kulutusta (energiaversio)]]></title>
-            <link>https://music.bugs.co.kr/album/32709410?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32709410?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 02 Aug 2023 04:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12978690?wl_ref=list_ab_04" class="artistTitle" title="Saundi-Hemmo" onclick="
-" target="_self">Saundi-Hemmo</a>
-</p>
-<p>
-<time datetime="">2023.08.02</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/327094/32709410.jpg?version=20230802120035.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
