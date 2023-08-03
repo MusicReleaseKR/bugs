@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 09:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 10:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1046,6 +1046,21 @@ SINES
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205827/20582715.jpg?version=20230803120038.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[By The Calm Water]]></title>
+            <link>https://music.bugs.co.kr/album/20582644?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20582644?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 03 Aug 2023 10:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20031903?wl_ref=list_ab_04" class="artistTitle" title="92914" onclick="
+" target="_self">92914</a>
+</p>
+<p>
+<time datetime="">2023.08.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205826/20582644.jpg?version=20230803180025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[THE VOICE]]></title>
             <link>https://music.bugs.co.kr/album/20582590?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20582590?wl_ref=list_ab_03</guid>
@@ -1119,21 +1134,6 @@ SINES
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205821/20582138.jpg?version=20230803120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오로라 여행]]></title>
-            <link>https://music.bugs.co.kr/album/20582117?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20582117?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 03 Aug 2023 04:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20119820?wl_ref=list_ab_04" class="artistTitle" title="달민" onclick="
-" target="_self">달민</a>
-</p>
-<p>
-<time datetime="">2023.08.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205821/20582117.jpg?version=20230803120038.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
