@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 02:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 03:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,24 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/327575/32757521.jpg?version=20230805010935.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Larger Than Life]]></title>
+            <link>https://music.bugs.co.kr/album/30435415?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30435415?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 05 Aug 2023 03:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11044677?wl_ref=list_ab_04" class="artistTitle" title="Cocoy Claravall">Cocoy Claravall</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Cocoy Claravall||Cocoy Claravall||11044677||OK\\nKat De Guia||Kat De Guia||12596216||OK', ''); return false;">
+Cocoy Claravall
+</a> </p>
+<p>
+<time datetime="">2023.08.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/304354/30435415.jpg?version=20230805120005.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Singles Compilation]]></title>
@@ -1068,21 +1086,6 @@ Lars Anders Tomter
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/327570/32757097.jpg?version=20230805063749.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tennessee's Waiting]]></title>
-            <link>https://music.bugs.co.kr/album/32757083?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32757083?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 04 Aug 2023 04:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80327737?wl_ref=list_ab_04" class="artistTitle" title="King Calaway" onclick="
-" target="_self">King Calaway</a>
-</p>
-<p>
-<time datetime="">2023.08.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/327570/32757083.jpg?version=20230805063737.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
