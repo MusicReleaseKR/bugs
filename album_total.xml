@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 02:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 03:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Givin' All]]></title>
+            <link>https://music.bugs.co.kr/album/4089911?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4089911?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 08 Aug 2023 03:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80384269?wl_ref=list_ab_04" class="artistTitle" title="Brillabongs" onclick="
+" target="_self">Brillabongs</a>
+</p>
+<p>
+<time datetime="">2023.08.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40899/4089911.jpg?version=20230808120000.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Victory (With Choir And Strings)]]></title>
             <link>https://music.bugs.co.kr/album/32761110?wl_ref=list_ab_03</link>
@@ -1050,21 +1065,6 @@ Bald Halfwit
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205830/20583090.jpg?version=20230807120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두의 매장 음악 Vol.9]]></title>
-            <link>https://music.bugs.co.kr/album/20583089?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20583089?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 07 Aug 2023 04:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20179800?wl_ref=list_ab_04" class="artistTitle" title="REDTRK STUDIO" onclick="
-" target="_self">REDTRK STUDIO</a>
-</p>
-<p>
-<time datetime="">2023.08.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205830/20583089.jpg?version=20230807120038.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
