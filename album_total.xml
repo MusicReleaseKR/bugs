@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 09:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 10:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,7 +248,7 @@ Cast of High School Musical: The Musical: The Series
 <time datetime="">2023.08.09</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/327574/32757497.jpg?version=20230809012932.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327574/32757497.jpg?version=20230809190103.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Great Works for Solo Piano: Bach, Chopin, Ravel, Schumann...]]></title>
@@ -263,7 +263,7 @@ Cast of High School Musical: The Musical: The Series
 <time datetime="">2023.08.09</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/327574/32757479.jpg?version=20230809013527.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327574/32757479.jpg?version=20230809190136.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The World of RYTHEM (Selected Edition)]]></title>
@@ -691,6 +691,21 @@ Peaceful Guitar
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205842/20584209.jpg?version=20230809120036.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[POP A LOT]]></title>
+            <link>https://music.bugs.co.kr/album/20584177?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20584177?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 09 Aug 2023 10:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80189848?wl_ref=list_ab_04" class="artistTitle" title="식케이 (Sik-K)" onclick="
+" target="_self">식케이 (Sik-K)</a>
+</p>
+<p>
+<time datetime="">2023.08.09</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205841/20584177.jpg?version=20230809180021.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Songs Sung by the Guitar]]></title>
             <link>https://music.bugs.co.kr/album/20584133?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20584133?wl_ref=list_ab_03</guid>
@@ -1049,21 +1064,6 @@ Peaceful Guitar
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205829/20582949.jpg?version=20230809120036.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tomawari]]></title>
-            <link>https://music.bugs.co.kr/album/20582945?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20582945?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 09 Aug 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20191449?wl_ref=list_ab_04" class="artistTitle" title="Hiroshi Kikuchi" onclick="
-" target="_self">Hiroshi Kikuchi</a>
-</p>
-<p>
-<time datetime="">2023.08.09</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205829/20582945.jpg?version=20230809120036.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
