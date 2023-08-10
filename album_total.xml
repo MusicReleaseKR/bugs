@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 09:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 10:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,6 +297,21 @@ Humble Soles
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/327620/32762044.jpg?version=20230810000032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Jeffery LP]]></title>
+            <link>https://music.bugs.co.kr/album/32761647?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32761647?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 10 Aug 2023 10:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80317679?wl_ref=list_ab_04" class="artistTitle" title="Idontknowjeffery" onclick="
+" target="_self">Idontknowjeffery</a>
+</p>
+<p>
+<time datetime="">2023.08.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327616/32761647.jpg?version=20230810130029.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lagu Sri Sai Satcharita - Saptah (4/7)]]></title>
@@ -1062,21 +1077,6 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205836/20583697.jpg?version=20230810120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조수아 클래식 3 - 사랑하는 나의 아버지]]></title>
-            <link>https://music.bugs.co.kr/album/20583665?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20583665?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 10 Aug 2023 04:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/3436?wl_ref=list_ab_04" class="artistTitle" title="조수아" onclick="
-" target="_self">조수아</a>
-</p>
-<p>
-<time datetime="">2023.08.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205836/20583665.jpg?version=20230810120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
