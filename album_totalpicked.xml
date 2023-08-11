@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 03:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 04:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,36 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40899/4089982.jpg?version=20230811120028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Layover]]></title>
+            <link>https://music.bugs.co.kr/album/4090014?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4090014?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 11 Aug 2023 04:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80180888?wl_ref=list_ab_04" class="artistTitle" title="V" onclick="
+" target="_self">V</a>
+</p>
+<p>
+<time datetime="">2023.08.11</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40900/4090014.jpg?version=20230811130003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don't Leave Yet]]></title>
+            <link>https://music.bugs.co.kr/album/32758491?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32758491?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 11 Aug 2023 04:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80114337?wl_ref=list_ab_04" class="artistTitle" title="에릭남(Eric Nam)" onclick="
+" target="_self">에릭남(Eric Nam)</a>
+</p>
+<p>
+<time datetime="">2023.08.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327584/32758491.jpg?version=20230811130022.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[bad idea right?]]></title>
@@ -1040,36 +1070,6 @@ Ryo
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205838/20583818.jpg?version=20230811003604.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸음마]]></title>
-            <link>https://music.bugs.co.kr/album/20583734?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20583734?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 10 Aug 2023 03:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20084265?wl_ref=list_ab_04" class="artistTitle" title="Kkun" onclick="
-" target="_self">Kkun</a>
-</p>
-<p>
-<time datetime="">2023.08.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205837/20583734.jpg?version=20230810120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너는 없었다]]></title>
-            <link>https://music.bugs.co.kr/album/20583698?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20583698?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 10 Aug 2023 03:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80225657?wl_ref=list_ab_04" class="artistTitle" title="차윤섭" onclick="
-" target="_self">차윤섭</a>
-</p>
-<p>
-<time datetime="">2023.08.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205836/20583698.jpg?version=20230810120022.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
