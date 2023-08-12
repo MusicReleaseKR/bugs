@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 03:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 04:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,6 +41,24 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40901/4090143.jpg?version=20230812120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Do It Like That (Jax Jones Remix)]]></title>
+            <link>https://music.bugs.co.kr/album/4090084?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4090084?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 12 Aug 2023 04:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80328357?wl_ref=list_ab_04" class="artistTitle" title="투모로우바이투게더">투모로우바이투게더</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '투모로우바이투게더||투모로우바이투게더||80328357||OK\\nJonas Brothers||Jonas Brothers(조나스 브라더스)||80023489||OK\\nJax Jones||Jax Jones(잭스 존스)||80205803||OK', ''); return false;">
+투모로우바이투게더
+</a> </p>
+<p>
+<time datetime="">2023.08.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40900/4090084.jpg?version=20230812130026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[롱 플레이 레코드]]></title>
             <link>https://music.bugs.co.kr/album/20584327?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20584327?wl_ref=list_ab_03</guid>
@@ -59,21 +77,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205843/20584327.jpg?version=20230812120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새벽을 걸어]]></title>
-            <link>https://music.bugs.co.kr/album/20584411?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20584411?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 12 Aug 2023 03:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80355988?wl_ref=list_ab_04" class="artistTitle" title="김솔 (Kim Sol)" onclick="
-" target="_self">김솔 (Kim Sol)</a>
-</p>
-<p>
-<time datetime="">2023.08.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205844/20584411.jpg?version=20230812120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Malone House Vol. 3]]></title>
             <link>https://music.bugs.co.kr/album/4090057?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4090057?wl_ref=list_ab_03</guid>
@@ -89,19 +92,19 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40900/4090057.jpg?version=20230812120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가끔은 그때 우리가 그립니]]></title>
-            <link>https://music.bugs.co.kr/album/20584540?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20584540?wl_ref=list_ab_03</guid>
+            <title><![CDATA[새벽을 걸어]]></title>
+            <link>https://music.bugs.co.kr/album/20584411?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20584411?wl_ref=list_ab_03</guid>
             <pubDate>Sat, 12 Aug 2023 03:15:49 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20170199?wl_ref=list_ab_04" class="artistTitle" title="디아니" onclick="
-" target="_self">디아니</a>
+<a href="https://music.bugs.co.kr/artist/80355988?wl_ref=list_ab_04" class="artistTitle" title="김솔 (Kim Sol)" onclick="
+" target="_self">김솔 (Kim Sol)</a>
 </p>
 <p>
 <time datetime="">2023.08.12</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205845/20584540.jpg?version=20230812120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205844/20584411.jpg?version=20230812120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[솔로 엔딩]]></title>
@@ -117,6 +120,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40899/4089982.jpg?version=20230812010347.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가끔은 그때 우리가 그립니]]></title>
+            <link>https://music.bugs.co.kr/album/20584540?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20584540?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 12 Aug 2023 03:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20170199?wl_ref=list_ab_04" class="artistTitle" title="디아니" onclick="
+" target="_self">디아니</a>
+</p>
+<p>
+<time datetime="">2023.08.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205845/20584540.jpg?version=20230812120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타임머신 Reboot 2023]]></title>
@@ -1063,21 +1081,6 @@ Bobby Brackins
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205845/20584579.jpg?version=20230812005159.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Me Love Me]]></title>
-            <link>https://music.bugs.co.kr/album/4090011?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4090011?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 10 Aug 2023 09:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80182768?wl_ref=list_ab_04" class="artistTitle" title="권진아" onclick="
-" target="_self">권진아</a>
-</p>
-<p>
-<time datetime="">2023.08.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40900/4090011.jpg?version=20230811064246.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
