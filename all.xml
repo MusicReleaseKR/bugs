@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 04:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 05:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
 <time datetime="">2023.08.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40900/4090086.jpg?version=20230814120000.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40900/4090086.jpg?version=20230814135002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[복숭아 누르지 마시오 OST (O'PENing) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -173,7 +173,7 @@
 <time datetime="">2023.08.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205843/20584376.jpg?version=20230814120000.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205843/20584376.jpg?version=20230814140716.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마른/정원 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -271,14 +271,17 @@
             <guid>https://music.bugs.co.kr/album/20583912?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 14 Aug 2023 03:16:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20104504?wl_ref=list_ab_04" class="artistTitle" title="Motto" onclick="
-" target="_self">Motto</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20104504?wl_ref=list_ab_04" class="artistTitle" title="Motto">Motto</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Motto||Motto||20104504||OK\\nminZu||minZu||13043695||OK', ''); return false;">
+Motto
+</a> </p>
 <p>
 <time datetime="">2023.08.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205839/20583912.jpg?version=20230814120000.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205839/20583912.jpg?version=20230814135629.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WAVE (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -491,7 +494,7 @@ Fred again..
 <time datetime="">2023.08.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/327739/32773968.jpg?version=20230812065909.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327739/32773968.jpg?version=20230814141111.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Every Time I Go (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -2133,7 +2136,7 @@ Maleewan Jamina
             <title><![CDATA[Good Morning (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20585016?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20585016?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 14 Aug 2023 04:19:29 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 04:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80144527?wl_ref=list_ab_04" class="artistTitle" title="메이레인(Mayrain)" onclick="
 " target="_self">메이레인(Mayrain)</a>
@@ -2148,7 +2151,7 @@ Maleewan Jamina
             <title><![CDATA[boat delay (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20584973?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20584973?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 14 Aug 2023 04:19:29 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 04:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20192088?wl_ref=list_ab_04" class="artistTitle" title="JJEECC" onclick="
 " target="_self">JJEECC</a>
@@ -2163,7 +2166,7 @@ Maleewan Jamina
             <title><![CDATA[SOLACE 위로 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20584527?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20584527?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 14 Aug 2023 04:19:29 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 04:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80293210?wl_ref=list_ab_04" class="artistTitle" title="정혜욱" onclick="
 " target="_self">정혜욱</a>
@@ -2832,7 +2835,7 @@ Maleewan Jamina
 <time datetime="">2023.08.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205849/20584918.jpg?version=1691982007000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205849/20584918.jpg?version=1691988192000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[youth (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>

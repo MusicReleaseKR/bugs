@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 04:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 05:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
 <time datetime="">2023.08.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40900/4090086.jpg?version=20230814120000.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40900/4090086.jpg?version=20230814135002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[복숭아 누르지 마시오 OST (O'PENing)]]></title>
@@ -173,7 +173,7 @@
 <time datetime="">2023.08.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205843/20584376.jpg?version=20230814120000.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205843/20584376.jpg?version=20230814140716.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마른/정원]]></title>
@@ -271,14 +271,17 @@
             <guid>https://music.bugs.co.kr/album/20583912?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 14 Aug 2023 03:16:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20104504?wl_ref=list_ab_04" class="artistTitle" title="Motto" onclick="
-" target="_self">Motto</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20104504?wl_ref=list_ab_04" class="artistTitle" title="Motto">Motto</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Motto||Motto||20104504||OK\\nminZu||minZu||13043695||OK', ''); return false;">
+Motto
+</a> </p>
 <p>
 <time datetime="">2023.08.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205839/20583912.jpg?version=20230814120000.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205839/20583912.jpg?version=20230814135629.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WAVE]]></title>
@@ -491,7 +494,7 @@ Fred again..
 <time datetime="">2023.08.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/327739/32773968.jpg?version=20230812065909.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327739/32773968.jpg?version=20230814141111.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Every Time I Go]]></title>
