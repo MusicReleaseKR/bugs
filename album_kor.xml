@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 07:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 08:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -985,14 +985,17 @@
             <guid>https://music.bugs.co.kr/album/20584950?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 16 Aug 2023 04:20:14 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20192079?wl_ref=list_ab_04" class="artistTitle" title="MOREOVER" onclick="
-" target="_self">MOREOVER</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20183284?wl_ref=list_ab_04" class="artistTitle" title="이유진">이유진</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '이유진||이유진||20183284||OK\\n오윤석||오윤석||80384904||OK', ''); return false;">
+이유진
+</a> </p>
 <p>
 <time datetime="">2023.08.16</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205849/20584950.jpg?version=1692154833000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205849/20584950.jpg?version=1692171395000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[One Man]]></title>
