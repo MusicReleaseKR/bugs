@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 14:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 15:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Se Terminó El Amor]]></title>
+            <link>https://music.bugs.co.kr/album/30984219?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30984219?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 16 Aug 2023 15:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13130037?wl_ref=list_ab_04" class="artistTitle" title="Albert Matínez" onclick="
+" target="_self">Albert Matínez</a>
+</p>
+<p>
+<time datetime="">2023.02.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309842/30984219.jpg?version=20230816173638.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Noodles II]]></title>
             <link>https://music.bugs.co.kr/album/32817350?wl_ref=list_ab_03</link>
@@ -1053,21 +1068,6 @@ Lina Nikol
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40900/4090045.jpg?version=20230816120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[California In The Spring]]></title>
-            <link>https://music.bugs.co.kr/album/32810685?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32810685?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 16 Aug 2023 04:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12285444?wl_ref=list_ab_04" class="artistTitle" title="Ronald" onclick="
-" target="_self">Ronald</a>
-</p>
-<p>
-<time datetime="">2023.08.16</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/328106/32810685.jpg?version=20230816004359.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
