@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 09:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 10:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -300,6 +300,21 @@ El Camino
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/328091/32809124.jpg?version=20230817000025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haciéndolo Fino]]></title>
+            <link>https://music.bugs.co.kr/album/32808595?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32808595?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 17 Aug 2023 10:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20106571?wl_ref=list_ab_04" class="artistTitle" title="Alemán" onclick="
+" target="_self">Alemán</a>
+</p>
+<p>
+<time datetime="">2023.08.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/328085/32808595.jpg?version=20230817150005.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[La Copla Errante, Vol.1]]></title>
@@ -1080,24 +1095,6 @@ Canzoni Moon Tunes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309560/30956004.jpg?version=20230817120029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Összpontosítás és meditáció]]></title>
-            <link>https://music.bugs.co.kr/album/30955996?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30955996?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Aug 2023 04:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13080089?wl_ref=list_ab_04" class="artistTitle" title="Holdfényes dallamok">Holdfényes dallamok</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Holdfényes dallamok||Holdfényes dallamok||13080089||OK\\nSavászana-Ellazító meditáció||Savászana-Ellazító meditáció||13124134||OK', ''); return false;">
-Holdfényes dallamok
-</a> </p>
-<p>
-<time datetime="">2023.08.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309559/30955996.jpg?version=20230817120029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
