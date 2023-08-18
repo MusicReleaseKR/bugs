@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 23:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 01:06:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -450,21 +450,6 @@ El Camino
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/327750/32775054.jpg?version=20230818063743.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Simple Temor]]></title>
-            <link>https://music.bugs.co.kr/album/32774756?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32774756?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Aug 2023 04:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12994551?wl_ref=list_ab_04" class="artistTitle" title="Agust1n" onclick="
-" target="_self">Agust1n</a>
-</p>
-<p>
-<time datetime="">2023.08.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/327747/32774756.jpg?version=20230818063738.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NOTES (VanshZreal)]]></title>
@@ -1086,6 +1071,24 @@ Mga Tunog ng Buwan
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309560/30956028.jpg?version=20230818064928.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fokus og meditasjon]]></title>
+            <link>https://music.bugs.co.kr/album/30956020?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30956020?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 18 Aug 2023 01:06:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13080172?wl_ref=list_ab_04" class="artistTitle" title="Månelåter">Månelåter</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Månelåter||Månelåter||13080172||OK\\nSavasana-Avslappende meditasjon||Savasana-Avslappende meditasjon||13124121||OK', ''); return false;">
+Månelåter
+</a> </p>
+<p>
+<time datetime="">2023.08.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309560/30956020.jpg?version=20230818064942.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
