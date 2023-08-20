@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 02:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 03:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Spyt X Terry Vol. 1]]></title>
+            <link>https://music.bugs.co.kr/album/32750322?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32750322?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 20 Aug 2023 03:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12958900?wl_ref=list_ab_04" class="artistTitle" title="Spyt X Terry" onclick="
+" target="_self">Spyt X Terry</a>
+</p>
+<p>
+<time datetime="">2023.08.20</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327503/32750322.jpg?version=20230820120029.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Edelweiss]]></title>
             <link>https://music.bugs.co.kr/album/32784769?wl_ref=list_ab_03</link>
@@ -1101,21 +1116,6 @@ Bhai Sandeep Singh Ji
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/328251/32825182.jpg?version=20230820063222.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Je Chhauri Dilwa Kali Mai Utha Leto]]></title>
-            <link>https://music.bugs.co.kr/album/32825177?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32825177?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 19 Aug 2023 04:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13383805?wl_ref=list_ab_04" class="artistTitle" title="Tipu Samar Singh" onclick="
-" target="_self">Tipu Samar Singh</a>
-</p>
-<p>
-<time datetime="">2023.08.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/328251/32825177.jpg?version=20230820063157.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
