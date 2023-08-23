@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 09:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 10:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,6 +111,24 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/328254/32825479.jpg?version=20230823000027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Defiant Presents: Courtlandt Over Everything (Slowed Down)]]></title>
+            <link>https://music.bugs.co.kr/album/32825450?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32825450?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 23 Aug 2023 10:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12681538?wl_ref=list_ab_04" class="artistTitle" title="Sha EK">Sha EK</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Sha EK||Sha EK||12681538||OK\\nDefiant Presents||Defiant Presents||13198549||OK', ''); return false;">
+Sha EK
+</a> </p>
+<p>
+<time datetime="">2023.08.23</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/328254/32825450.jpg?version=20230823130029.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Another Half]]></title>
@@ -1073,21 +1091,6 @@ Space Music For Sleep
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205868/20586887.jpg?version=20230823120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하얀 곰 하푸]]></title>
-            <link>https://music.bugs.co.kr/album/20586875?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20586875?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 23 Aug 2023 04:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20176594?wl_ref=list_ab_04" class="artistTitle" title="하푸" onclick="
-" target="_self">하푸</a>
-</p>
-<p>
-<time datetime="">2023.08.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205868/20586875.jpg?version=20230823120030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
