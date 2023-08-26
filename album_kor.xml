@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 14:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 15:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stupid Cupid]]></title>
+            <link>https://music.bugs.co.kr/album/4089945?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4089945?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 26 Aug 2023 15:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80381340?wl_ref=list_ab_04" class="artistTitle" title="Aylah (아일라)" onclick="
+" target="_self">Aylah (아일라)</a>
+</p>
+<p>
+<time datetime="">2023.08.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40899/4089945.jpg?version=1691596980000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 여름에는]]></title>
+            <link>https://music.bugs.co.kr/album/4088942?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088942?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 26 Aug 2023 15:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80209230?wl_ref=list_ab_04" class="artistTitle" title="새봄(Saevom)" onclick="
+" target="_self">새봄(Saevom)</a>
+</p>
+<p>
+<time datetime="">2023.07.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40889/4088942.jpg?version=1689613895000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BY HIS SIDE]]></title>
             <link>https://music.bugs.co.kr/album/20586511?wl_ref=list_ab_03</link>
@@ -1043,36 +1073,6 @@ Yeil
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205869/20586947.jpg?version=1692932437000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red City Remix]]></title>
-            <link>https://music.bugs.co.kr/album/20586946?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20586946?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 25 Aug 2023 04:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80108330?wl_ref=list_ab_04" class="artistTitle" title="윌리엄 손" onclick="
-" target="_self">윌리엄 손</a>
-</p>
-<p>
-<time datetime="">2023.08.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205869/20586946.jpg?version=1692932437000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MEWPOT CAMP VOL. 1]]></title>
-            <link>https://music.bugs.co.kr/album/20586922?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20586922?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 25 Aug 2023 04:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20190875?wl_ref=list_ab_04" class="artistTitle" title="Mewpot" onclick="
-" target="_self">Mewpot</a>
-</p>
-<p>
-<time datetime="">2023.08.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205869/20586922.jpg?version=1692932437000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
