@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 02:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 03:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,22 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/327842/32784203.jpg?version=20230827000023.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리 여름에는]]></title>
+            <title><![CDATA[çok özledim]]></title>
+            <link>https://music.bugs.co.kr/album/32766943?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32766943?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 27 Aug 2023 03:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13252883?wl_ref=list_ab_04" class="artistTitle" title="Dionysus" onclick="
+" target="_self">Dionysus</a>
+</p>
+<p>
+<time datetime="">2023.08.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327669/32766943.jpg?version=20230827120028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아무래도 나는 너인 것 같아]]></title>
             <link>https://music.bugs.co.kr/album/4088942?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4088942?wl_ref=list_ab_03</guid>
             <pubDate>Sat, 26 Aug 2023 15:14:48 GMT</pubDate>
@@ -62,10 +77,10 @@
 " target="_self">새봄(Saevom)</a>
 </p>
 <p>
-<time datetime="">2023.07.16</time>
+<time datetime="">2023.08.27</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40889/4088942.jpg?version=20230718021135.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40889/4088942.jpg?version=20230827120824.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Truth and Salvation]]></title>
@@ -1062,24 +1077,6 @@ Ajit Singh Ajju
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/328640/32864069.jpg?version=20230827063547.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Geri Ver Bana Düşümü - Speed Up]]></title>
-            <link>https://music.bugs.co.kr/album/32864066?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32864066?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 26 Aug 2023 04:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13380330?wl_ref=list_ab_04" class="artistTitle" title="keremsavage">keremsavage</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'keremsavage||keremsavage||13380330||OK\\nMutozzy||Mutozzy||13383463||OK', ''); return false;">
-keremsavage
-</a> </p>
-<p>
-<time datetime="">2023.08.26</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/328640/32864066.jpg?version=20230827063547.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
