@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 05:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 06:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2620,6 +2620,21 @@ Renata Fusco
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40905/4090505.jpg?version=1693191629000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NEWRNBERA (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4090274?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4090274?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 28 Aug 2023 06:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20053247?wl_ref=list_ab_04" class="artistTitle" title="oceanfromtheblue" onclick="
+" target="_self">oceanfromtheblue</a>
+</p>
+<p>
+<time datetime="">2023.08.17</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40902/4090274.jpg?version=1692636389000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가라ok (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/32814102?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/32814102?wl_ref=list_ab_03</guid>
@@ -3197,21 +3212,6 @@ Renata Fusco
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205874/20587456.jpg?version=1693191606000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이내 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20587451?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20587451?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 28 Aug 2023 04:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20193299?wl_ref=list_ab_04" class="artistTitle" title="제르다 (ZERDA)" onclick="
-" target="_self">제르다 (ZERDA)</a>
-</p>
-<p>
-<time datetime="">2023.08.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205874/20587451.jpg?version=1693191637000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
