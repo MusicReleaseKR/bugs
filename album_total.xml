@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 02:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 03:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,6 +39,21 @@ Maria Callas(마리아 칼라스)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/328556/32855608.jpg?version=20230828002337.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golden Age - The 4th Album]]></title>
+            <link>https://music.bugs.co.kr/album/4090463?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4090463?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 28 Aug 2023 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80303692?wl_ref=list_ab_04" class="artistTitle" title="NCT" onclick="
+" target="_self">NCT</a>
+</p>
+<p>
+<time datetime="">2023.08.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40904/4090463.jpg?version=20230828111929.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sun Sun Batiyaan Raag Marwa]]></title>
@@ -1089,24 +1104,6 @@ Jatin - Lalit
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/328643/32864343.jpg?version=20230828063606.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Heart Is Beating (From "Julie" / Instrumental Music Hits)]]></title>
-            <link>https://music.bugs.co.kr/album/32864342?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32864342?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 27 Aug 2023 04:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/10161848?wl_ref=list_ab_04" class="artistTitle" title="Rajesh Roshan">Rajesh Roshan</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Rajesh Roshan||Rajesh Roshan||10161848||OK\\nShafaat Ali||Shafaat Ali||12276605||OK', ''); return false;">
-Rajesh Roshan
-</a> </p>
-<p>
-<time datetime="">2023.08.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/328643/32864342.jpg?version=20230828063551.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

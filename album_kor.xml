@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 02:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 03:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Golden Age - The 4th Album]]></title>
+            <link>https://music.bugs.co.kr/album/4090463?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4090463?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 28 Aug 2023 03:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80303692?wl_ref=list_ab_04" class="artistTitle" title="NCT" onclick="
+" target="_self">NCT</a>
+</p>
+<p>
+<time datetime="">2023.08.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40904/4090463.jpg?version=1693189169000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멀어져야 비로소 느껴지는]]></title>
             <link>https://music.bugs.co.kr/album/20587533?wl_ref=list_ab_03</link>
@@ -1050,21 +1065,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205877/20587799.jpg?version=1693018828000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비 젖은 밤 (Rain Falls) (Feat. 허회경)]]></title>
-            <link>https://music.bugs.co.kr/album/20587764?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20587764?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 26 Aug 2023 10:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80068113?wl_ref=list_ab_04" class="artistTitle" title="제이켠(J'Kyun)" onclick="
-" target="_self">제이켠(J'Kyun)</a>
-</p>
-<p>
-<time datetime="">2023.08.26</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205877/20587764.jpg?version=1693040400000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
