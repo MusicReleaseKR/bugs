@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 23:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 01:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,9 +48,9 @@
 </p>
 <p>
 <time datetime="">2023.08.28</time>
-<span class="albumType">싱글</span>
+<span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204965/20496551.jpg?version=20230829004327.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204965/20496551.jpg?version=20230829093605.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우_주 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -98,7 +98,7 @@ Thru
 <time datetime="">2023.08.28</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40902/4090274.jpg?version=20230829011359.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40902/4090274.jpg?version=20230829094956.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동물 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -2374,7 +2374,22 @@ Renata Fusco
 <time datetime="">2023.08.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205866/20586611.jpg?version=1693237276000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205866/20586611.jpg?version=1693270202000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 Kids On The Block - Part.2 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20496551?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20496551?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 28 Aug 2023 09:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/65291?wl_ref=list_ab_04" class="artistTitle" title="다이나믹 듀오" onclick="
+" target="_self">다이나믹 듀오</a>
+</p>
+<p>
+<time datetime="">2023.08.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204965/20496551.jpg?version=1693269365000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Golden Age - The 4th Album (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2737,7 +2752,7 @@ M1NU
 <time datetime="">2023.08.28</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40902/4090274.jpg?version=1693239239000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40902/4090274.jpg?version=1693270196000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Love Addict (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3194,21 +3209,6 @@ M1NU
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205876/20587655.jpg?version=1693191637000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바버샵 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20587642?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20587642?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 28 Aug 2023 04:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80088753?wl_ref=list_ab_04" class="artistTitle" title="투탁 핀셔" onclick="
-" target="_self">투탁 핀셔</a>
-</p>
-<p>
-<time datetime="">2023.08.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205876/20587642.jpg?version=1693191637000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
