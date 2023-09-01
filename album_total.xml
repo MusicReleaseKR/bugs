@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 09:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 10:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Heritage (Remixes)]]></title>
+            <link>https://music.bugs.co.kr/album/32878097?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32878097?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Sep 2023 10:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80176921?wl_ref=list_ab_04" class="artistTitle" title="Habstrakt(하브스트랙트)" onclick="
+" target="_self">Habstrakt(하브스트랙트)</a>
+</p>
+<p>
+<time datetime="">2023.09.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://file.bugsm.co.kr/wbugs/common/i_default_170x170.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Det føles så bra]]></title>
+            <link>https://music.bugs.co.kr/album/32876982?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32876982?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Sep 2023 10:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12726138?wl_ref=list_ab_04" class="artistTitle" title="06 Boys" onclick="
+" target="_self">06 Boys</a>
+</p>
+<p>
+<time datetime="">2023.09.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/328769/32876982.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HOTEL MONTANA]]></title>
             <link>https://music.bugs.co.kr/album/32876831?wl_ref=list_ab_03</link>
@@ -1041,36 +1071,6 @@ Rafi
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/328736/32873690.jpg?version=20230901005805.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Halloween with CoComelon (Vol. 2)]]></title>
-            <link>https://music.bugs.co.kr/album/32873687?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32873687?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Sep 2023 04:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12312192?wl_ref=list_ab_04" class="artistTitle" title="Cocomelon" onclick="
-" target="_self">Cocomelon</a>
-</p>
-<p>
-<time datetime="">2023.09.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/328736/32873687.jpg?version=20230901012219.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Classical Lullabies, Vol. 3]]></title>
-            <link>https://music.bugs.co.kr/album/32873682?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32873682?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Sep 2023 04:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/9194634?wl_ref=list_ab_04" class="artistTitle" title="Nursery Rhymes 123" onclick="
-" target="_self">Nursery Rhymes 123</a>
-</p>
-<p>
-<time datetime="">2023.09.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/328736/32873682.jpg?version=20230901010951.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
