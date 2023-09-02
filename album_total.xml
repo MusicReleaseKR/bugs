@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 02:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 03:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Europa +]]></title>
+            <link>https://music.bugs.co.kr/album/17701900?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17701900?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 02 Sep 2023 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11046338?wl_ref=list_ab_04" class="artistTitle" title="Young Astronauts Club" onclick="
+" target="_self">Young Astronauts Club</a>
+</p>
+<p>
+<time datetime="">2023.09.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/177019/17701900.jpg?version=20230902120031.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Drive]]></title>
             <link>https://music.bugs.co.kr/album/31459491?wl_ref=list_ab_03</link>
@@ -1056,21 +1071,6 @@ Rafi
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/328736/32873694.jpg?version=20230902064425.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let’s Learn, Explorers!]]></title>
-            <link>https://music.bugs.co.kr/album/32873691?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32873691?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Sep 2023 04:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13403125?wl_ref=list_ab_04" class="artistTitle" title="Cast of MarMar Land" onclick="
-" target="_self">Cast of MarMar Land</a>
-</p>
-<p>
-<time datetime="">2023.09.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/328736/32873691.jpg?version=20230902064423.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
