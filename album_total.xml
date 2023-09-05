@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 08:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 09:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,6 +171,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/328746/32874615.jpg?version=20230905000026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Music by the Sea]]></title>
+            <link>https://music.bugs.co.kr/album/32872835?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32872835?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 05 Sep 2023 09:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8000093?wl_ref=list_ab_04" class="artistTitle" title="Wolfgang Amadeus Mozart(모차르트)" onclick="
+" target="_self">Wolfgang Amadeus Mozart(모차르트)</a>
+</p>
+<p>
+<time datetime="">2023.09.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/328728/32872835.jpg?version=20230905143113.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Resonance]]></title>
@@ -1071,24 +1086,6 @@ EA Sports Madden NFL
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/328752/32875292.jpg?version=20230905120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lagu Sri Sai Satcharitra - Saptah (5/7)]]></title>
-            <link>https://music.bugs.co.kr/album/32875099?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32875099?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 05 Sep 2023 05:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13343158?wl_ref=list_ab_04" class="artistTitle" title="G.G.M">G.G.M</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'G.G.M||G.G.M||13343158||OK\\nPuja Walia||Puja Walia||13404048||OK', ''); return false;">
-G.G.M
-</a> </p>
-<p>
-<time datetime="">2023.09.05</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/328750/32875099.jpg?version=20230905000026.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
