@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 09:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 10:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Music Box: 30th Anniversary Edition]]></title>
+            <link>https://music.bugs.co.kr/album/32980692?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32980692?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 08 Sep 2023 10:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/1079?wl_ref=list_ab_04" class="artistTitle" title="Mariah Carey(머라이어 캐리)" onclick="
+" target="_self">Mariah Carey(머라이어 캐리)</a>
+</p>
+<p>
+<time datetime="">2023.09.08</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/329806/32980692.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Klassische Musik für den Sommer - Über das Meer]]></title>
             <link>https://music.bugs.co.kr/album/32980168?wl_ref=list_ab_03</link>
@@ -1050,21 +1065,6 @@ Christopher Phillips(크리스토퍼 필립스)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/329783/32978369.jpg?version=20230908014014.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jeg elsker han]]></title>
-            <link>https://music.bugs.co.kr/album/32978360?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32978360?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 08 Sep 2023 04:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10749111?wl_ref=list_ab_04" class="artistTitle" title="Nils Bech" onclick="
-" target="_self">Nils Bech</a>
-</p>
-<p>
-<time datetime="">2023.09.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/329783/32978360.jpg?version=20230908014735.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
