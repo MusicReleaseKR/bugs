@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 01:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 02:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40907/4090738.jpg?version=1693537203000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Layover]]></title>
+            <link>https://music.bugs.co.kr/album/4090014?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4090014?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 08 Sep 2023 02:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80180888?wl_ref=list_ab_04" class="artistTitle" title="V" onclick="
+" target="_self">V</a>
+</p>
+<p>
+<time datetime="">2023.08.11</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40900/4090014.jpg?version=1694105490000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Better Things]]></title>
@@ -140,7 +155,7 @@
 <time datetime="">2023.09.07</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205900/20590090.jpg?version=1694105257000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205900/20590090.jpg?version=1694138102000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Infinite Soul Groove]]></title>
@@ -1050,21 +1065,6 @@ NUHAEIN
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205903/20590330.jpg?version=1694055631000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼팽 : 마주르카 Op. 67, No. 4]]></title>
-            <link>https://music.bugs.co.kr/album/20590329?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20590329?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Sep 2023 04:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20180831?wl_ref=list_ab_04" class="artistTitle" title="4 Mallet" onclick="
-" target="_self">4 Mallet</a>
-</p>
-<p>
-<time datetime="">2023.09.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205903/20590329.jpg?version=1694055631000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
