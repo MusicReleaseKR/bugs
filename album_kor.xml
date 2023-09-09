@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 14:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 15:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Happiness]]></title>
+            <link>https://music.bugs.co.kr/album/4090480?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4090480?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 09 Sep 2023 15:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80384866?wl_ref=list_ab_04" class="artistTitle" title="허용별 (허각, 신용재, 임한별)" onclick="
+" target="_self">허용별 (허각, 신용재, 임한별)</a>
+</p>
+<p>
+<time datetime="">2023.08.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40904/4090480.jpg?version=1692913390000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dark Adaptation]]></title>
             <link>https://music.bugs.co.kr/album/20590915?wl_ref=list_ab_03</link>
@@ -1062,21 +1077,6 @@ dumboi
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/329788/32978836.jpg?version=1694212299000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In nomine Domini]]></title>
-            <link>https://music.bugs.co.kr/album/32877016?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32877016?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 08 Sep 2023 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13404385?wl_ref=list_ab_04" class="artistTitle" title="아벨 콰르텟" onclick="
-" target="_self">아벨 콰르텟</a>
-</p>
-<p>
-<time datetime="">2023.09.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/328770/32877016.jpg?version=1694212148000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
