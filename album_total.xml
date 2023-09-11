@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 02:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 03:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40907/4090750.jpg?version=20230902074045.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ANIME]]></title>
+            <link>https://music.bugs.co.kr/album/4090983?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4090983?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 11 Sep 2023 03:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80319547?wl_ref=list_ab_04" class="artistTitle" title="LUCKY TAPES(럭키테이프스)" onclick="
+" target="_self">LUCKY TAPES(럭키테이프스)</a>
+</p>
+<p>
+<time datetime="">2023.09.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40909/4090983.jpg?version=20230911120042.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Klassische Musik für den Sommer - Über das Meer]]></title>
@@ -1065,24 +1080,6 @@ Hi Trap
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/329732/32973268.jpg?version=20230911063404.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Without You]]></title>
-            <link>https://music.bugs.co.kr/album/32973259?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32973259?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 10 Sep 2023 04:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13343352?wl_ref=list_ab_04" class="artistTitle" title="Addy Kagra">Addy Kagra</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Addy Kagra||Addy Kagra||13343352||OK\\nAnivesha||Anivesha||13407732||OK', ''); return false;">
-Addy Kagra
-</a> </p>
-<p>
-<time datetime="">2023.09.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/329732/32973259.jpg?version=20230911063330.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
