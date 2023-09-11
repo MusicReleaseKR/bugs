@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 01:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 02:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cheese]]></title>
+            <link>https://music.bugs.co.kr/album/4090750?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4090750?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 11 Sep 2023 02:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20105867?wl_ref=list_ab_04" class="artistTitle" title="CRAVITY" onclick="
+" target="_self">CRAVITY</a>
+</p>
+<p>
+<time datetime="">2023.09.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40907/4090750.jpg?version=1693608045000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Plastic Star]]></title>
             <link>https://music.bugs.co.kr/album/20589753?wl_ref=list_ab_03</link>
@@ -476,7 +491,7 @@
 <time datetime="">2023.09.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40910/4091026.jpg?version=1694314807000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40910/4091026.jpg?version=1694398344000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[wake me up]]></title>
@@ -611,7 +626,7 @@
 <time datetime="">2023.09.10</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40910/4091012.jpg?version=1694381694000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40910/4091012.jpg?version=1694395802000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애의 참견 2023 OST - Part.24]]></title>
@@ -1056,21 +1071,6 @@ Seiren 8
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205905/20590521.jpg?version=1694228427000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dive into you]]></title>
-            <link>https://music.bugs.co.kr/album/20590356?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20590356?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 09 Sep 2023 04:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20109196?wl_ref=list_ab_04" class="artistTitle" title="하도이" onclick="
-" target="_self">하도이</a>
-</p>
-<p>
-<time datetime="">2023.09.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205903/20590356.jpg?version=1694228431000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
