@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 09:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 10:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,6 +266,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205897/20589790.jpg?version=1694487636000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Harmony]]></title>
+            <link>https://music.bugs.co.kr/album/4091100?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4091100?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 12 Sep 2023 10:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80153142?wl_ref=list_ab_04" class="artistTitle" title="카더가든" onclick="
+" target="_self">카더가든</a>
+</p>
+<p>
+<time datetime="">2023.09.12</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40911/4091100.jpg?version=1694509226000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Teatime with Piano]]></title>
             <link>https://music.bugs.co.kr/album/4091035?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4091035?wl_ref=list_ab_03</guid>
@@ -474,6 +489,21 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40910/4091034.jpg?version=1694487636000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[REGGAE]]></title>
+            <link>https://music.bugs.co.kr/album/20591585?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20591585?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 12 Sep 2023 10:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20194753?wl_ref=list_ab_04" class="artistTitle" title="스컬&amp;쿤타" onclick="
+" target="_self">스컬&amp;쿤타</a>
+</p>
+<p>
+<time datetime="">2023.09.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205915/20591585.jpg?version=1694509226000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UTM 4th 나의 시작과 끝]]></title>
@@ -1032,36 +1062,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205911/20591154.jpg?version=1694487636000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보배로운 너에게 (precious you)]]></title>
-            <link>https://music.bugs.co.kr/album/20591140?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20591140?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 12 Sep 2023 04:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80060284?wl_ref=list_ab_04" class="artistTitle" title="송기창(Kee-Chang Song)" onclick="
-" target="_self">송기창(Kee-Chang Song)</a>
-</p>
-<p>
-<time datetime="">2023.09.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205911/20591140.jpg?version=1694487636000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 천주교인이오]]></title>
-            <link>https://music.bugs.co.kr/album/20591137?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20591137?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 12 Sep 2023 04:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80060284?wl_ref=list_ab_04" class="artistTitle" title="송기창(Kee-Chang Song)" onclick="
-" target="_self">송기창(Kee-Chang Song)</a>
-</p>
-<p>
-<time datetime="">2023.09.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205911/20591137.jpg?version=1694487636000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
