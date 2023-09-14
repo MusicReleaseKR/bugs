@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 02:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 03:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/328178/32817840.jpg?version=20230914000027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Camellia]]></title>
+            <link>https://music.bugs.co.kr/album/20526883?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20526883?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 14 Sep 2023 03:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20161851?wl_ref=list_ab_04" class="artistTitle" title="투영" onclick="
+" target="_self">투영</a>
+</p>
+<p>
+<time datetime="">2023.09.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205268/20526883.jpg?version=20230914120024.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Os Irmãos Carrilho]]></title>
@@ -834,21 +849,6 @@ Jin Jin
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318987/31898757.jpg?version=20230914064217.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nebuleo]]></title>
-            <link>https://music.bugs.co.kr/album/31865738?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31865738?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 13 Sep 2023 04:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11952806?wl_ref=list_ab_04" class="artistTitle" title="Pipo Beatz" onclick="
-" target="_self">Pipo Beatz</a>
-</p>
-<p>
-<time datetime="">2023.09.13</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/318657/31865738.jpg?version=20230914063736.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Electronic Vivaldi, Vol. VII]]></title>
