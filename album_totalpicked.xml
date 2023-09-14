@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 07:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 08:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,21 +233,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205917/20591723.jpg?version=20230914120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RSVP]]></title>
-            <link>https://music.bugs.co.kr/album/32973832?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32973832?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 14 Sep 2023 03:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13153372?wl_ref=list_ab_04" class="artistTitle" title="코알라 Koala" onclick="
-" target="_self">코알라 Koala</a>
-</p>
-<p>
-<time datetime="">2023.09.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/329738/32973832.jpg?version=20230914120024.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flows #1]]></title>
@@ -1081,6 +1066,21 @@ BESSI
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205916/20591648.jpg?version=20230913180029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아카시아]]></title>
+            <link>https://music.bugs.co.kr/album/20591322?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20591322?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 14 Sep 2023 08:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80016371?wl_ref=list_ab_04" class="artistTitle" title="김희진" onclick="
+" target="_self">김희진</a>
+</p>
+<p>
+<time datetime="">2023.09.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205913/20591322.jpg?version=20230914012233.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
