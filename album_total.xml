@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 16:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 17:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,6 +81,24 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/318671/31867173.jpg?version=20230915000025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aragh Deke Nikala Dhaniya]]></title>
+            <link>https://music.bugs.co.kr/album/16373355?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16373355?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 14 Sep 2023 17:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11132843?wl_ref=list_ab_04" class="artistTitle" title="Skd Raj">Skd Raj</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Skd Raj||Skd Raj||11132843||OK\\nShrishti Bharti||Shrishti Bharti||12055327||OK', ''); return false;">
+Skd Raj
+</a> </p>
+<p>
+<time datetime="">2023.09.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/163733/16373355.jpg?version=20230915020025.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wakanda (Special Edition)]]></title>
@@ -1056,21 +1074,6 @@ Walk Off The Earth(워크 오프 더 어쓰)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/315215/31521569.jpg?version=20230914000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[L’Undicesima]]></title>
-            <link>https://music.bugs.co.kr/album/30946841?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30946841?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 14 Sep 2023 04:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12053964?wl_ref=list_ab_04" class="artistTitle" title="Zeppi" onclick="
-" target="_self">Zeppi</a>
-</p>
-<p>
-<time datetime="">2023.09.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309468/30946841.jpg?version=20230914000027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
