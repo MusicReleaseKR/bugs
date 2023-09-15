@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 11:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 12:32:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,14 +31,17 @@
             <guid>https://music.bugs.co.kr/album/20592327?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 15 Sep 2023 09:16:19 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80189848?wl_ref=list_ab_04" class="artistTitle" title="식케이 (Sik-K)" onclick="
-" target="_self">식케이 (Sik-K)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80189848?wl_ref=list_ab_04" class="artistTitle" title="식케이 (Sik-K)">식케이 (Sik-K)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '식케이||식케이 (Sik-K)||80189848||OK\\n김하온||김하온(HAON)||20054237||OK', ''); return false;">
+식케이 (Sik-K)
+</a> </p>
 <p>
 <time datetime="">2023.09.15</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205923/20592327.jpg?version=20230915180022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205923/20592327.jpg?version=20230915211142.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Loossemble]]></title>
