@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 07:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 08:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1336,21 +1336,6 @@ Zara Larsson(자라 라슨)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/330909/33090963.jpg?version=20230916000032.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Schumann & Brahms (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33074922?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33074922?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 15 Sep 2023 21:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/3882?wl_ref=list_ab_04" class="artistTitle" title="Helene Grimaud(엘렌 그리모)" onclick="
-" target="_self">Helene Grimaud(엘렌 그리모)</a>
-</p>
-<p>
-<time datetime="">2023.09.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/330749/33074922.jpg?version=20230916060039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tramontane (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33072468?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33072468?wl_ref=list_ab_03</guid>
@@ -2165,6 +2150,21 @@ Ashish Pandey Ayush
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/330959/33095975.jpg?version=20230916013014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bhai Bhai (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/33095973?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33095973?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 16 Sep 2023 08:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12028337?wl_ref=list_ab_04" class="artistTitle" title="Chhotu Shikari" onclick="
+" target="_self">Chhotu Shikari</a>
+</p>
+<p>
+<time datetime="">2023.09.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/330959/33095973.jpg?version=20230916004735.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-XY : INFP instrumentals (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
