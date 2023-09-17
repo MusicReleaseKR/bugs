@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 14:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 15:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1087,6 +1087,21 @@ Bella Poarch
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205922/20592242.jpg?version=20230915120023.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Schumann & Brahms (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/33074922?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33074922?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 17 Sep 2023 15:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/3882?wl_ref=list_ab_04" class="artistTitle" title="Helene Grimaud(엘렌 그리모)" onclick="
+" target="_self">Helene Grimaud(엘렌 그리모)</a>
+</p>
+<p>
+<time datetime="">2023.09.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/330749/33074922.jpg?version=20230918000027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Summer Wind (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33096385?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33096385?wl_ref=list_ab_03</guid>
@@ -2144,24 +2159,6 @@ Refew
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/330934/33093482.jpg?version=20230917120004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Después De Las 12 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33093460?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33093460?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 17 Sep 2023 11:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12253217?wl_ref=list_ab_04" class="artistTitle" title="INDI">INDI</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'INDI||INDI||12253217||OK\\nEl Ruzo||El Ruzo||12811524||OK\\nBLACK FOX||BLACK FOX||13421714||OK', ''); return false;">
-INDI
-</a> </p>
-<p>
-<time datetime="">2023.09.17</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/330934/33093460.jpg?version=20230917120004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개의 노래 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
