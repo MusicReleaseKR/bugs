@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 06:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 07:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2613,6 +2613,21 @@ Bleedin Twin
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205909/20590974.jpg?version=1695006033000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기대 - The 2nd Mini Album (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4091001?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4091001?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 18 Sep 2023 07:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80203317?wl_ref=list_ab_04" class="artistTitle" title="디오 (D.O.)" onclick="
+" target="_self">디오 (D.O.)</a>
+</p>
+<p>
+<time datetime="">2023.09.08</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40910/4091001.jpg?version=1695000902000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[귀여우면 끝난 거라고 하던데 (DUCKY) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20592960?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20592960?wl_ref=list_ab_03</guid>
@@ -3184,24 +3199,6 @@ Bleedin Twin
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205924/20592429.jpg?version=1695006020000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kawai Kirby <3 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20592366?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20592366?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 18 Sep 2023 04:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20182951?wl_ref=list_ab_04" class="artistTitle" title="민경성(MK$)">민경성(MK$)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '민경성||민경성(MK$)||20182951||OK\\n유니||유니(Uni)||20172204||OK\\nHWAN_$||HWAN_$||20179186||OK', ''); return false;">
-민경성(MK$)
-</a> </p>
-<p>
-<time datetime="">2023.09.18</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205923/20592366.jpg?version=1695006033000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
