@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 02:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 03:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독백]]></title>
+            <link>https://music.bugs.co.kr/album/4090748?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4090748?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 20 Sep 2023 03:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80335035?wl_ref=list_ab_04" class="artistTitle" title="정동원" onclick="
+" target="_self">정동원</a>
+</p>
+<p>
+<time datetime="">2023.09.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40907/4090748.jpg?version=1693608056000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EEP : EARTH EVERLASTING POETRY]]></title>
             <link>https://music.bugs.co.kr/album/20593194?wl_ref=list_ab_03</link>
@@ -443,7 +458,7 @@
 <time datetime="">2023.09.19</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205923/20592310.jpg?version=1695137027000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205923/20592310.jpg?version=1695178817000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UKULELE TRILOGY]]></title>
@@ -1044,21 +1059,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205928/20592871.jpg?version=1695137546000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LAD OUT LOUD]]></title>
-            <link>https://music.bugs.co.kr/album/20592856?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20592856?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 19 Sep 2023 10:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20125196?wl_ref=list_ab_04" class="artistTitle" title="LAD" onclick="
-" target="_self">LAD</a>
-</p>
-<p>
-<time datetime="">2023.09.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205928/20592856.jpg?version=1695114030000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
