@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 09:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 10:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,39 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331173/33117300.jpg?version=20230921004733.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vencerá El Amor]]></title>
+            <link>https://music.bugs.co.kr/album/33116532?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33116532?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 21 Sep 2023 10:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13002960?wl_ref=list_ab_04" class="artistTitle" title="Orlando Acosta">Orlando Acosta</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Orlando Acosta||Orlando Acosta||13002960||OK\\nFranklin Vega||Franklin Vega||13430975||OK', ''); return false;">
+Orlando Acosta
+</a> </p>
+<p>
+<time datetime="">2023.09.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331165/33116532.jpg?version=20230921140031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BEAT TAAST, Vol.1]]></title>
+            <link>https://music.bugs.co.kr/album/33115380?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33115380?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 21 Sep 2023 10:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11954763?wl_ref=list_ab_04" class="artistTitle" title="Touliver" onclick="
+" target="_self">Touliver</a>
+</p>
+<p>
+<time datetime="">2023.09.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331153/33115380.jpg?version=20230921140031.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Brahma Sutras]]></title>
@@ -1046,42 +1079,6 @@ Ambiente Spazio Musica
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310825/31082596.jpg?version=20230921120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[موسيقى هادئة للنوم]]></title>
-            <link>https://music.bugs.co.kr/album/31082573?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31082573?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Sep 2023 04:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13153350?wl_ref=list_ab_04" class="artistTitle" title="موسيقى الفضاء للنوم">موسيقى الفضاء للنوم</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'موسيقى الفضاء للنوم||موسيقى الفضاء للنوم||13153350||OK\\nموسيقى للنوم||موسيقى للنوم||13153351||OK', ''); return false;">
-موسيقى الفضاء للنوم
-</a> </p>
-<p>
-<time datetime="">2023.09.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310825/31082573.jpg?version=20230921120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Calm Music for Sleep]]></title>
-            <link>https://music.bugs.co.kr/album/31013040?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31013040?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Sep 2023 04:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11689865?wl_ref=list_ab_04" class="artistTitle" title="Space Music For Sleep">Space Music For Sleep</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Space Music For Sleep||Space Music For Sleep||11689865||OK\\nRelaxing Space Music||Relaxing Space Music||11689959||OK', ''); return false;">
-Space Music For Sleep
-</a> </p>
-<p>
-<time datetime="">2023.09.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310130/31013040.jpg?version=20230921120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
