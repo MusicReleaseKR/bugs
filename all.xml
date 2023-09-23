@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 07:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 08:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1163,21 +1163,6 @@ Alok
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331174/33117410.jpg?version=20230923000030.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mozart: Piano Concertos Nos. 8, 9 "Jeunehomme", 12, 13, 19, 20, 21, 23 & 27 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33111300?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33111300?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Sep 2023 15:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/38968?wl_ref=list_ab_04" class="artistTitle" title="Maria-Joao Pires(마리아 조앙 피레스)" onclick="
-" target="_self">Maria-Joao Pires(마리아 조앙 피레스)</a>
-</p>
-<p>
-<time datetime="">2023.09.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331113/33111300.jpg?version=20230923004851.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Coral Creature (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33094883?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33094883?wl_ref=list_ab_03</guid>
@@ -2168,6 +2153,21 @@ Space Music For Sleep
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205942/20594219.jpg?version=20230923120031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언젠가 나를 봐줘요 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20594114?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20594114?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 23 Sep 2023 03:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80079184?wl_ref=list_ab_04" class="artistTitle" title="우은미" onclick="
+" target="_self">우은미</a>
+</p>
+<p>
+<time datetime="">2023.09.23</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205941/20594114.jpg?version=20230923120027.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE CORE TAPE VOL.3 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
