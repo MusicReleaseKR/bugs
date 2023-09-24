@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 14:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 15:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[있잖아요]]></title>
+            <link>https://music.bugs.co.kr/album/20115119?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20115119?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 24 Sep 2023 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20042951?wl_ref=list_ab_04" class="artistTitle" title="노람" onclick="
+" target="_self">노람</a>
+</p>
+<p>
+<time datetime="">2023.09.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/201151/20115119.jpg?version=1695311778000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 강변가요제 뉴챌린지]]></title>
             <link>https://music.bugs.co.kr/album/20594465?wl_ref=list_ab_03</link>
@@ -1049,21 +1064,6 @@ KIND
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205939/20593964.jpg?version=1695438027000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다가 좋은 너]]></title>
-            <link>https://music.bugs.co.kr/album/20593877?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20593877?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 23 Sep 2023 04:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20195526?wl_ref=list_ab_04" class="artistTitle" title="천재혁" onclick="
-" target="_self">천재혁</a>
-</p>
-<p>
-<time datetime="">2023.09.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205938/20593877.jpg?version=1695438031000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
