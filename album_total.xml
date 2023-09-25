@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 09:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 10:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -482,6 +482,51 @@ Torae
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205942/20594298.jpg?version=20230925120009.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Milihood]]></title>
+            <link>https://music.bugs.co.kr/album/20594102?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20594102?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 25 Sep 2023 10:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20154999?wl_ref=list_ab_04" class="artistTitle" title="edenfromtheghetto" onclick="
+" target="_self">edenfromtheghetto</a>
+</p>
+<p>
+<time datetime="">2023.09.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205941/20594102.jpg?version=20230925180032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Bigger The Better]]></title>
+            <link>https://music.bugs.co.kr/album/20593925?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20593925?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 25 Sep 2023 10:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20195554?wl_ref=list_ab_04" class="artistTitle" title="SYKO OTB" onclick="
+" target="_self">SYKO OTB</a>
+</p>
+<p>
+<time datetime="">2023.09.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205939/20593925.jpg?version=20230925180032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[At The End Of Time]]></title>
+            <link>https://music.bugs.co.kr/album/20593921?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20593921?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 25 Sep 2023 10:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20195551?wl_ref=list_ab_04" class="artistTitle" title="Ward Katte" onclick="
+" target="_self">Ward Katte</a>
+</p>
+<p>
+<time datetime="">2023.09.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205939/20593921.jpg?version=20230925180032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[와이즈성가 6집 여성파트]]></title>
             <link>https://music.bugs.co.kr/album/20593869?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20593869?wl_ref=list_ab_03</guid>
@@ -677,6 +722,21 @@ Torae
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205916/20591697.jpg?version=20230925120030.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Golden Age (Orchestra Ver.)]]></title>
+            <link>https://music.bugs.co.kr/album/4091510?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4091510?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 25 Sep 2023 10:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80345343?wl_ref=list_ab_04" class="artistTitle" title="SM Classics TOWN Orchestra" onclick="
+" target="_self">SM Classics TOWN Orchestra</a>
+</p>
+<p>
+<time datetime="">2023.09.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40915/4091510.jpg?version=20230925180139.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ex e Tal]]></title>
             <link>https://music.bugs.co.kr/album/33120739?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33120739?wl_ref=list_ab_03</guid>
@@ -770,7 +830,7 @@ Deep Dhillon
 <time datetime="">2023.09.25</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331165/33116571.jpg?version=20230925120021.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331165/33116571.jpg?version=20230925182700.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Brawling Lord's Riddim]]></title>
@@ -1023,66 +1083,6 @@ Drivetrain
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/327650/32765094.jpg?version=20230925120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fallen From Grace]]></title>
-            <link>https://music.bugs.co.kr/album/32153697?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32153697?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 25 Sep 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11311198?wl_ref=list_ab_04" class="artistTitle" title="On Thorns I Lay" onclick="
-" target="_self">On Thorns I Lay</a>
-</p>
-<p>
-<time datetime="">2023.09.25</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/321536/32153697.jpg?version=20230925000030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Evacuation]]></title>
-            <link>https://music.bugs.co.kr/album/32054066?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32054066?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 25 Sep 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8094961?wl_ref=list_ab_04" class="artistTitle" title="The Vacant Lots" onclick="
-" target="_self">The Vacant Lots</a>
-</p>
-<p>
-<time datetime="">2023.09.25</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/320540/32054066.jpg?version=20230925171139.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shoot in Hollywood]]></title>
-            <link>https://music.bugs.co.kr/album/31916836?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31916836?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 25 Sep 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12143210?wl_ref=list_ab_04" class="artistTitle" title="Von Ilian" onclick="
-" target="_self">Von Ilian</a>
-</p>
-<p>
-<time datetime="">2023.09.25</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/319168/31916836.jpg?version=20230925000030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Road Kill]]></title>
-            <link>https://music.bugs.co.kr/album/31175901?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31175901?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 25 Sep 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13178841?wl_ref=list_ab_04" class="artistTitle" title="tD Bleck" onclick="
-" target="_self">tD Bleck</a>
-</p>
-<p>
-<time datetime="">2023.09.25</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311759/31175901.jpg?version=20230925120030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
