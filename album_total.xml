@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 02:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 03:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[chillhop beat tapes: Knowmadic [Side B]]]></title>
+            <link>https://music.bugs.co.kr/album/20581796?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20581796?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 26 Sep 2023 03:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20096783?wl_ref=list_ab_04" class="artistTitle" title="knowmadic">knowmadic</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'knowmadic||knowmadic||20096783||OK\\nShy Guy||Shy Guy||20191073||OK', ''); return false;">
+knowmadic
+</a> </p>
+<p>
+<time datetime="">2023.09.26</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205817/20581796.jpg?version=20230926120029.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Music Time]]></title>
             <link>https://music.bugs.co.kr/album/33120732?wl_ref=list_ab_03</link>
@@ -1068,21 +1086,6 @@ Drivetrain
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/327783/32778343.jpg?version=20230926063353.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Freets]]></title>
-            <link>https://music.bugs.co.kr/album/32765094?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32765094?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 25 Sep 2023 16:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13343380?wl_ref=list_ab_04" class="artistTitle" title="Atonal City" onclick="
-" target="_self">Atonal City</a>
-</p>
-<p>
-<time datetime="">2023.09.25</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/327650/32765094.jpg?version=20230926063738.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
