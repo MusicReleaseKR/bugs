@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 15:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 16:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316976/31697662.jpg?version=20230928000032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shooting Starz]]></title>
+            <link>https://music.bugs.co.kr/album/33145358?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33145358?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 27 Sep 2023 16:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13138013?wl_ref=list_ab_04" class="artistTitle" title="Serve sauce" onclick="
+" target="_self">Serve sauce</a>
+</p>
+<p>
+<time datetime="">2023.09.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331453/33145358.jpg?version=20230928005512.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Happy Birthday, Vol. 73]]></title>
@@ -275,7 +290,7 @@
 <time datetime="">2023.09.27</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331273/33127301.jpg?version=20230927222634.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331273/33127301.jpg?version=20230928010056.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[orbit]]></title>
@@ -290,7 +305,7 @@
 <time datetime="">2023.09.27</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331209/33120923.jpg?version=20230927014311.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331209/33120923.jpg?version=20230928004028.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Saveiro]]></title>
@@ -434,7 +449,7 @@ Autumn Whisper
 <time datetime="">2023.09.27</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331113/33111300.jpg?version=20230927010917.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331113/33111300.jpg?version=20230928005907.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fuerza Nueva]]></title>
@@ -1043,7 +1058,7 @@ S.Kiyotaka
 <time datetime="">2023.09.27</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205944/20594415.jpg?version=20230927120031.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205944/20594415.jpg?version=20230928003650.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑 한다면]]></title>
@@ -1058,22 +1073,7 @@ S.Kiyotaka
 <time datetime="">2023.09.27</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205944/20594411.jpg?version=20230927120031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[느긋한 오후에 듣고싶은 뉴에이지 피아노]]></title>
-            <link>https://music.bugs.co.kr/album/20594410?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20594410?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 27 Sep 2023 04:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20181702?wl_ref=list_ab_04" class="artistTitle" title="Toshio Nakagita" onclick="
-" target="_self">Toshio Nakagita</a>
-</p>
-<p>
-<time datetime="">2023.09.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205944/20594410.jpg?version=20230927120031.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205944/20594411.jpg?version=20230928012040.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
