@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 14:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 15:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1073,6 +1073,21 @@ UV
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205945/20594515.jpg?version=20230926120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Take You There (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/31697662?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31697662?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 27 Sep 2023 15:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20141952?wl_ref=list_ab_04" class="artistTitle" title="Eliza Rose" onclick="
+" target="_self">Eliza Rose</a>
+</p>
+<p>
+<time datetime="">2023.09.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316976/31697662.jpg?version=20230928000032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Happy Birthday, Vol. 73 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33143768?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33143768?wl_ref=list_ab_03</guid>
@@ -2124,21 +2139,6 @@ S.Kiyotaka
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205944/20594410.jpg?version=20230927120031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[항구의 이별 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20594407?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20594407?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 27 Sep 2023 04:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20195669?wl_ref=list_ab_04" class="artistTitle" title="고재승" onclick="
-" target="_self">고재승</a>
-</p>
-<p>
-<time datetime="">2023.09.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205944/20594407.jpg?version=20230927120031.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소리로 그림을 그리다 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
