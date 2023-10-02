@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 09:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 10:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -599,6 +599,21 @@ Vargas Blues Band
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205930/20593030.jpg?version=20231002120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해방]]></title>
+            <link>https://music.bugs.co.kr/album/4091642?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4091642?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 02 Oct 2023 10:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20088480?wl_ref=list_ab_04" class="artistTitle" title="스카이민혁 (Skyminhyuk)" onclick="
+" target="_self">스카이민혁 (Skyminhyuk)</a>
+</p>
+<p>
+<time datetime="">2023.10.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40916/4091642.jpg?version=20231002180025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Alembik]]></title>
             <link>https://music.bugs.co.kr/album/33142604?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33142604?wl_ref=list_ab_03</guid>
@@ -782,6 +797,24 @@ Sven Jaeger
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205944/20594483.jpg?version=20231002120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Simply Paradise]]></title>
+            <link>https://music.bugs.co.kr/album/33149730?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33149730?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 02 Oct 2023 10:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80190124?wl_ref=list_ab_04" class="artistTitle" title="Mac Demarco(맥 드마르코)">Mac Demarco(맥 드마르코)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Mac Demarco||Mac Demarco(맥 드마르코)||80190124||OK\\nRyan Paris||Ryan Paris||13438928||OK', ''); return false;">
+Mac Demarco(맥 드마르코)
+</a> </p>
+<p>
+<time datetime="">2023.10.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331497/33149730.jpg?version=20231002141715.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[No Mar]]></title>
             <link>https://music.bugs.co.kr/album/33149729?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33149729?wl_ref=list_ab_03</guid>
@@ -911,6 +944,21 @@ El Malilla
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331496/33149625.jpg?version=20231002000029.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Personal Effects]]></title>
+            <link>https://music.bugs.co.kr/album/33149438?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33149438?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 02 Oct 2023 10:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80047472?wl_ref=list_ab_04" class="artistTitle" title="Chromeo(크로메오)" onclick="
+" target="_self">Chromeo(크로메오)</a>
+</p>
+<p>
+<time datetime="">2023.10.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331494/33149438.jpg?version=20231002170042.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Terlalu]]></title>
             <link>https://music.bugs.co.kr/album/33149436?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33149436?wl_ref=list_ab_03</guid>
@@ -1029,51 +1077,6 @@ El Malilla
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331494/33149429.jpg?version=20231002000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sampai Putih Rambutku]]></title>
-            <link>https://music.bugs.co.kr/album/33149428?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33149428?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 02 Oct 2023 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12266150?wl_ref=list_ab_04" class="artistTitle" title="JHCC WORSHIP" onclick="
-" target="_self">JHCC WORSHIP</a>
-</p>
-<p>
-<time datetime="">2023.10.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331494/33149428.jpg?version=20231002000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tiada Yang Mustahil]]></title>
-            <link>https://music.bugs.co.kr/album/33149427?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33149427?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 02 Oct 2023 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80352226?wl_ref=list_ab_04" class="artistTitle" title="Meltho" onclick="
-" target="_self">Meltho</a>
-</p>
-<p>
-<time datetime="">2023.10.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331494/33149427.jpg?version=20231002000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Doa Bapa Kami]]></title>
-            <link>https://music.bugs.co.kr/album/33149423?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33149423?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 02 Oct 2023 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12296397?wl_ref=list_ab_04" class="artistTitle" title="Prita Priscilla" onclick="
-" target="_self">Prita Priscilla</a>
-</p>
-<p>
-<time datetime="">2023.10.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331494/33149423.jpg?version=20231002000029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
