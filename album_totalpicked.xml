@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 10:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 11:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,19 +53,19 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40916/4091657.jpg?version=20231003180028.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리 만날까]]></title>
-            <link>https://music.bugs.co.kr/album/4091694?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4091694?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 03 Oct 2023 09:16:32 GMT</pubDate>
+            <title><![CDATA[NOT OK]]></title>
+            <link>https://music.bugs.co.kr/album/33149814?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33149814?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 03 Oct 2023 11:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80267940?wl_ref=list_ab_04" class="artistTitle" title="신예영" onclick="
-" target="_self">신예영</a>
+<a href="https://music.bugs.co.kr/artist/80279272?wl_ref=list_ab_04" class="artistTitle" title="aimyon" onclick="
+" target="_self">aimyon</a>
 </p>
 <p>
 <time datetime="">2023.10.03</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40916/4091694.jpg?version=20231003180028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331498/33149814.jpg?version=20231003200027.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두근거리지마]]></title>
@@ -81,6 +81,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40916/4091621.jpg?version=20231003120021.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 만날까]]></title>
+            <link>https://music.bugs.co.kr/album/4091694?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4091694?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 03 Oct 2023 09:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80267940?wl_ref=list_ab_04" class="artistTitle" title="신예영" onclick="
+" target="_self">신예영</a>
+</p>
+<p>
+<time datetime="">2023.10.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40916/4091694.jpg?version=20231003180028.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[혼자 왔어요]]></title>
@@ -1053,21 +1068,6 @@ Katiah One
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205949/20594980.jpg?version=20231001180029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월간 더 스테이지]]></title>
-            <link>https://music.bugs.co.kr/album/20595107?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20595107?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 01 Oct 2023 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80367061?wl_ref=list_ab_04" class="artistTitle" title="김소연" onclick="
-" target="_self">김소연</a>
-</p>
-<p>
-<time datetime="">2023.10.01</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205951/20595107.jpg?version=20231001120029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
