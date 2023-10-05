@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 02:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 03:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,21 @@ Craig Duncan
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331485/33148506.jpg?version=20231005063258.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Au service de la musique française]]></title>
+            <link>https://music.bugs.co.kr/album/33148232?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33148232?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 05 Oct 2023 03:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80003752?wl_ref=list_ab_04" class="artistTitle" title="Michel Plasson(미셸 플라송)" onclick="
+" target="_self">Michel Plasson(미셸 플라송)</a>
+</p>
+<p>
+<time datetime="">2023.09.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331482/33148232.jpg?version=20231005063027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OT WORKS 3]]></title>
             <link>https://music.bugs.co.kr/album/33148169?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33148169?wl_ref=list_ab_03</guid>
@@ -198,6 +213,21 @@ Craig Duncan
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331481/33148163.jpg?version=20231005063633.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mozart: Ouvertüre aus dem "Entführung aus dem Serail", Symphonies Nos. 35 "Haffner" & 36 "Linz"]]></title>
+            <link>https://music.bugs.co.kr/album/33145144?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33145144?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 05 Oct 2023 03:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80016757?wl_ref=list_ab_04" class="artistTitle" title="Otto Klemperer(오토 클렘퍼러)" onclick="
+" target="_self">Otto Klemperer(오토 클렘퍼러)</a>
+</p>
+<p>
+<time datetime="">2023.10.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331451/33145144.jpg?version=20231005063044.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Phieza]]></title>
@@ -1044,36 +1074,6 @@ Nicolas Costantinou
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205947/20594770.jpg?version=20231004180028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flower Power]]></title>
-            <link>https://music.bugs.co.kr/album/20594769?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20594769?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 04 Oct 2023 10:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20195783?wl_ref=list_ab_04" class="artistTitle" title="Nora Hicks" onclick="
-" target="_self">Nora Hicks</a>
-</p>
-<p>
-<time datetime="">2023.10.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205947/20594769.jpg?version=20231004180028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Town Is Too Long]]></title>
-            <link>https://music.bugs.co.kr/album/20594767?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20594767?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 05 Oct 2023 02:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20195781?wl_ref=list_ab_04" class="artistTitle" title="Osbaldo Herzhty" onclick="
-" target="_self">Osbaldo Herzhty</a>
-</p>
-<p>
-<time datetime="">2023.10.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205947/20594767.jpg?version=20231004180028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
