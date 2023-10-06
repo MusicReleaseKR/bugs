@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 23:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 01:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40917/4091729.jpg?version=20231006011731.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HEAT]]></title>
+            <link>https://music.bugs.co.kr/album/33151374?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33151374?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 06 Oct 2023 01:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20056456?wl_ref=list_ab_04" class="artistTitle" title="(여자)아이들" onclick="
+" target="_self">(여자)아이들</a>
+</p>
+<p>
+<time datetime="">2023.10.05</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331513/33151374.jpg?version=20231006090003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[찬바람이 불면]]></title>
             <link>https://music.bugs.co.kr/album/4091736?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4091736?wl_ref=list_ab_03</guid>
@@ -35,7 +50,7 @@
 <time datetime="">2023.10.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40917/4091736.jpg?version=20231006064658.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40917/4091736.jpg?version=20231006100002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sure Thing]]></title>
@@ -53,21 +68,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205956/20595673.jpg?version=20231006012612.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[걔]]></title>
-            <link>https://music.bugs.co.kr/album/20595411?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20595411?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 05 Oct 2023 09:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80322162?wl_ref=list_ab_04" class="artistTitle" title="티키틱" onclick="
-" target="_self">티키틱</a>
-</p>
-<p>
-<time datetime="">2023.10.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205954/20595411.jpg?version=20231005180024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[tattoo]]></title>
             <link>https://music.bugs.co.kr/album/4091709?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4091709?wl_ref=list_ab_03</guid>
@@ -81,6 +81,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40917/4091709.jpg?version=20231006010540.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걔]]></title>
+            <link>https://music.bugs.co.kr/album/20595411?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20595411?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 05 Oct 2023 09:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80322162?wl_ref=list_ab_04" class="artistTitle" title="티키틱" onclick="
+" target="_self">티키틱</a>
+</p>
+<p>
+<time datetime="">2023.10.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205954/20595411.jpg?version=20231005180024.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ANOTHER LESSON]]></title>
@@ -140,7 +155,7 @@
 <time datetime="">2023.10.05</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205954/20595404.jpg?version=20231006005924.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205954/20595404.jpg?version=20231006092702.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[L7]]></title>
@@ -1047,24 +1062,6 @@ NewJeans
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205950/20595063.jpg?version=20231004120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angel's Share]]></title>
-            <link>https://music.bugs.co.kr/album/20594802?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20594802?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 04 Oct 2023 03:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20185079?wl_ref=list_ab_04" class="artistTitle" title="Mix.audio">Mix.audio</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Mix.audio||Mix.audio||20185079||OK\\n차붐||Chaboom(차붐)||80057660||OK', ''); return false;">
-Mix.audio
-</a> </p>
-<p>
-<time datetime="">2023.10.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205948/20594802.jpg?version=20231004120021.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
