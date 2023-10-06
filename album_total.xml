@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 14:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 15:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Walter Gieseking Plays Mozart & Beethoven]]></title>
+            <link>https://music.bugs.co.kr/album/33151503?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33151503?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 06 Oct 2023 15:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/38652?wl_ref=list_ab_04" class="artistTitle" title="Walter Gieseking(기제킹)" onclick="
+" target="_self">Walter Gieseking(기제킹)</a>
+</p>
+<p>
+<time datetime="">2023.10.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331515/33151503.jpg?version=20231007000023.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Silo]]></title>
             <link>https://music.bugs.co.kr/album/33165344?wl_ref=list_ab_03</link>
@@ -1056,21 +1071,6 @@ ARB4
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331564/33156453.jpg?version=20231006013554.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yessingles]]></title>
-            <link>https://music.bugs.co.kr/album/33156443?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33156443?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 06 Oct 2023 04:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12366404?wl_ref=list_ab_04" class="artistTitle" title="Yes" onclick="
-" target="_self">Yes</a>
-</p>
-<p>
-<time datetime="">2023.10.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331564/33156443.jpg?version=20231006002406.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
