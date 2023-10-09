@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 14:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 15:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Walter Gieseking Plays Mozart & Beethoven]]></title>
+            <link>https://music.bugs.co.kr/album/33151503?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33151503?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 08 Oct 2023 15:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/38652?wl_ref=list_ab_04" class="artistTitle" title="Walter Gieseking(기제킹)" onclick="
+" target="_self">Walter Gieseking(기제킹)</a>
+</p>
+<p>
+<time datetime="">2023.10.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331515/33151503.jpg?version=20231010000028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바다가 들린다]]></title>
+            <link>https://music.bugs.co.kr/album/4078633?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4078633?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 Oct 2023 15:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80345432?wl_ref=list_ab_04" class="artistTitle" title="박재우" onclick="
+" target="_self">박재우</a>
+</p>
+<p>
+<time datetime="">2022.09.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40786/4078633.jpg?version=20230103014822.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Imagine (The Elements Mixes)]]></title>
             <link>https://music.bugs.co.kr/album/33168905?wl_ref=list_ab_03</link>
@@ -387,21 +417,6 @@ bryng
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331530/33153050.jpg?version=20231009000026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Walter Gieseking Plays Mozart & Beethoven]]></title>
-            <link>https://music.bugs.co.kr/album/33151503?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33151503?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 08 Oct 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/38652?wl_ref=list_ab_04" class="artistTitle" title="Walter Gieseking(기제킹)" onclick="
-" target="_self">Walter Gieseking(기제킹)</a>
-</p>
-<p>
-<time datetime="">2023.10.09</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331515/33151503.jpg?version=20231009002433.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Waves]]></title>
@@ -1056,21 +1071,6 @@ StarPath Band
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205962/20596292.jpg?version=20231009120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[house]]></title>
-            <link>https://music.bugs.co.kr/album/20596278?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20596278?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 09 Oct 2023 04:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20168764?wl_ref=list_ab_04" class="artistTitle" title="unhappy august" onclick="
-" target="_self">unhappy august</a>
-</p>
-<p>
-<time datetime="">2023.10.09</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205962/20596278.jpg?version=20231009120030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
