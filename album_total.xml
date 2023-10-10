@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 09:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 10:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -657,6 +657,21 @@ Hudba vesmíru pro spánek
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205965/20596529.jpg?version=20231010120037.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Garden of A-den]]></title>
+            <link>https://music.bugs.co.kr/album/20596431?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20596431?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 10 Oct 2023 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20196353?wl_ref=list_ab_04" class="artistTitle" title="Homo Drumiens" onclick="
+" target="_self">Homo Drumiens</a>
+</p>
+<p>
+<time datetime="">2023.10.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205964/20596431.jpg?version=20231010180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Story 45]]></title>
             <link>https://music.bugs.co.kr/album/20596405?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20596405?wl_ref=list_ab_03</guid>
@@ -975,6 +990,21 @@ AVALON
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205956/20595695.jpg?version=20231010120037.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[music to the moon]]></title>
+            <link>https://music.bugs.co.kr/album/20595585?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20595585?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 10 Oct 2023 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20196054?wl_ref=list_ab_04" class="artistTitle" title="Phuc Vi" onclick="
+" target="_self">Phuc Vi</a>
+</p>
+<p>
+<time datetime="">2023.10.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205955/20595585.jpg?version=20231010180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[J.S. BACH 6 SUITES FOR CELLO SOLO]]></title>
             <link>https://music.bugs.co.kr/album/20595584?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20595584?wl_ref=list_ab_03</guid>
@@ -988,6 +1018,36 @@ AVALON
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205955/20595584.jpg?version=20231010120037.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aspiration]]></title>
+            <link>https://music.bugs.co.kr/album/20595583?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20595583?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 10 Oct 2023 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20196053?wl_ref=list_ab_04" class="artistTitle" title="Truda Swinburne" onclick="
+" target="_self">Truda Swinburne</a>
+</p>
+<p>
+<time datetime="">2023.10.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205955/20595583.jpg?version=20231010180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Little Longer]]></title>
+            <link>https://music.bugs.co.kr/album/20595581?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20595581?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 10 Oct 2023 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20196052?wl_ref=list_ab_04" class="artistTitle" title="Phyllis Clapham" onclick="
+" target="_self">Phyllis Clapham</a>
+</p>
+<p>
+<time datetime="">2023.10.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205955/20595581.jpg?version=20231010180027.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[croup milk]]></title>
@@ -1005,78 +1065,19 @@ AVALON
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205955/20595522.jpg?version=20231010120037.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Echos]]></title>
-            <link>https://music.bugs.co.kr/album/4091804?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4091804?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 10 Oct 2023 04:19:38 GMT</pubDate>
+            <title><![CDATA[Run away]]></title>
+            <link>https://music.bugs.co.kr/album/4091813?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4091813?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 10 Oct 2023 10:18:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80043696?wl_ref=list_ab_04" class="artistTitle" title="Late Night Alumni(레이트 나이트 알룸나이)" onclick="
-" target="_self">Late Night Alumni(레이트 나이트 알룸나이)</a>
+<a href="https://music.bugs.co.kr/artist/80135113?wl_ref=list_ab_04" class="artistTitle" title="Romeo(로메오 / ロメオ)" onclick="
+" target="_self">Romeo(로메오 / ロメオ)</a>
 </p>
 <p>
 <time datetime="">2023.10.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40918/4091804.jpg?version=20231010120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Butterflies]]></title>
-            <link>https://music.bugs.co.kr/album/4091777?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4091777?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 10 Oct 2023 04:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80359551?wl_ref=list_ab_04" class="artistTitle" title="Kozy" onclick="
-" target="_self">Kozy</a>
-</p>
-<p>
-<time datetime="">2023.10.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40917/4091777.jpg?version=20231010120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Split]]></title>
-            <link>https://music.bugs.co.kr/album/33169070?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33169070?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 10 Oct 2023 04:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12048988?wl_ref=list_ab_04" class="artistTitle" title="Hujdy" onclick="
-" target="_self">Hujdy</a>
-</p>
-<p>
-<time datetime="">2023.10.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331690/33169070.jpg?version=20231010002317.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silly Little Things]]></title>
-            <link>https://music.bugs.co.kr/album/33168788?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33168788?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 10 Oct 2023 04:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12127360?wl_ref=list_ab_04" class="artistTitle" title="Tex Crick" onclick="
-" target="_self">Tex Crick</a>
-</p>
-<p>
-<time datetime="">2023.10.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331687/33168788.jpg?version=20231010103941.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrating 49 Years of Roti]]></title>
-            <link>https://music.bugs.co.kr/album/33168767?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33168767?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 10 Oct 2023 04:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<span class="artistTitle" title="">Various Artists</span>
-</p>
-<p>
-<time datetime="">2023.10.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331687/33168767.jpg?version=20231010000028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40918/4091813.jpg?version=20231010180027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
