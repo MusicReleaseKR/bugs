@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 14:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 15:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sure Thing]]></title>
+            <link>https://music.bugs.co.kr/album/20595673?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20595673?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 10 Oct 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80386574?wl_ref=list_ab_04" class="artistTitle" title="82MAJOR (에이티투메이저)" onclick="
+" target="_self">82MAJOR (에이티투메이저)</a>
+</p>
+<p>
+<time datetime="">2023.10.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205956/20595673.jpg?version=1696523172000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정원]]></title>
+            <link>https://music.bugs.co.kr/album/20426080?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20426080?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 10 Oct 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20145449?wl_ref=list_ab_04" class="artistTitle" title="916" onclick="
+" target="_self">916</a>
+</p>
+<p>
+<time datetime="">2021.10.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204260/20426080.jpg?version=1696914489000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Midian]]></title>
             <link>https://music.bugs.co.kr/album/33160704?wl_ref=list_ab_03</link>
@@ -1032,36 +1062,6 @@ SyeL
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205963/20596342.jpg?version=1696906837000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하늘 아래]]></title>
-            <link>https://music.bugs.co.kr/album/20596335?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20596335?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 10 Oct 2023 04:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20196327?wl_ref=list_ab_04" class="artistTitle" title="YULOK(유럭)" onclick="
-" target="_self">YULOK(유럭)</a>
-</p>
-<p>
-<time datetime="">2023.10.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205963/20596335.jpg?version=1696906837000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을바람에 취하다]]></title>
-            <link>https://music.bugs.co.kr/album/20596332?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20596332?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 10 Oct 2023 04:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80142710?wl_ref=list_ab_04" class="artistTitle" title="러브래빗(Love Rabbit)" onclick="
-" target="_self">러브래빗(Love Rabbit)</a>
-</p>
-<p>
-<time datetime="">2023.10.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205963/20596332.jpg?version=1696906837000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
