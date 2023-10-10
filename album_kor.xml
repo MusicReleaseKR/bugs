@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 16:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 17:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,21 +21,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205956/20595673.jpg?version=1696523172000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정원]]></title>
-            <link>https://music.bugs.co.kr/album/20426080?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20426080?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 10 Oct 2023 15:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20145449?wl_ref=list_ab_04" class="artistTitle" title="916" onclick="
-" target="_self">916</a>
-</p>
-<p>
-<time datetime="">2021.10.20</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204260/20426080.jpg?version=1696914489000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Midian]]></title>
@@ -656,7 +641,7 @@ SyeL
 <time datetime="">2023.10.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205967/20596742.jpg?version=1696928438000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205967/20596742.jpg?version=1696955747000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cacophony of Chaos]]></title>
@@ -731,7 +716,7 @@ SyeL
 <time datetime="">2023.10.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205965/20596521.jpg?version=1696916898000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205965/20596521.jpg?version=1696956784000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소중한 당신께]]></title>
@@ -1031,7 +1016,7 @@ SyeL
 <time datetime="">2023.10.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205963/20596345.jpg?version=1696906837000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205963/20596345.jpg?version=1696955816000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Blue Light]]></title>
@@ -1062,6 +1047,21 @@ SyeL
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205963/20596335.jpg?version=1696906837000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을바람에 취하다]]></title>
+            <link>https://music.bugs.co.kr/album/20596332?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20596332?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 10 Oct 2023 17:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80142710?wl_ref=list_ab_04" class="artistTitle" title="러브래빗(Love Rabbit)" onclick="
+" target="_self">러브래빗(Love Rabbit)</a>
+</p>
+<p>
+<time datetime="">2023.10.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205963/20596332.jpg?version=1696953021000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
