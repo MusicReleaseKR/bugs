@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 14:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 15:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[spark me up]]></title>
+            <link>https://music.bugs.co.kr/album/4091586?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4091586?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 11 Oct 2023 15:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80186044?wl_ref=list_ab_04" class="artistTitle" title="비앙(Viann)" onclick="
+" target="_self">비앙(Viann)</a>
+</p>
+<p>
+<time datetime="">2023.09.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40915/4091586.jpg?version=1695764709000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백수건달 Special]]></title>
             <link>https://music.bugs.co.kr/album/20596965?wl_ref=list_ab_03</link>
@@ -1050,21 +1065,6 @@ TimeFeveR(타임피버)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205968/20596876.jpg?version=1696993236000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신보다 이른 아침]]></title>
-            <link>https://music.bugs.co.kr/album/20596873?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20596873?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 11 Oct 2023 04:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20172686?wl_ref=list_ab_04" class="artistTitle" title="다포니" onclick="
-" target="_self">다포니</a>
-</p>
-<p>
-<time datetime="">2023.10.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205968/20596873.jpg?version=1696993236000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
