@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 02:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 03:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Maze of woes]]></title>
+            <link>https://music.bugs.co.kr/album/20595435?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20595435?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 12 Oct 2023 03:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20118187?wl_ref=list_ab_04" class="artistTitle" title="HSRS" onclick="
+" target="_self">HSRS</a>
+</p>
+<p>
+<time datetime="">2023.10.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205954/20595435.jpg?version=20231012120034.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[spark me up]]></title>
             <link>https://music.bugs.co.kr/album/4091586?wl_ref=list_ab_03</link>
@@ -1059,21 +1074,6 @@ Silence and the Unwinking Minds
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205960/20596095.jpg?version=20231012005945.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Digestif]]></title>
-            <link>https://music.bugs.co.kr/album/20596091?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20596091?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 11 Oct 2023 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20196231?wl_ref=list_ab_04" class="artistTitle" title="Yumi Okazaki" onclick="
-" target="_self">Yumi Okazaki</a>
-</p>
-<p>
-<time datetime="">2023.10.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205960/20596091.jpg?version=20231012002937.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
