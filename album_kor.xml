@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 14:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 15:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Off The Record]]></title>
+            <link>https://music.bugs.co.kr/album/4091551?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4091551?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 12 Oct 2023 15:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20148657?wl_ref=list_ab_04" class="artistTitle" title="IVE (아이브)" onclick="
+" target="_self">IVE (아이브)</a>
+</p>
+<p>
+<time datetime="">2023.10.06</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40915/4091551.jpg?version=1696609525000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노래없음]]></title>
             <link>https://music.bugs.co.kr/album/20597314?wl_ref=list_ab_03</link>
@@ -1053,24 +1068,6 @@ Millenium Boy
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205970/20597057.jpg?version=1697079626000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love My Days]]></title>
-            <link>https://music.bugs.co.kr/album/20597052?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20597052?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 12 Oct 2023 10:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20174815?wl_ref=list_ab_04" class="artistTitle" title="Odett (오데트)">Odett (오데트)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Odett (오데트)||Odett (오데트)||20174815||OK\\n준||준(JUNE)||80275163||OK', ''); return false;">
-Odett (오데트)
-</a> </p>
-<p>
-<time datetime="">2023.10.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205970/20597052.jpg?version=1697101202000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
