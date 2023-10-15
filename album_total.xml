@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 14:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 15:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[מחבואים]]></title>
+            <link>https://music.bugs.co.kr/album/33132168?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33132168?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 15 Oct 2023 15:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12354234?wl_ref=list_ab_04" class="artistTitle" title="נועם מנדלווי" onclick="
+" target="_self">נועם מנדלווי</a>
+</p>
+<p>
+<time datetime="">2023.10.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331321/33132168.jpg?version=20231016000024.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[קום]]></title>
+            <link>https://music.bugs.co.kr/album/32704100?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32704100?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 15 Oct 2023 15:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11150265?wl_ref=list_ab_04" class="artistTitle" title="לאה שבת">לאה שבת</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'לאה שבת||לאה שבת||11150265||OK\\nלירון בן שמעון||לירון בן שמעון||11016889||OK', ''); return false;">
+לאה שבת
+</a> </p>
+<p>
+<time datetime="">2023.10.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327041/32704100.jpg?version=20231016000024.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OnlyFans]]></title>
             <link>https://music.bugs.co.kr/album/33188086?wl_ref=list_ab_03</link>
@@ -1072,36 +1105,6 @@ Bhai Deep Singh
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331879/33187901.jpg?version=20231015000032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love crazy]]></title>
-            <link>https://music.bugs.co.kr/album/33187894?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33187894?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 15 Oct 2023 04:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12588546?wl_ref=list_ab_04" class="artistTitle" title="WestCoast Wind" onclick="
-" target="_self">WestCoast Wind</a>
-</p>
-<p>
-<time datetime="">2023.10.15</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331878/33187894.jpg?version=20231015000032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kon Job Pleng Ni (get to know me)]]></title>
-            <link>https://music.bugs.co.kr/album/33187893?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33187893?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 15 Oct 2023 10:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13186494?wl_ref=list_ab_04" class="artistTitle" title="MXFRUIT" onclick="
-" target="_self">MXFRUIT</a>
-</p>
-<p>
-<time datetime="">2023.10.15</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331878/33187893.jpg?version=20231015181719.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
