@@ -1,8 +1,1064 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://music.bugs.co.kr/newest/album/totalpicked?nation=KOR</id>
-    <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
-    <updated>2023-10-18T10:18:31.166Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://file.bugsm.co.kr/wbugs/common/faviconBugs.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 18 Oct 2023 11:14:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BGM Jazz Library_311]]></title>
+            <link>https://music.bugs.co.kr/album/20598733?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598733?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20034354?wl_ref=list_ab_04" class="artistTitle" title="Do&amp;Be Sound" onclick="
+" target="_self">Do&amp;Be Sound</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598733.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모세와 율법]]></title>
+            <link>https://music.bugs.co.kr/album/20598723?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598723?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20109357?wl_ref=list_ab_04" class="artistTitle" title="미강" onclick="
+" target="_self">미강</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598723.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휘파람 쌍쌍파티]]></title>
+            <link>https://music.bugs.co.kr/album/20598704?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598704?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197044?wl_ref=list_ab_04" class="artistTitle" title="태양음향 악단" onclick="
+" target="_self">태양음향 악단</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598704.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE YOU MORE]]></title>
+            <link>https://music.bugs.co.kr/album/20598556?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598556?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/6559?wl_ref=list_ab_04" class="artistTitle" title="박기영" onclick="
+" target="_self">박기영</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205985/20598556.jpg?version=1697598062000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홀리원 5집 - 나를 잃지 말아요]]></title>
+            <link>https://music.bugs.co.kr/album/20598503?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598503?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80026981?wl_ref=list_ab_04" class="artistTitle" title="홀리원(Holy One)" onclick="
+" target="_self">홀리원(Holy One)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205985/20598503.jpg?version=1697598078000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에파타 성가곡집 다시, 삶]]></title>
+            <link>https://music.bugs.co.kr/album/20598414?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598414?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20177564?wl_ref=list_ab_04" class="artistTitle" title="서울가톨릭싱어즈" onclick="
+" target="_self">서울가톨릭싱어즈</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205984/20598414.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[La fiesta]]></title>
+            <link>https://music.bugs.co.kr/album/20598199?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598199?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20099661?wl_ref=list_ab_04" class="artistTitle" title="김단비" onclick="
+" target="_self">김단비</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205981/20598199.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KR Hip Hop Bible]]></title>
+            <link>https://music.bugs.co.kr/album/20598189?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598189?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20196906?wl_ref=list_ab_04" class="artistTitle" title="Peipo" onclick="
+" target="_self">Peipo</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205981/20598189.jpg?version=1697619625000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불타는가요무대]]></title>
+            <link>https://music.bugs.co.kr/album/20598106?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598106?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20196885?wl_ref=list_ab_04" class="artistTitle" title="장윤정" onclick="
+" target="_self">장윤정</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205981/20598106.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazz&Space Chapter2]]></title>
+            <link>https://music.bugs.co.kr/album/20598105?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598105?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20076772?wl_ref=list_ab_04" class="artistTitle" title="블루문(Blue Moon)" onclick="
+" target="_self">블루문(Blue Moon)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205981/20598105.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심리를 노래하는 구룡샘3]]></title>
+            <link>https://music.bugs.co.kr/album/20598096?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598096?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20191874?wl_ref=list_ab_04" class="artistTitle" title="구룡샘" onclick="
+" target="_self">구룡샘</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205980/20598096.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeju Island 제주, 일기]]></title>
+            <link>https://music.bugs.co.kr/album/20597673?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20597673?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80182006?wl_ref=list_ab_04" class="artistTitle" title="선샤인(Sunshine)" onclick="
+" target="_self">선샤인(Sunshine)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205976/20597673.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eternal Serenity]]></title>
+            <link>https://music.bugs.co.kr/album/20597274?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20597274?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20194955?wl_ref=list_ab_04" class="artistTitle" title="StellarNova" onclick="
+" target="_self">StellarNova</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205972/20597274.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LP III]]></title>
+            <link>https://music.bugs.co.kr/album/20597195?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20597195?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20178230?wl_ref=list_ab_04" class="artistTitle" title="STUDIO LICO" onclick="
+" target="_self">STUDIO LICO</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205971/20597195.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reflection of the world]]></title>
+            <link>https://music.bugs.co.kr/album/20596635?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20596635?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20125166?wl_ref=list_ab_04" class="artistTitle" title="HYUN" onclick="
+" target="_self">HYUN</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205966/20596635.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치치핑핑 캐릭터송]]></title>
+            <link>https://music.bugs.co.kr/album/20448173?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20448173?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20139375?wl_ref=list_ab_04" class="artistTitle" title="치치핑핑" onclick="
+" target="_self">치치핑핑</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204481/20448173.jpg?version=1697618232000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선전기술 X]]></title>
+            <link>https://music.bugs.co.kr/album/4092100?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092100?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80179161?wl_ref=list_ab_04" class="artistTitle" title="오도마 (O'Domar)" onclick="
+" target="_self">오도마 (O'Domar)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40921/4092100.jpg?version=1697619621000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뽀로로 인기동요 베스트 3]]></title>
+            <link>https://music.bugs.co.kr/album/4092099?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092099?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12068005?wl_ref=list_ab_04" class="artistTitle" title="뽀로로" onclick="
+" target="_self">뽀로로</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40920/4092099.jpg?version=1697619616000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pororo Best Kids Songs 3]]></title>
+            <link>https://music.bugs.co.kr/album/4092098?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092098?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12068005?wl_ref=list_ab_04" class="artistTitle" title="뽀로로" onclick="
+" target="_self">뽀로로</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40920/4092098.jpg?version=1697619624000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영어 동요]]></title>
+            <link>https://music.bugs.co.kr/album/4092097?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092097?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12675556?wl_ref=list_ab_04" class="artistTitle" title="똑똑키즈" onclick="
+" target="_self">똑똑키즈</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40920/4092097.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Picking Clouds]]></title>
+            <link>https://music.bugs.co.kr/album/20598642?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598642?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80375217?wl_ref=list_ab_04" class="artistTitle" title="더껑 (TheKkung)" onclick="
+" target="_self">더껑 (TheKkung)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205986/20598642.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Evercalm]]></title>
+            <link>https://music.bugs.co.kr/album/20598513?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598513?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20124963?wl_ref=list_ab_04" class="artistTitle" title="꿈꾸는 달(Dreamy Luna)" onclick="
+" target="_self">꿈꾸는 달(Dreamy Luna)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205985/20598513.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭐?]]></title>
+            <link>https://music.bugs.co.kr/album/20598371?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598371?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20176254?wl_ref=list_ab_04" class="artistTitle" title="예끼" onclick="
+" target="_self">예끼</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205983/20598371.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Autumn Days]]></title>
+            <link>https://music.bugs.co.kr/album/20598335?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598335?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20161574?wl_ref=list_ab_04" class="artistTitle" title="Plusis Trio" onclick="
+" target="_self">Plusis Trio</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205983/20598335.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carefully Selected 1]]></title>
+            <link>https://music.bugs.co.kr/album/20598275?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598275?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20196928?wl_ref=list_ab_04" class="artistTitle" title="Mel J" onclick="
+" target="_self">Mel J</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205982/20598275.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diving]]></title>
+            <link>https://music.bugs.co.kr/album/20598212?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598212?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80144566?wl_ref=list_ab_04" class="artistTitle" title="we hate jh" onclick="
+" target="_self">we hate jh</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205982/20598212.jpg?version=1697598000000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oh, Life]]></title>
+            <link>https://music.bugs.co.kr/album/20598166?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598166?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20089147?wl_ref=list_ab_04" class="artistTitle" title="마치 (MRCH)" onclick="
+" target="_self">마치 (MRCH)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205981/20598166.jpg?version=1697607988000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낮은 자의 고백]]></title>
+            <link>https://music.bugs.co.kr/album/20598014?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598014?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20054640?wl_ref=list_ab_04" class="artistTitle" title="남지현" onclick="
+" target="_self">남지현</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205980/20598014.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Again]]></title>
+            <link>https://music.bugs.co.kr/album/20597794?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20597794?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20168538?wl_ref=list_ab_04" class="artistTitle" title="Arel" onclick="
+" target="_self">Arel</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205977/20597794.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Water :) lofi hiphop mix]]></title>
+            <link>https://music.bugs.co.kr/album/20597722?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20597722?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20142888?wl_ref=list_ab_04" class="artistTitle" title="O.T.O" onclick="
+" target="_self">O.T.O</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205977/20597722.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Study with me Vol 4]]></title>
+            <link>https://music.bugs.co.kr/album/20597701?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20597701?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20141940?wl_ref=list_ab_04" class="artistTitle" title="The SOFA" onclick="
+" target="_self">The SOFA</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205977/20597701.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구공에게]]></title>
+            <link>https://music.bugs.co.kr/album/20597505?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20597505?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20063224?wl_ref=list_ab_04" class="artistTitle" title="공뎍" onclick="
+" target="_self">공뎍</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205975/20597505.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flow]]></title>
+            <link>https://music.bugs.co.kr/album/20597465?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20597465?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20196685?wl_ref=list_ab_04" class="artistTitle" title="All the notes" onclick="
+" target="_self">All the notes</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205974/20597465.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[the world of dreams]]></title>
+            <link>https://music.bugs.co.kr/album/20597253?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20597253?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20127512?wl_ref=list_ab_04" class="artistTitle" title="이선규" onclick="
+" target="_self">이선규</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205972/20597253.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love, hope and youth]]></title>
+            <link>https://music.bugs.co.kr/album/20597098?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20597098?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20107033?wl_ref=list_ab_04" class="artistTitle" title="정새벽" onclick="
+" target="_self">정새벽</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205970/20597098.jpg?version=1697598080000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[길고양이]]></title>
+            <link>https://music.bugs.co.kr/album/20597064?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20597064?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20092871?wl_ref=list_ab_04" class="artistTitle" title="Illnest(일니스트)" onclick="
+" target="_self">Illnest(일니스트)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205970/20597064.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MACARONI CHEESE EP]]></title>
+            <link>https://music.bugs.co.kr/album/4092104?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092104?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80386823?wl_ref=list_ab_04" class="artistTitle" title="YOUNG POSSE (영파씨)" onclick="
+" target="_self">YOUNG POSSE (영파씨)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40921/4092104.jpg?version=1697619626000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Profiles of the Future (Λ) : 70%]]></title>
+            <link>https://music.bugs.co.kr/album/4092102?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092102?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12809010?wl_ref=list_ab_04" class="artistTitle" title="슈퍼카인드" onclick="
+" target="_self">슈퍼카인드</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40921/4092102.jpg?version=1697598067000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[History Of Kingdom : Part Ⅶ. Jahan]]></title>
+            <link>https://music.bugs.co.kr/album/4092081?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092081?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20126151?wl_ref=list_ab_04" class="artistTitle" title="KINGDOM(킹덤)" onclick="
+" target="_self">KINGDOM(킹덤)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40920/4092081.jpg?version=1697598082000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Howl]]></title>
+            <link>https://music.bugs.co.kr/album/4091875?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4091875?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80298005?wl_ref=list_ab_04" class="artistTitle" title="츄 (CHUU)" onclick="
+" target="_self">츄 (CHUU)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40918/4091875.jpg?version=1697619631000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fresh.WAV 004]]></title>
+            <link>https://music.bugs.co.kr/album/33191453?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33191453?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80338519?wl_ref=list_ab_04" class="artistTitle" title="Ation(에이션)">Ation(에이션)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ation||Ation(에이션)||80338519||OK\\nVanax||Vanax||13125751||OK', ''); return false;">
+Ation(에이션)
+</a> </p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331914/33191453.jpg?version=1697619621000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wonder day]]></title>
+            <link>https://music.bugs.co.kr/album/33174736?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33174736?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20097428?wl_ref=list_ab_04" class="artistTitle" title="heyden" onclick="
+" target="_self">heyden</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331747/33174736.jpg?version=1697598000000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대천사]]></title>
+            <link>https://music.bugs.co.kr/album/20598869?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598869?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20196670?wl_ref=list_ab_04" class="artistTitle" title="차대건" onclick="
+" target="_self">차대건</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205988/20598869.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Circle (feat. Hee Jeong)]]></title>
+            <link>https://music.bugs.co.kr/album/20598851?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598851?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20189183?wl_ref=list_ab_04" class="artistTitle" title="Wave Orbit" onclick="
+" target="_self">Wave Orbit</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205988/20598851.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[same old story]]></title>
+            <link>https://music.bugs.co.kr/album/20598777?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598777?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20180498?wl_ref=list_ab_04" class="artistTitle" title="noma" onclick="
+" target="_self">noma</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598777.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[좋은 이별이 어디 있나요]]></title>
+            <link>https://music.bugs.co.kr/album/20598763?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598763?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20068301?wl_ref=list_ab_04" class="artistTitle" title="심가을" onclick="
+" target="_self">심가을</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598763.jpg?version=1697598079000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer Vacation]]></title>
+            <link>https://music.bugs.co.kr/album/20598762?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598762?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197066?wl_ref=list_ab_04" class="artistTitle" title="ROOFTOP" onclick="
+" target="_self">ROOFTOP</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598762.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 우린 (Now We're)]]></title>
+            <link>https://music.bugs.co.kr/album/20598753?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598753?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20179091?wl_ref=list_ab_04" class="artistTitle" title="모드시 (MODSIWH)" onclick="
+" target="_self">모드시 (MODSIWH)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598753.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비애 (悲哀)]]></title>
+            <link>https://music.bugs.co.kr/album/20598746?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598746?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197060?wl_ref=list_ab_04" class="artistTitle" title="정재욱" onclick="
+" target="_self">정재욱</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598746.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황금빛 내 인생]]></title>
+            <link>https://music.bugs.co.kr/album/20598740?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598740?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197059?wl_ref=list_ab_04" class="artistTitle" title="심진" onclick="
+" target="_self">심진</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598740.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차분한 일기]]></title>
+            <link>https://music.bugs.co.kr/album/20598735?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598735?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20144936?wl_ref=list_ab_04" class="artistTitle" title="Cheryl J." onclick="
+" target="_self">Cheryl J.</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598735.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천천히 가자]]></title>
+            <link>https://music.bugs.co.kr/album/20598734?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598734?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197056?wl_ref=list_ab_04" class="artistTitle" title="문수만" onclick="
+" target="_self">문수만</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598734.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GAMBLE]]></title>
+            <link>https://music.bugs.co.kr/album/20598732?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598732?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197055?wl_ref=list_ab_04" class="artistTitle" title="MARCO 619" onclick="
+" target="_self">MARCO 619</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598732.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[운명의 내당신]]></title>
+            <link>https://music.bugs.co.kr/album/20598729?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598729?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197053?wl_ref=list_ab_04" class="artistTitle" title="천기화" onclick="
+" target="_self">천기화</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598729.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예쁜말]]></title>
+            <link>https://music.bugs.co.kr/album/20598725?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598725?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20131025?wl_ref=list_ab_04" class="artistTitle" title="이로빈" onclick="
+" target="_self">이로빈</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598725.jpg?version=1697598000000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dream]]></title>
+            <link>https://music.bugs.co.kr/album/20598721?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598721?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197050?wl_ref=list_ab_04" class="artistTitle" title="D.A (Dream Again)" onclick="
+" target="_self">D.A (Dream Again)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598721.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여전히 널 (Feat. 김사무엘)]]></title>
+            <link>https://music.bugs.co.kr/album/20598699?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598699?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80281707?wl_ref=list_ab_04" class="artistTitle" title="조미희" onclick="
+" target="_self">조미희</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205986/20598699.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이름없는 소품집(하)-세번째-마지막이야기]]></title>
+            <link>https://music.bugs.co.kr/album/20598694?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598694?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20127617?wl_ref=list_ab_04" class="artistTitle" title="루나앤 (LunA&amp;)" onclick="
+" target="_self">루나앤 (LunA&amp;)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205986/20598694.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weakest Man]]></title>
+            <link>https://music.bugs.co.kr/album/20598692?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598692?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20191136?wl_ref=list_ab_04" class="artistTitle" title="Left D (레프트디)" onclick="
+" target="_self">Left D (레프트디)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205986/20598692.jpg?version=1697605751000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넌 나의 행복]]></title>
+            <link>https://music.bugs.co.kr/album/20598691?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598691?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197042?wl_ref=list_ab_04" class="artistTitle" title="안설아" onclick="
+" target="_self">안설아</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205986/20598691.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Way]]></title>
+            <link>https://music.bugs.co.kr/album/20598672?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598672?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13040532?wl_ref=list_ab_04" class="artistTitle" title="Sallyanna (샐리안나)" onclick="
+" target="_self">Sallyanna (샐리안나)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205986/20598672.jpg?version=1697598000000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미운 사람아]]></title>
+            <link>https://music.bugs.co.kr/album/20598671?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598671?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197033?wl_ref=list_ab_04" class="artistTitle" title="이진숙" onclick="
+" target="_self">이진숙</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205986/20598671.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[할로윈 시계 (할로윈 동요)]]></title>
+            <link>https://music.bugs.co.kr/album/20598650?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598650?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20083656?wl_ref=list_ab_04" class="artistTitle" title="주니토니" onclick="
+" target="_self">주니토니</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205986/20598650.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가야금&피아노 'AUTUMN']]></title>
+            <link>https://music.bugs.co.kr/album/20598608?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598608?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20158733?wl_ref=list_ab_04" class="artistTitle" title="이준x이현진" onclick="
+" target="_self">이준x이현진</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205986/20598608.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 모든 순간은]]></title>
+            <link>https://music.bugs.co.kr/album/20598589?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598589?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197010?wl_ref=list_ab_04" class="artistTitle" title="몽타주" onclick="
+" target="_self">몽타주</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205985/20598589.jpg?version=1697598000000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nostalgia Man]]></title>
+            <link>https://music.bugs.co.kr/album/20598587?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598587?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80197107?wl_ref=list_ab_04" class="artistTitle" title="그렉(Greg)" onclick="
+" target="_self">그렉(Greg)</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205985/20598587.jpg?version=1697619621000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIFE]]></title>
+            <link>https://music.bugs.co.kr/album/20598585?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598585?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80020474?wl_ref=list_ab_04" class="artistTitle" title="간종욱" onclick="
+" target="_self">간종욱</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205985/20598585.jpg?version=1697598081000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선물 같은 풍경]]></title>
+            <link>https://music.bugs.co.kr/album/20598580?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598580?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20009478?wl_ref=list_ab_04" class="artistTitle" title="달빛바다" onclick="
+" target="_self">달빛바다</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205985/20598580.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cozy Coffee]]></title>
+            <link>https://music.bugs.co.kr/album/20598576?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598576?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20057010?wl_ref=list_ab_04" class="artistTitle" title="Leiko Blue" onclick="
+" target="_self">Leiko Blue</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205985/20598576.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팥쥐아재가 들려주는 동화이야기 - 빗방울]]></title>
+            <link>https://music.bugs.co.kr/album/20598571?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598571?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 11:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20193673?wl_ref=list_ab_04" class="artistTitle" title="팥쥐아재" onclick="
+" target="_self">팥쥐아재</a>
+</p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205985/20598571.jpg?version=1697598008000" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
