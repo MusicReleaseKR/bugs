@@ -4,9 +4,54 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 14:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 15:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Petals]]></title>
+            <link>https://music.bugs.co.kr/album/33155173?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33155173?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 15:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10448798?wl_ref=list_ab_04" class="artistTitle" title="Gretchin" onclick="
+" target="_self">Gretchin</a>
+</p>
+<p>
+<time datetime="">2023.10.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331551/33155173.jpg?version=20231019000026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hyper (feat. CraFek)]]></title>
+            <link>https://music.bugs.co.kr/album/19114364?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19114364?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 15:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12800153?wl_ref=list_ab_04" class="artistTitle" title="DmoniX" onclick="
+" target="_self">DmoniX</a>
+</p>
+<p>
+<time datetime="">2023.10.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/191143/19114364.jpg?version=20231019000026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nerve]]></title>
+            <link>https://music.bugs.co.kr/album/19105191?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19105191?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Oct 2023 15:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12817641?wl_ref=list_ab_04" class="artistTitle" title="Logius" onclick="
+" target="_self">Logius</a>
+</p>
+<p>
+<time datetime="">2023.10.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/191051/19105191.jpg?version=20231019000026.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Norteño Vibe]]></title>
             <link>https://music.bugs.co.kr/album/33199782?wl_ref=list_ab_03</link>
@@ -1039,54 +1084,6 @@ Muzică Spațială Pentru Somn
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310827/31082770.jpg?version=20231018120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suoni ambient per dormire]]></title>
-            <link>https://music.bugs.co.kr/album/31082747?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31082747?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 18 Oct 2023 04:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11689585?wl_ref=list_ab_04" class="artistTitle" title="Ambiente Spazio Musica">Ambiente Spazio Musica</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ambiente Spazio Musica||Ambiente Spazio Musica||11689585||OK\\nAmbiente Spazio Musica Per Dormire||Ambiente Spazio Musica Per Dormire||11689586||OK', ''); return false;">
-Ambiente Spazio Musica
-</a> </p>
-<p>
-<time datetime="">2023.10.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310827/31082747.jpg?version=20231018120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suara Pengantar Tidur Ambien]]></title>
-            <link>https://music.bugs.co.kr/album/31082724?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31082724?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 18 Oct 2023 04:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11689776?wl_ref=list_ab_04" class="artistTitle" title="Tidur Santai Meditasi" onclick="
-" target="_self">Tidur Santai Meditasi</a>
-</p>
-<p>
-<time datetime="">2023.10.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310827/31082724.jpg?version=20231018120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ambient hangok alváshoz]]></title>
-            <link>https://music.bugs.co.kr/album/31082701?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31082701?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 18 Oct 2023 04:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13153338?wl_ref=list_ab_04" class="artistTitle" title="Űrzene alváshoz" onclick="
-" target="_self">Űrzene alváshoz</a>
-</p>
-<p>
-<time datetime="">2023.10.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310827/31082701.jpg?version=20231018120008.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
