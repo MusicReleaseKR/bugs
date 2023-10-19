@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 23:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 01:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -709,7 +709,7 @@ Yungblud
 <time datetime="">2023.10.17</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331882/33188233.jpg?version=20231019010802.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331882/33188233.jpg?version=20231019082506.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Crush (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1869,21 +1869,6 @@ Ancient Order of the Droids
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331338/33133836.jpg?version=20231019063523.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PLAGAS (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33132731?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33132731?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 18 Oct 2023 04:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10780154?wl_ref=list_ab_04" class="artistTitle" title="Kamada" onclick="
-" target="_self">Kamada</a>
-</p>
-<p>
-<time datetime="">2023.10.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331327/33132731.jpg?version=20231019064252.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MADE IN THE 6 LP (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33120312?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33120312?wl_ref=list_ab_03</guid>
@@ -2151,6 +2136,24 @@ Muzică Spațială Pentru Somn
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310827/31082770.jpg?version=20231019065114.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Suoni ambient per dormire (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/31082747?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31082747?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 19 Oct 2023 01:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11689585?wl_ref=list_ab_04" class="artistTitle" title="Ambiente Spazio Musica">Ambiente Spazio Musica</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ambiente Spazio Musica||Ambiente Spazio Musica||11689585||OK\\nAmbiente Spazio Musica Per Dormire||Ambiente Spazio Musica Per Dormire||11689586||OK', ''); return false;">
+Ambiente Spazio Musica
+</a> </p>
+<p>
+<time datetime="">2023.10.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310827/31082747.jpg?version=20231019065138.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BGM Jazz Library_311 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
