@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 10:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 11:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,24 +21,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331999/33199937.jpg?version=20231021000023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mozart: Le nozze di Figaro, K. 492]]></title>
-            <link>https://music.bugs.co.kr/album/33196138?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33196138?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 20 Oct 2023 15:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80017069?wl_ref=list_ab_04" class="artistTitle" title="Geraint Evans(에반스)">Geraint Evans(에반스)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Geraint Evans||Geraint Evans(에반스)||80017069||OK\\nReri Grist||Reri Grist(레리 그라이스트)||63125||OK\\nTeresa Berganza||Teresa Berganza(테레사 베르간자)||41001||OK\\nNew Philharmonia Orchestra||New Philharmonia Orchestra(뉴 필하모니아 오케스트라)||36307||OK\\nOtto Klemperer||Otto Klemperer(오토 클렘퍼러)||80016757||OK', ''); return false;">
-Geraint Evans(에반스)
-</a> </p>
-<p>
-<time datetime="">2023.10.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331961/33196138.jpg?version=20231021002923.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Just Vibes]]></title>
@@ -1095,6 +1077,21 @@ Dev Wrld
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/332006/33200640.jpg?version=20231021003205.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Halskæde]]></title>
+            <link>https://music.bugs.co.kr/album/33200639?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33200639?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 21 Oct 2023 11:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11605085?wl_ref=list_ab_04" class="artistTitle" title="Guldimund" onclick="
+" target="_self">Guldimund</a>
+</p>
+<p>
+<time datetime="">2023.10.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/332006/33200639.jpg?version=20231021003204.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
