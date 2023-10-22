@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 09:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 10:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,54 @@ Anxiety Relief Architect
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312262/31226208.jpg?version=20231022120025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시음화다]]></title>
+            <link>https://music.bugs.co.kr/album/20599582?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20599582?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 22 Oct 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80323406?wl_ref=list_ab_04" class="artistTitle" title="시네(Shi Ne)" onclick="
+" target="_self">시네(Shi Ne)</a>
+</p>
+<p>
+<time datetime="">2023.10.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205995/20599582.jpg?version=20231022180031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Moth]]></title>
+            <link>https://music.bugs.co.kr/album/20598780?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20598780?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 22 Oct 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20197074?wl_ref=list_ab_04" class="artistTitle" title="Complex Twinz">Complex Twinz</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Complex Twinz||Complex Twinz||20197074||OK\\nTriddd||Triddd||20197076||OK\\nJoo||Joo||20197077||OK', ''); return false;">
+Complex Twinz
+</a> </p>
+<p>
+<time datetime="">2023.10.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205987/20598780.jpg?version=20231022180031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rendez-vous in Paris (With Nicola Sergio)]]></title>
+            <link>https://music.bugs.co.kr/album/4092249?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092249?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 22 Oct 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/3304?wl_ref=list_ab_04" class="artistTitle" title="신연아" onclick="
+" target="_self">신연아</a>
+</p>
+<p>
+<time datetime="">2023.10.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40922/4092249.jpg?version=20231022180027.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한선 찬송가]]></title>
@@ -420,6 +468,24 @@ HumanIDub
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205989/20598961.jpg?version=20231022120025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JOE MAMA]]></title>
+            <link>https://music.bugs.co.kr/album/33205248?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33205248?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 22 Oct 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12967149?wl_ref=list_ab_04" class="artistTitle" title="Nil$$en">Nil$$en</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Nil$$en||Nil$$en||12967149||OK\\nLisse I$$E||Lisse I$$E||12749125||OK', ''); return false;">
+Nil$$en
+</a> </p>
+<p>
+<time datetime="">2023.10.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/332052/33205248.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mil Hi Gaye Hum Tum]]></title>
@@ -1025,66 +1091,6 @@ FRXDDY WXIRD
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331924/33192452.jpg?version=20231022120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Laces]]></title>
-            <link>https://music.bugs.co.kr/album/33186720?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33186720?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 22 Oct 2023 04:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12867611?wl_ref=list_ab_04" class="artistTitle" title="THIS IS WAR!" onclick="
-" target="_self">THIS IS WAR!</a>
-</p>
-<p>
-<time datetime="">2023.10.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331867/33186720.jpg?version=20231022120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bróta e Convoca]]></title>
-            <link>https://music.bugs.co.kr/album/33185670?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33185670?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 22 Oct 2023 04:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13057034?wl_ref=list_ab_04" class="artistTitle" title="Mc Nego Chu" onclick="
-" target="_self">Mc Nego Chu</a>
-</p>
-<p>
-<time datetime="">2023.10.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331856/33185670.jpg?version=20231022120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Copy 17]]></title>
-            <link>https://music.bugs.co.kr/album/33185071?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33185071?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 22 Oct 2023 04:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13445355?wl_ref=list_ab_04" class="artistTitle" title="UNDERKAME" onclick="
-" target="_self">UNDERKAME</a>
-</p>
-<p>
-<time datetime="">2023.10.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331850/33185071.jpg?version=20231022120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You Are Here]]></title>
-            <link>https://music.bugs.co.kr/album/33184907?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33184907?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 22 Oct 2023 04:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80001372?wl_ref=list_ab_04" class="artistTitle" title="Satoshi Tomiie(사토시 토미에)" onclick="
-" target="_self">Satoshi Tomiie(사토시 토미에)</a>
-</p>
-<p>
-<time datetime="">2023.10.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331849/33184907.jpg?version=20231022120025.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
