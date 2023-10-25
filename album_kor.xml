@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 14:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 15:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단기 알바]]></title>
+            <link>https://music.bugs.co.kr/album/4091979?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4091979?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 25 Oct 2023 15:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80114466?wl_ref=list_ab_04" class="artistTitle" title="기리보이" onclick="
+" target="_self">기리보이</a>
+</p>
+<p>
+<time datetime="">2023.10.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40919/4091979.jpg?version=1697405839000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Want to come with me? Day 12]]></title>
             <link>https://music.bugs.co.kr/album/20600361?wl_ref=list_ab_03</link>
@@ -1047,21 +1062,6 @@ daivepoem
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206001/20600154.jpg?version=1698202834000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기분 좋은 오후]]></title>
-            <link>https://music.bugs.co.kr/album/20600150?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20600150?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 25 Oct 2023 04:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20197553?wl_ref=list_ab_04" class="artistTitle" title="지연" onclick="
-" target="_self">지연</a>
-</p>
-<p>
-<time datetime="">2023.10.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206001/20600150.jpg?version=1698202834000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
