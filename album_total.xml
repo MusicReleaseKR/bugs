@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 15:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 16:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,7 +23,7 @@ Geraint Evans(에반스)
 <time datetime="">2023.10.26</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331961/33196138.jpg?version=20231026000028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331961/33196138.jpg?version=20231026004108.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[French Melodies]]></title>
@@ -38,7 +38,7 @@ Geraint Evans(에반스)
 <time datetime="">2023.10.26</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331960/33196044.jpg?version=20231026000028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331960/33196044.jpg?version=20231026005055.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단기 알바]]></title>
@@ -54,21 +54,6 @@ Geraint Evans(에반스)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40919/4091979.jpg?version=20231016063719.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Margiela]]></title>
-            <link>https://music.bugs.co.kr/album/33196697?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33196697?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 25 Oct 2023 15:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10935766?wl_ref=list_ab_04" class="artistTitle" title="Ezhel" onclick="
-" target="_self">Ezhel</a>
-</p>
-<p>
-<time datetime="">2023.10.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331966/33196697.jpg?version=20231025104931.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Das geht so!]]></title>
@@ -491,7 +476,7 @@ Jaycop
 <time datetime="">2023.10.25</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331960/33196013.jpg?version=20231025014436.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331960/33196013.jpg?version=20231026004400.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[COALAMODE.3 Blue Moment]]></title>
@@ -1083,6 +1068,24 @@ Månlåtar
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/308869/30886909.jpg?version=20231025120034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fridfull musik]]></title>
+            <link>https://music.bugs.co.kr/album/30886904?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30886904?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 25 Oct 2023 16:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13091760?wl_ref=list_ab_04" class="artistTitle" title="Månlåtar">Månlåtar</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Månlåtar||Månlåtar||13091760||OK\\nFokus och meditation||Fokus och meditation||13099279||OK', ''); return false;">
+Månlåtar
+</a> </p>
+<p>
+<time datetime="">2023.10.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/308869/30886904.jpg?version=20231025120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
