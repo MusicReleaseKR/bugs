@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 09:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 10:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1031,6 +1031,21 @@ Ingibjargir
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206006/20600665.jpg?version=20231026120030.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인생은 한번이야]]></title>
+            <link>https://music.bugs.co.kr/album/20600631?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20600631?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 26 Oct 2023 10:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20040756?wl_ref=list_ab_04" class="artistTitle" title="릴러말즈 (Leellamarz)" onclick="
+" target="_self">릴러말즈 (Leellamarz)</a>
+</p>
+<p>
+<time datetime="">2023.10.26</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206006/20600631.jpg?version=20231026180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Cafe Jazz #72]]></title>
             <link>https://music.bugs.co.kr/album/20600566?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20600566?wl_ref=list_ab_03</guid>
@@ -1059,21 +1074,6 @@ Ingibjargir
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206005/20600565.jpg?version=20231026120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ace of Bass]]></title>
-            <link>https://music.bugs.co.kr/album/20600163?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20600163?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 Oct 2023 04:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8287352?wl_ref=list_ab_04" class="artistTitle" title="Aladar Pege Quartet" onclick="
-" target="_self">Aladar Pege Quartet</a>
-</p>
-<p>
-<time datetime="">2023.10.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206001/20600163.jpg?version=20231026120030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
