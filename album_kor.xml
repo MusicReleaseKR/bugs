@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 02:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 03:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40919/4091979.jpg?version=1697405839000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[좋은날]]></title>
+            <link>https://music.bugs.co.kr/album/20310214?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20310214?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 26 Oct 2023 03:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20103380?wl_ref=list_ab_04" class="artistTitle" title="박우배" onclick="
+" target="_self">박우배</a>
+</p>
+<p>
+<time datetime="">2023.10.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/203102/20310214.jpg?version=1698289230000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Want to come with me? Day 12]]></title>
@@ -1047,21 +1062,6 @@ daivepoem
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206001/20600174.jpg?version=1698249759000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tic Tac]]></title>
-            <link>https://music.bugs.co.kr/album/20600154?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20600154?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 25 Oct 2023 04:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20188256?wl_ref=list_ab_04" class="artistTitle" title="m:nute (미닛트)" onclick="
-" target="_self">m:nute (미닛트)</a>
-</p>
-<p>
-<time datetime="">2023.10.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206001/20600154.jpg?version=1698248351000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
