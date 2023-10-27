@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 02:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 03:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331653/33165341.jpg?version=20231027000023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marchons sur mars]]></title>
+            <link>https://music.bugs.co.kr/album/20586457?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20586457?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 Oct 2023 03:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11263215?wl_ref=list_ab_04" class="artistTitle" title="Gérald Genty" onclick="
+" target="_self">Gérald Genty</a>
+</p>
+<p>
+<time datetime="">2023.10.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205864/20586457.jpg?version=20231027120009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Great, Unwashed]]></title>
@@ -131,6 +146,57 @@ Rezz
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331548/33154802.jpg?version=20231027000023.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[You Need Therapy (Ready)]]></title>
+            <link>https://music.bugs.co.kr/album/33127391?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33127391?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 Oct 2023 03:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11639641?wl_ref=list_ab_04" class="artistTitle" title="Mila Smith" onclick="
+" target="_self">Mila Smith</a>
+</p>
+<p>
+<time datetime="">2023.10.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331273/33127391.jpg?version=20231027120009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seu Olhar]]></title>
+            <link>https://music.bugs.co.kr/album/32878278?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32878278?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 Oct 2023 03:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13056690?wl_ref=list_ab_04" class="artistTitle" title="Wilker">Wilker</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Wilker||Wilker||13056690||OK\\nBlackbe||Blackbe||13401300||OK\\nConego||Conego||13455525||OK', ''); return false;">
+Wilker
+</a> </p>
+<p>
+<time datetime="">2023.10.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/328782/32878278.jpg?version=20231027120009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pause]]></title>
+            <link>https://music.bugs.co.kr/album/32868423?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32868423?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 Oct 2023 03:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13275889?wl_ref=list_ab_04" class="artistTitle" title="Gess Gerald">Gess Gerald</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Gess Gerald||Gess Gerald||13275889||OK\\nStefaldo||Stefaldo||80339921||OK\\nEgio||Egio||13399981||OK', ''); return false;">
+Gess Gerald
+</a> </p>
+<p>
+<time datetime="">2023.10.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/328684/32868423.jpg?version=20231027120009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Soldier Within]]></title>
             <link>https://music.bugs.co.kr/album/31222661?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31222661?wl_ref=list_ab_03</guid>
@@ -144,6 +210,21 @@ Rezz
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/312226/31222661.jpg?version=20231027000023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Be With You]]></title>
+            <link>https://music.bugs.co.kr/album/19854000?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19854000?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 27 Oct 2023 03:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12689273?wl_ref=list_ab_04" class="artistTitle" title="Claps Music" onclick="
+" target="_self">Claps Music</a>
+</p>
+<p>
+<time datetime="">2023.10.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/198540/19854000.jpg?version=20231027111004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Garota Dourada]]></title>
@@ -999,81 +1080,6 @@ Ingibjargir
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331209/33120930.jpg?version=20231027071026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOU LET A GOOD THING GO]]></title>
-            <link>https://music.bugs.co.kr/album/33120409?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33120409?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 Oct 2023 04:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11925048?wl_ref=list_ab_04" class="artistTitle" title="Sahra da Silva" onclick="
-" target="_self">Sahra da Silva</a>
-</p>
-<p>
-<time datetime="">2023.10.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331204/33120409.jpg?version=20231027063725.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Talende strenger / Kertovat Kielet]]></title>
-            <link>https://music.bugs.co.kr/album/33120097?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33120097?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 Oct 2023 04:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13432619?wl_ref=list_ab_04" class="artistTitle" title="Knudsen &amp; Syrjälä" onclick="
-" target="_self">Knudsen &amp; Syrjälä</a>
-</p>
-<p>
-<time datetime="">2023.10.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331200/33120097.jpg?version=20231027063715.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAIEN]]></title>
-            <link>https://music.bugs.co.kr/album/33118627?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33118627?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 Oct 2023 04:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80315065?wl_ref=list_ab_04" class="artistTitle" title="Kaien Cruz" onclick="
-" target="_self">Kaien Cruz</a>
-</p>
-<p>
-<time datetime="">2023.10.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331186/33118627.jpg?version=20231027063247.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Espelho Trincado]]></title>
-            <link>https://music.bugs.co.kr/album/32868235?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32868235?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 Oct 2023 04:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13399805?wl_ref=list_ab_04" class="artistTitle" title="Animal Trees" onclick="
-" target="_self">Animal Trees</a>
-</p>
-<p>
-<time datetime="">2023.10.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/328682/32868235.jpg?version=20231027064159.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Ephemeral Armour]]></title>
-            <link>https://music.bugs.co.kr/album/32861609?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/32861609?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 Oct 2023 04:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13389700?wl_ref=list_ab_04" class="artistTitle" title="Thierry Arnal" onclick="
-" target="_self">Thierry Arnal</a>
-</p>
-<p>
-<time datetime="">2023.10.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/328616/32861609.jpg?version=20231027063420.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
