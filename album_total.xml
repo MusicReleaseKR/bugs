@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 09:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 10:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -778,6 +778,39 @@ Nicolai Ghiaurov(니콜라이 갸로프)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206007/20600753.jpg?version=20231028120021.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Don't sleep, There Are Snakes]]></title>
+            <link>https://music.bugs.co.kr/album/20600577?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20600577?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 28 Oct 2023 10:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20197716?wl_ref=list_ab_04" class="artistTitle" title="soyo" onclick="
+" target="_self">soyo</a>
+</p>
+<p>
+<time datetime="">2023.10.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206005/20600577.jpg?version=20231028180032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dblock Complete Album [VOL.2]]]></title>
+            <link>https://music.bugs.co.kr/album/20600360?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20600360?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 28 Oct 2023 10:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20167290?wl_ref=list_ab_04" class="artistTitle" title="DB hazard">DB hazard</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'DB hazard||DB hazard||20167290||OK\\ndb김재권||db김재권||20174873||OK', ''); return false;">
+DB hazard
+</a> </p>
+<p>
+<time datetime="">2023.10.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206003/20600360.jpg?version=20231028180032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Permanent Blue]]></title>
             <link>https://music.bugs.co.kr/album/20600317?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20600317?wl_ref=list_ab_03</guid>
@@ -1034,36 +1067,6 @@ Girilal Baars
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206013/20601334.jpg?version=20231028120026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물의 굴절]]></title>
-            <link>https://music.bugs.co.kr/album/20600920?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20600920?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 28 Oct 2023 04:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20153287?wl_ref=list_ab_04" class="artistTitle" title="물 (Mool)" onclick="
-" target="_self">물 (Mool)</a>
-</p>
-<p>
-<time datetime="">2023.10.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206009/20600920.jpg?version=20231028120002.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scene]]></title>
-            <link>https://music.bugs.co.kr/album/20600847?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20600847?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 28 Oct 2023 04:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20048277?wl_ref=list_ab_04" class="artistTitle" title="김하은" onclick="
-" target="_self">김하은</a>
-</p>
-<p>
-<time datetime="">2023.10.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206008/20600847.jpg?version=20231028120026.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
