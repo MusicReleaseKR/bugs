@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 08:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 09:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,39 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/332314/33231467.jpg?version=20231030120035.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Italian Opera Arias]]></title>
+            <link>https://music.bugs.co.kr/album/33228330?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33228330?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 30 Oct 2023 09:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/36514?wl_ref=list_ab_04" class="artistTitle" title="Victoria De Los Angeles(로스 앙헬레스)" onclick="
+" target="_self">Victoria De Los Angeles(로스 앙헬레스)</a>
+</p>
+<p>
+<time datetime="">2023.10.30</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/332283/33228330.jpg?version=20231030002302.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mozart: Don Giovanni, K. 527]]></title>
+            <link>https://music.bugs.co.kr/album/33228260?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33228260?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 30 Oct 2023 09:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/2733?wl_ref=list_ab_04" class="artistTitle" title="Nicolai Ghiaurov(니콜라이 갸로프)">Nicolai Ghiaurov(니콜라이 갸로프)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Nicolai Ghiaurov||Nicolai Ghiaurov(니콜라이 갸로프)||2733||OK\\nChrista Ludwig||Christa Ludwig(크리스타 루드비히)||2731||OK\\nMirella Freni||Mirella Freni(미렐라 프레니)||37292||OK\\nNicolai Gedda||Nicolai Gedda(게다)||2732||OK\\nNew Philharmonia Orchestra||New Philharmonia Orchestra(뉴 필하모니아 오케스트라)||36307||OK\\nOtto Klemperer||Otto Klemperer(오토 클렘퍼러)||80016757||OK', ''); return false;">
+Nicolai Ghiaurov(니콜라이 갸로프)
+</a> </p>
+<p>
+<time datetime="">2023.10.30</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/332282/33228260.jpg?version=20231030002734.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sir Neville Marriner Conducts Handel]]></title>
             <link>https://music.bugs.co.kr/album/33228129?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33228129?wl_ref=list_ab_03</guid>
@@ -171,6 +204,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/332281/33228129.jpg?version=20231030002504.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antonio Pappano & Friends]]></title>
+            <link>https://music.bugs.co.kr/album/33228086?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33228086?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 30 Oct 2023 09:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80022617?wl_ref=list_ab_04" class="artistTitle" title="Antonio Pappano(안토니오 파파노)" onclick="
+" target="_self">Antonio Pappano(안토니오 파파노)</a>
+</p>
+<p>
+<time datetime="">2023.10.30</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/332280/33228086.jpg?version=20231030002800.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I Think I Broke Something]]></title>
@@ -1028,51 +1076,6 @@ Death Has Spoken
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331949/33194984.jpg?version=20231030120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Linenn's Laptop]]></title>
-            <link>https://music.bugs.co.kr/album/33194541?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33194541?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 30 Oct 2023 04:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13454942?wl_ref=list_ab_04" class="artistTitle" title="Linenn" onclick="
-" target="_self">Linenn</a>
-</p>
-<p>
-<time datetime="">2023.10.30</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331945/33194541.jpg?version=20231030120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALL I FELT]]></title>
-            <link>https://music.bugs.co.kr/album/33185550?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33185550?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 30 Oct 2023 04:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12849010?wl_ref=list_ab_04" class="artistTitle" title="TAR1Q" onclick="
-" target="_self">TAR1Q</a>
-</p>
-<p>
-<time datetime="">2023.10.30</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331855/33185550.jpg?version=20231030120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Power Pack Vol.2]]></title>
-            <link>https://music.bugs.co.kr/album/33184129?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33184129?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 30 Oct 2023 07:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8160406?wl_ref=list_ab_04" class="artistTitle" title="Metha" onclick="
-" target="_self">Metha</a>
-</p>
-<p>
-<time datetime="">2023.10.30</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331841/33184129.jpg?version=20231030120035.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
