@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 07:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 08:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,21 +297,6 @@ Rovv
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205993/20599340.jpg?version=20231031120027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음성사서함]]></title>
-            <link>https://music.bugs.co.kr/album/20600719?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20600719?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 31 Oct 2023 03:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20157834?wl_ref=list_ab_04" class="artistTitle" title="ilipp (아일립)" onclick="
-" target="_self">ilipp (아일립)</a>
-</p>
-<p>
-<time datetime="">2023.10.31</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206007/20600719.jpg?version=20231031120027.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빼빼로송]]></title>
@@ -1074,6 +1059,21 @@ NOAH
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205974/20597475.jpg?version=20231030180025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애인]]></title>
+            <link>https://music.bugs.co.kr/album/4092459?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092459?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 31 Oct 2023 08:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80347913?wl_ref=list_ab_04" class="artistTitle" title="Doremi Factory (도레미 팩토리)" onclick="
+" target="_self">Doremi Factory (도레미 팩토리)</a>
+</p>
+<p>
+<time datetime="">2023.10.30</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40924/4092459.jpg?version=20231030120028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
