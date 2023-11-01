@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 02:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 03:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양포항]]></title>
+            <link>https://music.bugs.co.kr/album/20302829?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20302829?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 01 Nov 2023 03:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80346004?wl_ref=list_ab_04" class="artistTitle" title="왕현" onclick="
+" target="_self">왕현</a>
+</p>
+<p>
+<time datetime="">2023.11.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/203028/20302829.jpg?version=1698807629000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사나이 박봉팔]]></title>
+            <link>https://music.bugs.co.kr/album/20271682?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20271682?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 01 Nov 2023 03:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20089399?wl_ref=list_ab_04" class="artistTitle" title="길동현" onclick="
+" target="_self">길동현</a>
+</p>
+<p>
+<time datetime="">2023.11.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/202716/20271682.jpg?version=1698807629000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가객(歌客) 예찬건(芮讚乾)의 '백옥생(白玉生) 7영(詠)_백옥부자(白玉富者) 김선생(金先生)']]></title>
             <link>https://music.bugs.co.kr/album/20601733?wl_ref=list_ab_03</link>
@@ -644,7 +674,7 @@ Naughty Mae
 <time datetime="">2023.10.31</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40925/4092568.jpg?version=1698788939000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40925/4092568.jpg?version=1698807705000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[B Like U (prod. Wondrah)]]></title>
@@ -1041,36 +1071,6 @@ Naughty Mae
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206015/20601557.jpg?version=1698767383000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살아도]]></title>
-            <link>https://music.bugs.co.kr/album/20601552?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20601552?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 31 Oct 2023 04:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20198007?wl_ref=list_ab_04" class="artistTitle" title="오세비" onclick="
-" target="_self">오세비</a>
-</p>
-<p>
-<time datetime="">2023.10.31</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206015/20601552.jpg?version=1698766538000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤슬]]></title>
-            <link>https://music.bugs.co.kr/album/20601543?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20601543?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 31 Oct 2023 10:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20198004?wl_ref=list_ab_04" class="artistTitle" title="ARTBUS (신명섭,심규민)" onclick="
-" target="_self">ARTBUS (신명섭,심규민)</a>
-</p>
-<p>
-<time datetime="">2023.10.31</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206015/20601543.jpg?version=1698742833000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
