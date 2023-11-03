@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 14:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 15:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1071,6 +1071,21 @@ Felix Jaehn(펠릭스 옌)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40925/4092586.jpg?version=20231102030430.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그 말이면 됐어 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/4081809?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4081809?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 03 Nov 2023 15:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80271712?wl_ref=list_ab_04" class="artistTitle" title="임소정" onclick="
+" target="_self">임소정</a>
+</p>
+<p>
+<time datetime="">2023.02.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40818/4081809.jpg?version=20230219004907.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Memory (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33364945?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33364945?wl_ref=list_ab_03</guid>
@@ -2118,19 +2133,19 @@ Daniel Darc
             <enclosure url="https://image.bugsm.co.kr/album/images/170/333567/33356747.jpg?version=20231103123324.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Cult Classics (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33356746?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33356746?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 03 Nov 2023 04:20:11 GMT</pubDate>
+            <title><![CDATA[그 말이면 됐어 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4081809?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4081809?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 03 Nov 2023 15:17:24 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12136550?wl_ref=list_ab_04" class="artistTitle" title="Joy Anonymous" onclick="
-" target="_self">Joy Anonymous</a>
+<a href="https://music.bugs.co.kr/artist/80271712?wl_ref=list_ab_04" class="artistTitle" title="임소정" onclick="
+" target="_self">임소정</a>
 </p>
 <p>
-<time datetime="">2023.11.03</time>
-<span class="albumType">정규</span>
+<time datetime="">2023.02.18</time>
+<span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333567/33356746.jpg?version=20231103104026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40818/4081809.jpg?version=1676735347000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Let's go! Rescue Team! (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3169,21 +3184,6 @@ Daniel Darc
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206024/20602437.jpg?version=1698980426000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cardiac Arrest (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20602433?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20602433?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 03 Nov 2023 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20128049?wl_ref=list_ab_04" class="artistTitle" title="Vital Degree" onclick="
-" target="_self">Vital Degree</a>
-</p>
-<p>
-<time datetime="">2023.11.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206024/20602433.jpg?version=1699002028000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
