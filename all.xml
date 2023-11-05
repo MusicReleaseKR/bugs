@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 15:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 16:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
 <time datetime="">2023.11.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40927/4092734.jpg?version=20231105180007.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40927/4092734.jpg?version=20231106004002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[별사이 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -80,7 +80,7 @@
 <time datetime="">2023.11.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206027/20602745.jpg?version=20231105180004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206027/20602745.jpg?version=20231106003026.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SLOW (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1062,6 +1062,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40926/4092698.jpg?version=20231104073123.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bach: St Matthew Passion, BWV 244 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/33356218?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33356218?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 Nov 2023 15:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80016757?wl_ref=list_ab_04" class="artistTitle" title="Otto Klemperer(오토 클렘퍼러)" onclick="
+" target="_self">Otto Klemperer(오토 클렘퍼러)</a>
+</p>
+<p>
+<time datetime="">2023.11.06</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/333562/33356218.jpg?version=20231106002641.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pachelbel: Canon - Albinoni: Adagio - Bach: Air on G String - Mozart: Eine kleine Nachtmusik - Fauré: Pavane - Handel: Hallelujah from the Messiah & Other Classical Hits (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33355946?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33355946?wl_ref=list_ab_03</guid>
@@ -1074,7 +1089,7 @@
 <time datetime="">2023.11.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333559/33355946.jpg?version=20231106000031.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/333559/33355946.jpg?version=20231106004211.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Love (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1095,19 +1110,22 @@ Albert Lepcha
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331439/33143994.jpg?version=20231106000031.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bach: St Matthew Passion, BWV 244 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33356218?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33356218?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 04 Nov 2023 15:15:01 GMT</pubDate>
+            <title><![CDATA[Victoria de los Ángeles in Concert (Live, Royal Festival Hall, 1964) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/33355854?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33355854?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 05 Nov 2023 16:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80016757?wl_ref=list_ab_04" class="artistTitle" title="Otto Klemperer(오토 클렘퍼러)" onclick="
-" target="_self">Otto Klemperer(오토 클렘퍼러)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/2728?wl_ref=list_ab_04" class="artistTitle" title="Gerald Moore(제럴드 무어)">Gerald Moore(제럴드 무어)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Gerald Moore||Gerald Moore(제럴드 무어)||2728||OK\\nLos Angeles||Victoria De Los Angeles(로스 앙헬레스)||36514||OK', ''); return false;">
+Gerald Moore(제럴드 무어)
+</a> </p>
 <p>
 <time datetime="">2023.11.06</time>
-<span class="albumType">정규</span>
+<span class="albumType">라이브</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333562/33356218.jpg?version=20231106001010.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/333558/33355854.jpg?version=20231106004944.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Unique & ordinaire (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2133,21 +2151,6 @@ Mc Myres
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331883/33188392.jpg?version=20231105000023.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Warm (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33163175?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33163175?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 05 Nov 2023 04:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80273384?wl_ref=list_ab_04" class="artistTitle" title="Matt Citron" onclick="
-" target="_self">Matt Citron</a>
-</p>
-<p>
-<time datetime="">2023.11.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331631/33163175.jpg?version=20231105000023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Campo (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20602659?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20602659?wl_ref=list_ab_03</guid>
@@ -2280,7 +2283,7 @@ Mc Myres
 <time datetime="">2023.11.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206027/20602745.jpg?version=1699174804000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206027/20602745.jpg?version=1699198226000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보통의 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2811,7 +2814,7 @@ Yeodi
 <time datetime="">2023.11.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40927/4092734.jpg?version=1699174807000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40927/4092734.jpg?version=1699198802000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[술 한잔 해요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
