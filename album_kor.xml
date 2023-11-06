@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 14:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 15:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해뜬다]]></title>
+            <link>https://music.bugs.co.kr/album/4084055?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4084055?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 06 Nov 2023 15:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80167636?wl_ref=list_ab_04" class="artistTitle" title="한올" onclick="
+" target="_self">한올</a>
+</p>
+<p>
+<time datetime="">2023.08.31</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40840/4084055.jpg?version=1693495957000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CLASSIC #A person who dies due to a vain dream]]></title>
             <link>https://music.bugs.co.kr/album/20603024?wl_ref=list_ab_03</link>
@@ -1044,21 +1059,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206026/20602624.jpg?version=1699239614000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깔아진다 깔아져]]></title>
-            <link>https://music.bugs.co.kr/album/20602622?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20602622?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 06 Nov 2023 04:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20198359?wl_ref=list_ab_04" class="artistTitle" title="최말자" onclick="
-" target="_self">최말자</a>
-</p>
-<p>
-<time datetime="">2023.11.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206026/20602622.jpg?version=1699239634000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
