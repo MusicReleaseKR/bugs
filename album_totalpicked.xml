@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 14:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 15:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -653,6 +653,24 @@ Kenzi
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331954/33195401.jpg?version=20231104064726.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fear Of Flying (feat. Aminé & beabadoobee)]]></title>
+            <link>https://music.bugs.co.kr/album/33165151?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33165151?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 07 Nov 2023 15:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80335687?wl_ref=list_ab_04" class="artistTitle" title="Mac Wetha">Mac Wetha</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Mac Wetha||Mac Wetha||80335687||OK\\nAminé||Aminé(아미네)||80267232||OK\\nbeabadoobee||beabadoobee||80323655||OK', ''); return false;">
+Mac Wetha
+</a> </p>
+<p>
+<time datetime="">2023.11.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331651/33165151.jpg?version=20231107031005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Still Your Girl]]></title>
             <link>https://music.bugs.co.kr/album/33153833?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33153833?wl_ref=list_ab_03</guid>
@@ -1068,21 +1086,6 @@ HAAN
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206023/20602305.jpg?version=20231107014436.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나쁜여자]]></title>
-            <link>https://music.bugs.co.kr/album/4092764?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4092764?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 06 Nov 2023 03:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20080121?wl_ref=list_ab_04" class="artistTitle" title="김나희" onclick="
-" target="_self">김나희</a>
-</p>
-<p>
-<time datetime="">2023.11.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40927/4092764.jpg?version=20231107071525.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

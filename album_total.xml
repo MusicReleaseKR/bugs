@@ -4,9 +4,72 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 14:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 15:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bach: St Matthew Passion, BWV 244]]></title>
+            <link>https://music.bugs.co.kr/album/33356218?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33356218?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 07 Nov 2023 15:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80016757?wl_ref=list_ab_04" class="artistTitle" title="Otto Klemperer(오토 클렘퍼러)" onclick="
+" target="_self">Otto Klemperer(오토 클렘퍼러)</a>
+</p>
+<p>
+<time datetime="">2023.11.08</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/333562/33356218.jpg?version=20231108000023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pachelbel: Canon - Albinoni: Adagio - Bach: Air on G String - Mozart: Eine kleine Nachtmusik - Fauré: Pavane - Handel: Hallelujah from the Messiah & Other Classical Hits]]></title>
+            <link>https://music.bugs.co.kr/album/33355946?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33355946?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 07 Nov 2023 15:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/35619?wl_ref=list_ab_04" class="artistTitle" title="Neville Marriner(네빌 매리너)" onclick="
+" target="_self">Neville Marriner(네빌 매리너)</a>
+</p>
+<p>
+<time datetime="">2023.11.08</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/333559/33355946.jpg?version=20231108000023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MILLONARIO]]></title>
+            <link>https://music.bugs.co.kr/album/33187517?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33187517?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 07 Nov 2023 15:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8365221?wl_ref=list_ab_04" class="artistTitle" title="Melfi" onclick="
+" target="_self">Melfi</a>
+</p>
+<p>
+<time datetime="">2023.11.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331875/33187517.jpg?version=20231108000023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Victoria de los Ángeles in Concert (Live, Royal Festival Hall, 1964)]]></title>
+            <link>https://music.bugs.co.kr/album/33355854?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33355854?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 07 Nov 2023 15:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/2728?wl_ref=list_ab_04" class="artistTitle" title="Gerald Moore(제럴드 무어)">Gerald Moore(제럴드 무어)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Gerald Moore||Gerald Moore(제럴드 무어)||2728||OK\\nLos Angeles||Victoria De Los Angeles(로스 앙헬레스)||36514||OK', ''); return false;">
+Gerald Moore(제럴드 무어)
+</a> </p>
+<p>
+<time datetime="">2023.11.08</time>
+<span class="albumType">라이브</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/333558/33355854.jpg?version=20231108000023.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mis Canciones]]></title>
             <link>https://music.bugs.co.kr/album/33370450?wl_ref=list_ab_03</link>
@@ -245,7 +308,7 @@
 <time datetime="">2023.11.07</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333662/33366251.jpg?version=20231107225002.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/333662/33366251.jpg?version=20231108000502.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Subset]]></title>
@@ -1013,66 +1076,6 @@ Circle of Notes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206017/20601714.jpg?version=20231107120036.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I MAYBE]]></title>
-            <link>https://music.bugs.co.kr/album/4092796?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4092796?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 07 Nov 2023 04:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80210146?wl_ref=list_ab_04" class="artistTitle" title="조짜르트" onclick="
-" target="_self">조짜르트</a>
-</p>
-<p>
-<time datetime="">2023.11.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40927/4092796.jpg?version=20231107121149.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Transcendence]]></title>
-            <link>https://music.bugs.co.kr/album/33370362?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33370362?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 07 Nov 2023 04:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13482538?wl_ref=list_ab_04" class="artistTitle" title="Soundscapers" onclick="
-" target="_self">Soundscapers</a>
-</p>
-<p>
-<time datetime="">2023.11.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333703/33370362.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rio Soul]]></title>
-            <link>https://music.bugs.co.kr/album/33369034?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33369034?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 07 Nov 2023 14:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11270314?wl_ref=list_ab_04" class="artistTitle" title="ACJazz" onclick="
-" target="_self">ACJazz</a>
-</p>
-<p>
-<time datetime="">2023.11.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333690/33369034.jpg?version=20231107012838.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sopro e Vendaval]]></title>
-            <link>https://music.bugs.co.kr/album/33368746?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33368746?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 07 Nov 2023 14:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13098126?wl_ref=list_ab_04" class="artistTitle" title="Luara Ateyeh" onclick="
-" target="_self">Luara Ateyeh</a>
-</p>
-<p>
-<time datetime="">2023.11.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333687/33368746.jpg?version=20231107035838.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
