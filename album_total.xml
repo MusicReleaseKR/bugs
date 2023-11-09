@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 23:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 01:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,24 +383,6 @@ Gerald Moore(제럴드 무어)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/333655/33365511.jpg?version=20231109063304.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yung N Turnt (with Tay Keith)]]></title>
-            <link>https://music.bugs.co.kr/album/33361954?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33361954?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 08 Nov 2023 04:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12796805?wl_ref=list_ab_04" class="artistTitle" title="Lil Darius">Lil Darius</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Lil Darius||Lil Darius||12796805||OK\\nTay Keith||Tay Keith||11760730||OK', ''); return false;">
-Lil Darius
-</a> </p>
-<p>
-<time datetime="">2023.11.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333619/33361954.jpg?version=20231109064007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WHITE LION, BLACK SHEEP]]></title>
@@ -1067,6 +1049,21 @@ Enluv
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206029/20602920.jpg?version=20231108120032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무언, 그리고 소란하지 않기를]]></title>
+            <link>https://music.bugs.co.kr/album/20602911?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20602911?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 09 Nov 2023 01:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20160238?wl_ref=list_ab_04" class="artistTitle" title="Licht (熙)" onclick="
+" target="_self">Licht (熙)</a>
+</p>
+<p>
+<time datetime="">2023.11.08</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206029/20602911.jpg?version=20231108120032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
