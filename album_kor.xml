@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 23:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 01:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lonely wolf]]></title>
+            <link>https://music.bugs.co.kr/album/20600028?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20600028?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 13 Nov 2023 01:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80090515?wl_ref=list_ab_04" class="artistTitle" title="뉴챔프">뉴챔프</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '뉴챔프||뉴챔프||80090515||OK\\nDeah3art||Deah3art||20197480||OK', ''); return false;">
+뉴챔프
+</a> </p>
+<p>
+<time datetime="">2023.10.24</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206000/20600028.jpg?version=1698247941000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넌 나의 비밀스러운 순간이 되었어]]></title>
             <link>https://music.bugs.co.kr/album/20604145?wl_ref=list_ab_03</link>
@@ -710,7 +728,7 @@ Kc
 <time datetime="">2023.11.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206041/20604152.jpg?version=1699671625000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206041/20604152.jpg?version=1699837295000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Everybody Knows Me I'm A Rockstar]]></title>
@@ -1062,21 +1080,6 @@ Gabe Bondoc
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206041/20604142.jpg?version=1699671625000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Love You]]></title>
-            <link>https://music.bugs.co.kr/album/20604035?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20604035?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 11 Nov 2023 10:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80288425?wl_ref=list_ab_04" class="artistTitle" title="김재환" onclick="
-" target="_self">김재환</a>
-</p>
-<p>
-<time datetime="">2023.11.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206040/20604035.jpg?version=1699693228000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
