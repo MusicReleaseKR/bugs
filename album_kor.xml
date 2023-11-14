@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 04:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 05:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -781,14 +781,17 @@ Easymind
             <guid>https://music.bugs.co.kr/album/20604930?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20069441?wl_ref=list_ab_04" class="artistTitle" title="IN THE CITY (인 더 시티)" onclick="
-" target="_self">IN THE CITY (인 더 시티)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20199175?wl_ref=list_ab_04" class="artistTitle" title="마춘동">마춘동</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '마춘동||마춘동||20199175||OK\\nRime||Rime||80388133||OK\\nIN THE CITY (인 더 시티)||IN THE CITY (인 더 시티)||20069441||OK', ''); return false;">
+마춘동
+</a> </p>
 <p>
 <time datetime="">2023.11.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206049/20604930.jpg?version=1699930826000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206049/20604930.jpg?version=1699937490000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[F. Schubert - 4 Impromptus Op. 90]]></title>

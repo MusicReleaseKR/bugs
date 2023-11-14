@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 04:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 05:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,14 +312,17 @@
             <guid>https://music.bugs.co.kr/album/20604930?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 14 Nov 2023 03:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20069441?wl_ref=list_ab_04" class="artistTitle" title="IN THE CITY (인 더 시티)" onclick="
-" target="_self">IN THE CITY (인 더 시티)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20199175?wl_ref=list_ab_04" class="artistTitle" title="마춘동">마춘동</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '마춘동||마춘동||20199175||OK\\nRime||Rime||80388133||OK\\nIN THE CITY (인 더 시티)||IN THE CITY (인 더 시티)||20069441||OK', ''); return false;">
+마춘동
+</a> </p>
 <p>
 <time datetime="">2023.11.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206049/20604930.jpg?version=20231114120026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206049/20604930.jpg?version=20231114135130.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 시계 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -334,7 +337,7 @@
 <time datetime="">2023.11.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206038/20603885.jpg?version=20231114120026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206038/20603885.jpg?version=20231114135528.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Going Home (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -457,7 +460,7 @@ ZEHNER (제너)
 <time datetime="">2023.11.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333750/33375057.jpg?version=20231114031326.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/333750/33375057.jpg?version=20231114134551.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fancy Like Christmas (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -679,7 +682,7 @@ Tiger JK
 <time datetime="">2023.11.13</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206000/20600028.jpg?version=20231114025617.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206000/20600028.jpg?version=20231114140213.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Storyteller (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -2157,7 +2160,7 @@ Relaxing Piano Crew
             <title><![CDATA[추억의 정취 2집 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20605119?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20605119?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20198876?wl_ref=list_ab_04" class="artistTitle" title="최창희" onclick="
 " target="_self">최창희</a>
@@ -2172,7 +2175,7 @@ Relaxing Piano Crew
             <title><![CDATA[톰토미 동물동요 2 (영어버전) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20604970?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20604970?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20105047?wl_ref=list_ab_04" class="artistTitle" title="톰토미(TOMTOMI)" onclick="
 " target="_self">톰토미(TOMTOMI)</a>
@@ -2187,7 +2190,7 @@ Relaxing Piano Crew
             <title><![CDATA[LOVE #Because the answer to me is you (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20604968?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20604968?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80090392?wl_ref=list_ab_04" class="artistTitle" title="규빈" onclick="
 " target="_self">규빈</a>
@@ -2202,7 +2205,7 @@ Relaxing Piano Crew
             <title><![CDATA[[국악EDM]지구를 사랑한 토선생 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20604904?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20604904?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20132766?wl_ref=list_ab_04" class="artistTitle" title="Eastsound" onclick="
 " target="_self">Eastsound</a>
@@ -2232,7 +2235,7 @@ Relaxing Piano Crew
             <title><![CDATA[Replay? 2 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20604855?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20604855?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80304934?wl_ref=list_ab_04" class="artistTitle" title="Plum(플럼)" onclick="
 " target="_self">Plum(플럼)</a>
@@ -2247,7 +2250,7 @@ Relaxing Piano Crew
             <title><![CDATA[Cities Vol.2 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20604407?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20604407?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20052962?wl_ref=list_ab_04" class="artistTitle" title="꿀수면연구소" onclick="
 " target="_self">꿀수면연구소</a>
@@ -2262,7 +2265,7 @@ Relaxing Piano Crew
             <title><![CDATA[총회찬양과율동 23 - 미션52！우리 함께 세워요！(영유아유치부) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20604356?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20604356?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80073923?wl_ref=list_ab_04" class="artistTitle" title="대한예수교장로회총회" onclick="
 " target="_self">대한예수교장로회총회</a>
@@ -2277,7 +2280,7 @@ Relaxing Piano Crew
             <title><![CDATA[Love Again (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20604320?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20604320?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20198947?wl_ref=list_ab_04" class="artistTitle" title="Winter Bridge (윈터 브릿지)" onclick="
 " target="_self">Winter Bridge (윈터 브릿지)</a>
@@ -2292,7 +2295,7 @@ Relaxing Piano Crew
             <title><![CDATA[호두까기 인형 피아노곡집 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20604303?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20604303?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80116928?wl_ref=list_ab_04" class="artistTitle" title="어떤사람A" onclick="
 " target="_self">어떤사람A</a>
@@ -2307,7 +2310,7 @@ Relaxing Piano Crew
             <title><![CDATA[호두까기 인형 피아노곡집 (쉬운버전) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20604285?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20604285?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80116928?wl_ref=list_ab_04" class="artistTitle" title="어떤사람A" onclick="
 " target="_self">어떤사람A</a>
@@ -2322,7 +2325,7 @@ Relaxing Piano Crew
             <title><![CDATA[Quest (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20603996?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20603996?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20193823?wl_ref=list_ab_04" class="artistTitle" title="Isla Sol" onclick="
 " target="_self">Isla Sol</a>
@@ -2337,7 +2340,7 @@ Relaxing Piano Crew
             <title><![CDATA[Whispers of the Moon (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20603740?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20603740?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20194851?wl_ref=list_ab_04" class="artistTitle" title="EchoHarmony" onclick="
 " target="_self">EchoHarmony</a>
@@ -2352,7 +2355,7 @@ Relaxing Piano Crew
             <title><![CDATA[로미오 제2집 따지면뭐해 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20603623?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20603623?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20181069?wl_ref=list_ab_04" class="artistTitle" title="로미오" onclick="
 " target="_self">로미오</a>
@@ -2367,7 +2370,7 @@ Relaxing Piano Crew
             <title><![CDATA[황석진 애창곡 1집 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20603616?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20603616?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20198693?wl_ref=list_ab_04" class="artistTitle" title="황석진" onclick="
 " target="_self">황석진</a>
@@ -2382,7 +2385,7 @@ Relaxing Piano Crew
             <title><![CDATA[김정석 CCM AGAIN SONG VOL.2 - 예수 때문에 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20603613?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20603613?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:43 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80047241?wl_ref=list_ab_04" class="artistTitle" title="김정석" onclick="
 " target="_self">김정석</a>
@@ -2927,14 +2930,17 @@ Easymind
             <guid>https://music.bugs.co.kr/album/20604930?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 14 Nov 2023 03:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20069441?wl_ref=list_ab_04" class="artistTitle" title="IN THE CITY (인 더 시티)" onclick="
-" target="_self">IN THE CITY (인 더 시티)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20199175?wl_ref=list_ab_04" class="artistTitle" title="마춘동">마춘동</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '마춘동||마춘동||20199175||OK\\nRime||Rime||80388133||OK\\nIN THE CITY (인 더 시티)||IN THE CITY (인 더 시티)||20069441||OK', ''); return false;">
+마춘동
+</a> </p>
 <p>
 <time datetime="">2023.11.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206049/20604930.jpg?version=1699930826000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206049/20604930.jpg?version=1699937490000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[F. Schubert - 4 Impromptus Op. 90 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
