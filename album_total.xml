@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 09:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 10:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -589,6 +589,21 @@ Hudba vesmíru pro spánek
             <enclosure url="https://image.bugsm.co.kr/album/images/170/314066/31406658.jpg?version=20231114120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[wonderego]]></title>
+            <link>https://music.bugs.co.kr/album/20605210?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20605210?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 14 Nov 2023 10:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80142603?wl_ref=list_ab_04" class="artistTitle" title="Crush" onclick="
+" target="_self">Crush</a>
+</p>
+<p>
+<time datetime="">2023.11.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206052/20605210.jpg?version=20231114180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[추억의 정취 2집]]></title>
             <link>https://music.bugs.co.kr/album/20605119?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20605119?wl_ref=list_ab_03</guid>
@@ -677,6 +692,21 @@ Hudba vesmíru pro spánek
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206049/20604904.jpg?version=20231114120023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thanks For Nothing]]></title>
+            <link>https://music.bugs.co.kr/album/20604885?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20604885?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 14 Nov 2023 10:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20046228?wl_ref=list_ab_04" class="artistTitle" title="Paul Blanco" onclick="
+" target="_self">Paul Blanco</a>
+</p>
+<p>
+<time datetime="">2023.11.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206048/20604885.jpg?version=20231114180023.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TOUR]]></title>
@@ -1052,36 +1082,6 @@ Relaxing Piano Crew
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206036/20603623.jpg?version=20231114120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황석진 애창곡 1집]]></title>
-            <link>https://music.bugs.co.kr/album/20603616?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20603616?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20198693?wl_ref=list_ab_04" class="artistTitle" title="황석진" onclick="
-" target="_self">황석진</a>
-</p>
-<p>
-<time datetime="">2023.11.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206036/20603616.jpg?version=20231114120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정석 CCM AGAIN SONG VOL.2 - 예수 때문에]]></title>
-            <link>https://music.bugs.co.kr/album/20603613?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20603613?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80047241?wl_ref=list_ab_04" class="artistTitle" title="김정석" onclick="
-" target="_self">김정석</a>
-</p>
-<p>
-<time datetime="">2023.11.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206036/20603613.jpg?version=20231114120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
