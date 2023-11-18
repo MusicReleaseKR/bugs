@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 02:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 03:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cognosco]]></title>
+            <link>https://music.bugs.co.kr/album/4092904?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092904?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 18 Nov 2023 03:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20095172?wl_ref=list_ab_04" class="artistTitle" title="ABOPF (아보프)" onclick="
+" target="_self">ABOPF (아보프)</a>
+</p>
+<p>
+<time datetime="">2023.11.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40929/4092904.jpg?version=1700276490000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beethoven The complete sonatas for piano and cello]]></title>
             <link>https://music.bugs.co.kr/album/33401277?wl_ref=list_ab_03</link>
@@ -1047,21 +1062,6 @@ Calvin
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206058/20605843.jpg?version=1700211627000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Real Trouble]]></title>
-            <link>https://music.bugs.co.kr/album/20605842?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20605842?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 17 Nov 2023 04:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20193674?wl_ref=list_ab_04" class="artistTitle" title="남가은" onclick="
-" target="_self">남가은</a>
-</p>
-<p>
-<time datetime="">2023.11.17</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206058/20605842.jpg?version=1700190036000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
