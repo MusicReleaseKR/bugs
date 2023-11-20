@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 04:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 05:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206063/20606357.jpg?version=20231120120025.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Blood Moon]]></title>
+            <link>https://music.bugs.co.kr/album/4093227?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4093227?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 20 Nov 2023 03:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80370846?wl_ref=list_ab_04" class="artistTitle" title="만월" onclick="
+" target="_self">만월</a>
+</p>
+<p>
+<time datetime="">2023.11.20</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40932/4093227.jpg?version=20231120120025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[헤이 산타!]]></title>
             <link>https://music.bugs.co.kr/album/20605964?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20605964?wl_ref=list_ab_03</guid>
@@ -110,6 +125,24 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40932/4093233.jpg?version=20231120120015.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TFT Remix Rumble (Steve Aoki Remix)]]></title>
+            <link>https://music.bugs.co.kr/album/20606184?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20606184?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 20 Nov 2023 05:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80293893?wl_ref=list_ab_04" class="artistTitle" title="League of Legends">League of Legends</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'League of Legends||League of Legends||80293893||OK\\nTEAMFIGHT TACTICS||TEAMFIGHT TACTICS||20188114||OK', ''); return false;">
+League of Legends
+</a> </p>
+<p>
+<time datetime="">2023.11.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206061/20606184.jpg?version=20231120140026.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쫌]]></title>
@@ -218,21 +251,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206057/20605786.jpg?version=20231120120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blood Moon]]></title>
-            <link>https://music.bugs.co.kr/album/4093227?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4093227?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 20 Nov 2023 03:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80370846?wl_ref=list_ab_04" class="artistTitle" title="만월" onclick="
-" target="_self">만월</a>
-</p>
-<p>
-<time datetime="">2023.11.20</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40932/4093227.jpg?version=20231120120025.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하루가]]></title>
@@ -1055,21 +1073,6 @@ KAJ
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40932/4093208.jpg?version=20231119063926.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이유가 있잖아]]></title>
-            <link>https://music.bugs.co.kr/album/4093209?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4093209?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 18 Nov 2023 09:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20038922?wl_ref=list_ab_04" class="artistTitle" title="윤토벤(YounToven)" onclick="
-" target="_self">윤토벤(YounToven)</a>
-</p>
-<p>
-<time datetime="">2023.11.18</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40932/4093209.jpg?version=20231118180024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
