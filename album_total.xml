@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 09:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 10:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -630,6 +630,21 @@ Christa Ludwig(크리스타 루드비히)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/329723/32972396.jpg?version=20231120120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나를 찾는 명상음악 'Eternity']]></title>
+            <link>https://music.bugs.co.kr/album/20606609?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20606609?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 20 Nov 2023 10:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20148581?wl_ref=list_ab_04" class="artistTitle" title="브금대통령" onclick="
+" target="_self">브금대통령</a>
+</p>
+<p>
+<time datetime="">2023.11.20</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206066/20606609.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[CHA CHA]]></title>
             <link>https://music.bugs.co.kr/album/20606477?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20606477?wl_ref=list_ab_03</guid>
@@ -1008,6 +1023,21 @@ Eximo Blue
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206051/20605105.jpg?version=20231120120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Butterfly]]></title>
+            <link>https://music.bugs.co.kr/album/20605006?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20605006?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 20 Nov 2023 10:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20171648?wl_ref=list_ab_04" class="artistTitle" title="Bad Number Nine" onclick="
+" target="_self">Bad Number Nine</a>
+</p>
+<p>
+<time datetime="">2023.11.20</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206050/20605006.jpg?version=20231120180032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Confirmed Bachelor]]></title>
             <link>https://music.bugs.co.kr/album/20604944?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20604944?wl_ref=list_ab_03</guid>
@@ -1036,35 +1066,6 @@ Eximo Blue
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206049/20604932.jpg?version=20231120120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radar Keroxen, Vol. 4]]></title>
-            <link>https://music.bugs.co.kr/album/20604891?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20604891?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 20 Nov 2023 04:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<span class="artistTitle" title="">Various Artists</span>
-</p>
-<p>
-<time datetime="">2023.11.20</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206048/20604891.jpg?version=20231120120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Creation]]></title>
-            <link>https://music.bugs.co.kr/album/20604880?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20604880?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 20 Nov 2023 04:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20199159?wl_ref=list_ab_04" class="artistTitle" title="Jultrane Sextet Duplex" onclick="
-" target="_self">Jultrane Sextet Duplex</a>
-</p>
-<p>
-<time datetime="">2023.11.20</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206048/20604880.jpg?version=20231120120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
