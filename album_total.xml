@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 17:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 18:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Grieg: Peer Gynt Suites, Symphonic Dances & Old Norwegian Melody]]></title>
+            <link>https://music.bugs.co.kr/album/33497048?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33497048?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Nov 2023 18:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80015229?wl_ref=list_ab_04" class="artistTitle" title="Paavo Berglund(파보 베르글룬드)" onclick="
+" target="_self">Paavo Berglund(파보 베르글룬드)</a>
+</p>
+<p>
+<time datetime="">2023.11.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334970/33497048.jpg?version=20231125021005.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1998]]></title>
             <link>https://music.bugs.co.kr/album/33499622?wl_ref=list_ab_03</link>
@@ -449,7 +464,7 @@ Esteban Herrera
 <time datetime="">2023.11.24</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/334980/33498033.jpg?version=20231124130044.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334980/33498033.jpg?version=20231125024641.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Official End Of It All]]></title>
@@ -509,7 +524,7 @@ Esteban Herrera
 <time datetime="">2023.11.24</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/334979/33497985.jpg?version=20231124153147.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334979/33497985.jpg?version=20231125021754.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[This Life]]></title>
@@ -554,7 +569,7 @@ Esteban Herrera
 <time datetime="">2023.11.24</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/334979/33497916.jpg?version=20231124102109.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334979/33497916.jpg?version=20231125024627.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[De Tour Con]]></title>
@@ -977,7 +992,7 @@ The Gurdjieff Ensemble
 <time datetime="">2023.11.24</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/334977/33497755.jpg?version=20231125021501.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334977/33497755.jpg?version=20231125030456.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Romanzo Porno]]></title>
@@ -1053,21 +1068,6 @@ The Gurdjieff Ensemble
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/334977/33497730.jpg?version=20231124011233.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Por Siempre]]></title>
-            <link>https://music.bugs.co.kr/album/33497729?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33497729?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 24 Nov 2023 04:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/35507?wl_ref=list_ab_04" class="artistTitle" title="Los Temerarios" onclick="
-" target="_self">Los Temerarios</a>
-</p>
-<p>
-<time datetime="">2023.11.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/334977/33497729.jpg?version=20231124004632.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
