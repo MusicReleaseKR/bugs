@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 09:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 10:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,6 +254,36 @@ Tomten
             <enclosure url="https://image.bugsm.co.kr/album/images/170/334987/33498748.jpg?version=20231124000025.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Una Vida Nueva]]></title>
+            <link>https://music.bugs.co.kr/album/33498669?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33498669?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Nov 2023 10:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13182870?wl_ref=list_ab_04" class="artistTitle" title="B.Costa" onclick="
+" target="_self">B.Costa</a>
+</p>
+<p>
+<time datetime="">2023.11.24</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334986/33498669.jpg?version=20231124164004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AUTOCTRL]]></title>
+            <link>https://music.bugs.co.kr/album/33498668?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33498668?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Nov 2023 10:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80223550?wl_ref=list_ab_04" class="artistTitle" title="LUJAVO" onclick="
+" target="_self">LUJAVO</a>
+</p>
+<p>
+<time datetime="">2023.11.24</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334986/33498668.jpg?version=20231124164003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Creixin els arbres]]></title>
             <link>https://music.bugs.co.kr/album/33498556?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33498556?wl_ref=list_ab_03</guid>
@@ -434,7 +464,7 @@ Esteban Herrera
 <time datetime="">2023.11.24</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/334980/33498017.jpg?version=20231124181011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334980/33498017.jpg?version=20231124183320.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anjo Iluminado]]></title>
@@ -1038,36 +1068,6 @@ The Gurdjieff Ensemble
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/334977/33497729.jpg?version=20231124004632.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[four]]></title>
-            <link>https://music.bugs.co.kr/album/33497728?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33497728?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 24 Nov 2023 04:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20019507?wl_ref=list_ab_04" class="artistTitle" title="IO(아이오)" onclick="
-" target="_self">IO(아이오)</a>
-</p>
-<p>
-<time datetime="">2023.11.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/334977/33497728.jpg?version=20231124005358.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[These Are Not My Friends]]></title>
-            <link>https://music.bugs.co.kr/album/33497721?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33497721?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 24 Nov 2023 04:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8628885?wl_ref=list_ab_04" class="artistTitle" title="ukiyo" onclick="
-" target="_self">ukiyo</a>
-</p>
-<p>
-<time datetime="">2023.11.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/334977/33497721.jpg?version=20231124003346.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
