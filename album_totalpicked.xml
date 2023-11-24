@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,21 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/334976/33497679.jpg?version=20231124010228.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jingle Bell Rock]]></title>
+            <link>https://music.bugs.co.kr/album/4093426?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4093426?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Nov 2023 05:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80347326?wl_ref=list_ab_04" class="artistTitle" title="aespa" onclick="
+" target="_self">aespa</a>
+</p>
+<p>
+<time datetime="">2023.11.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40934/4093426.jpg?version=20231124140007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가끔 이런 생각들을 해요]]></title>
@@ -81,6 +96,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206068/20606892.jpg?version=20231124120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3D - Justin Timberlake Remix]]></title>
+            <link>https://music.bugs.co.kr/album/4093416?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4093416?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 Nov 2023 05:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80180889?wl_ref=list_ab_04" class="artistTitle" title="정국" onclick="
+" target="_self">정국</a>
+</p>
+<p>
+<time datetime="">2023.11.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40934/4093416.jpg?version=20231124140001.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Biscuit]]></title>
@@ -894,7 +924,7 @@ Anthony Lazaro
 <time datetime="">2023.11.23</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206068/20606861.jpg?version=20231124010700.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206068/20606861.jpg?version=20231124134051.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트랄랄라 브라더스 베스트 PART26]]></title>
@@ -1027,36 +1057,6 @@ Anthony Lazaro
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40933/4093348.jpg?version=20231123120026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[By your side]]></title>
-            <link>https://music.bugs.co.kr/album/20606859?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20606859?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Nov 2023 03:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20080550?wl_ref=list_ab_04" class="artistTitle" title="고은" onclick="
-" target="_self">고은</a>
-</p>
-<p>
-<time datetime="">2023.11.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206068/20606859.jpg?version=20231124011513.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 지나 겨울이 오는 것처럼]]></title>
-            <link>https://music.bugs.co.kr/album/20605646?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20605646?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Nov 2023 03:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20035576?wl_ref=list_ab_04" class="artistTitle" title="모닝커피" onclick="
-" target="_self">모닝커피</a>
-</p>
-<p>
-<time datetime="">2023.11.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206056/20605646.jpg?version=20231124011010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
