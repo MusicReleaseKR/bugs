@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 20:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 21:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -347,6 +347,21 @@ Al Goranski
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316476/31647647.jpg?version=20231127120032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Study Music Playlist for Deep Focus]]></title>
+            <link>https://music.bugs.co.kr/album/30508308?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30508308?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 27 Nov 2023 21:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12768295?wl_ref=list_ab_04" class="artistTitle" title="Study Music Project" onclick="
+" target="_self">Study Music Project</a>
+</p>
+<p>
+<time datetime="">2023.11.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/305083/30508308.jpg?version=20231128054012.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Drop The Needle]]></title>
@@ -1055,21 +1070,6 @@ Riya(리야)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/333734/33373486.jpg?version=20231127120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stars Aligned]]></title>
-            <link>https://music.bugs.co.kr/album/33363399?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33363399?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 27 Nov 2023 04:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13479282?wl_ref=list_ab_04" class="artistTitle" title="Paul Truth" onclick="
-" target="_self">Paul Truth</a>
-</p>
-<p>
-<time datetime="">2023.11.27</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333633/33363399.jpg?version=20231127120032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
