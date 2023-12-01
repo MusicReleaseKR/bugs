@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 09:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 10:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -471,6 +471,21 @@ Koor voor nieuwe Nederlandse religieuze muziek
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/335264/33526472.jpg?version=20231201070022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CHIQUIS - BEE SIDE]]></title>
+            <link>https://music.bugs.co.kr/album/33526466?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33526466?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Dec 2023 10:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80205156?wl_ref=list_ab_04" class="artistTitle" title="Chiquis" onclick="
+" target="_self">Chiquis</a>
+</p>
+<p>
+<time datetime="">2023.12.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/335264/33526466.jpg?version=20231201141006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Neptune]]></title>
@@ -1059,21 +1074,6 @@ Lua Blanco
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/335146/33514642.jpg?version=20231201012912.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[El Borrachazo Fest (Vol. 1 / En Vivo)]]></title>
-            <link>https://music.bugs.co.kr/album/33514621?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33514621?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Dec 2023 04:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8581668?wl_ref=list_ab_04" class="artistTitle" title="Luis y Julián Jr." onclick="
-" target="_self">Luis y Julián Jr.</a>
-</p>
-<p>
-<time datetime="">2023.12.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335146/33514621.jpg?version=20231201012134.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
