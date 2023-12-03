@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 09:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 10:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1073,6 +1073,21 @@ Moon Tunes
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316558/31655837.jpg?version=20231203120032.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[I Think I’M..]]></title>
+            <link>https://music.bugs.co.kr/album/20609228?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20609228?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 03 Dec 2023 10:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20157473?wl_ref=list_ab_04" class="artistTitle" title="고은수 (KOEUNSU)" onclick="
+" target="_self">고은수 (KOEUNSU)</a>
+</p>
+<p>
+<time datetime="">2023.12.03</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206092/20609228.jpg?version=20231203180028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[금 같은 너에게]]></title>
             <link>https://music.bugs.co.kr/album/20609216?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20609216?wl_ref=list_ab_03</guid>
@@ -1086,6 +1101,21 @@ Moon Tunes
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206092/20609216.jpg?version=20231203120032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WORLD TOUR]]></title>
+            <link>https://music.bugs.co.kr/album/20609046?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20609046?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 03 Dec 2023 10:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80375093?wl_ref=list_ab_04" class="artistTitle" title="PutOff" onclick="
+" target="_self">PutOff</a>
+</p>
+<p>
+<time datetime="">2023.12.03</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206090/20609046.jpg?version=20231203180028.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어쩌라고]]></title>
@@ -1104,6 +1134,24 @@ Moon Tunes
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206090/20609044.jpg?version=20231203120032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We're Open on Sundays]]></title>
+            <link>https://music.bugs.co.kr/album/20608649?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20608649?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 03 Dec 2023 10:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20187910?wl_ref=list_ab_04" class="artistTitle" title="이현우">이현우</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '이현우||이현우||20187910||OK\\nSun Gin||Sun Gin||20148406||OK', ''); return false;">
+이현우
+</a> </p>
+<p>
+<time datetime="">2023.12.03</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206086/20608649.jpg?version=20231203180028.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Princess Diary]]></title>
@@ -1134,51 +1182,6 @@ Moon Tunes
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40936/4093679.jpg?version=20231203120026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taqdeer ("From Razaa-E-Ishq")]]></title>
-            <link>https://music.bugs.co.kr/album/33534732?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33534732?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 03 Dec 2023 04:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13519863?wl_ref=list_ab_04" class="artistTitle" title="Rahul Gill" onclick="
-" target="_self">Rahul Gill</a>
-</p>
-<p>
-<time datetime="">2023.12.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335347/33534732.jpg?version=20231203005414.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Devuélveme la Vida]]></title>
-            <link>https://music.bugs.co.kr/album/33529599?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33529599?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 03 Dec 2023 04:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12016239?wl_ref=list_ab_04" class="artistTitle" title="Andres Grados" onclick="
-" target="_self">Andres Grados</a>
-</p>
-<p>
-<time datetime="">2023.12.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335295/33529599.jpg?version=20231203003746.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pneumo-morosa]]></title>
-            <link>https://music.bugs.co.kr/album/33529435?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33529435?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 03 Dec 2023 04:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12466431?wl_ref=list_ab_04" class="artistTitle" title="Lanzafame, drummakkine" onclick="
-" target="_self">Lanzafame, drummakkine</a>
-</p>
-<p>
-<time datetime="">2023.12.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335294/33529435.jpg?version=20231203004405.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
