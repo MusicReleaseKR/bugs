@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 14:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 15:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Merry Christmas with the Choir of King's College]]></title>
+            <link>https://music.bugs.co.kr/album/33514171?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33514171?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 04 Dec 2023 15:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8075626?wl_ref=list_ab_04" class="artistTitle" title="Choir of King's College &amp; Cambridge" onclick="
+" target="_self">Choir of King's College &amp; Cambridge</a>
+</p>
+<p>
+<time datetime="">2023.12.05</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/335141/33514171.jpg?version=20231205000031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100 Best Maria Callas - Her Hundred Greatest Classics]]></title>
+            <link>https://music.bugs.co.kr/album/33526621?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33526621?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 04 Dec 2023 15:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/1043?wl_ref=list_ab_04" class="artistTitle" title="Maria Callas(마리아 칼라스)" onclick="
+" target="_self">Maria Callas(마리아 칼라스)</a>
+</p>
+<p>
+<time datetime="">2023.12.05</time>
+<span class="albumType">베스트</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/335266/33526621.jpg?version=20231205000031.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Navidad de Norte a Sur: Cantoalegre Big Band (En vivo)]]></title>
             <link>https://music.bugs.co.kr/album/33534366?wl_ref=list_ab_03</link>
@@ -1035,36 +1065,6 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206065/20606504.jpg?version=20231204180028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ulrikas minne - Visor från Frostviken]]></title>
-            <link>https://music.bugs.co.kr/album/4093716?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4093716?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 04 Dec 2023 04:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/9805363?wl_ref=list_ab_04" class="artistTitle" title="Triakel" onclick="
-" target="_self">Triakel</a>
-</p>
-<p>
-<time datetime="">2023.12.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40937/4093716.jpg?version=20231204120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Therapy (Acoustic Versions)]]></title>
-            <link>https://music.bugs.co.kr/album/33534682?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33534682?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 04 Dec 2023 11:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80333155?wl_ref=list_ab_04" class="artistTitle" title="Zoë Wees" onclick="
-" target="_self">Zoë Wees</a>
-</p>
-<p>
-<time datetime="">2023.12.04</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335346/33534682.jpg?version=20231204104114.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
