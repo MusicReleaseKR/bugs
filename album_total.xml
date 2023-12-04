@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 09:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 10:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -632,6 +632,21 @@ Alles Kids
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206094/20609479.jpg?version=20231204120025.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[catworld2]]></title>
+            <link>https://music.bugs.co.kr/album/20609399?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20609399?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 04 Dec 2023 10:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20155573?wl_ref=list_ab_04" class="artistTitle" title="jew ian" onclick="
+" target="_self">jew ian</a>
+</p>
+<p>
+<time datetime="">2023.12.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206093/20609399.jpg?version=20231204180028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[富山弁 #7]]></title>
             <link>https://music.bugs.co.kr/album/20609398?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20609398?wl_ref=list_ab_03</guid>
@@ -1022,6 +1037,21 @@ Alles Kids
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206081/20608182.jpg?version=20231204120032.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Rhapsodies for Piano]]></title>
+            <link>https://music.bugs.co.kr/album/20606504?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20606504?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 04 Dec 2023 10:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13483239?wl_ref=list_ab_04" class="artistTitle" title="Sofia Rachmaninoff" onclick="
+" target="_self">Sofia Rachmaninoff</a>
+</p>
+<p>
+<time datetime="">2023.12.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206065/20606504.jpg?version=20231204180028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ulrikas minne - Visor från Frostviken]]></title>
             <link>https://music.bugs.co.kr/album/4093716?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4093716?wl_ref=list_ab_03</guid>
@@ -1035,36 +1065,6 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40937/4093716.jpg?version=20231204120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Therapy (Acoustic Versions)]]></title>
-            <link>https://music.bugs.co.kr/album/33534682?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33534682?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 04 Dec 2023 04:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80333155?wl_ref=list_ab_04" class="artistTitle" title="Zoë Wees" onclick="
-" target="_self">Zoë Wees</a>
-</p>
-<p>
-<time datetime="">2023.12.04</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335346/33534682.jpg?version=20231204104114.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moon Groove]]></title>
-            <link>https://music.bugs.co.kr/album/33534391?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33534391?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 04 Dec 2023 04:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13486249?wl_ref=list_ab_04" class="artistTitle" title="daswim" onclick="
-" target="_self">daswim</a>
-</p>
-<p>
-<time datetime="">2023.12.04</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335343/33534391.jpg?version=20231204000023.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
