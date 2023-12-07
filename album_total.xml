@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 02:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 03:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/333700/33370082.jpg?version=20231207000023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Feelings]]></title>
+            <link>https://music.bugs.co.kr/album/31861742?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31861742?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Dec 2023 03:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12816252?wl_ref=list_ab_04" class="artistTitle" title="Ketvyz" onclick="
+" target="_self">Ketvyz</a>
+</p>
+<p>
+<time datetime="">2023.12.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/318617/31861742.jpg?version=20231207120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[La Canción y El Poema]]></title>
@@ -1053,21 +1068,6 @@ Sixto Yegros
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/333701/33370180.jpg?version=20231207063532.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1 OF NONE]]></title>
-            <link>https://music.bugs.co.kr/album/33363083?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33363083?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Dec 2023 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11171606?wl_ref=list_ab_04" class="artistTitle" title="Tay B" onclick="
-" target="_self">Tay B</a>
-</p>
-<p>
-<time datetime="">2023.12.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333630/33363083.jpg?version=20231207064524.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
