@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 08:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 09:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,39 +218,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/335496/33549689.jpg?version=20231211000027.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Airs d'opéras. Les noces de Figaro, Les puritains, Samson et Dalila, Tannhäuser, Othello...]]></title>
-            <link>https://music.bugs.co.kr/album/33548228?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33548228?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 10 Dec 2023 15:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80014609?wl_ref=list_ab_04" class="artistTitle" title="Ernest Blanc(에르네스트 블랑크)">Ernest Blanc(에르네스트 블랑크)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ernest Blanc||Ernest Blanc(에르네스트 블랑크)||80014609||OK\\nOrchestre De La Société Des Concerts Du Conservatoire||Orchestre De La Société Des Concerts Du Conservatoire||8207302||OK\\nGeorges Prêtre||Georges Prêtre(조르주 프레트르)||80011639||OK', ''); return false;">
-Ernest Blanc(에르네스트 블랑크)
-</a> </p>
-<p>
-<time datetime="">2023.12.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335482/33548228.jpg?version=20231211002950.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beethoven: Missa solemnis, Op. 123]]></title>
-            <link>https://music.bugs.co.kr/album/33548193?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33548193?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 10 Dec 2023 15:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80016757?wl_ref=list_ab_04" class="artistTitle" title="Otto Klemperer(오토 클렘퍼러)" onclick="
-" target="_self">Otto Klemperer(오토 클렘퍼러)</a>
-</p>
-<p>
-<time datetime="">2023.12.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335481/33548193.jpg?version=20231211003056.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Liszt: Music for Two Pianos. Réminiscences de Don Juan & 2 Episodes from Lenau's Faust]]></title>
             <link>https://music.bugs.co.kr/album/33548190?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33548190?wl_ref=list_ab_03</guid>
@@ -408,24 +375,6 @@ Cozy Bedroom
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/335350/33535066.jpg?version=20231211000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dance of the Sugar Plum Fairy - A Nutcracker Christmas]]></title>
-            <link>https://music.bugs.co.kr/album/33534792?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33534792?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 10 Dec 2023 15:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/7921?wl_ref=list_ab_04" class="artistTitle" title="Simon Rattle(사이먼 래틀)">Simon Rattle(사이먼 래틀)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Simon Rattle||Simon Rattle(사이먼 래틀)||7921||OK\\nBerliner Philharmoniker||Berliner Philharmoniker(베를린 필하모닉 오케스트라)||35545||OK', ''); return false;">
-Simon Rattle(사이먼 래틀)
-</a> </p>
-<p>
-<time datetime="">2023.12.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335347/33534792.jpg?version=20231211002357.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Better Nights]]></title>
@@ -1080,6 +1029,51 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206096/20609616.jpg?version=20231211120031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바람]]></title>
+            <link>https://music.bugs.co.kr/album/20609611?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20609611?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 11 Dec 2023 09:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20200734?wl_ref=list_ab_04" class="artistTitle" title="채미영" onclick="
+" target="_self">채미영</a>
+</p>
+<p>
+<time datetime="">2023.12.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206096/20609611.jpg?version=20231211164842.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Morning BGM #01]]></title>
+            <link>https://music.bugs.co.kr/album/20608808?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20608808?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 11 Dec 2023 09:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20200486?wl_ref=list_ab_04" class="artistTitle" title="Easy BGM" onclick="
+" target="_self">Easy BGM</a>
+</p>
+<p>
+<time datetime="">2023.12.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206088/20608808.jpg?version=20231211120031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[パレード]]></title>
+            <link>https://music.bugs.co.kr/album/33552601?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33552601?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 11 Dec 2023 09:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13524492?wl_ref=list_ab_04" class="artistTitle" title="やさしいドア" onclick="
+" target="_self">やさしいドア</a>
+</p>
+<p>
+<time datetime="">2023.12.11</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/335526/33552601.jpg?version=20231211000027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
