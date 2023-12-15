@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 02:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 03:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Billetes]]></title>
+            <link>https://music.bugs.co.kr/album/33484486?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33484486?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 15 Dec 2023 03:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13490217?wl_ref=list_ab_04" class="artistTitle" title="Cochelo" onclick="
+" target="_self">Cochelo</a>
+</p>
+<p>
+<time datetime="">2023.12.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334844/33484486.jpg?version=20231215120030.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ametrine]]></title>
             <link>https://music.bugs.co.kr/album/33370098?wl_ref=list_ab_03</link>
@@ -41,6 +56,36 @@ MATEUS B7
             <enclosure url="https://image.bugsm.co.kr/album/images/170/333495/33349565.jpg?version=20231215000022.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ruines du ciel]]></title>
+            <link>https://music.bugs.co.kr/album/33171901?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33171901?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 15 Dec 2023 03:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12879056?wl_ref=list_ab_04" class="artistTitle" title="Dgeogo" onclick="
+" target="_self">Dgeogo</a>
+</p>
+<p>
+<time datetime="">2023.10.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331719/33171901.jpg?version=20231215094138.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gin Bar]]></title>
+            <link>https://music.bugs.co.kr/album/33127554?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33127554?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 15 Dec 2023 03:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13408821?wl_ref=list_ab_04" class="artistTitle" title="Coltrane Mercer" onclick="
+" target="_self">Coltrane Mercer</a>
+</p>
+<p>
+<time datetime="">2023.12.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331275/33127554.jpg?version=20231215120030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[5 Gagici]]></title>
             <link>https://music.bugs.co.kr/album/32982989?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/32982989?wl_ref=list_ab_03</guid>
@@ -54,6 +99,21 @@ MATEUS B7
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/329829/32982989.jpg?version=20231215000022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DESCENDO COM FORÇA NA NAJA]]></title>
+            <link>https://music.bugs.co.kr/album/31465993?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31465993?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 15 Dec 2023 03:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13190207?wl_ref=list_ab_04" class="artistTitle" title="Dj Gustomares" onclick="
+" target="_self">Dj Gustomares</a>
+</p>
+<p>
+<time datetime="">2023.12.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/314659/31465993.jpg?version=20231215120030.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ZENBORGHINI]]></title>
@@ -986,7 +1046,7 @@ Ondo88
 <time datetime="">2023.12.14</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206116/20611687.jpg?version=20231214180029.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206116/20611687.jpg?version=20231215114815.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bulllseye]]></title>
@@ -1035,66 +1095,6 @@ SOCKGOBLIN.
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206113/20611363.jpg?version=20231214120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Claws Of Time]]></title>
-            <link>https://music.bugs.co.kr/album/20611344?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20611344?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 14 Dec 2023 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20201300?wl_ref=list_ab_04" class="artistTitle" title="Sinister Dane" onclick="
-" target="_self">Sinister Dane</a>
-</p>
-<p>
-<time datetime="">2023.12.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206113/20611344.jpg?version=20231214120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MEWPOT AMARA MIX VOL.2]]></title>
-            <link>https://music.bugs.co.kr/album/20610985?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20610985?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 14 Dec 2023 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20190875?wl_ref=list_ab_04" class="artistTitle" title="Mewpot" onclick="
-" target="_self">Mewpot</a>
-</p>
-<p>
-<time datetime="">2023.12.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206109/20610985.jpg?version=20231214120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MEWPOT AMARA MIX VOL.1]]></title>
-            <link>https://music.bugs.co.kr/album/20610915?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20610915?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 14 Dec 2023 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20190875?wl_ref=list_ab_04" class="artistTitle" title="Mewpot" onclick="
-" target="_self">Mewpot</a>
-</p>
-<p>
-<time datetime="">2023.12.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206109/20610915.jpg?version=20231214120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MEWPOT ALY MIX VOL.2]]></title>
-            <link>https://music.bugs.co.kr/album/20610837?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20610837?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 14 Dec 2023 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20190875?wl_ref=list_ab_04" class="artistTitle" title="Mewpot" onclick="
-" target="_self">Mewpot</a>
-</p>
-<p>
-<time datetime="">2023.12.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206108/20610837.jpg?version=20231214120038.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
