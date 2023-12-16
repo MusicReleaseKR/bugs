@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 02:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 03:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,21 @@ Margaret Price(마가렛 프라이스)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/335579/33557968.jpg?version=20231216081012.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deus do Impossível]]></title>
+            <link>https://music.bugs.co.kr/album/33309281?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33309281?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 16 Dec 2023 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13434886?wl_ref=list_ab_04" class="artistTitle" title="ide louvadeira" onclick="
+" target="_self">ide louvadeira</a>
+</p>
+<p>
+<time datetime="">2023.12.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/333092/33309281.jpg?version=20231216120032.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RECHERCHE & DESTRUCTION]]></title>
@@ -1059,21 +1074,6 @@ Face from Nick Jr.
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/335597/33559742.jpg?version=20231216074414.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLOOD RAIN 2022]]></title>
-            <link>https://music.bugs.co.kr/album/33559148?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33559148?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 15 Dec 2023 04:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13351332?wl_ref=list_ab_04" class="artistTitle" title="KARLMP3MASTER" onclick="
-" target="_self">KARLMP3MASTER</a>
-</p>
-<p>
-<time datetime="">2023.12.15</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335591/33559148.jpg?version=20231216074317.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
