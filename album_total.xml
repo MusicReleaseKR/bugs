@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 14:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 15:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Not Nightmare Christmas]]></title>
+            <link>https://music.bugs.co.kr/album/4093327?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4093327?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 19 Dec 2023 15:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80013537?wl_ref=list_ab_04" class="artistTitle" title="예성 (YESUNG)" onclick="
+" target="_self">예성 (YESUNG)</a>
+</p>
+<p>
+<time datetime="">2023.12.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40933/4093327.jpg?version=20231220000003.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[So Damn It Okay]]></title>
             <link>https://music.bugs.co.kr/album/33600045?wl_ref=list_ab_03</link>
@@ -1117,21 +1132,6 @@ Hudba vesmíru pro spánek
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206131/20613151.jpg?version=20231219120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moonlit Melodies]]></title>
-            <link>https://music.bugs.co.kr/album/20613149?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20613149?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 19 Dec 2023 04:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20005900?wl_ref=list_ab_04" class="artistTitle" title="델리카시" onclick="
-" target="_self">델리카시</a>
-</p>
-<p>
-<time datetime="">2023.12.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206131/20613149.jpg?version=20231219120030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
