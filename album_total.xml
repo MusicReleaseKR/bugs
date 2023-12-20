@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 02:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 03:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,6 +87,21 @@ Anneliese Rothenberger(아넬리제 로텐베르거)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331959/33195929.jpg?version=20231220021013.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MOOD FOR LOVE]]></title>
+            <link>https://music.bugs.co.kr/album/20605507?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20605507?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 20 Dec 2023 03:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10247026?wl_ref=list_ab_04" class="artistTitle" title="Marianne Solivan" onclick="
+" target="_self">Marianne Solivan</a>
+</p>
+<p>
+<time datetime="">2023.12.20</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206055/20605507.jpg?version=20231220120038.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Not Nightmare Christmas]]></title>
@@ -1120,21 +1135,6 @@ Hudba vesmíru pro spánek
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206131/20613179.jpg?version=20231219120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nightwhispers]]></title>
-            <link>https://music.bugs.co.kr/album/20613174?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20613174?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 19 Dec 2023 04:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20005900?wl_ref=list_ab_04" class="artistTitle" title="델리카시" onclick="
-" target="_self">델리카시</a>
-</p>
-<p>
-<time datetime="">2023.12.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206131/20613174.jpg?version=20231220015348.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
