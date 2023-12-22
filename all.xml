@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 09:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 10:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
 <time datetime="">2023.12.22</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40944/4094497.jpg?version=20231222180005.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40944/4094497.jpg?version=20231222182124.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손가락만 까딱하면 OST Part.1 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -113,7 +113,7 @@
 <time datetime="">2023.12.22</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206138/20613856.jpg?version=20231222180023.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206138/20613856.jpg?version=20231222181805.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소원을 빌어 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -151,13 +151,14 @@
             <guid>https://music.bugs.co.kr/album/4094488?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 22 Dec 2023 09:16:46 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<span class="artistTitle" title="">Various Artists</span>
+<a href="https://music.bugs.co.kr/artist/80124634?wl_ref=list_ab_04" class="artistTitle" title="수호 (SUHO)" onclick="
+" target="_self">수호 (SUHO)</a>
 </p>
 <p>
 <time datetime="">2023.12.22</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40944/4094488.jpg?version=20231222180007.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40944/4094488.jpg?version=20231222183035.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[gool kids #3 - Fairy Tale (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1087,6 +1088,36 @@ Moving Castles
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206134/20613474.jpg?version=20231220180023.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Found A Light (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/33608157?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33608157?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Dec 2023 10:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12763744?wl_ref=list_ab_04" class="artistTitle" title="Dried Roses" onclick="
+" target="_self">Dried Roses</a>
+</p>
+<p>
+<time datetime="">2023.12.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336081/33608157.jpg?version=20231222172003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rancheras de Oro (Vol. 1) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/33608132?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33608132?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Dec 2023 10:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13552730?wl_ref=list_ab_04" class="artistTitle" title="El Tiempo" onclick="
+" target="_self">El Tiempo</a>
+</p>
+<p>
+<time datetime="">2023.12.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336081/33608132.jpg?version=20231222150005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Witte Kerst (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33608046?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33608046?wl_ref=list_ab_03</guid>
@@ -1114,7 +1145,7 @@ Moving Castles
 <time datetime="">2023.12.22</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336079/33607999.jpg?version=20231222081022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336079/33607999.jpg?version=20231222184912.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SJÓN (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1175,6 +1206,21 @@ Moving Castles
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336077/33607780.jpg?version=20231222010649.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PSA (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/33606998?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33606998?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Dec 2023 10:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13479841?wl_ref=list_ab_04" class="artistTitle" title="70807 Teezy" onclick="
+" target="_self">70807 Teezy</a>
+</p>
+<p>
+<time datetime="">2023.12.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336069/33606998.jpg?version=20231222151402.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jesus Loves Me (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2101,54 +2147,6 @@ The Boy and the Sea
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336057/33605786.jpg?version=20231222000026.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ngelawak (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33605783?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33605783?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Dec 2023 04:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80268485?wl_ref=list_ab_04" class="artistTitle" title="Ashe" onclick="
-" target="_self">Ashe</a>
-</p>
-<p>
-<time datetime="">2023.12.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336057/33605783.jpg?version=20231222000026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Experience (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33605770?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33605770?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Dec 2023 04:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80373717?wl_ref=list_ab_04" class="artistTitle" title="Papeush" onclick="
-" target="_self">Papeush</a>
-</p>
-<p>
-<time datetime="">2023.12.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336057/33605770.jpg?version=20231222000026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nursery rhymes for baby and parent (Electric piano version) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33605750?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33605750?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Dec 2023 04:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13448093?wl_ref=list_ab_04" class="artistTitle" title="The Boy and the Sea">The Boy and the Sea</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'The Boy and the Sea||The Boy and the Sea||13448093||OK\\nBaby Sleep Music||Baby Sleep Music||8998335||OK\\nNursery Rhymes||Nursery Rhymes||9380727||OK', ''); return false;">
-The Boy and the Sea
-</a> </p>
-<p>
-<time datetime="">2023.12.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336057/33605750.jpg?version=20231222045712.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[K-BioLateral Music, 나로부터의 여행 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20614128?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20614128?wl_ref=list_ab_03</guid>
@@ -2162,6 +2160,24 @@ The Boy and the Sea
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206141/20614128.jpg?version=1703214032000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초대형 노래방 서바이벌 VS FINAL (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20613856?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20613856?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Dec 2023 09:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80137715?wl_ref=list_ab_04" class="artistTitle" title="로이킴">로이킴</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '로이킴||로이킴||80137715||OK\\n소유||소유 (SOYOU)||80069631||OK\\n허각||허각||80079594||OK\\n신용재||신용재 (2F)||80077227||OK\\n김민석||김민석||80223134||OK\\n박재정||박재정||80169222||OK\\nYoung K||Young K (DAY6)||80246375||OK\\n박종민||박종민||20193740||OK\\n홍승민||홍승민||80378000||OK\\n김영석||김영석||20200129||OK\\n김창운||김창운||20200582||OK\\n임정현||임정현||20194606||OK', ''); return false;">
+로이킴
+</a> </p>
+<p>
+<time datetime="">2023.12.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206138/20613856.jpg?version=1703236685000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jazz Around #26 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2237,6 +2253,21 @@ The Boy and the Sea
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206136/20613610.jpg?version=1703214032000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 안에 새겨진 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20613573?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20613573?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Dec 2023 10:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20202084?wl_ref=list_ab_04" class="artistTitle" title="소리노을(Sorinoeul)" onclick="
+" target="_self">소리노을(Sorinoeul)</a>
+</p>
+<p>
+<time datetime="">2023.12.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206135/20613573.jpg?version=1703235628000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다나랜드 학습 동요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2404,6 +2435,24 @@ The Boy and the Sea
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206112/20611273.jpg?version=1703214032000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노놀 VOL 28. Christmas with NONOL (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4094491?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4094491?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Dec 2023 09:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20114156?wl_ref=list_ab_04" class="artistTitle" title="heyseunghey">heyseunghey</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'heyseunghey||heyseunghey||20114156||OK\\n취향상점 (Tasty Shop)||취향상점 (Tasty Shop)||20071615||OK\\n준서 (JUNSEO)||준서 (JUNSEO)||20178065||OK\\nHe:ro(히로)||He:ro(히로)||80381836||OK', ''); return false;">
+heyseunghey
+</a> </p>
+<p>
+<time datetime="">2023.12.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40944/4094491.jpg?version=1703235604000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신나는 크리스마스캐롤 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20614045?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20614045?wl_ref=list_ab_03</guid>
@@ -2539,6 +2588,21 @@ The Boy and the Sea
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206133/20613393.jpg?version=1703214032000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YOUR SEASON (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20613343?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20613343?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Dec 2023 10:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20144489?wl_ref=list_ab_04" class="artistTitle" title="sfty(세이프티)" onclick="
+" target="_self">sfty(세이프티)</a>
+</p>
+<p>
+<time datetime="">2023.12.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206133/20613343.jpg?version=1703235628000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ego (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20613341?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20613341?wl_ref=list_ab_03</guid>
@@ -2617,6 +2681,21 @@ The Boy and the Sea
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206129/20612904.jpg?version=1703214032000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[적응기 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20612857?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20612857?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Dec 2023 10:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20186722?wl_ref=list_ab_04" class="artistTitle" title="Rihan" onclick="
+" target="_self">Rihan</a>
+</p>
+<p>
+<time datetime="">2023.12.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206128/20612857.jpg?version=1703235628000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TOP & GTS (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20612516?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20612516?wl_ref=list_ab_03</guid>
@@ -2632,6 +2711,21 @@ The Boy and the Sea
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206125/20612516.jpg?version=1703214032000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여행 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20612515?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20612515?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Dec 2023 09:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20007284?wl_ref=list_ab_04" class="artistTitle" title="Alt (알트)" onclick="
+" target="_self">Alt (알트)</a>
+</p>
+<p>
+<time datetime="">2023.12.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206125/20612515.jpg?version=1703235623000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Love Is Real (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/4094391?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4094391?wl_ref=list_ab_03</guid>
@@ -2645,6 +2739,21 @@ The Boy and the Sea
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40943/4094391.jpg?version=1703214032000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peacock (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4094388?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4094388?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Dec 2023 10:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12369681?wl_ref=list_ab_04" class="artistTitle" title="TE’O (테오)" onclick="
+" target="_self">TE’O (테오)</a>
+</p>
+<p>
+<time datetime="">2023.12.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40943/4094388.jpg?version=1703235628000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑의 크리스마스 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3098,111 +3207,6 @@ The Boy and the Sea
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206137/20613777.jpg?version=1703214032000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하얀크리스마스 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20613774?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20613774?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Dec 2023 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80176420?wl_ref=list_ab_04" class="artistTitle" title="구환" onclick="
-" target="_self">구환</a>
-</p>
-<p>
-<time datetime="">2023.12.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206137/20613774.jpg?version=1703214032000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[L♡vestruck! (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20613766?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20613766?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Dec 2023 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20202169?wl_ref=list_ab_04" class="artistTitle" title="J!mni" onclick="
-" target="_self">J!mni</a>
-</p>
-<p>
-<time datetime="">2023.12.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206137/20613766.jpg?version=1703214032000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seoul (Feat. Ronan) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20613763?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20613763?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Dec 2023 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20189183?wl_ref=list_ab_04" class="artistTitle" title="Wave Orbit" onclick="
-" target="_self">Wave Orbit</a>
-</p>
-<p>
-<time datetime="">2023.12.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206137/20613763.jpg?version=1703214032000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Winter Dreams (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20613759?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20613759?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Dec 2023 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80142634?wl_ref=list_ab_04" class="artistTitle" title="7PM" onclick="
-" target="_self">7PM</a>
-</p>
-<p>
-<time datetime="">2023.12.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206137/20613759.jpg?version=1703214032000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고양이 귀여워 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20613736?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20613736?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Dec 2023 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20202159?wl_ref=list_ab_04" class="artistTitle" title="하랑스토리" onclick="
-" target="_self">하랑스토리</a>
-</p>
-<p>
-<time datetime="">2023.12.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206137/20613736.jpg?version=1703214032000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팥쥐아재가 들려주는 동화이야기 - 요술쟁이 거북, 부기 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20613732?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20613732?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Dec 2023 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20193673?wl_ref=list_ab_04" class="artistTitle" title="팥쥐아재" onclick="
-" target="_self">팥쥐아재</a>
-</p>
-<p>
-<time datetime="">2023.12.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206137/20613732.jpg?version=1703214032000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팥쥐아재가 들려주는 동화이야기 - 멍구름 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20613731?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20613731?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 22 Dec 2023 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20193673?wl_ref=list_ab_04" class="artistTitle" title="팥쥐아재" onclick="
-" target="_self">팥쥐아재</a>
-</p>
-<p>
-<time datetime="">2023.12.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206137/20613731.jpg?version=1703214032000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
