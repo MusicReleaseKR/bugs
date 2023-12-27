@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 02:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 03:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336058/33605841.jpg?version=20231227050013.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Most Of All]]></title>
+            <link>https://music.bugs.co.kr/album/20324017?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20324017?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 27 Dec 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11439419?wl_ref=list_ab_04" class="artistTitle" title="Oracle Sisters" onclick="
+" target="_self">Oracle Sisters</a>
+</p>
+<p>
+<time datetime="">2023.12.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/203240/20324017.jpg?version=20231227120037.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Should Have Let Go]]></title>
@@ -1115,21 +1130,6 @@ Kristian Krogsøe
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206138/20613857.jpg?version=20231226120007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[True…]]></title>
-            <link>https://music.bugs.co.kr/album/20613797?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20613797?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 26 Dec 2023 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8057043?wl_ref=list_ab_04" class="artistTitle" title="Facundo Mohrr" onclick="
-" target="_self">Facundo Mohrr</a>
-</p>
-<p>
-<time datetime="">2023.12.26</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206137/20613797.jpg?version=20231226120007.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
