@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 09:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 10:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2101,6 +2101,21 @@ Scott Brenner(스캇 브래너)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206139/20613971.jpg?version=20231228120038.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[It's just the way things are (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20613297?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20613297?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Dec 2023 10:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20202003?wl_ref=list_ab_04" class="artistTitle" title="John Guite" onclick="
+" target="_self">John Guite</a>
+</p>
+<p>
+<time datetime="">2023.12.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206132/20613297.jpg?version=20231228180033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Rädd för tystnaden (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/13929669?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/13929669?wl_ref=list_ab_03</guid>
@@ -2146,6 +2161,21 @@ Scott Brenner(스캇 브래너)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40946/4094610.jpg?version=20231228120037.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SAINT (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/4094555?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4094555?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Dec 2023 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20119907?wl_ref=list_ab_04" class="artistTitle" title="Jeffrey White" onclick="
+" target="_self">Jeffrey White</a>
+</p>
+<p>
+<time datetime="">2023.12.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40945/4094555.jpg?version=20231228180028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pull Me Under EP (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33612779?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33612779?wl_ref=list_ab_03</guid>
@@ -2174,42 +2204,6 @@ Scott Brenner(스캇 브래너)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336124/33612400.jpg?version=20231228005042.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Love-Fi Fairytale (Pt. II) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33608631?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33608631?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Dec 2023 04:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12076482?wl_ref=list_ab_04" class="artistTitle" title="ADYM">ADYM</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'ADYM||ADYM||12076482||OK\\nLola||Lola||8105418||OK', ''); return false;">
-ADYM
-</a> </p>
-<p>
-<time datetime="">2023.12.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336086/33608631.jpg?version=20231228012010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Skil (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33607942?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33607942?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Dec 2023 04:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12279759?wl_ref=list_ab_04" class="artistTitle" title="VEITAN">VEITAN</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'VEITAN||VEITAN||12279759||OK\\nIngvi Þór Kormáksson||Ingvi Þór Kormáksson||11571727||OK\\nVilhjálmur Guðjónsson||Vilhjálmur Guðjónsson||11280506||OK', ''); return false;">
-VEITAN
-</a> </p>
-<p>
-<time datetime="">2023.12.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336079/33607942.jpg?version=20231228000032.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유치원 어린이집 주제별 필수동요-겨울 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2468,6 +2462,21 @@ Scott Brenner(스캇 브래너)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40946/4094610.jpg?version=1703732437000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAINT (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4094555?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4094555?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Dec 2023 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20119907?wl_ref=list_ab_04" class="artistTitle" title="Jeffrey White" onclick="
+" target="_self">Jeffrey White</a>
+</p>
+<p>
+<time datetime="">2023.12.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40945/4094555.jpg?version=1703754028000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부유(floating) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2785,6 +2794,21 @@ Scott Brenner(스캇 브래너)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206148/20614855.jpg?version=1703732438000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dingo X BIG Naughty (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20614831?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20614831?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Dec 2023 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20090461?wl_ref=list_ab_04" class="artistTitle" title="BIG Naughty (서동현)" onclick="
+" target="_self">BIG Naughty (서동현)</a>
+</p>
+<p>
+<time datetime="">2023.12.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206148/20614831.jpg?version=1703754028000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Altar-Call (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20614824?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20614824?wl_ref=list_ab_03</guid>
@@ -2936,6 +2960,21 @@ Scott Brenner(스캇 브래너)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206147/20614730.jpg?version=1703732438000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 괜찮다 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20614729?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20614729?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Dec 2023 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80125474?wl_ref=list_ab_04" class="artistTitle" title="마멀레이드 키친(Marmalade Kitchen)" onclick="
+" target="_self">마멀레이드 키친(Marmalade Kitchen)</a>
+</p>
+<p>
+<time datetime="">2023.12.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206147/20614729.jpg?version=1703754028000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠잘 때 듣는 노래 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3133,6 +3172,21 @@ Scott Brenner(스캇 브래너)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206146/20614655.jpg?version=1703732438000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Walk in the Party (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20614650?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20614650?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Dec 2023 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80218657?wl_ref=list_ab_04" class="artistTitle" title="Dbo (디보)" onclick="
+" target="_self">Dbo (디보)</a>
+</p>
+<p>
+<time datetime="">2023.12.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206146/20614650.jpg?version=1703754028000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Holly's Day (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20614641?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20614641?wl_ref=list_ab_03</guid>
@@ -3206,66 +3260,6 @@ Scott Brenner(스캇 브래너)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206146/20614620.jpg?version=1703732438000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[When I Love You (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20614616?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20614616?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Dec 2023 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20107589?wl_ref=list_ab_04" class="artistTitle" title="Lufus" onclick="
-" target="_self">Lufus</a>
-</p>
-<p>
-<time datetime="">2023.12.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206146/20614616.jpg?version=1703732438000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변함없으신 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20614605?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20614605?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Dec 2023 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20202435?wl_ref=list_ab_04" class="artistTitle" title="어웨이크" onclick="
-" target="_self">어웨이크</a>
-</p>
-<p>
-<time datetime="">2023.12.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206146/20614605.jpg?version=1703732438000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Light Project Vol.1 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20614596?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20614596?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Dec 2023 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20202432?wl_ref=list_ab_04" class="artistTitle" title="히엘 찬양대" onclick="
-" target="_self">히엘 찬양대</a>
-</p>
-<p>
-<time datetime="">2023.12.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206145/20614596.jpg?version=1703732438000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판타지 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20614585?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20614585?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Dec 2023 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20176984?wl_ref=list_ab_04" class="artistTitle" title="송인" onclick="
-" target="_self">송인</a>
-</p>
-<p>
-<time datetime="">2023.12.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206145/20614585.jpg?version=1703732438000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
