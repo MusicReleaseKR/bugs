@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 23:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 01:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2742,14 +2742,17 @@ Scott Brenner(스캇 브래너)
             <guid>https://music.bugs.co.kr/album/4094453?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 28 Dec 2023 04:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20084039?wl_ref=list_ab_04" class="artistTitle" title="타미즈(Tamiz)" onclick="
-" target="_self">타미즈(Tamiz)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20084039?wl_ref=list_ab_04" class="artistTitle" title="타미즈(Tamiz)">타미즈(Tamiz)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '타미즈||타미즈(Tamiz)||20084039||OK\\nHIRO||HIRO (히로)||80358214||OK', ''); return false;">
+타미즈(Tamiz)
+</a> </p>
 <p>
 <time datetime="">2023.12.28</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40944/4094453.jpg?version=1703799936000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40944/4094453.jpg?version=1703808496000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[십자가 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
