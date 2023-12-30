@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 09:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 10:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -910,6 +910,39 @@ Majxr
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206149/20614999.jpg?version=20231230120029.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내 귀에 띵곡 Part.07]]></title>
+            <link>https://music.bugs.co.kr/album/20614979?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20614979?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 30 Dec 2023 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80257479?wl_ref=list_ab_04" class="artistTitle" title="안예은">안예은</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '안예은||안예은||80257479||OK\\n가호(Gaho)||가호(Gaho)||80297924||OK\\n지한||지한 (Weeekly)||80342944||OK', ''); return false;">
+안예은
+</a> </p>
+<p>
+<time datetime="">2023.12.30</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206149/20614979.jpg?version=20231230180022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BALLADS]]></title>
+            <link>https://music.bugs.co.kr/album/20614800?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20614800?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 30 Dec 2023 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20112288?wl_ref=list_ab_04" class="artistTitle" title="LEEYOUNGWOONG" onclick="
+" target="_self">LEEYOUNGWOONG</a>
+</p>
+<p>
+<time datetime="">2023.12.30</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206148/20614800.jpg?version=20231230180022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ing ing]]></title>
             <link>https://music.bugs.co.kr/album/20614792?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20614792?wl_ref=list_ab_03</guid>
@@ -1118,36 +1151,6 @@ Emir Gökkaya
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336466/33646622.jpg?version=20231230043008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ocultos]]></title>
-            <link>https://music.bugs.co.kr/album/33646617?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33646617?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 30 Dec 2023 04:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13349609?wl_ref=list_ab_04" class="artistTitle" title="Pech Wooro" onclick="
-" target="_self">Pech Wooro</a>
-</p>
-<p>
-<time datetime="">2023.12.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336466/33646617.jpg?version=20231230043008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[La Tienen]]></title>
-            <link>https://music.bugs.co.kr/album/33646605?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33646605?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 30 Dec 2023 04:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13349609?wl_ref=list_ab_04" class="artistTitle" title="Pech Wooro" onclick="
-" target="_self">Pech Wooro</a>
-</p>
-<p>
-<time datetime="">2023.12.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336466/33646605.jpg?version=20231230043007.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
