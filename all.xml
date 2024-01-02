@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 09:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 10:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2623,6 +2623,24 @@ Ranger(레인저)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206148/20614852.jpg?version=1704164423000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MP3 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20614737?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20614737?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 02 Jan 2024 09:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20117742?wl_ref=list_ab_04" class="artistTitle" title="seshin">seshin</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'seshin||seshin||20117742||OK\\nM3CHVNIC||M3CHVNIC (메카닉)||20117740||OK', ''); return false;">
+seshin
+</a> </p>
+<p>
+<time datetime="">2024.01.02</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206147/20614737.jpg?version=1704186000000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[렘수면(REM sleep) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20614457?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20614457?wl_ref=list_ab_03</guid>
@@ -2876,6 +2894,21 @@ Ranger(레인저)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206151/20615139.jpg?version=1704164428000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘the Billlie’s odditorium’ the second edition (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20615132?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20615132?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 02 Jan 2024 09:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20147081?wl_ref=list_ab_04" class="artistTitle" title="Billlie (빌리)" onclick="
+" target="_self">Billlie (빌리)</a>
+</p>
+<p>
+<time datetime="">2024.01.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206151/20615132.jpg?version=1704186007000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤엄치고 싶다면 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3178,6 +3211,21 @@ Ranger(레인저)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206149/20614929.jpg?version=1704164423000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HIGH (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20614919?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20614919?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 02 Jan 2024 10:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20202536?wl_ref=list_ab_04" class="artistTitle" title="hinoori(히누리)" onclick="
+" target="_self">hinoori(히누리)</a>
+</p>
+<p>
+<time datetime="">2024.01.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206149/20614919.jpg?version=1704186004000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JM STUDIO VOL1 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20614916?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20614916?wl_ref=list_ab_03</guid>
@@ -3221,51 +3269,6 @@ Ranger(레인저)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206149/20614911.jpg?version=1704164428000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Is Not A Feeling (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20614888?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20614888?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 02 Jan 2024 03:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20044704?wl_ref=list_ab_04" class="artistTitle" title="Around(어라운드)" onclick="
-" target="_self">Around(어라운드)</a>
-</p>
-<p>
-<time datetime="">2024.01.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206148/20614888.jpg?version=1704164423000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Complicated (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20614886?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20614886?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 02 Jan 2024 04:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20198117?wl_ref=list_ab_04" class="artistTitle" title="Room7" onclick="
-" target="_self">Room7</a>
-</p>
-<p>
-<time datetime="">2024.01.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206148/20614886.jpg?version=1704164428000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bach Prelude In C Major, BWV 846 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20614872?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20614872?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 02 Jan 2024 04:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20201376?wl_ref=list_ab_04" class="artistTitle" title="유진성" onclick="
-" target="_self">유진성</a>
-</p>
-<p>
-<time datetime="">2024.01.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206148/20614872.jpg?version=1704164428000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
