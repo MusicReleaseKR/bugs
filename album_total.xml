@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 20:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 21:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chopin: Masterpieces]]></title>
+            <link>https://music.bugs.co.kr/album/33612154?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33612154?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 02 Jan 2024 21:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8000108?wl_ref=list_ab_04" class="artistTitle" title="Frederic Chopin(쇼팽)" onclick="
+" target="_self">Frederic Chopin(쇼팽)</a>
+</p>
+<p>
+<time datetime="">2024.01.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336121/33612154.jpg?version=20240104052008.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Renegade & I Was Never There]]></title>
             <link>https://music.bugs.co.kr/album/33617300?wl_ref=list_ab_03</link>
@@ -60,6 +75,21 @@ Alperen INC
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/329700/32970005.jpg?version=20240104000030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grieg: Morning Mood - Albinoni: Adagio - Gluck: Dance of the Blessed Spirits - Bach: Jesu, Joy of Man's Desiring & Badinerie - Charpentier: Te Deum - Bizet: Les toréadors & Other Classical Hits]]></title>
+            <link>https://music.bugs.co.kr/album/33612184?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33612184?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 03 Jan 2024 21:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/35619?wl_ref=list_ab_04" class="artistTitle" title="Neville Marriner(네빌 매리너)" onclick="
+" target="_self">Neville Marriner(네빌 매리너)</a>
+</p>
+<p>
+<time datetime="">2024.01.04</time>
+<span class="albumType">컴필레이션</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336121/33612184.jpg?version=20240104052011.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Endless Love]]></title>
@@ -120,21 +150,6 @@ Alperen INC
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336471/33647183.jpg?version=20240103002306.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chopin: Masterpieces]]></title>
-            <link>https://music.bugs.co.kr/album/33612154?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33612154?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 02 Jan 2024 21:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8000108?wl_ref=list_ab_04" class="artistTitle" title="Frederic Chopin(쇼팽)" onclick="
-" target="_self">Frederic Chopin(쇼팽)</a>
-</p>
-<p>
-<time datetime="">2024.01.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336121/33612154.jpg?version=20240104051521.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Thicker than water]]></title>
@@ -1191,21 +1206,6 @@ Yoga Muziek
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206153/20615340.jpg?version=20240103120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Active Mildred]]></title>
-            <link>https://music.bugs.co.kr/album/20615322?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20615322?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 03 Jan 2024 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13353915?wl_ref=list_ab_04" class="artistTitle" title="propo" onclick="
-" target="_self">propo</a>
-</p>
-<p>
-<time datetime="">2024.01.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206153/20615322.jpg?version=20240103120039.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
