@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 09:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 10:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -842,6 +842,21 @@ Thalia Jason
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206152/20615247.jpg?version=20240104120023.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[소실 (消失)]]></title>
+            <link>https://music.bugs.co.kr/album/20615239?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20615239?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 04 Jan 2024 10:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20165362?wl_ref=list_ab_04" class="artistTitle" title="초록인간선아 (草綠人間善我)" onclick="
+" target="_self">초록인간선아 (草綠人間善我)</a>
+</p>
+<p>
+<time datetime="">2024.01.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206152/20615239.jpg?version=20240104180033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sunny Terrace Cafe Vol.9]]></title>
             <link>https://music.bugs.co.kr/album/20615162?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20615162?wl_ref=list_ab_03</guid>
@@ -1091,6 +1106,21 @@ tinox
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336472/33647295.jpg?version=20240104000030.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[age tape 10]]></title>
+            <link>https://music.bugs.co.kr/album/33647221?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33647221?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 04 Jan 2024 10:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12234318?wl_ref=list_ab_04" class="artistTitle" title="Arden Jones" onclick="
+" target="_self">Arden Jones</a>
+</p>
+<p>
+<time datetime="">2024.01.04</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336472/33647221.jpg?version=20240104140029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[單車上的旅程 Journey on the Bicycle]]></title>
             <link>https://music.bugs.co.kr/album/33622020?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33622020?wl_ref=list_ab_03</guid>
@@ -1119,36 +1149,6 @@ tinox
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/335647/33564776.jpg?version=20240104120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tones of Togetherness EP]]></title>
-            <link>https://music.bugs.co.kr/album/33563263?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33563263?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 04 Jan 2024 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8087127?wl_ref=list_ab_04" class="artistTitle" title="Mazze" onclick="
-" target="_self">Mazze</a>
-</p>
-<p>
-<time datetime="">2024.01.04</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335632/33563263.jpg?version=20240104120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Overgrown]]></title>
-            <link>https://music.bugs.co.kr/album/33546328?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33546328?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 04 Jan 2024 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13189992?wl_ref=list_ab_04" class="artistTitle" title="MAXN" onclick="
-" target="_self">MAXN</a>
-</p>
-<p>
-<time datetime="">2024.01.04</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335463/33546328.jpg?version=20240104120033.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
