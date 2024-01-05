@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 02:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 03:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,57 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336463/33646315.jpg?version=20240105004218.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Towns]]></title>
+            <link>https://music.bugs.co.kr/album/33506092?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33506092?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 Jan 2024 03:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20176271?wl_ref=list_ab_04" class="artistTitle" title="Esparo" onclick="
+" target="_self">Esparo</a>
+</p>
+<p>
+<time datetime="">2024.01.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/335060/33506092.jpg?version=20240105120033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Linen (feat. Yelawolf) (Live)]]></title>
+            <link>https://music.bugs.co.kr/album/33484979?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33484979?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 Jan 2024 03:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80202838?wl_ref=list_ab_04" class="artistTitle" title="Dirty Heads(더티 헤즈)">Dirty Heads(더티 헤즈)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Dirty Heads||Dirty Heads(더티 헤즈)||80202838||OK\\nYelawolf||Yelawolf(옐라울프)||80074326||OK', ''); return false;">
+Dirty Heads(더티 헤즈)
+</a> </p>
+<p>
+<time datetime="">2024.01.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334849/33484979.jpg?version=20240105120033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Got A Feeling]]></title>
+            <link>https://music.bugs.co.kr/album/33135956?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33135956?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 Jan 2024 03:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/8372104?wl_ref=list_ab_04" class="artistTitle" title="Michael Ford">Michael Ford</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Michael Ford||Michael Ford||8372104||OK\\nDavid Atsman||David Atsman||12443790||OK', ''); return false;">
+Michael Ford
+</a> </p>
+<p>
+<time datetime="">2024.01.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331359/33135956.jpg?version=20240105120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Centrandome En Mi]]></title>
@@ -41,7 +92,7 @@ Emeka
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316414/31641413.jpg?version=20240105000030.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Till I Live]]></title>
+            <title><![CDATA[Tic Tac?]]></title>
             <link>https://music.bugs.co.kr/album/20596735?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20596735?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 04 Jan 2024 15:18:27 GMT</pubDate>
@@ -50,10 +101,10 @@ Emeka
 " target="_self">홍다빈</a>
 </p>
 <p>
-<time datetime="">2023.10.18</time>
+<time datetime="">2024.01.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205967/20596735.jpg?version=20231229011854.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205967/20596735.jpg?version=20240105120130.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rose Love]]></title>
@@ -1104,54 +1155,6 @@ Ondo88
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206135/20613505.jpg?version=20240104120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[なつかしい未来(Natsukashii Mirai)]]></title>
-            <link>https://music.bugs.co.kr/album/4094808?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4094808?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 04 Jan 2024 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/9389184?wl_ref=list_ab_04" class="artistTitle" title="Masashi Sada(사다 마사시/さだまさし)" onclick="
-" target="_self">Masashi Sada(사다 마사시/さだまさし)</a>
-</p>
-<p>
-<time datetime="">2024.01.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40948/4094808.jpg?version=20240105013531.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NOMINATE]]></title>
-            <link>https://music.bugs.co.kr/album/4094793?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4094793?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 04 Jan 2024 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20054238?wl_ref=list_ab_04" class="artistTitle" title="PULLIK (박준호)" onclick="
-" target="_self">PULLIK (박준호)</a>
-</p>
-<p>
-<time datetime="">2024.01.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40947/4094793.jpg?version=20240104120023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swırf]]></title>
-            <link>https://music.bugs.co.kr/album/33647295?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33647295?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 04 Jan 2024 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13340089?wl_ref=list_ab_04" class="artistTitle" title="tinox">tinox</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'tinox||tinox||13340089||OK\\nx3L||x3L||13340022||OK', ''); return false;">
-tinox
-</a> </p>
-<p>
-<time datetime="">2024.01.04</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336472/33647295.jpg?version=20240105063602.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
