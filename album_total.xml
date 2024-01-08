@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 09:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 10:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -827,6 +827,21 @@ Mellow Daze
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336558/33655802.jpg?version=20240108120021.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[CONNECT]]></title>
+            <link>https://music.bugs.co.kr/album/33655800?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33655800?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 08 Jan 2024 10:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80098436?wl_ref=list_ab_04" class="artistTitle" title="B1A4" onclick="
+" target="_self">B1A4</a>
+</p>
+<p>
+<time datetime="">2024.01.08</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336558/33655800.jpg?version=20240108180037.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Deep Purple]]></title>
             <link>https://music.bugs.co.kr/album/33655459?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33655459?wl_ref=list_ab_03</guid>
@@ -1065,21 +1080,6 @@ Mellow Daze
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/335512/33551298.jpg?version=20240108000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bukan Aku Tak Benci]]></title>
-            <link>https://music.bugs.co.kr/album/33549475?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33549475?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 08 Jan 2024 04:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13523090?wl_ref=list_ab_04" class="artistTitle" title="Khayalan Band" onclick="
-" target="_self">Khayalan Band</a>
-</p>
-<p>
-<time datetime="">2024.01.08</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/335494/33549475.jpg?version=20240108000027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
