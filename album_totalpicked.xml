@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 04:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 05:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40950/4095062.jpg?version=20240110120000.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fallen Angel (Feat. XYLØ)]]></title>
+            <link>https://music.bugs.co.kr/album/20616272?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20616272?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 10 Jan 2024 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80209607?wl_ref=list_ab_04" class="artistTitle" title="류수정" onclick="
+" target="_self">류수정</a>
+</p>
+<p>
+<time datetime="">2024.01.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206162/20616272.jpg?version=20240110140004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[환상연가 OST Part 2]]></title>
@@ -1060,21 +1075,6 @@ Wuno
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336476/33647687.jpg?version=20240109015428.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blick (Remix)]]></title>
-            <link>https://music.bugs.co.kr/album/33650631?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33650631?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 09 Jan 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11932989?wl_ref=list_ab_04" class="artistTitle" title="Scar Lip" onclick="
-" target="_self">Scar Lip</a>
-</p>
-<p>
-<time datetime="">2024.01.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336506/33650631.jpg?version=20240106065546.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
