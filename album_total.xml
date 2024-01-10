@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 08:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 09:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -402,21 +402,6 @@ Orchestra Vito
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336479/33647977.jpg?version=20240110171340.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mozart: Masterpieces]]></title>
-            <link>https://music.bugs.co.kr/album/33647907?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33647907?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 06 Jan 2024 05:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8000093?wl_ref=list_ab_04" class="artistTitle" title="Wolfgang Amadeus Mozart(모차르트)" onclick="
-" target="_self">Wolfgang Amadeus Mozart(모차르트)</a>
-</p>
-<p>
-<time datetime="">2024.01.10</time>
-<span class="albumType">컴필레이션</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336479/33647907.jpg?version=20240110171903.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Beet King (feat. BDavidson2077)]]></title>
@@ -1065,6 +1050,21 @@ Orchestra Vito
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206153/20615318.jpg?version=20240110120009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[REPLAY4]]></title>
+            <link>https://music.bugs.co.kr/album/20615260?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20615260?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 10 Jan 2024 09:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20193292?wl_ref=list_ab_04" class="artistTitle" title="2SY" onclick="
+" target="_self">2SY</a>
+</p>
+<p>
+<time datetime="">2024.01.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206152/20615260.jpg?version=20240110120009.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
