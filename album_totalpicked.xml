@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 14:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 15:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,20 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206170/20617076.jpg?version=20240111180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어게인3 - 무명가수전 Episode.12]]></title>
+            <link>https://music.bugs.co.kr/album/4095158?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095158?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 11 Jan 2024 15:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<span class="artistTitle" title="">Various Artists</span>
+</p>
+<p>
+<time datetime="">2024.01.12</time>
+<span class="albumType">컴필레이션</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40951/4095158.jpg?version=20240112000023.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너처럼 날 사랑할 수 있게]]></title>
@@ -261,7 +275,7 @@ KENON
 <time datetime="">2024.01.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40950/4095062.jpg?version=20240110120000.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40950/4095062.jpg?version=20240111235042.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 #20]]></title>
@@ -1061,21 +1075,6 @@ Nate VanDeusen
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206165/20616566.jpg?version=20240111012752.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunshine of Mine]]></title>
-            <link>https://music.bugs.co.kr/album/20616314?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20616314?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Jan 2024 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8879975?wl_ref=list_ab_04" class="artistTitle" title="U-Nam" onclick="
-" target="_self">U-Nam</a>
-</p>
-<p>
-<time datetime="">2024.01.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206163/20616314.jpg?version=20240110120000.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
