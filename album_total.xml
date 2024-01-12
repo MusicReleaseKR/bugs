@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 14:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 15:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Başa Sarıyorum]]></title>
+            <link>https://music.bugs.co.kr/album/32983701?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32983701?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 12 Jan 2024 15:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13320750?wl_ref=list_ab_04" class="artistTitle" title="Jazyxd">Jazyxd</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Jazyxd||Jazyxd||13320750||OK\\nTory Schistad||Tory Schistad||13353726||OK\\nTwinzy||Twinzy||13364808||OK', ''); return false;">
+Jazyxd
+</a> </p>
+<p>
+<time datetime="">2024.01.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/329837/32983701.jpg?version=20240113000024.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aurora]]></title>
             <link>https://music.bugs.co.kr/album/33686680?wl_ref=list_ab_03</link>
@@ -536,7 +554,7 @@ Alles Kids
 <time datetime="">2024.01.12</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336826/33682698.jpg?version=20240112102817.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336826/33682698.jpg?version=20240112234637.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ORQUÍDEAS]]></title>
@@ -1053,21 +1071,6 @@ The Boy and the Sea
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336819/33681926.jpg?version=20240112000028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Via Piombai]]></title>
-            <link>https://music.bugs.co.kr/album/33681916?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33681916?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Jan 2024 04:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12336216?wl_ref=list_ab_04" class="artistTitle" title="Enzo Benz" onclick="
-" target="_self">Enzo Benz</a>
-</p>
-<p>
-<time datetime="">2024.01.12</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336819/33681916.jpg?version=20240112000028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
