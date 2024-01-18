@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 02:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 03:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -249,6 +249,21 @@ El Camino
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336893/33689325.jpg?version=20240118064457.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Classical Piano Works - Vol. 1]]></title>
+            <link>https://music.bugs.co.kr/album/33687422?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33687422?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 18 Jan 2024 03:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13560170?wl_ref=list_ab_04" class="artistTitle" title="Judith Falk" onclick="
+" target="_self">Judith Falk</a>
+</p>
+<p>
+<time datetime="">2024.01.17</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336874/33687422.jpg?version=20240118064527.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Superstar (Deluxe)]]></title>
@@ -1100,21 +1115,6 @@ Moon Tunes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206179/20617952.jpg?version=20240117120017.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이 피아노 동요]]></title>
-            <link>https://music.bugs.co.kr/album/20617739?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20617739?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 17 Jan 2024 04:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20199799?wl_ref=list_ab_04" class="artistTitle" title="소리나무" onclick="
-" target="_self">소리나무</a>
-</p>
-<p>
-<time datetime="">2024.01.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206177/20617739.jpg?version=20240117120017.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
