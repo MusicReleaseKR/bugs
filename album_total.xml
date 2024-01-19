@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 14:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 15:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Live at Hljóðriti]]></title>
+            <link>https://music.bugs.co.kr/album/30467756?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30467756?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 19 Jan 2024 15:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20021045?wl_ref=list_ab_04" class="artistTitle" title="Junius Meyvant" onclick="
+" target="_self">Junius Meyvant</a>
+</p>
+<p>
+<time datetime="">2024.01.20</time>
+<span class="albumType">라이브</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/304677/30467756.jpg?version=20230121070009.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Beginnings]]></title>
             <link>https://music.bugs.co.kr/album/33711568?wl_ref=list_ab_03</link>
@@ -1079,21 +1094,6 @@ Friederike Schorling
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336967/33696777.jpg?version=20240119003016.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Don Quichotte chez la duchesse]]></title>
-            <link>https://music.bugs.co.kr/album/33696776?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33696776?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 19 Jan 2024 04:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80183409?wl_ref=list_ab_04" class="artistTitle" title="Matthias Maute" onclick="
-" target="_self">Matthias Maute</a>
-</p>
-<p>
-<time datetime="">2024.01.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336967/33696776.jpg?version=20240119014244.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
