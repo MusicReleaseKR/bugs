@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 14:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 15:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너로 짙은 밤]]></title>
+            <link>https://music.bugs.co.kr/album/4088942?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4088942?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 20 Jan 2024 15:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80209230?wl_ref=list_ab_04" class="artistTitle" title="새봄(Saevom)" onclick="
+" target="_self">새봄(Saevom)</a>
+</p>
+<p>
+<time datetime="">2023.12.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40889/4088942.jpg?version=1702396042000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주처럼, 우주만큼, 우주보다]]></title>
             <link>https://music.bugs.co.kr/album/20618732?wl_ref=list_ab_03</link>
@@ -1062,21 +1077,6 @@ ENHYPEN
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206187/20618772.jpg?version=1705633221000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slow]]></title>
-            <link>https://music.bugs.co.kr/album/20618499?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20618499?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 19 Jan 2024 04:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20194256?wl_ref=list_ab_04" class="artistTitle" title="Orioné" onclick="
-" target="_self">Orioné</a>
-</p>
-<p>
-<time datetime="">2024.01.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206184/20618499.jpg?version=1705680004000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
