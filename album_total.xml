@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 14:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 15:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Voi Romani]]></title>
+            <link>https://music.bugs.co.kr/album/33605134?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33605134?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 21 Jan 2024 15:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80215547?wl_ref=list_ab_04" class="artistTitle" title="Costi">Costi</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Costi||Costi||80215547||OK\\nVladuta Lupau||Vladuta Lupau||12321247||OK\\nCulita Sterp||Culita Sterp||11966289||OK', ''); return false;">
+Costi
+</a> </p>
+<p>
+<time datetime="">2024.01.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336051/33605134.jpg?version=20240122000004.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vast Desert]]></title>
             <link>https://music.bugs.co.kr/album/33710775?wl_ref=list_ab_03</link>
@@ -1113,21 +1131,6 @@ Kannu Berry
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336996/33699610.jpg?version=20240121120007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Safar]]></title>
-            <link>https://music.bugs.co.kr/album/33699609?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33699609?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 21 Jan 2024 04:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8187478?wl_ref=list_ab_04" class="artistTitle" title="Metaphor" onclick="
-" target="_self">Metaphor</a>
-</p>
-<p>
-<time datetime="">2024.01.21</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336996/33699609.jpg?version=20240121120007.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

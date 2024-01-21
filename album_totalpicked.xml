@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 14:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 15:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40954/4095405.jpg?version=20240121180002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wife]]></title>
+            <link>https://music.bugs.co.kr/album/4095394?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095394?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 21 Jan 2024 15:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20056456?wl_ref=list_ab_04" class="artistTitle" title="(여자)아이들" onclick="
+" target="_self">(여자)아이들</a>
+</p>
+<p>
+<time datetime="">2024.01.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40953/4095394.jpg?version=20240122000003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그 사랑은 내 사랑이 아니었음을]]></title>
@@ -53,21 +68,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206187/20618741.jpg?version=20240121180002.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[저 별들도 질투할 만큼]]></title>
-            <link>https://music.bugs.co.kr/album/4095408?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4095408?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 21 Jan 2024 09:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20116627?wl_ref=list_ab_04" class="artistTitle" title="탑현" onclick="
-" target="_self">탑현</a>
-</p>
-<p>
-<time datetime="">2024.01.21</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40954/4095408.jpg?version=20240121180004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[EYE LOVE YOU!]]></title>
             <link>https://music.bugs.co.kr/album/4095375?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4095375?wl_ref=list_ab_03</guid>
@@ -96,6 +96,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206192/20619251.jpg?version=20240121180003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저 별들도 질투할 만큼]]></title>
+            <link>https://music.bugs.co.kr/album/4095408?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095408?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 21 Jan 2024 09:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20116627?wl_ref=list_ab_04" class="artistTitle" title="탑현" onclick="
+" target="_self">탑현</a>
+</p>
+<p>
+<time datetime="">2024.01.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40954/4095408.jpg?version=20240121180004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세작, 매혹된 자들 OST 제 1수]]></title>
@@ -1054,21 +1069,6 @@ MAX(맥스)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206190/20619087.jpg?version=20240119120004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외부입력:HDMI]]></title>
-            <link>https://music.bugs.co.kr/album/4095314?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4095314?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 19 Jan 2024 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12830722?wl_ref=list_ab_04" class="artistTitle" title="Xyche Kiddy" onclick="
-" target="_self">Xyche Kiddy</a>
-</p>
-<p>
-<time datetime="">2024.01.19</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40953/4095314.jpg?version=20240120073449.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
