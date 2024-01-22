@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 04:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 05:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -548,6 +548,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206169/20616929.jpg?version=1705892411000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Oh Mymy : 7s]]></title>
+            <link>https://music.bugs.co.kr/album/4094730?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4094730?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 22 Jan 2024 05:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13556684?wl_ref=list_ab_04" class="artistTitle" title="TWS (투어스)" onclick="
+" target="_self">TWS (투어스)</a>
+</p>
+<p>
+<time datetime="">2024.01.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40947/4094730.jpg?version=1704383311000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[New Calendar]]></title>
             <link>https://music.bugs.co.kr/album/20619442?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20619442?wl_ref=list_ab_03</guid>
@@ -1041,21 +1056,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206189/20618997.jpg?version=1705892411000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫사랑]]></title>
-            <link>https://music.bugs.co.kr/album/20618988?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20618988?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 22 Jan 2024 04:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80382046?wl_ref=list_ab_04" class="artistTitle" title="케브(C.eV)" onclick="
-" target="_self">케브(C.eV)</a>
-</p>
-<p>
-<time datetime="">2024.01.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206189/20618988.jpg?version=1705892404000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
