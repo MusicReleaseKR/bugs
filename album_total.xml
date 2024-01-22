@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 20:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 21:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Diva by Daisy Goodwin]]></title>
+            <link>https://music.bugs.co.kr/album/33695942?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33695942?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 20 Jan 2024 01:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/1043?wl_ref=list_ab_04" class="artistTitle" title="Maria Callas(마리아 칼라스)" onclick="
+" target="_self">Maria Callas(마리아 칼라스)</a>
+</p>
+<p>
+<time datetime="">2024.01.23</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336959/33695942.jpg?version=20240123053011.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tic Tac?]]></title>
             <link>https://music.bugs.co.kr/album/20596735?wl_ref=list_ab_03</link>
@@ -81,21 +96,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336997/33699716.jpg?version=20240122120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Diva by Daisy Goodwin]]></title>
-            <link>https://music.bugs.co.kr/album/33695942?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33695942?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 20 Jan 2024 01:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/1043?wl_ref=list_ab_04" class="artistTitle" title="Maria Callas(마리아 칼라스)" onclick="
-" target="_self">Maria Callas(마리아 칼라스)</a>
-</p>
-<p>
-<time datetime="">2024.01.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336959/33695942.jpg?version=20240123003415.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Debussy: Clair de lune and Other Masterpieces]]></title>
