@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 09:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 10:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -740,6 +740,21 @@ Relaxing Piano Crew
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40953/4095376.jpg?version=20240122120004.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Party Uartig Vol. 1]]></title>
+            <link>https://music.bugs.co.kr/album/33713305?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33713305?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 22 Jan 2024 10:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11209280?wl_ref=list_ab_04" class="artistTitle" title="Uartig" onclick="
+" target="_self">Uartig</a>
+</p>
+<p>
+<time datetime="">2024.01.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://file.bugsm.co.kr/wbugs/common/i_default_170x170.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[MINHA TRAJETÓRIA - 20 ANOS DE CARREIRA]]></title>
             <link>https://music.bugs.co.kr/album/33711650?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33711650?wl_ref=list_ab_03</guid>
@@ -1056,21 +1071,6 @@ BeatClock
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/333606/33360612.jpg?version=20240122120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TKT Party Pack]]></title>
-            <link>https://music.bugs.co.kr/album/20619315?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20619315?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 22 Jan 2024 04:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20203904?wl_ref=list_ab_04" class="artistTitle" title="TKT" onclick="
-" target="_self">TKT</a>
-</p>
-<p>
-<time datetime="">2024.01.22</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206193/20619315.jpg?version=20240122120011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
