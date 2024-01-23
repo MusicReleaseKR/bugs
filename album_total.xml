@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 09:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 10:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,6 +114,21 @@ Zen Whisperer
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337124/33712413.jpg?version=20240123003122.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(MORE) Unsponsored Content [Sped Up]]]></title>
+            <link>https://music.bugs.co.kr/album/33712404?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33712404?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 23 Jan 2024 10:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12739022?wl_ref=list_ab_04" class="artistTitle" title="10X" onclick="
+" target="_self">10X</a>
+</p>
+<p>
+<time datetime="">2024.01.23</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337124/33712404.jpg?version=20240123140007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Estou Na Moda]]></title>
@@ -1106,21 +1121,6 @@ Relax α Wave
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206186/20618645.jpg?version=20240123120007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Classy Coffee Cuts]]></title>
-            <link>https://music.bugs.co.kr/album/20618206?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20618206?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 23 Jan 2024 04:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8027933?wl_ref=list_ab_04" class="artistTitle" title="Fanu" onclick="
-" target="_self">Fanu</a>
-</p>
-<p>
-<time datetime="">2024.01.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206182/20618206.jpg?version=20240123120007.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
