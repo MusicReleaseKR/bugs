@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 14:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 15:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LA FIGA]]></title>
+            <link>https://music.bugs.co.kr/album/33490112?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33490112?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 23 Jan 2024 15:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13314353?wl_ref=list_ab_04" class="artistTitle" title="xCarme" onclick="
+" target="_self">xCarme</a>
+</p>
+<p>
+<time datetime="">2024.01.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334901/33490112.jpg?version=20240124000006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chemical Wedding]]></title>
+            <link>https://music.bugs.co.kr/album/33164495?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33164495?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 23 Jan 2024 15:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12932765?wl_ref=list_ab_04" class="artistTitle" title="iagö">iagö</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'iagö||iagö||12932765||OK\\nTommy Saint||Tommy Saint||80272197||OK', ''); return false;">
+iagö
+</a> </p>
+<p>
+<time datetime="">2024.01.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331644/33164495.jpg?version=20240124000006.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bedtime]]></title>
             <link>https://music.bugs.co.kr/album/33712428?wl_ref=list_ab_03</link>
@@ -1085,42 +1118,6 @@ Cafe lounge JAZZ
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206186/20618672.jpg?version=20240123120007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Audio Healing Watching Snow Falling -Relaxing Chill Jazz-]]></title>
-            <link>https://music.bugs.co.kr/album/20618661?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20618661?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 23 Jan 2024 04:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13131900?wl_ref=list_ab_04" class="artistTitle" title="Circle of Notes">Circle of Notes</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Circle of Notes||Circle of Notes||13131900||OK\\nRelaxing Jazz Trio||Relaxing Jazz Trio||20046914||OK', ''); return false;">
-Circle of Notes
-</a> </p>
-<p>
-<time datetime="">2024.01.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206186/20618661.jpg?version=20240123120007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Botanical Jazz: Life with Greenery and Jazz Vol.8]]></title>
-            <link>https://music.bugs.co.kr/album/20618645?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20618645?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 23 Jan 2024 04:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80229576?wl_ref=list_ab_04" class="artistTitle" title="Relax α Wave">Relax α Wave</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Relax α Wave||Relax α Wave||80229576||OK\\nCafe lounge JAZZ||Cafe lounge JAZZ||20048398||OK', ''); return false;">
-Relax α Wave
-</a> </p>
-<p>
-<time datetime="">2024.01.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206186/20618645.jpg?version=20240123120007.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
