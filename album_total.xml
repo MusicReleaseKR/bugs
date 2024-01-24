@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 14:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 15:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lights On]]></title>
+            <link>https://music.bugs.co.kr/album/33597431?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33597431?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 24 Jan 2024 15:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80235680?wl_ref=list_ab_04" class="artistTitle" title="KM" onclick="
+" target="_self">KM</a>
+</p>
+<p>
+<time datetime="">2024.01.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/335974/33597431.jpg?version=20240125000003.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[梦里出现的人]]></title>
             <link>https://music.bugs.co.kr/album/33723477?wl_ref=list_ab_03</link>
@@ -1041,21 +1056,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206183/20618392.jpg?version=20240124120014.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쥬니버 세계명작 동화 모음집1]]></title>
-            <link>https://music.bugs.co.kr/album/20618213?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20618213?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 24 Jan 2024 04:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20112755?wl_ref=list_ab_04" class="artistTitle" title="쥬니버" onclick="
-" target="_self">쥬니버</a>
-</p>
-<p>
-<time datetime="">2024.01.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206182/20618213.jpg?version=20240124120004.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
