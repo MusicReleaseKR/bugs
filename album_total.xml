@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 20:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 21:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -321,6 +321,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336969/33696997.jpg?version=20240124120014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Debussy: Clair de lune and Other Masterpieces]]></title>
+            <link>https://music.bugs.co.kr/album/33695833?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33695833?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 24 Jan 2024 21:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8000085?wl_ref=list_ab_04" class="artistTitle" title="Claude Debussy(드뷔시)" onclick="
+" target="_self">Claude Debussy(드뷔시)</a>
+</p>
+<p>
+<time datetime="">2024.01.24</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336958/33695833.jpg?version=20240125052049.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Liminal]]></title>
@@ -1041,21 +1056,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206184/20618416.jpg?version=20240124120014.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쥬니버 세계명작 동화 모음집2]]></title>
-            <link>https://music.bugs.co.kr/album/20618392?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20618392?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 24 Jan 2024 04:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20112755?wl_ref=list_ab_04" class="artistTitle" title="쥬니버" onclick="
-" target="_self">쥬니버</a>
-</p>
-<p>
-<time datetime="">2024.01.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206183/20618392.jpg?version=20240124120014.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
