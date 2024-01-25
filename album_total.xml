@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 17:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 18:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -914,6 +914,21 @@ Henrik von Euler
             <enclosure url="https://image.bugsm.co.kr/album/images/170/333524/33352493.jpg?version=20240125000003.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[I'm Still Alive.]]></title>
+            <link>https://music.bugs.co.kr/album/31090714?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31090714?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 25 Jan 2024 18:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12745300?wl_ref=list_ab_04" class="artistTitle" title="Omari Lyseight" onclick="
+" target="_self">Omari Lyseight</a>
+</p>
+<p>
+<time datetime="">2024.01.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310907/31090714.jpg?version=20240126030043.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Piano Therapy : 잠 못 이루는 밤을 위하여]]></title>
             <link>https://music.bugs.co.kr/album/20620220?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20620220?wl_ref=list_ab_03</guid>
@@ -1065,21 +1080,6 @@ Ondo88
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206194/20619465.jpg?version=20240125120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Afternoon Bike Ride]]></title>
-            <link>https://music.bugs.co.kr/album/20619431?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20619431?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 25 Jan 2024 04:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20151412?wl_ref=list_ab_04" class="artistTitle" title="afternoon bike ride" onclick="
-" target="_self">afternoon bike ride</a>
-</p>
-<p>
-<time datetime="">2024.01.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206194/20619431.jpg?version=20240125120011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
