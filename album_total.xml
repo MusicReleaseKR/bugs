@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 09:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 10:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JAAFAR]]></title>
+            <link>https://music.bugs.co.kr/album/33730854?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33730854?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 26 Jan 2024 10:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12334094?wl_ref=list_ab_04" class="artistTitle" title="Rounhaa" onclick="
+" target="_self">Rounhaa</a>
+</p>
+<p>
+<time datetime="">2024.01.26</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337308/33730854.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Best of Karnevals- und Faschingslieder]]></title>
             <link>https://music.bugs.co.kr/album/33729600?wl_ref=list_ab_03</link>
@@ -365,6 +380,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337239/33723970.jpg?version=20240126115838.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[La Joia]]></title>
+            <link>https://music.bugs.co.kr/album/33723964?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33723964?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 26 Jan 2024 10:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80291577?wl_ref=list_ab_04" class="artistTitle" title="Bad Gyal" onclick="
+" target="_self">Bad Gyal</a>
+</p>
+<p>
+<time datetime="">2024.01.26</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337239/33723964.jpg?version=20240126140009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[James Strauss Plays Mozart]]></title>
@@ -918,7 +948,7 @@
 <time datetime="">2024.01.26</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337225/33722528.jpg?version=20240126103705.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337225/33722528.jpg?version=20240126191104.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Everybody Can't Go]]></title>
@@ -1027,36 +1057,6 @@ Arve Henriksen
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337223/33722385.jpg?version=20240126003646.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Phantazein]]></title>
-            <link>https://music.bugs.co.kr/album/33722378?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33722378?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 26 Jan 2024 04:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11078156?wl_ref=list_ab_04" class="artistTitle" title="Cognizance" onclick="
-" target="_self">Cognizance</a>
-</p>
-<p>
-<time datetime="">2024.01.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337223/33722378.jpg?version=20240126000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Omicron (Original Soundtrack)]]></title>
-            <link>https://music.bugs.co.kr/album/33722372?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33722372?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 26 Jan 2024 04:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80000509?wl_ref=list_ab_04" class="artistTitle" title="Piero Umiliani(피에로 유밀리아니)" onclick="
-" target="_self">Piero Umiliani(피에로 유밀리아니)</a>
-</p>
-<p>
-<time datetime="">2024.01.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337223/33722372.jpg?version=20240126000006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
