@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 16:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 17:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1081,6 +1081,24 @@ GANGGA
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40954/4095426.jpg?version=20240126065045.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NADA QUE DECIR (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/30466256?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30466256?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 26 Jan 2024 17:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80327854?wl_ref=list_ab_04" class="artistTitle" title="Nil Moliner">Nil Moliner</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Nil Moliner||Nil Moliner||80327854||OK\\nMARLENA||MARLENA||12756208||OK', ''); return false;">
+Nil Moliner
+</a> </p>
+<p>
+<time datetime="">2024.01.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/304662/30466256.jpg?version=20240127020703.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JAAFAR (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33730854?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33730854?wl_ref=list_ab_03</guid>
@@ -2112,24 +2130,6 @@ GANGGA
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337224/33722402.jpg?version=20240126005444.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Touch of Time (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33722385?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33722385?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 26 Jan 2024 04:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80064454?wl_ref=list_ab_04" class="artistTitle" title="Arve Henriksen">Arve Henriksen</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Arve Henriksen||Arve Henriksen||80064454||OK\\nHarmen Fraanje||Harmen Fraanje||8517418||OK', ''); return false;">
-Arve Henriksen
-</a> </p>
-<p>
-<time datetime="">2024.01.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337223/33722385.jpg?version=20240127011113.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[들어보아요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
