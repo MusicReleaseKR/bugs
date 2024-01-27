@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 09:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 10:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -554,6 +554,36 @@ Relax.Sleep.Dream
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206179/20617911.jpg?version=20240127120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TOO YOUNG]]></title>
+            <link>https://music.bugs.co.kr/album/4095601?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095601?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 27 Jan 2024 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20129904?wl_ref=list_ab_04" class="artistTitle" title="노윤하" onclick="
+" target="_self">노윤하</a>
+</p>
+<p>
+<time datetime="">2024.01.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40956/4095601.jpg?version=20240127180003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[August]]></title>
+            <link>https://music.bugs.co.kr/album/4095598?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095598?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 27 Jan 2024 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13477119?wl_ref=list_ab_04" class="artistTitle" title="율다우" onclick="
+" target="_self">율다우</a>
+</p>
+<p>
+<time datetime="">2024.01.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40955/4095598.jpg?version=20240127180007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pearl]]></title>
             <link>https://music.bugs.co.kr/album/33730903?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33730903?wl_ref=list_ab_03</guid>
@@ -872,6 +902,54 @@ Hype Music
             <enclosure url="https://image.bugsm.co.kr/album/images/170/334894/33489446.jpg?version=20240127000007.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내 귀에 띵곡 Part.11]]></title>
+            <link>https://music.bugs.co.kr/album/20620516?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20620516?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 27 Jan 2024 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13244?wl_ref=list_ab_04" class="artistTitle" title="별">별</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '별||별||13244||OK\\n차준호||차준호||80333800||OK\\n이창민||이창민||80061692||OK', ''); return false;">
+별
+</a> </p>
+<p>
+<time datetime="">2024.01.27</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206205/20620516.jpg?version=20240127180003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미숫가루]]></title>
+            <link>https://music.bugs.co.kr/album/20620485?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20620485?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 27 Jan 2024 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20204549?wl_ref=list_ab_04" class="artistTitle" title="미숫가루(MS.Grr)" onclick="
+" target="_self">미숫가루(MS.Grr)</a>
+</p>
+<p>
+<time datetime="">2024.01.27</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206204/20620485.jpg?version=20240127180007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No One Knows]]></title>
+            <link>https://music.bugs.co.kr/album/20619858?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20619858?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 27 Jan 2024 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20204323?wl_ref=list_ab_04" class="artistTitle" title="KWAKHEE" onclick="
+" target="_self">KWAKHEE</a>
+</p>
+<p>
+<time datetime="">2024.01.27</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206198/20619858.jpg?version=20240127180007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tú y yo (feat. Anni B Sweet)]]></title>
             <link>https://music.bugs.co.kr/album/33731027?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33731027?wl_ref=list_ab_03</guid>
@@ -993,87 +1071,6 @@ FØNK
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337300/33730081.jpg?version=20240127002744.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bhet Hoi Center Par]]></title>
-            <link>https://music.bugs.co.kr/album/33729598?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33729598?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 27 Jan 2024 04:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11863904?wl_ref=list_ab_04" class="artistTitle" title="Virat Kumar Yadav" onclick="
-" target="_self">Virat Kumar Yadav</a>
-</p>
-<p>
-<time datetime="">2024.01.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337295/33729598.jpg?version=20240127004439.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jab Jab Josh Me Jagile]]></title>
-            <link>https://music.bugs.co.kr/album/33729587?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33729587?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 27 Jan 2024 04:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10615276?wl_ref=list_ab_04" class="artistTitle" title="Niraj Nirala" onclick="
-" target="_self">Niraj Nirala</a>
-</p>
-<p>
-<time datetime="">2024.01.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337295/33729587.jpg?version=20240127002657.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gaderan Bomb Hawe Re]]></title>
-            <link>https://music.bugs.co.kr/album/33729586?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33729586?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 27 Jan 2024 04:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12938508?wl_ref=list_ab_04" class="artistTitle" title="Vivek Pal" onclick="
-" target="_self">Vivek Pal</a>
-</p>
-<p>
-<time datetime="">2024.01.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337295/33729586.jpg?version=20240127010211.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rockabye X Kurdish Mix]]></title>
-            <link>https://music.bugs.co.kr/album/33729574?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33729574?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 27 Jan 2024 04:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12193590?wl_ref=list_ab_04" class="artistTitle" title="Helyos">Helyos</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Helyos||Helyos||12193590||OK\\nLucky Layne||Lucky Layne||13381268||OK', ''); return false;">
-Helyos
-</a> </p>
-<p>
-<time datetime="">2024.01.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337295/33729574.jpg?version=20240127005216.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nefes Alamıyorum]]></title>
-            <link>https://music.bugs.co.kr/album/33729563?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33729563?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 27 Jan 2024 04:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13516962?wl_ref=list_ab_04" class="artistTitle" title="Cardus">Cardus</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Cardus||Cardus||13516962||OK\\nravielchy||ravielchy||13586894||OK', ''); return false;">
-Cardus
-</a> </p>
-<p>
-<time datetime="">2024.01.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337295/33729563.jpg?version=20240127005627.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
