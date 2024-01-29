@@ -4,24 +4,9 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 15:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 16:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Gariiing]]></title>
-            <link>https://music.bugs.co.kr/album/33730960?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33730960?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 29 Jan 2024 04:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80389176?wl_ref=list_ab_04" class="artistTitle" title="Ashe" onclick="
-" target="_self">Ashe</a>
-</p>
-<p>
-<time datetime="">2024.01.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337309/33730960.jpg?version=20240129000004.0" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[W Tape (The Remixes)]]></title>
             <link>https://music.bugs.co.kr/album/33730938?wl_ref=list_ab_03</link>
@@ -35,7 +20,7 @@
 <time datetime="">2024.01.29</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337309/33730938.jpg?version=20240129150848.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337309/33730938.jpg?version=20240130003737.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Already Over / In My Head (Endel Gaming Soundscape)]]></title>
@@ -83,7 +68,7 @@ Mike Shinoda(마이크 시노다)
 <time datetime="">2024.01.29</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337214/33721407.jpg?version=20240129050014.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337214/33721407.jpg?version=20240130002407.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The 025 Tape Vol.2: Upstream]]></title>
@@ -174,6 +159,21 @@ Mike Shinoda(마이크 시노다)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337135/33713528.jpg?version=20240129000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gariiing]]></title>
+            <link>https://music.bugs.co.kr/album/33712417?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33712417?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 29 Jan 2024 16:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80389176?wl_ref=list_ab_04" class="artistTitle" title="Ashe" onclick="
+" target="_self">Ashe</a>
+</p>
+<p>
+<time datetime="">2024.01.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337124/33712417.jpg?version=20240130002851.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Romântico, Pt. 2]]></title>
@@ -464,7 +464,7 @@ Lilly Summers
 <time datetime="">2024.01.29</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206197/20619734.jpg?version=20240129120011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206197/20619734.jpg?version=20240130010120.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[감성을 자극하는 달콤한 뉴에이지 피아노]]></title>
@@ -722,7 +722,7 @@ FNL ZONE
 <time datetime="">2024.01.29</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337309/33730952.jpg?version=20240129000004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337309/33730952.jpg?version=20240130004501.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pink Trip]]></title>
@@ -1067,7 +1067,7 @@ Río de Esperanza
 <time datetime="">2024.01.29</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206202/20620251.jpg?version=20240129120011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206202/20620251.jpg?version=20240130010120.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Strawberry Cheesecake]]></title>
