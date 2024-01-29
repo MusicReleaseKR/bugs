@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 06:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 07:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,21 +69,6 @@ Mike Shinoda(마이크 시노다)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337300/33730031.jpg?version=20240129000004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tchaikovsky: Swan Lake and Other Masterpieces]]></title>
-            <link>https://music.bugs.co.kr/album/33721407?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33721407?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 28 Jan 2024 20:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/9222?wl_ref=list_ab_04" class="artistTitle" title="Pyotr Il'yich Tchaikovsky(차이코프스키)" onclick="
-" target="_self">Pyotr Il'yich Tchaikovsky(차이코프스키)</a>
-</p>
-<p>
-<time datetime="">2024.01.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337214/33721407.jpg?version=20240129050014.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The 025 Tape Vol.2: Upstream]]></title>
@@ -645,6 +630,21 @@ Lilly Summers
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40955/4095581.jpg?version=20240129120011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wife]]></title>
+            <link>https://music.bugs.co.kr/album/4095394?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095394?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 29 Jan 2024 07:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20056456?wl_ref=list_ab_04" class="artistTitle" title="(여자)아이들" onclick="
+" target="_self">(여자)아이들</a>
+</p>
+<p>
+<time datetime="">2024.01.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40953/4095394.jpg?version=20240123063733.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[That Girl]]></title>
