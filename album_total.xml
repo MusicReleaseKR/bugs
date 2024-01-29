@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 01:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 02:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337214/33721407.jpg?version=20240129050014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[hey.]]></title>
+            <link>https://music.bugs.co.kr/album/4090283?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4090283?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 29 Jan 2024 02:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80261309?wl_ref=list_ab_04" class="artistTitle" title="eldon" onclick="
+" target="_self">eldon</a>
+</p>
+<p>
+<time datetime="">2023.08.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40902/4090283.jpg?version=20240123005111.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ecos De Sacrificio]]></title>
@@ -1050,21 +1065,6 @@ adoris
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337308/33730896.jpg?version=20240129063354.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Red Moon]]></title>
-            <link>https://music.bugs.co.kr/album/33730182?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33730182?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 28 Jan 2024 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13575585?wl_ref=list_ab_04" class="artistTitle" title="XXONE" onclick="
-" target="_self">XXONE</a>
-</p>
-<p>
-<time datetime="">2024.01.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337301/33730182.jpg?version=20240129063114.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
