@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 09:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 10:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -459,6 +459,24 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206180/20618001.jpg?version=1706497211000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MISTY]]></title>
+            <link>https://music.bugs.co.kr/album/4095643?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095643?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 29 Jan 2024 10:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20155499?wl_ref=list_ab_04" class="artistTitle" title="Oxy">Oxy</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Oxy||Oxy||20155499||OK\\ntool||tool||20178345||OK', ''); return false;">
+Oxy
+</a> </p>
+<p>
+<time datetime="">2024.01.29</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40956/4095643.jpg?version=1706518807000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Polaroid Love]]></title>
@@ -986,6 +1004,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206202/20620248.jpg?version=1706497204000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[98년도엔 대체 무슨 일이?! REMIX]]></title>
+            <link>https://music.bugs.co.kr/album/20620172?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20620172?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 29 Jan 2024 10:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20168354?wl_ref=list_ab_04" class="artistTitle" title="석해" onclick="
+" target="_self">석해</a>
+</p>
+<p>
+<time datetime="">2024.01.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206201/20620172.jpg?version=1706518807000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Show me your love]]></title>
             <link>https://music.bugs.co.kr/album/20620165?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20620165?wl_ref=list_ab_03</guid>
@@ -1029,36 +1062,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206201/20620149.jpg?version=1706497211000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[She]]></title>
-            <link>https://music.bugs.co.kr/album/20620145?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20620145?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 29 Jan 2024 04:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13331531?wl_ref=list_ab_04" class="artistTitle" title="영 슈러" onclick="
-" target="_self">영 슈러</a>
-</p>
-<p>
-<time datetime="">2024.01.29</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206201/20620145.jpg?version=1706497211000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너를 만나다]]></title>
-            <link>https://music.bugs.co.kr/album/20620084?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20620084?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 29 Jan 2024 04:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20202786?wl_ref=list_ab_04" class="artistTitle" title="말벗" onclick="
-" target="_self">말벗</a>
-</p>
-<p>
-<time datetime="">2024.01.29</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206200/20620084.jpg?version=1706497211000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
