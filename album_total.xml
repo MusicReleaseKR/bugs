@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 09:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 10:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -685,6 +685,21 @@ Leebido
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206207/20620794.jpg?version=20240130120002.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Golden Jackalope]]></title>
+            <link>https://music.bugs.co.kr/album/20620711?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20620711?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 30 Jan 2024 10:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20177911?wl_ref=list_ab_04" class="artistTitle" title="Jaandlu Super Band" onclick="
+" target="_self">Jaandlu Super Band</a>
+</p>
+<p>
+<time datetime="">2024.01.30</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206207/20620711.jpg?version=20240130180007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리동요 24집]]></title>
             <link>https://music.bugs.co.kr/album/20620607?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20620607?wl_ref=list_ab_03</guid>
@@ -1073,21 +1088,6 @@ Leebido
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337148/33714857.jpg?version=20240130000005.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Brunch]]></title>
-            <link>https://music.bugs.co.kr/album/33713693?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33713693?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 30 Jan 2024 04:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11664934?wl_ref=list_ab_04" class="artistTitle" title="Killervybez" onclick="
-" target="_self">Killervybez</a>
-</p>
-<p>
-<time datetime="">2024.01.30</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337136/33713693.jpg?version=20240130000005.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
