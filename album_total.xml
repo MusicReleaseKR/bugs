@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 02:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 03:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,10 +20,25 @@
 Nate VanDeusen
 </a> </p>
 <p>
-<time datetime="">2024.01.25</time>
+<time datetime="">2024.01.31</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337197/33719715.jpg?version=20240131104755.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337197/33719715.jpg?version=20240131120004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PURUPAPA]]></title>
+            <link>https://music.bugs.co.kr/album/33699534?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33699534?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 Jan 2024 03:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80307168?wl_ref=list_ab_04" class="artistTitle" title="Liro Shaq" onclick="
+" target="_self">Liro Shaq</a>
+</p>
+<p>
+<time datetime="">2024.01.31</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336995/33699534.jpg?version=20240131120011.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Origami]]></title>
@@ -39,6 +54,21 @@ Nate VanDeusen
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/315894/31589411.jpg?version=20240131000007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lore]]></title>
+            <link>https://music.bugs.co.kr/album/19596079?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19596079?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 Jan 2024 03:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10458991?wl_ref=list_ab_04" class="artistTitle" title="Job" onclick="
+" target="_self">Job</a>
+</p>
+<p>
+<time datetime="">2024.01.31</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/195960/19596079.jpg?version=20240131120011.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Invocation]]></title>
@@ -1073,36 +1103,6 @@ Leebido
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206197/20619742.jpg?version=20240131011707.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jan Ladislav Dussek: Streichquartette op. 60]]></title>
-            <link>https://music.bugs.co.kr/album/20619673?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20619673?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 30 Jan 2024 04:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20204271?wl_ref=list_ab_04" class="artistTitle" title="Camesina Quartett" onclick="
-" target="_self">Camesina Quartett</a>
-</p>
-<p>
-<time datetime="">2024.01.30</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206196/20619673.jpg?version=20240130120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Divertimenti für Streichtrio Vol.1]]></title>
-            <link>https://music.bugs.co.kr/album/20619662?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20619662?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 30 Jan 2024 04:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20203719?wl_ref=list_ab_04" class="artistTitle" title="Camerata Berolinensis" onclick="
-" target="_self">Camerata Berolinensis</a>
-</p>
-<p>
-<time datetime="">2024.01.30</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206196/20619662.jpg?version=20240130120008.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
