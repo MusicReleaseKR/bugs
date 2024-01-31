@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 11:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 12:29:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -653,6 +653,21 @@ Nightsounds
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337230/33723056.jpg?version=20240131000007.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Tchaikovsky: Swan Lake and Other Masterpieces]]></title>
+            <link>https://music.bugs.co.kr/album/33721407?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33721407?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 Jan 2024 12:28:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/9222?wl_ref=list_ab_04" class="artistTitle" title="Pyotr Il'yich Tchaikovsky(차이코프스키)" onclick="
+" target="_self">Pyotr Il'yich Tchaikovsky(차이코프스키)</a>
+</p>
+<p>
+<time datetime="">2024.01.31</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337214/33721407.jpg?version=20240131202010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Guitar Lo-Fi Vibes: Chilled Smooth Jazz LoFi Moods to Help You Relax, Chill, Sleep]]></title>
             <link>https://music.bugs.co.kr/album/33720523?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33720523?wl_ref=list_ab_03</guid>
@@ -1062,21 +1077,6 @@ RUSIIICK
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206212/20621296.jpg?version=20240131120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[35, 2]]></title>
-            <link>https://music.bugs.co.kr/album/20621279?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20621279?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 31 Jan 2024 04:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20014089?wl_ref=list_ab_04" class="artistTitle" title="서찬우" onclick="
-" target="_self">서찬우</a>
-</p>
-<p>
-<time datetime="">2024.01.31</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206212/20621279.jpg?version=20240131120011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
