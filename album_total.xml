@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 15:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 16:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,6 +92,24 @@ Cardus
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331615/33161573.jpg?version=20240201000003.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[New Dawn]]></title>
+            <link>https://music.bugs.co.kr/album/33855076?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33855076?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 Jan 2024 16:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12875798?wl_ref=list_ab_04" class="artistTitle" title="Lo-Fi &amp; Chill">Lo-Fi &amp; Chill</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Lo-Fi &amp; Chill||Lo-Fi &amp; Chill||12875798||OK\\nLofi Playlist||Lofi Playlist||12875883||OK\\nLofi Radiance||Lofi Radiance||11877911||OK', ''); return false;">
+Lo-Fi &amp; Chill
+</a> </p>
+<p>
+<time datetime="">2024.01.31</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/338550/33855076.jpg?version=20240201005014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Gong Xi Gong Xi (2024 Remaster)]]></title>
             <link>https://music.bugs.co.kr/album/33854354?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33854354?wl_ref=list_ab_03</guid>
@@ -107,7 +125,7 @@ Cardus
 <time datetime="">2024.01.31</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/338543/33854354.jpg?version=20240131015004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/338543/33854354.jpg?version=20240201011550.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Reflektioner / Mahjong Mystery]]></title>
@@ -125,7 +143,7 @@ Cardus
 <time datetime="">2024.01.31</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337390/33739069.jpg?version=20240131120011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337390/33739069.jpg?version=20240201004735.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anthology II]]></title>
@@ -140,7 +158,7 @@ Cardus
 <time datetime="">2024.01.31</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337385/33738537.jpg?version=20240131120011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337385/33738537.jpg?version=20240201005947.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Heart Beat]]></title>
@@ -1068,21 +1086,6 @@ RUSIIICK
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/335455/33545524.jpg?version=20240131120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sterohh!]]></title>
-            <link>https://music.bugs.co.kr/album/33371316?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33371316?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 31 Jan 2024 04:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13483248?wl_ref=list_ab_04" class="artistTitle" title="Squiggly Arrow" onclick="
-" target="_self">Squiggly Arrow</a>
-</p>
-<p>
-<time datetime="">2024.01.31</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333713/33371316.jpg?version=20240131120011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
