@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 14:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 15:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40956/4095698.jpg?version=20240131180006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BABYMONSTER Pre-Release Single [Stuck In The Middle]]]></title>
+            <link>https://music.bugs.co.kr/album/4095776?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095776?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 Jan 2024 15:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20200163?wl_ref=list_ab_04" class="artistTitle" title="BABYMONSTER" onclick="
+" target="_self">BABYMONSTER</a>
+</p>
+<p>
+<time datetime="">2024.02.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40957/4095776.jpg?version=20240201000003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LA SOL MI]]></title>
@@ -68,21 +83,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206214/20621474.jpg?version=20240131180032.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Broken]]></title>
-            <link>https://music.bugs.co.kr/album/4095741?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4095741?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 31 Jan 2024 09:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80341008?wl_ref=list_ab_04" class="artistTitle" title="Seori" onclick="
-" target="_self">Seori</a>
-</p>
-<p>
-<time datetime="">2024.01.31</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40957/4095741.jpg?version=20240131180002.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[미로]]></title>
             <link>https://music.bugs.co.kr/album/4095723?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4095723?wl_ref=list_ab_03</guid>
@@ -96,6 +96,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40957/4095723.jpg?version=20240131135305.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Broken]]></title>
+            <link>https://music.bugs.co.kr/album/4095741?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095741?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 31 Jan 2024 09:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80341008?wl_ref=list_ab_04" class="artistTitle" title="Seori" onclick="
+" target="_self">Seori</a>
+</p>
+<p>
+<time datetime="">2024.01.31</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40957/4095741.jpg?version=20240131180002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[색깔얼룩말]]></title>
@@ -1054,21 +1069,6 @@ Nate VanDeusen
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40957/4095710.jpg?version=20240131064200.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 해 겨울]]></title>
-            <link>https://music.bugs.co.kr/album/20620641?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20620641?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 30 Jan 2024 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80197234?wl_ref=list_ab_04" class="artistTitle" title="더 데이지(The Daisy)" onclick="
-" target="_self">더 데이지(The Daisy)</a>
-</p>
-<p>
-<time datetime="">2024.01.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206206/20620641.jpg?version=20240131005827.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
