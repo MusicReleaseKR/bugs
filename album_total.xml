@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 09:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 10:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/339262/33926228.jpg?version=20240202002858.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Nightmare on Dimmsdale]]></title>
+            <link>https://music.bugs.co.kr/album/33925990?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33925990?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 02 Feb 2024 10:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/9902936?wl_ref=list_ab_04" class="artistTitle" title="Lil Tim" onclick="
+" target="_self">Lil Tim</a>
+</p>
+<p>
+<time datetime="">2024.02.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/339259/33925990.jpg?version=20240202140006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JUNO: The Mixtape]]></title>
             <link>https://music.bugs.co.kr/album/33925929?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33925929?wl_ref=list_ab_03</guid>
@@ -126,6 +141,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/339256/33925699.jpg?version=20240202011557.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gracias Por Seguir Mis Pasos (Deluxe)]]></title>
+            <link>https://music.bugs.co.kr/album/33925615?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33925615?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 02 Feb 2024 10:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12900743?wl_ref=list_ab_04" class="artistTitle" title="Ricardo Murillo" onclick="
+" target="_self">Ricardo Murillo</a>
+</p>
+<p>
+<time datetime="">2024.02.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/339256/33925615.jpg?version=20240202141010.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Última Noite (Ao Vivo)]]></title>
@@ -1044,39 +1074,6 @@ Robin Hill(로빈 힐)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/338547/33854710.jpg?version=20240202010809.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IKWUA]]></title>
-            <link>https://music.bugs.co.kr/album/33854684?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33854684?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 02 Feb 2024 04:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12023741?wl_ref=list_ab_04" class="artistTitle" title="Jaqen" onclick="
-" target="_self">Jaqen</a>
-</p>
-<p>
-<time datetime="">2024.02.02</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/338546/33854684.jpg?version=20240202013333.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rustige Muziek Voor Kinderen (Speeldoos)]]></title>
-            <link>https://music.bugs.co.kr/album/33854679?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33854679?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 02 Feb 2024 04:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12846284?wl_ref=list_ab_04" class="artistTitle" title="Elisabeth Mae James">Elisabeth Mae James</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Elisabeth Mae James||Elisabeth Mae James||12846284||OK\\nSlaapliedjes||Slaapliedjes||11752422||OK\\nRustige Kinderliedjes||Rustige Kinderliedjes||12846336||OK', ''); return false;">
-Elisabeth Mae James
-</a> </p>
-<p>
-<time datetime="">2024.02.02</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/338546/33854679.jpg?version=20240202002330.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
