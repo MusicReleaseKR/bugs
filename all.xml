@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 23:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 01:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -605,7 +605,7 @@
 <time datetime="">2004.01.01</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337228/33722876.jpg?version=20240130012145.0" length="0" type="image/jpg"/>
+            <enclosure url="https://file.bugsm.co.kr/wbugs/common/i_default_170x170.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Where Do We Go Now? (Music from Lil Nas X: Long Live Montero) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1066,6 +1066,24 @@ Pierse
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336933/33693383.jpg?version=20240201065139.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hourglass (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/33719717?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33719717?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 02 Feb 2024 01:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80304320?wl_ref=list_ab_04" class="artistTitle" title="Braaten">Braaten</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Braaten||Braaten||80304320||OK\\nHeleen||Heleen||13255197||OK', ''); return false;">
+Braaten
+</a> </p>
+<p>
+<time datetime="">2024.01.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337197/33719717.jpg?version=20240202091443.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dudunkwe (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33695468?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33695468?wl_ref=list_ab_03</guid>
@@ -1411,7 +1429,7 @@ Kinior
 <time datetime="">2024.02.01</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337233/33723318.jpg?version=20240202063901.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337233/33723318.jpg?version=20240202091329.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tchaikovsky: Swan Lake and Other Masterpieces (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1612,7 +1630,7 @@ Alles Kids
 <time datetime="">2024.02.01</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://file.bugsm.co.kr/wbugs/common/i_default_170x170.png" length="0" type="image/png"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336897/33689741.jpg?version=20240202063837.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[De ser puestero y cantor (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2129,21 +2147,6 @@ Klidná jóga
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206212/20621223.jpg?version=20240201180004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No Time To Waste (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20621167?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20621167?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 01 Feb 2024 04:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20101844?wl_ref=list_ab_04" class="artistTitle" title="coldbrew" onclick="
-" target="_self">coldbrew</a>
-</p>
-<p>
-<time datetime="">2024.02.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206211/20621167.jpg?version=20240202004903.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dear, (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
