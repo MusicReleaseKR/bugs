@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 09:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 10:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -386,6 +386,21 @@ Albert Posis
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206219/20621945.jpg?version=20240203120000.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[極]]></title>
+            <link>https://music.bugs.co.kr/album/20621381?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20621381?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 03 Feb 2024 10:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20115294?wl_ref=list_ab_04" class="artistTitle" title="BOY STORY" onclick="
+" target="_self">BOY STORY</a>
+</p>
+<p>
+<time datetime="">2024.02.03</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206213/20621381.jpg?version=20240203190001.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김성규 (KIM SUNG KYU) Remake Digital Single Vol.3]]></title>
@@ -1053,21 +1068,6 @@ Celine Kim
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206208/20620858.jpg?version=20240202120006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회상]]></title>
-            <link>https://music.bugs.co.kr/album/4095817?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4095817?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 01 Feb 2024 09:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80223134?wl_ref=list_ab_04" class="artistTitle" title="김민석" onclick="
-" target="_self">김민석</a>
-</p>
-<p>
-<time datetime="">2024.02.01</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40958/4095817.jpg?version=20240202064517.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
