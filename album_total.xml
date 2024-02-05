@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 07:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 08:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,36 +114,6 @@ Mike Shinoda(마이크 시노다)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/338555/33855548.jpg?version=20240205000003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mozart & Haydn]]></title>
-            <link>https://music.bugs.co.kr/album/33855162?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33855162?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 02 Feb 2024 04:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80016757?wl_ref=list_ab_04" class="artistTitle" title="Otto Klemperer(오토 클렘퍼러)" onclick="
-" target="_self">Otto Klemperer(오토 클렘퍼러)</a>
-</p>
-<p>
-<time datetime="">2024.02.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/338551/33855162.jpg?version=20240205081019.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chopin, Schumann, Liszt]]></title>
-            <link>https://music.bugs.co.kr/album/33854759?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33854759?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 02 Feb 2024 04:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80025194?wl_ref=list_ab_04" class="artistTitle" title="Claudio Arrau(클라우디오 아라우)" onclick="
-" target="_self">Claudio Arrau(클라우디오 아라우)</a>
-</p>
-<p>
-<time datetime="">2024.02.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/338547/33854759.jpg?version=20240205081015.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Scales In Reverse]]></title>
@@ -1068,6 +1038,36 @@ ChillMaze
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337186/33718617.jpg?version=20240205120013.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sonny Crockett-muzik]]></title>
+            <link>https://music.bugs.co.kr/album/33710267?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33710267?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 05 Feb 2024 08:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11280033?wl_ref=list_ab_04" class="artistTitle" title="Kholebeatz" onclick="
+" target="_self">Kholebeatz</a>
+</p>
+<p>
+<time datetime="">2024.02.05</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337102/33710267.jpg?version=20240205000003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crawling Woe]]></title>
+            <link>https://music.bugs.co.kr/album/33700935?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33700935?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 05 Feb 2024 08:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13570597?wl_ref=list_ab_04" class="artistTitle" title="Daphney Batz" onclick="
+" target="_self">Daphney Batz</a>
+</p>
+<p>
+<time datetime="">2024.02.05</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337009/33700935.jpg?version=20240205000003.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
