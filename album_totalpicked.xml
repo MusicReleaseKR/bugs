@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 04:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 05:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -74,6 +74,36 @@ Eckky
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206213/20621371.jpg?version=20240206120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[I GOT YOU (Voyage ver.)]]></title>
+            <link>https://music.bugs.co.kr/album/20622785?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20622785?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 06 Feb 2024 05:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80249916?wl_ref=list_ab_04" class="artistTitle" title="TWICE (트와이스)" onclick="
+" target="_self">TWICE (트와이스)</a>
+</p>
+<p>
+<time datetime="">2024.02.06</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206227/20622785.jpg?version=20240206140002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[때가 되어 헤어진 것뿐이죠]]></title>
+            <link>https://music.bugs.co.kr/album/4095869?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095869?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 05 Feb 2024 09:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80019038?wl_ref=list_ab_04" class="artistTitle" title="신현우" onclick="
+" target="_self">신현우</a>
+</p>
+<p>
+<time datetime="">2024.02.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40958/4095869.jpg?version=20240206005310.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KC (BUST IT DOWN)]]></title>
             <link>https://music.bugs.co.kr/album/20622672?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20622672?wl_ref=list_ab_03</guid>
@@ -90,21 +120,6 @@ Eckky
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206226/20622672.jpg?version=20240206120003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[때가 되어 헤어진 것뿐이죠]]></title>
-            <link>https://music.bugs.co.kr/album/4095869?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4095869?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 05 Feb 2024 09:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80019038?wl_ref=list_ab_04" class="artistTitle" title="신현우" onclick="
-" target="_self">신현우</a>
-</p>
-<p>
-<time datetime="">2024.02.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40958/4095869.jpg?version=20240206005310.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[No Mo Problem]]></title>
@@ -1071,21 +1086,6 @@ HOHYUN
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336949/33694970.jpg?version=20240201005002.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Loneliness]]></title>
-            <link>https://music.bugs.co.kr/album/33735027?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33735027?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 05 Feb 2024 03:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/19113?wl_ref=list_ab_04" class="artistTitle" title="Pet Shop Boys(펫 샵 보이즈)" onclick="
-" target="_self">Pet Shop Boys(펫 샵 보이즈)</a>
-</p>
-<p>
-<time datetime="">2024.01.31</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337350/33735027.jpg?version=20240201065147.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
