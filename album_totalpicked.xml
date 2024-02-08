@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 14:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 15:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[STUPID IN LOVE (feat. 허윤진 of LE SSERAFIM)]]></title>
+            <link>https://music.bugs.co.kr/album/34153947?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34153947?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 08 Feb 2024 15:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80190402?wl_ref=list_ab_04" class="artistTitle" title="MAX(맥스)" onclick="
+" target="_self">MAX(맥스)</a>
+</p>
+<p>
+<time datetime="">2024.02.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341539/34153947.jpg?version=20240209000001.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2009]]></title>
             <link>https://music.bugs.co.kr/album/4095976?wl_ref=list_ab_03</link>
@@ -1052,21 +1067,6 @@ Gill Chang
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206227/20622778.jpg?version=20240207120004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이별책 프로젝트 #1]]></title>
-            <link>https://music.bugs.co.kr/album/20622140?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20622140?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 07 Feb 2024 09:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80255086?wl_ref=list_ab_04" class="artistTitle" title="라티노(Ratino)" onclick="
-" target="_self">라티노(Ratino)</a>
-</p>
-<p>
-<time datetime="">2024.02.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206221/20622140.jpg?version=20240207180002.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
