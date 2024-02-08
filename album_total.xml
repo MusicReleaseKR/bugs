@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 01:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 02:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,6 +39,24 @@ Tory Schistad
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336562/33656274.jpg?version=20240208000003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finer Things]]></title>
+            <link>https://music.bugs.co.kr/album/33617236?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33617236?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 08 Feb 2024 02:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/8538704?wl_ref=list_ab_04" class="artistTitle" title="Menza">Menza</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Menza||Menza||8538704||OK\\nNamic||Namic||10358612||OK', ''); return false;">
+Menza
+</a> </p>
+<p>
+<time datetime="">2023.12.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336172/33617236.jpg?version=20240208104516.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flying Saucers in the Sky (The Mist Cover)]]></title>
@@ -1056,21 +1074,6 @@ Repos Harmonieux
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206202/20620226.jpg?version=20240207020336.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Artrium]]></title>
-            <link>https://music.bugs.co.kr/album/20620224?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20620224?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 07 Feb 2024 04:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20167992?wl_ref=list_ab_04" class="artistTitle" title="Misekai" onclick="
-" target="_self">Misekai</a>
-</p>
-<p>
-<time datetime="">2024.02.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206202/20620224.jpg?version=20240207021610.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
