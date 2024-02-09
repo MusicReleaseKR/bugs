@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 09:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 10:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -519,6 +519,21 @@ Planet Pop
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/341548/34154803.jpg?version=20240209000003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LNDT]]></title>
+            <link>https://music.bugs.co.kr/album/34154764?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34154764?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 09 Feb 2024 10:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12808324?wl_ref=list_ab_04" class="artistTitle" title="Los Nietos De Terán" onclick="
+" target="_self">Los Nietos De Terán</a>
+</p>
+<p>
+<time datetime="">2024.02.09</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341547/34154764.jpg?version=20240209131008.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tô Na Pagodeira (Volume 3)]]></title>
@@ -1047,21 +1062,6 @@ Music House for Children
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/341544/34154419.jpg?version=20240209012507.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sing! The Great Commission - World Tour (Live)]]></title>
-            <link>https://music.bugs.co.kr/album/34154406?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34154406?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 09 Feb 2024 04:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80167280?wl_ref=list_ab_04" class="artistTitle" title="Keith &amp; Kristyn Getty" onclick="
-" target="_self">Keith &amp; Kristyn Getty</a>
-</p>
-<p>
-<time datetime="">2024.02.09</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/341544/34154406.jpg?version=20240209031308.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
