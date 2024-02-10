@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 09:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 10:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -569,6 +569,21 @@ Crezy
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206231/20623180.jpg?version=20240210120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[STFUnow]]></title>
+            <link>https://music.bugs.co.kr/album/20623036?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20623036?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 10 Feb 2024 10:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20167280?wl_ref=list_ab_04" class="artistTitle" title="김단" onclick="
+" target="_self">김단</a>
+</p>
+<p>
+<time datetime="">2024.02.10</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206230/20623036.jpg?version=20240210180007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[운명(運命)]]></title>
             <link>https://music.bugs.co.kr/album/4096025?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4096025?wl_ref=list_ab_03</guid>
@@ -582,6 +597,21 @@ Crezy
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40960/4096025.jpg?version=20240210120003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 온기를 담은 피아노 연주곡]]></title>
+            <link>https://music.bugs.co.kr/album/4096024?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4096024?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 10 Feb 2024 10:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13601732?wl_ref=list_ab_04" class="artistTitle" title="밍기뉴 스튜디오" onclick="
+" target="_self">밍기뉴 스튜디오</a>
+</p>
+<p>
+<time datetime="">2024.02.10</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40960/4096024.jpg?version=20240210180007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MA CHE IDEA]]></title>
@@ -1065,36 +1095,6 @@ Sanai
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/341782/34178271.jpg?version=20240210000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AMAFILIPINA]]></title>
-            <link>https://music.bugs.co.kr/album/34178160?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34178160?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Feb 2024 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12963402?wl_ref=list_ab_04" class="artistTitle" title="Marina Summers" onclick="
-" target="_self">Marina Summers</a>
-</p>
-<p>
-<time datetime="">2024.02.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/341781/34178160.jpg?version=20240210060011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daivathin Kunju Piranne]]></title>
-            <link>https://music.bugs.co.kr/album/34178133?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34178133?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Feb 2024 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13057870?wl_ref=list_ab_04" class="artistTitle" title="December Voice" onclick="
-" target="_self">December Voice</a>
-</p>
-<p>
-<time datetime="">2024.02.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/341781/34178133.jpg?version=20240210000006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
