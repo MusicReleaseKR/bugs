@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 14:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 15:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1078,6 +1078,21 @@ TUJAMO
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206224/20622438.jpg?version=20240209120004.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[VAI SENTIR FALTA DE MIM (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/31865491?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31865491?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 11 Feb 2024 15:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10482033?wl_ref=list_ab_04" class="artistTitle" title="Filipe Escandurras" onclick="
+" target="_self">Filipe Escandurras</a>
+</p>
+<p>
+<time datetime="">2024.02.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/318654/31865491.jpg?version=20240212000002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Rave (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/34180329?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34180329?wl_ref=list_ab_03</guid>
@@ -2137,21 +2152,6 @@ Kundan Bihari
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/341798/34179890.jpg?version=20240211111008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Albachiara (Ninna Nanna Version) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34179882?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34179882?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 11 Feb 2024 04:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13552940?wl_ref=list_ab_04" class="artistTitle" title="Tango e i suoi amici" onclick="
-" target="_self">Tango e i suoi amici</a>
-</p>
-<p>
-<time datetime="">2024.02.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/341798/34179882.jpg?version=20240211000003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낭만을 찾아 (Romance) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
