@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 09:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 10:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,6 +542,21 @@ Beatloom
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206225/20622548.jpg?version=20240211120002.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[wilderness]]></title>
+            <link>https://music.bugs.co.kr/album/4096100?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4096100?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 11 Feb 2024 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20174780?wl_ref=list_ab_04" class="artistTitle" title="always summer" onclick="
+" target="_self">always summer</a>
+</p>
+<p>
+<time datetime="">2024.02.11</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40961/4096100.jpg?version=20240211180000.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[THIRD]]></title>
             <link>https://music.bugs.co.kr/album/4096051?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4096051?wl_ref=list_ab_03</guid>
@@ -1067,21 +1082,6 @@ Kundan Bihari
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/341798/34179882.jpg?version=20240211000003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Destinazione Paradiso (Ninna Nanna Version)]]></title>
-            <link>https://music.bugs.co.kr/album/34179880?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34179880?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 11 Feb 2024 04:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13552940?wl_ref=list_ab_04" class="artistTitle" title="Tango e i suoi amici" onclick="
-" target="_self">Tango e i suoi amici</a>
-</p>
-<p>
-<time datetime="">2024.02.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/341798/34179880.jpg?version=20240211000003.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
