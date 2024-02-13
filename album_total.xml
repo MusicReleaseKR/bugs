@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 22:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 23:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,21 @@ KlaizeeXD
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/335548/33554896.jpg?version=20240214023142.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seiji Ozawa: A Celebration]]></title>
+            <link>https://music.bugs.co.kr/album/34180738?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34180738?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 13 Feb 2024 23:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/36095?wl_ref=list_ab_04" class="artistTitle" title="Ozawa Seiji(오자와 세이지/小澤征爾)" onclick="
+" target="_self">Ozawa Seiji(오자와 세이지/小澤征爾)</a>
+</p>
+<p>
+<time datetime="">2024.02.14</time>
+<span class="albumType">컴필레이션</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341807/34180738.jpg?version=20240214081011.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Infinite Harmony]]></title>
@@ -1086,21 +1101,6 @@ Yinon Muallem
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/339990/33999022.jpg?version=20240214063707.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soap]]></title>
-            <link>https://music.bugs.co.kr/album/33733773?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33733773?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 13 Feb 2024 04:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/9771058?wl_ref=list_ab_04" class="artistTitle" title="Slow Hollows" onclick="
-" target="_self">Slow Hollows</a>
-</p>
-<p>
-<time datetime="">2024.02.13</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337337/33733773.jpg?version=20240214063419.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
