@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 09:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 10:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Infinite Harmony]]></title>
+            <link>https://music.bugs.co.kr/album/34181752?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34181752?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 13 Feb 2024 10:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13604920?wl_ref=list_ab_04" class="artistTitle" title="Azaria Matilda" onclick="
+" target="_self">Azaria Matilda</a>
+</p>
+<p>
+<time datetime="">2024.02.13</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341817/34181752.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mystic]]></title>
             <link>https://music.bugs.co.kr/album/34181316?wl_ref=list_ab_03</link>
@@ -21,6 +36,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/341813/34181316.jpg?version=20240213083125.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[50/50 (Versions)]]></title>
+            <link>https://music.bugs.co.kr/album/34181287?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34181287?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 13 Feb 2024 10:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80333006?wl_ref=list_ab_04" class="artistTitle" title="Yung Miami" onclick="
+" target="_self">Yung Miami</a>
+</p>
+<p>
+<time datetime="">2024.02.13</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341812/34181287.jpg?version=20240213152001.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SOG, Vol. 1]]></title>
@@ -1065,36 +1095,6 @@ Yinon Muallem
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337138/33713856.jpg?version=20240213000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Just Here]]></title>
-            <link>https://music.bugs.co.kr/album/33700277?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33700277?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 13 Feb 2024 04:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13570583?wl_ref=list_ab_04" class="artistTitle" title="Bill Merrick &amp; Thomas Calladine" onclick="
-" target="_self">Bill Merrick &amp; Thomas Calladine</a>
-</p>
-<p>
-<time datetime="">2024.02.13</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337002/33700277.jpg?version=20240213000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Je fais le voeu]]></title>
-            <link>https://music.bugs.co.kr/album/33688055?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33688055?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 13 Feb 2024 08:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12685795?wl_ref=list_ab_04" class="artistTitle" title="Alexandra Moreno" onclick="
-" target="_self">Alexandra Moreno</a>
-</p>
-<p>
-<time datetime="">2024.02.13</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/336880/33688055.jpg?version=20240213160734.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
