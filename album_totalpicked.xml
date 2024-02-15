@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 14:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 15:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LOVE IN STEREO]]></title>
+            <link>https://music.bugs.co.kr/album/34185850?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34185850?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 15 Feb 2024 15:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80190402?wl_ref=list_ab_04" class="artistTitle" title="MAX(맥스)" onclick="
+" target="_self">MAX(맥스)</a>
+</p>
+<p>
+<time datetime="">2024.02.16</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341858/34185850.jpg?version=20240216000001.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비행 (소녀의 세계 X JUNIEL)]]></title>
             <link>https://music.bugs.co.kr/album/4096178?wl_ref=list_ab_03</link>
@@ -1045,21 +1060,6 @@ Gwen Stefani(그웬 스테파니)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/340826/34082669.jpg?version=20240215065411.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굳은 믿음]]></title>
-            <link>https://music.bugs.co.kr/album/20623382?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20623382?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 14 Feb 2024 03:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80272840?wl_ref=list_ab_04" class="artistTitle" title="민주희" onclick="
-" target="_self">민주희</a>
-</p>
-<p>
-<time datetime="">2024.02.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206233/20623382.jpg?version=20240214120004.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
