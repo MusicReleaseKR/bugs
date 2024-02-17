@@ -4,9 +4,72 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 20:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 21:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beethoven: Moonlight Sonata and Other Masterpieces]]></title>
+            <link>https://music.bugs.co.kr/album/34186244?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34186244?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 16 Feb 2024 04:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8000100?wl_ref=list_ab_04" class="artistTitle" title="Ludwig Van Beethoven(베토벤)" onclick="
+" target="_self">Ludwig Van Beethoven(베토벤)</a>
+</p>
+<p>
+<time datetime="">2024.02.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341862/34186244.jpg?version=20240218051019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ingrid Fliter Plays Chopin & Beethoven]]></title>
+            <link>https://music.bugs.co.kr/album/34186135?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34186135?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 16 Feb 2024 21:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80050897?wl_ref=list_ab_04" class="artistTitle" title="Ingrid Fliter(잉그리드 플리터)" onclick="
+" target="_self">Ingrid Fliter(잉그리드 플리터)</a>
+</p>
+<p>
+<time datetime="">2024.02.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341861/34186135.jpg?version=20240218051015.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mozart: Piano Concertos Nos. 22 & 27]]></title>
+            <link>https://music.bugs.co.kr/album/34185908?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34185908?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 16 Feb 2024 21:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80035335?wl_ref=list_ab_04" class="artistTitle" title="Rudolf Buchbinder(루돌프 부흐빈더)">Rudolf Buchbinder(루돌프 부흐빈더)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Rudolf Buchbinder||Rudolf Buchbinder(루돌프 부흐빈더)||80035335||OK\\nAcademy Of St. Martin In The Fields||Academy Of St. Martin In The Fields(아카데미 오브 성 마틴 인 더 필즈)||35617||OK\\nNeville Marriner||Neville Marriner(네빌 매리너)||35619||OK', ''); return false;">
+Rudolf Buchbinder(루돌프 부흐빈더)
+</a> </p>
+<p>
+<time datetime="">2024.02.18</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341859/34185908.jpg?version=20240218051014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seiji Ozawa: A Celebration]]></title>
+            <link>https://music.bugs.co.kr/album/34180738?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34180738?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 17 Feb 2024 21:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/36095?wl_ref=list_ab_04" class="artistTitle" title="Ozawa Seiji(오자와 세이지/小澤征爾)" onclick="
+" target="_self">Ozawa Seiji(오자와 세이지/小澤征爾)</a>
+</p>
+<p>
+<time datetime="">2024.02.18</time>
+<span class="albumType">컴필레이션</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341807/34180738.jpg?version=20240218051013.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sudama]]></title>
             <link>https://music.bugs.co.kr/album/34191699?wl_ref=list_ab_03</link>
@@ -81,36 +144,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/341885/34188521.jpg?version=20240217000005.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beethoven: Moonlight Sonata and Other Masterpieces]]></title>
-            <link>https://music.bugs.co.kr/album/34186244?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34186244?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 16 Feb 2024 04:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8000100?wl_ref=list_ab_04" class="artistTitle" title="Ludwig Van Beethoven(베토벤)" onclick="
-" target="_self">Ludwig Van Beethoven(베토벤)</a>
-</p>
-<p>
-<time datetime="">2024.02.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/341862/34186244.jpg?version=20240218051019.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ingrid Fliter Plays Chopin & Beethoven]]></title>
-            <link>https://music.bugs.co.kr/album/34186135?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34186135?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 16 Feb 2024 21:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80050897?wl_ref=list_ab_04" class="artistTitle" title="Ingrid Fliter(잉그리드 플리터)" onclick="
-" target="_self">Ingrid Fliter(잉그리드 플리터)</a>
-</p>
-<p>
-<time datetime="">2024.02.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/341861/34186135.jpg?version=20240218051015.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ambient Waves Of The Mind]]></title>
@@ -516,24 +549,6 @@ Lofi Beats
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/341886/34188603.jpg?version=20240217000005.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mozart: Piano Concertos Nos. 22 & 27]]></title>
-            <link>https://music.bugs.co.kr/album/34185908?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34185908?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 16 Feb 2024 21:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80035335?wl_ref=list_ab_04" class="artistTitle" title="Rudolf Buchbinder(루돌프 부흐빈더)">Rudolf Buchbinder(루돌프 부흐빈더)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Rudolf Buchbinder||Rudolf Buchbinder(루돌프 부흐빈더)||80035335||OK\\nAcademy Of St. Martin In The Fields||Academy Of St. Martin In The Fields(아카데미 오브 성 마틴 인 더 필즈)||35617||OK\\nNeville Marriner||Neville Marriner(네빌 매리너)||35619||OK', ''); return false;">
-Rudolf Buchbinder(루돌프 부흐빈더)
-</a> </p>
-<p>
-<time datetime="">2024.02.18</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/341859/34185908.jpg?version=20240218051014.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jamies Dead]]></title>
@@ -1077,21 +1092,6 @@ Skd Raj
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/341913/34191370.jpg?version=20240218003505.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mee Kae Ter Kor Por (365 Days)]]></title>
-            <link>https://music.bugs.co.kr/album/34191218?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34191218?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 17 Feb 2024 10:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12249129?wl_ref=list_ab_04" class="artistTitle" title="Ice Paris" onclick="
-" target="_self">Ice Paris</a>
-</p>
-<p>
-<time datetime="">2024.02.17</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/341912/34191218.jpg?version=20240218003555.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
