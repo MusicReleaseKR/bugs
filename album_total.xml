@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 14:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 15:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dreaming Daisy]]></title>
+            <link>https://music.bugs.co.kr/album/33530842?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33530842?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 18 Feb 2024 15:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8175932?wl_ref=list_ab_04" class="artistTitle" title="Beans" onclick="
+" target="_self">Beans</a>
+</p>
+<p>
+<time datetime="">2024.02.19</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/335308/33530842.jpg?version=20240213135156.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Superman March (From “Superman” / Live at Suntory Hall, Tokyo / 2023)]]></title>
+            <link>https://music.bugs.co.kr/album/34074622?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34074622?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 18 Feb 2024 15:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80243921?wl_ref=list_ab_04" class="artistTitle" title="Saito Kinen Orchestra" onclick="
+" target="_self">Saito Kinen Orchestra</a>
+</p>
+<p>
+<time datetime="">2024.02.19</time>
+<span class="albumType">라이브</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/340746/34074622.jpg?version=20240219000005.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Emperor]]></title>
             <link>https://music.bugs.co.kr/album/34201604?wl_ref=list_ab_03</link>
@@ -1150,42 +1180,6 @@ Månelåter
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310122/31012230.jpg?version=20240218120004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤새도록 자기]]></title>
-            <link>https://music.bugs.co.kr/album/31012213?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31012213?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 18 Feb 2024 04:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13080379?wl_ref=list_ab_04" class="artistTitle" title="달 음악">달 음악</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '달 음악||달 음악||13080379||OK\\n달 요가-편안한 명상||달 요가-편안한 명상||13141228||OK', ''); return false;">
-달 음악
-</a> </p>
-<p>
-<time datetime="">2024.02.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310122/31012213.jpg?version=20240218120004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dormi tutta la notte]]></title>
-            <link>https://music.bugs.co.kr/album/31011354?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31011354?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 18 Feb 2024 04:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13080013?wl_ref=list_ab_04" class="artistTitle" title="Canzoni Moon Tunes">Canzoni Moon Tunes</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Canzoni Moon Tunes||Canzoni Moon Tunes||13080013||OK\\nMoon Yoga-Meditazione rilassante||Moon Yoga-Meditazione rilassante||13141054||OK', ''); return false;">
-Canzoni Moon Tunes
-</a> </p>
-<p>
-<time datetime="">2024.02.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310113/31011354.jpg?version=20240218120004.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
