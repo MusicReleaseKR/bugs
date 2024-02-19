@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 02:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 03:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,6 +69,21 @@ Rudolf Buchbinder(루돌프 부흐빈더)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/335308/33530842.jpg?version=20240213135156.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wolf Moon]]></title>
+            <link>https://music.bugs.co.kr/album/34082303?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34082303?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 19 Feb 2024 03:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8401105?wl_ref=list_ab_04" class="artistTitle" title="Gipsy Rufina" onclick="
+" target="_self">Gipsy Rufina</a>
+</p>
+<p>
+<time datetime="">2024.02.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/340823/34082303.jpg?version=20240219120009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Superman March (From “Superman” / Live at Suntory Hall, Tokyo / 2023)]]></title>
@@ -1162,24 +1177,6 @@ Melodias da lua
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310122/31012261.jpg?version=20240219063759.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prześpij całą noc]]></title>
-            <link>https://music.bugs.co.kr/album/31012247?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31012247?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 18 Feb 2024 04:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13091691?wl_ref=list_ab_04" class="artistTitle" title="Księżycowe melodie">Księżycowe melodie</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Księżycowe melodie||Księżycowe melodie||13091691||OK\\nKsiężycowa Joga-Muzyka ambientowa||Księżycowa Joga-Muzyka ambientowa||13140998||OK', ''); return false;">
-Księżycowe melodie
-</a> </p>
-<p>
-<time datetime="">2024.02.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310122/31012247.jpg?version=20240219063756.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
