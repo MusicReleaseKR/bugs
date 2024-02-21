@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 22:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 23:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beethoven: Moonlight Sonata and Other Masterpieces]]></title>
+            <link>https://music.bugs.co.kr/album/34186244?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34186244?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 21 Feb 2024 23:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8000100?wl_ref=list_ab_04" class="artistTitle" title="Ludwig Van Beethoven(베토벤)" onclick="
+" target="_self">Ludwig Van Beethoven(베토벤)</a>
+</p>
+<p>
+<time datetime="">2024.02.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341862/34186244.jpg?version=20240222080049.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Play With The Changes]]></title>
             <link>https://music.bugs.co.kr/album/18583775?wl_ref=list_ab_03</link>
@@ -21,6 +36,24 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/185837/18583775.jpg?version=20240222015049.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mozart: Piano Concertos Nos. 22 & 27]]></title>
+            <link>https://music.bugs.co.kr/album/34185908?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34185908?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 21 Feb 2024 23:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80035335?wl_ref=list_ab_04" class="artistTitle" title="Rudolf Buchbinder(루돌프 부흐빈더)">Rudolf Buchbinder(루돌프 부흐빈더)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Rudolf Buchbinder||Rudolf Buchbinder(루돌프 부흐빈더)||80035335||OK\\nAcademy Of St. Martin In The Fields||Academy Of St. Martin In The Fields(아카데미 오브 성 마틴 인 더 필즈)||35617||OK\\nNeville Marriner||Neville Marriner(네빌 매리너)||35619||OK', ''); return false;">
+Rudolf Buchbinder(루돌프 부흐빈더)
+</a> </p>
+<p>
+<time datetime="">2024.02.22</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341859/34185908.jpg?version=20240222080106.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Element]]></title>
@@ -1083,36 +1116,6 @@ Entspannung
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206253/20625300.jpg?version=20240222021430.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soft Classical Cello No. 3]]></title>
-            <link>https://music.bugs.co.kr/album/20625230?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20625230?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 21 Feb 2024 04:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20196416?wl_ref=list_ab_04" class="artistTitle" title="Hello Cello" onclick="
-" target="_self">Hello Cello</a>
-</p>
-<p>
-<time datetime="">2024.02.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206252/20625230.jpg?version=20240221120015.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oneul Worship Piano Hymns Vol.2]]></title>
-            <link>https://music.bugs.co.kr/album/20625179?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20625179?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 21 Feb 2024 04:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20205795?wl_ref=list_ab_04" class="artistTitle" title="오늘워십 (Oneul Worship)" onclick="
-" target="_self">오늘워십 (Oneul Worship)</a>
-</p>
-<p>
-<time datetime="">2024.02.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206251/20625179.jpg?version=20240221120015.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
