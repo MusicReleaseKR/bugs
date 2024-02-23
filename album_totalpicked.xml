@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 04:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 05:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,39 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40964/4096475.jpg?version=20240223120140.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[With YOU-th]]></title>
+            <link>https://music.bugs.co.kr/album/20626022?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20626022?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 23 Feb 2024 05:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80249916?wl_ref=list_ab_04" class="artistTitle" title="TWICE (트와이스)" onclick="
+" target="_self">TWICE (트와이스)</a>
+</p>
+<p>
+<time datetime="">2024.02.23</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206260/20626022.jpg?version=20240223140007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run Back To You]]></title>
+            <link>https://music.bugs.co.kr/album/34209128?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34209128?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 23 Feb 2024 05:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80144097?wl_ref=list_ab_04" class="artistTitle" title="레이(LAY)">레이(LAY)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '레이||레이(LAY)||80144097||OK\\nLauv||Lauv(라우브)||80286124||OK', ''); return false;">
+레이(LAY)
+</a> </p>
+<p>
+<time datetime="">2024.02.23</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/342091/34209128.jpg?version=20240223140004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Love On]]></title>
@@ -691,7 +724,7 @@ Rudimental(루디멘탈)
 <time datetime="">2024.02.22</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40964/4096427.jpg?version=20240223064704.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40964/4096427.jpg?version=20240223134145.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Snowman]]></title>
@@ -1036,36 +1069,6 @@ Rudimental(루디멘탈)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206254/20625462.jpg?version=20240222180004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All to Zero]]></title>
-            <link>https://music.bugs.co.kr/album/20625068?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20625068?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 22 Feb 2024 03:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20074863?wl_ref=list_ab_04" class="artistTitle" title="Jade" onclick="
-" target="_self">Jade</a>
-</p>
-<p>
-<time datetime="">2024.02.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206250/20625068.jpg?version=20240223004741.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Your Dream]]></title>
-            <link>https://music.bugs.co.kr/album/20625639?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20625639?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 22 Feb 2024 03:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20197878?wl_ref=list_ab_04" class="artistTitle" title="TOVE" onclick="
-" target="_self">TOVE</a>
-</p>
-<p>
-<time datetime="">2024.02.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206256/20625639.jpg?version=20240223002706.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
