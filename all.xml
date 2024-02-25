@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 19:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 20:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1064,6 +1064,69 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40964/4096480.jpg?version=20240224073254.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Vivaldi: Masterpieces (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34263156?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34263156?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 25 Feb 2024 05:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/1001102?wl_ref=list_ab_04" class="artistTitle" title="Antonio Vivaldi(비발디)" onclick="
+" target="_self">Antonio Vivaldi(비발디)</a>
+</p>
+<p>
+<time datetime="">2024.02.26</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/342631/34263156.jpg?version=20240226050016.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Handel: Arias (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34209788?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34209788?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 25 Feb 2024 05:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/19146?wl_ref=list_ab_04" class="artistTitle" title="Kathleen Battle(캐슬린 배틀)">Kathleen Battle(캐슬린 배틀)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Kathleen Battle||Kathleen Battle(캐슬린 배틀)||19146||OK\\nAcademy Of St. Martin In The Fields||Academy Of St. Martin In The Fields(아카데미 오브 성 마틴 인 더 필즈)||35617||OK\\nNeville Marriner||Neville Marriner(네빌 매리너)||35619||OK', ''); return false;">
+Kathleen Battle(캐슬린 배틀)
+</a> </p>
+<p>
+<time datetime="">2024.02.26</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/342097/34209788.jpg?version=20240226050015.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Samson François Plays Chopin (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34209552?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34209552?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 25 Feb 2024 05:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/35650?wl_ref=list_ab_04" class="artistTitle" title="Samson Francois(상송 프랑수아)" onclick="
+" target="_self">Samson Francois(상송 프랑수아)</a>
+</p>
+<p>
+<time datetime="">2024.02.26</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/342095/34209552.jpg?version=20240226050014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Schubert, Beethoven, Schumann (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34209498?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34209498?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 25 Feb 2024 05:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80039480?wl_ref=list_ab_04" class="artistTitle" title="Artemis Quartet(아르테미스 4중주단)" onclick="
+" target="_self">Artemis Quartet(아르테미스 4중주단)</a>
+</p>
+<p>
+<time datetime="">2024.02.26</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/342094/34209498.jpg?version=20240226050010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[In The Forest (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/34349631?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34349631?wl_ref=list_ab_03</guid>
@@ -1154,21 +1217,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/342640/34264026.jpg?version=20240225000006.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vivaldi: Masterpieces (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34263156?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34263156?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 25 Feb 2024 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/1001102?wl_ref=list_ab_04" class="artistTitle" title="Antonio Vivaldi(비발디)" onclick="
-" target="_self">Antonio Vivaldi(비발디)</a>
-</p>
-<p>
-<time datetime="">2024.02.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/342631/34263156.jpg?version=20240226011614.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Morningstar (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/34228258?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34228258?wl_ref=list_ab_03</guid>
@@ -1197,54 +1245,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/342269/34226971.jpg?version=20240225120006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Handel: Arias (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34209788?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34209788?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 25 Feb 2024 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/19146?wl_ref=list_ab_04" class="artistTitle" title="Kathleen Battle(캐슬린 배틀)">Kathleen Battle(캐슬린 배틀)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Kathleen Battle||Kathleen Battle(캐슬린 배틀)||19146||OK\\nAcademy Of St. Martin In The Fields||Academy Of St. Martin In The Fields(아카데미 오브 성 마틴 인 더 필즈)||35617||OK\\nNeville Marriner||Neville Marriner(네빌 매리너)||35619||OK', ''); return false;">
-Kathleen Battle(캐슬린 배틀)
-</a> </p>
-<p>
-<time datetime="">2024.02.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/342097/34209788.jpg?version=20240226005507.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Samson François Plays Chopin (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34209552?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34209552?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 25 Feb 2024 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/35650?wl_ref=list_ab_04" class="artistTitle" title="Samson Francois(상송 프랑수아)" onclick="
-" target="_self">Samson Francois(상송 프랑수아)</a>
-</p>
-<p>
-<time datetime="">2024.02.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/342095/34209552.jpg?version=20240226005603.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Schubert, Beethoven, Schumann (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34209498?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34209498?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 25 Feb 2024 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80039480?wl_ref=list_ab_04" class="artistTitle" title="Artemis Quartet(아르테미스 4중주단)" onclick="
-" target="_self">Artemis Quartet(아르테미스 4중주단)</a>
-</p>
-<p>
-<time datetime="">2024.02.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/342094/34209498.jpg?version=20240226003409.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Insomnia (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
