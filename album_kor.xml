@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 04:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 05:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -386,6 +386,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40965/4096579.jpg?version=1708916408000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[숨겨]]></title>
+            <link>https://music.bugs.co.kr/album/20626597?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20626597?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 26 Feb 2024 04:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20021665?wl_ref=list_ab_04" class="artistTitle" title="Neidi (네이디)" onclick="
+" target="_self">Neidi (네이디)</a>
+</p>
+<p>
+<time datetime="">2024.02.26</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206265/20626597.jpg?version=1708922421000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[알랑가몰라]]></title>
             <link>https://music.bugs.co.kr/album/20626441?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20626441?wl_ref=list_ab_03</guid>
@@ -585,21 +600,6 @@ Monotone(모노톤)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/341945/34194556.jpg?version=1708873207000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨겨]]></title>
-            <link>https://music.bugs.co.kr/album/20626597?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20626597?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 26 Feb 2024 04:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20021665?wl_ref=list_ab_04" class="artistTitle" title="Neidi (네이디)" onclick="
-" target="_self">Neidi (네이디)</a>
-</p>
-<p>
-<time datetime="">2024.02.26</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206265/20626597.jpg?version=1708916400000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wake up]]></title>
