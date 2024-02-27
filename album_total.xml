@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 09:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 10:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Zorzales de Antaño…Besandote Me Despido]]></title>
+            <link>https://music.bugs.co.kr/album/34376868?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34376868?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 27 Feb 2024 10:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10334123?wl_ref=list_ab_04" class="artistTitle" title="Benitez y Valencia" onclick="
+" target="_self">Benitez y Valencia</a>
+</p>
+<p>
+<time datetime="">2024.02.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/343768/34376868.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VILEEVILLIVES]]></title>
             <link>https://music.bugs.co.kr/album/34373005?wl_ref=list_ab_03</link>
@@ -919,6 +934,24 @@ Dětské ukolébavky
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206264/20626434.jpg?version=20240227120012.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Eternal]]></title>
+            <link>https://music.bugs.co.kr/album/20626359?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20626359?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 27 Feb 2024 10:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20206372?wl_ref=list_ab_04" class="artistTitle" title="PAPER">PAPER</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'PAPER||PAPER||20206372||OK\\nSAAX||SAAX||20204420||OK', ''); return false;">
+PAPER
+</a> </p>
+<p>
+<time datetime="">2024.02.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206263/20626359.jpg?version=20240227180008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일상의 우아한 서곡 (Elegant Prelude of Everyday Life)]]></title>
             <link>https://music.bugs.co.kr/album/20626314?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20626314?wl_ref=list_ab_03</guid>
@@ -1067,36 +1100,6 @@ Dětské ukolébavky
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206254/20625489.jpg?version=20240227120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑했는데]]></title>
-            <link>https://music.bugs.co.kr/album/20625475?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20625475?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 27 Feb 2024 04:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20013891?wl_ref=list_ab_04" class="artistTitle" title="권민흥" onclick="
-" target="_self">권민흥</a>
-</p>
-<p>
-<time datetime="">2024.02.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206254/20625475.jpg?version=20240227120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이명주의 12번째 앨범]]></title>
-            <link>https://music.bugs.co.kr/album/20625467?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20625467?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 27 Feb 2024 04:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/46041?wl_ref=list_ab_04" class="artistTitle" title="이명주" onclick="
-" target="_self">이명주</a>
-</p>
-<p>
-<time datetime="">2024.02.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206254/20625467.jpg?version=20240227120012.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
