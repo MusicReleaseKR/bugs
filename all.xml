@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 14:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 15:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1073,6 +1073,38 @@ Dallien
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206253/20625317.jpg?version=20240226120000.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[IBIZA (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34262477?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34262477?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 27 Feb 2024 15:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11869413?wl_ref=list_ab_04" class="artistTitle" title="Grem">Grem</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Grem||Grem||11869413||OK\\nTeo||Teo||8049128||OK', ''); return false;">
+Grem
+</a> </p>
+<p>
+<time datetime="">2024.02.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/342624/34262477.jpg?version=20240228000006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bol Pantolon Ve 70'lik (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/33735156?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33735156?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 27 Feb 2024 15:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<span class="artistTitle" title="">Various Artists</span>
+</p>
+<p>
+<time datetime="">2024.02.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337351/33735156.jpg?version=20240228000006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Zorzales de Antaño…Besandote Me Despido (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/34376868?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34376868?wl_ref=list_ab_03</guid>
@@ -2135,36 +2167,6 @@ PAPER
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206256/20625647.jpg?version=20240227120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고요한밤 잔잔하게 듣는 뉴에이지 피아노 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20625495?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20625495?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 27 Feb 2024 04:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20181702?wl_ref=list_ab_04" class="artistTitle" title="Toshio Nakagita" onclick="
-" target="_self">Toshio Nakagita</a>
-</p>
-<p>
-<time datetime="">2024.02.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206254/20625495.jpg?version=20240227120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thirty-Four 휴전선 피아노 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20625489?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20625489?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 27 Feb 2024 04:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20018076?wl_ref=list_ab_04" class="artistTitle" title="초아강" onclick="
-" target="_self">초아강</a>
-</p>
-<p>
-<time datetime="">2024.02.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206254/20625489.jpg?version=20240227120012.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tangled roots (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
