@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 02:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 03:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,21 @@ Kathleen Battle(캐슬린 배틀)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/342095/34209552.jpg?version=20240228082018.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Schubert, Beethoven, Schumann]]></title>
+            <link>https://music.bugs.co.kr/album/34209498?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34209498?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 26 Feb 2024 08:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80039480?wl_ref=list_ab_04" class="artistTitle" title="Artemis Quartet(아르테미스 4중주단)" onclick="
+" target="_self">Artemis Quartet(아르테미스 4중주단)</a>
+</p>
+<p>
+<time datetime="">2024.02.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/342094/34209498.jpg?version=20240228112026.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[French Music. Debussy, Ravel, Chabrier, Berlioz...]]></title>
@@ -116,6 +131,21 @@ Grem
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337351/33735156.jpg?version=20240228011051.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[착각]]></title>
+            <link>https://music.bugs.co.kr/album/20625249?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20625249?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 28 Feb 2024 03:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80390457?wl_ref=list_ab_04" class="artistTitle" title="Y" onclick="
+" target="_self">Y</a>
+</p>
+<p>
+<time datetime="">2024.02.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206252/20625249.jpg?version=20240228120015.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Zorzales de Antaño…Besandote Me Despido]]></title>
@@ -494,21 +524,6 @@ Lofi Beats
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/342268/34226889.jpg?version=20240228064121.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Schubert, Beethoven, Schumann]]></title>
-            <link>https://music.bugs.co.kr/album/34209498?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34209498?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 26 Feb 2024 08:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80039480?wl_ref=list_ab_04" class="artistTitle" title="Artemis Quartet(아르테미스 4중주단)" onclick="
-" target="_self">Artemis Quartet(아르테미스 4중주단)</a>
-</p>
-<p>
-<time datetime="">2024.02.28</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/342094/34209498.jpg?version=20240228112026.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Joker]]></title>
@@ -1087,21 +1102,6 @@ PAPER
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206259/20625919.jpg?version=20240227120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임희선의 제4집 코리아독도]]></title>
-            <link>https://music.bugs.co.kr/album/20625696?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20625696?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 27 Feb 2024 04:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80050911?wl_ref=list_ab_04" class="artistTitle" title="임희선" onclick="
-" target="_self">임희선</a>
-</p>
-<p>
-<time datetime="">2024.02.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206256/20625696.jpg?version=20240228025107.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 02:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 03:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[착각]]></title>
+            <link>https://music.bugs.co.kr/album/20625249?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20625249?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 28 Feb 2024 03:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80390457?wl_ref=list_ab_04" class="artistTitle" title="Y" onclick="
+" target="_self">Y</a>
+</p>
+<p>
+<time datetime="">2024.02.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206252/20625249.jpg?version=1709089215000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tangled roots]]></title>
             <link>https://music.bugs.co.kr/album/20626814?wl_ref=list_ab_03</link>
@@ -1041,21 +1056,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206265/20626508.jpg?version=1709002812000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늦은 밤]]></title>
-            <link>https://music.bugs.co.kr/album/20626506?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20626506?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 27 Feb 2024 04:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20202786?wl_ref=list_ab_04" class="artistTitle" title="말벗" onclick="
-" target="_self">말벗</a>
-</p>
-<p>
-<time datetime="">2024.02.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206265/20626506.jpg?version=1709002812000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
