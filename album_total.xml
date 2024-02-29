@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 18:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 19:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,6 +191,21 @@ Nathan Dawe
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344160/34416068.jpg?version=20240301002439.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sandy Night]]></title>
+            <link>https://music.bugs.co.kr/album/34416058?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34416058?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 29 Feb 2024 19:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13367663?wl_ref=list_ab_04" class="artistTitle" title="Cloud May" onclick="
+" target="_self">Cloud May</a>
+</p>
+<p>
+<time datetime="">2024.02.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344160/34416058.jpg?version=20240301034027.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUSTAINED]]></title>
@@ -1073,24 +1088,6 @@ Nero
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/342028/34202881.jpg?version=20240229000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Varmilækur]]></title>
-            <link>https://music.bugs.co.kr/album/34202561?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34202561?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 29 Feb 2024 04:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11265043?wl_ref=list_ab_04" class="artistTitle" title="Sverrir Bergmann">Sverrir Bergmann</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Sverrir Bergmann||Sverrir Bergmann||11265043||OK\\nHalldór Gunnar||Halldór Gunnar||11264721||OK', ''); return false;">
-Sverrir Bergmann
-</a> </p>
-<p>
-<time datetime="">2024.02.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/342025/34202561.jpg?version=20240229000006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
