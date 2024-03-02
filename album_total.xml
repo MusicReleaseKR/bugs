@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 09:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 10:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -441,6 +441,21 @@ kayrawai
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206274/20627424.jpg?version=20240302120005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sad]]></title>
+            <link>https://music.bugs.co.kr/album/4096814?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4096814?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 02 Mar 2024 10:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80188220?wl_ref=list_ab_04" class="artistTitle" title="PLZY (플리지)" onclick="
+" target="_self">PLZY (플리지)</a>
+</p>
+<p>
+<time datetime="">2024.03.02</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40968/4096814.jpg?version=20240302180000.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SECOND YOUTH]]></title>
@@ -1115,21 +1130,6 @@ Sophia Huang
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/343533/34353398.jpg?version=20240302000004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cabelos Negros]]></title>
-            <link>https://music.bugs.co.kr/album/34352697?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34352697?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 02 Mar 2024 04:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13309845?wl_ref=list_ab_04" class="artistTitle" title="Étore Silva" onclick="
-" target="_self">Étore Silva</a>
-</p>
-<p>
-<time datetime="">2024.03.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/343526/34352697.jpg?version=20240302000004.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
