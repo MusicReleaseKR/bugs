@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 19:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 20:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1089,6 +1089,39 @@ Anthony Lazaro
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206272/20627213.jpg?version=20240229180005.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Piano Concertos (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34414483?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34414483?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Mar 2024 21:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/301009?wl_ref=list_ab_04" class="artistTitle" title="Elisabeth Leonskaja(레온스카이아)" onclick="
+" target="_self">Elisabeth Leonskaja(레온스카이아)</a>
+</p>
+<p>
+<time datetime="">2024.03.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344144/34414483.jpg?version=20240303050011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mozart: Klavierkonzerte Nos. 24, 25, 26 "Krönungskonzert" & 27 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34414378?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34414378?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Mar 2024 21:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/1209?wl_ref=list_ab_04" class="artistTitle" title="Daniel Barenboim(다니엘 바렌보임)">Daniel Barenboim(다니엘 바렌보임)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Daniel Barenboim||Daniel Barenboim(다니엘 바렌보임)||1209||OK\\nBerliner Philharmoniker||Berliner Philharmoniker(베를린 필하모닉 오케스트라)||35545||OK', ''); return false;">
+Daniel Barenboim(다니엘 바렌보임)
+</a> </p>
+<p>
+<time datetime="">2024.03.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344143/34414378.jpg?version=20240303050008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[פעם היו לי (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/33163365?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33163365?wl_ref=list_ab_03</guid>
@@ -1200,21 +1233,6 @@ Raycco
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344154/34415468.jpg?version=20240302000004.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Piano Concertos (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34414483?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34414483?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Mar 2024 21:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/301009?wl_ref=list_ab_04" class="artistTitle" title="Elisabeth Leonskaja(레온스카이아)" onclick="
-" target="_self">Elisabeth Leonskaja(레온스카이아)</a>
-</p>
-<p>
-<time datetime="">2024.03.02</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344144/34414483.jpg?version=20240303002728.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Moldau & Other Masterpieces (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/34414441?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34414441?wl_ref=list_ab_03</guid>
@@ -1243,24 +1261,6 @@ Raycco
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344144/34414420.jpg?version=20240303002810.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mozart: Klavierkonzerte Nos. 24, 25, 26 "Krönungskonzert" & 27 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34414378?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34414378?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Mar 2024 21:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/1209?wl_ref=list_ab_04" class="artistTitle" title="Daniel Barenboim(다니엘 바렌보임)">Daniel Barenboim(다니엘 바렌보임)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Daniel Barenboim||Daniel Barenboim(다니엘 바렌보임)||1209||OK\\nBerliner Philharmoniker||Berliner Philharmoniker(베를린 필하모닉 오케스트라)||35545||OK', ''); return false;">
-Daniel Barenboim(다니엘 바렌보임)
-</a> </p>
-<p>
-<time datetime="">2024.03.02</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344143/34414378.jpg?version=20240303004325.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bach: Sacred Cantatas, BWV 1 - 9 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
