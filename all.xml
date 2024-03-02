@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 14:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 15:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1089,6 +1089,57 @@ Anthony Lazaro
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206272/20627213.jpg?version=20240229180005.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[פעם היו לי (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/33163365?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33163365?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 02 Mar 2024 15:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12778167?wl_ref=list_ab_04" class="artistTitle" title="קרן קריספיל" onclick="
+" target="_self">קרן קריספיל</a>
+</p>
+<p>
+<time datetime="">2024.03.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331633/33163365.jpg?version=20240303000006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Foca No Flash (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/19874930?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/19874930?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 02 Mar 2024 15:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12330805?wl_ref=list_ab_04" class="artistTitle" title="Raycco">Raycco</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Raycco||Raycco||12330805||OK\\nMc Neu||Mc Neu||12333031||OK', ''); return false;">
+Raycco
+</a> </p>
+<p>
+<time datetime="">2024.03.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/198749/19874930.jpg?version=20240303000006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤이 돼도 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 02 Mar 2024 15:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80167636?wl_ref=list_ab_04" class="artistTitle" title="한올">한올</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '한올||한올||80167636||OK\\n새봄||새봄(Saevom)||80209230||OK', ''); return false;">
+한올
+</a> </p>
+<p>
+<time datetime="">2024.02.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40963/4096305.jpg?version=20240223045015.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Escape Venus (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/34416959?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34416959?wl_ref=list_ab_03</guid>
@@ -2168,49 +2219,22 @@ Sophia Huang
             <enclosure url="https://image.bugsm.co.kr/album/images/170/343735/34373552.jpg?version=20240302120008.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[No Vayas Tan Lento (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34373374?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34373374?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 02 Mar 2024 04:19:13 GMT</pubDate>
+            <title><![CDATA[밤이 돼도 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 02 Mar 2024 15:15:46 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13149296?wl_ref=list_ab_04" class="artistTitle" title="Olas De Medianoche" onclick="
-" target="_self">Olas De Medianoche</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80167636?wl_ref=list_ab_04" class="artistTitle" title="한올">한올</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '한올||한올||80167636||OK\\n새봄||새봄(Saevom)||80209230||OK', ''); return false;">
+한올
+</a> </p>
 <p>
-<time datetime="">2024.03.02</time>
+<time datetime="">2024.02.18</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/343733/34373374.jpg?version=20240302120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nuevo dios (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34353519?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34353519?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 02 Mar 2024 04:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10458152?wl_ref=list_ab_04" class="artistTitle" title="Gonzalo Aloras" onclick="
-" target="_self">Gonzalo Aloras</a>
-</p>
-<p>
-<time datetime="">2024.03.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/343535/34353519.jpg?version=20240302000004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE HEAT (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34353398?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34353398?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 02 Mar 2024 04:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12787345?wl_ref=list_ab_04" class="artistTitle" title="PSYCHIC FEVER from EXILE TRIBE" onclick="
-" target="_self">PSYCHIC FEVER from EXILE TRIBE</a>
-</p>
-<p>
-<time datetime="">2024.03.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/343533/34353398.jpg?version=20240302000004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40963/4096305.jpg?version=1708631415000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이아름의 정가 <흙> (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3262,21 +3286,6 @@ ThunderRat
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40967/4096715.jpg?version=1709332599000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[It’s Spring (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20627591?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20627591?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Mar 2024 04:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20206810?wl_ref=list_ab_04" class="artistTitle" title="Comfy Breeze" onclick="
-" target="_self">Comfy Breeze</a>
-</p>
-<p>
-<time datetime="">2024.03.01</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206275/20627591.jpg?version=1709262010000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
