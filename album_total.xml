@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Mar 2024 09:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 10:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -862,6 +862,39 @@ Bicho Reactor
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206274/20627496.jpg?version=20240303120009.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[GT2RS]]></title>
+            <link>https://music.bugs.co.kr/album/20627490?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20627490?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 03 Mar 2024 10:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20206772?wl_ref=list_ab_04" class="artistTitle" title="Flossy">Flossy</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Flossy||Flossy||20206772||OK\\nBenzy||Benzy||20206773||OK', ''); return false;">
+Flossy
+</a> </p>
+<p>
+<time datetime="">2024.03.03</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206274/20627490.jpg?version=20240303180008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE KOREA]]></title>
+            <link>https://music.bugs.co.kr/album/20627420?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20627420?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 03 Mar 2024 10:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20195347?wl_ref=list_ab_04" class="artistTitle" title="House of love" onclick="
+" target="_self">House of love</a>
+</p>
+<p>
+<time datetime="">2024.03.03</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206274/20627420.jpg?version=20240303180008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Feels like you]]></title>
             <link>https://music.bugs.co.kr/album/20627402?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20627402?wl_ref=list_ab_03</guid>
@@ -875,6 +908,21 @@ Bicho Reactor
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206274/20627402.jpg?version=20240303120009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Space Cadet]]></title>
+            <link>https://music.bugs.co.kr/album/4096766?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4096766?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 03 Mar 2024 10:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80086422?wl_ref=list_ab_04" class="artistTitle" title="Yammo" onclick="
+" target="_self">Yammo</a>
+</p>
+<p>
+<time datetime="">2024.03.03</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40967/4096766.jpg?version=20240303180004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Let Me Calm Down (Extended Version)]]></title>
@@ -1118,60 +1166,6 @@ ati2x06
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344169/34416978.jpg?version=20240303000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leyla (Speed Up)]]></title>
-            <link>https://music.bugs.co.kr/album/34416975?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34416975?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 03 Mar 2024 04:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13325700?wl_ref=list_ab_04" class="artistTitle" title="ati2x06">ati2x06</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'ati2x06||ati2x06||13325700||OK\\nhaise2x06||haise2x06||13610663||OK\\nonvrwalker||onvrwalker||13600849||OK', ''); return false;">
-ati2x06
-</a> </p>
-<p>
-<time datetime="">2024.03.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344169/34416975.jpg?version=20240303000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seni Seviyorum Demek]]></title>
-            <link>https://music.bugs.co.kr/album/34416968?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34416968?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 03 Mar 2024 04:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13623864?wl_ref=list_ab_04" class="artistTitle" title="Enes">Enes</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Enes||Enes||13623864||OK\\nyusufenqs||yusufenqs||13623853||OK', ''); return false;">
-Enes
-</a> </p>
-<p>
-<time datetime="">2024.03.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344169/34416968.jpg?version=20240303000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ne Gereği Var ?]]></title>
-            <link>https://music.bugs.co.kr/album/34416964?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34416964?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 03 Mar 2024 04:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13544144?wl_ref=list_ab_04" class="artistTitle" title="Erenflex">Erenflex</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Erenflex||Erenflex||13544144||OK\\nLastrex||Lastrex||13614690||OK\\nWaltzcim||Waltzcim||13614566||OK', ''); return false;">
-Erenflex
-</a> </p>
-<p>
-<time datetime="">2024.03.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344169/34416964.jpg?version=20240303000006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
