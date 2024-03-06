@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 17:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 18:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -473,7 +473,7 @@ Mix.audio
 <time datetime="">2024.03.06</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206280/20628012.jpg?version=20240306120011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206280/20628012.jpg?version=20240307022045.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gone (Feat. 온스) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -518,7 +518,7 @@ Mix.audio
 <time datetime="">2024.03.06</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40987/4098761.jpg?version=20240306120008.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40987/4098761.jpg?version=20240307022506.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Like What (Freestyle) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -559,14 +559,17 @@ imase
             <guid>https://music.bugs.co.kr/album/34415806?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 06 Mar 2024 03:16:44 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80139330?wl_ref=list_ab_04" class="artistTitle" title="Gesaffelstein(게사펠슈타인)" onclick="
-" target="_self">Gesaffelstein(게사펠슈타인)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80139330?wl_ref=list_ab_04" class="artistTitle" title="Gesaffelstein(게사펠슈타인)">Gesaffelstein(게사펠슈타인)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Gesaffelstein||Gesaffelstein(게사펠슈타인)||80139330||OK\\nYan Wagner||Yan Wagner(얀 와그너)||80141883||OK', ''); return false;">
+Gesaffelstein(게사펠슈타인)
+</a> </p>
 <p>
 <time datetime="">2024.03.01</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344158/34415806.jpg?version=20240302065125.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344158/34415806.jpg?version=20240307022506.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Everything You Do (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -710,7 +713,7 @@ NuNew
 <time datetime="">2024.03.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40987/4098737.jpg?version=20240306104343.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40987/4098737.jpg?version=20240307022010.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨딩 임파서블 : OST Special (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1121,7 +1124,7 @@ Daktyl(닥틸)
 <time datetime="">2024.03.07</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/329693/32969327.jpg?version=20240306100724.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/329693/32969327.jpg?version=20240307021747.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Svengali (Remixed) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1598,7 +1601,7 @@ Music for Sleep
 <time datetime="">2024.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344144/34414420.jpg?version=20240306054024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344144/34414420.jpg?version=20240307022200.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mozart: Klavierkonzerte Nos. 24, 25, 26 "Krönungskonzert" & 27 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2333,7 +2336,7 @@ Young Minnie
 <time datetime="">2024.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206277/20627705.jpg?version=1709694009000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206277/20627705.jpg?version=1709745481000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Garden Of Ethan Vol.8 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2846,7 +2849,7 @@ Young Minnie
 <time datetime="">2024.03.06</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206283/20628309.jpg?version=1709694009000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206283/20628309.jpg?version=1709745843000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Am I Okay? (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
