@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 07:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 08:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -335,7 +335,7 @@
 <time datetime="">2024.03.07</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206284/20628481.jpg?version=1709780411000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206284/20628481.jpg?version=1709798841000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[On the Way]]></title>
@@ -808,17 +808,14 @@
             <guid>https://music.bugs.co.kr/album/20628412?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 07 Mar 2024 04:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20198805?wl_ref=list_ab_04" class="artistTitle" title="현웅">현웅</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '현웅||현웅||20198805||OK\\nclabin||clabin||20207094||OK\\nz4vwm||z4vwm (잡음)||20119082||OK\\n유동우||유동우||20207095||OK', ''); return false;">
-현웅
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/20198805?wl_ref=list_ab_04" class="artistTitle" title="현웅" onclick="
+" target="_self">현웅</a>
+</p>
 <p>
 <time datetime="">2024.03.07</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206284/20628412.jpg?version=1709780411000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206284/20628412.jpg?version=1709798811000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<천주미 가야금병창 창작시리즈 I with 작곡가 선보미> 오태석제 가야금병창 <박타령>, <돈타령>]]></title>
