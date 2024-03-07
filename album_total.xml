@@ -4,24 +4,9 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 08:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 09:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[LONG TIME NO SEE Yan Chang Hui (Live in Hong Kong / 2002)]]></title>
-            <link>https://music.bugs.co.kr/album/34459549?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34459549?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Mar 2024 04:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80033648?wl_ref=list_ab_04" class="artistTitle" title="황개근(黃凱芹/Christopher Wong)" onclick="
-" target="_self">황개근(黃凱芹/Christopher Wong)</a>
-</p>
-<p>
-<time datetime="">2024.03.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344595/34459549.jpg?version=20240307022448.0" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Puras Caras (En Vivo)]]></title>
             <link>https://music.bugs.co.kr/album/34437609?wl_ref=list_ab_03</link>
@@ -1089,6 +1074,21 @@ Mindy Gledhill(민디 글레드힐)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344339/34433969.jpg?version=20240307020225.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BOCHINCHE]]></title>
+            <link>https://music.bugs.co.kr/album/34433526?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34433526?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Mar 2024 09:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11801937?wl_ref=list_ab_04" class="artistTitle" title="Dawer X Damper" onclick="
+" target="_self">Dawer X Damper</a>
+</p>
+<p>
+<time datetime="">2024.03.07</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344335/34433526.jpg?version=20240307000005.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
