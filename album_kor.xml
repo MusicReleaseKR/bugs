@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Mar 2024 14:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Mar 2024 15:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리의 밤이 끝나지 않았으면 해]]></title>
+            <link>https://music.bugs.co.kr/album/4096095?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4096095?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 09 Mar 2024 15:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80357917?wl_ref=list_ab_04" class="artistTitle" title="이병찬" onclick="
+" target="_self">이병찬</a>
+</p>
+<p>
+<time datetime="">2024.02.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40960/4096095.jpg?version=1707773859000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SON OF ILLTHUG]]></title>
             <link>https://music.bugs.co.kr/album/20626560?wl_ref=list_ab_03</link>
@@ -1051,21 +1066,6 @@ RNRN
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206275/20627571.jpg?version=1709866811000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOUSE OF TRICKY : Trial And Error]]></title>
-            <link>https://music.bugs.co.kr/album/4098876?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4098876?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 08 Mar 2024 10:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20182966?wl_ref=list_ab_04" class="artistTitle" title="xikers(싸이커스)" onclick="
-" target="_self">xikers(싸이커스)</a>
-</p>
-<p>
-<time datetime="">2024.03.08</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40988/4098876.jpg?version=1709937824000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
