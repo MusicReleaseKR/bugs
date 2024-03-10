@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 02:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 03:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,24 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40960/4096095.jpg?version=20240213063739.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 Many L's]]></title>
+            <link>https://music.bugs.co.kr/album/4094952?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4094952?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 10 Mar 2024 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20056646?wl_ref=list_ab_04" class="artistTitle" title="프리키(Freaky)">프리키(Freaky)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '프리키||프리키(Freaky)||20056646||OK\\nRyoT||RyoT(료티)​||20029087||OK', ''); return false;">
+프리키(Freaky)
+</a> </p>
+<p>
+<time datetime="">2024.03.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40949/4094952.jpg?version=20240310120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tiger Eye]]></title>
@@ -1095,24 +1113,6 @@ Mlee
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344610/34461028.jpg?version=20240310063233.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Đưa Em Về Nhà (Lofi)]]></title>
-            <link>https://music.bugs.co.kr/album/34461027?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34461027?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 09 Mar 2024 04:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/500128?wl_ref=list_ab_04" class="artistTitle" title="Khổng Tú Quỳnh">Khổng Tú Quỳnh</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Khổng Tú Quỳnh||Khổng Tú Quỳnh||500128||OK\\nMỹ Linh||Mỹ Linh||500177||OK\\nDiệu Nhi||Diệu Nhi||13512482||OK\\nVân Hugo||Vân Hugo||13480495||OK\\nNguyen Ha||Nguyen Ha||10103047||OK\\nChị Đẹp Đạp Gió Rẽ Sóng||Chị Đẹp Đạp Gió Rẽ Sóng||13457033||OK', ''); return false;">
-Khổng Tú Quỳnh
-</a> </p>
-<p>
-<time datetime="">2024.03.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344610/34461027.jpg?version=20240310063232.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
