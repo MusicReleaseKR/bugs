@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 11:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 12:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,36 @@ Softy keys
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344663/34466375.jpg?version=20240311000006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dvořák, Beethoven, Shostakovich, Piazzolla...]]></title>
+            <link>https://music.bugs.co.kr/album/34438385?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34438385?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 11 Mar 2024 12:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80039480?wl_ref=list_ab_04" class="artistTitle" title="Artemis Quartet(아르테미스 4중주단)" onclick="
+" target="_self">Artemis Quartet(아르테미스 4중주단)</a>
+</p>
+<p>
+<time datetime="">2024.03.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344383/34438385.jpg?version=20240311205009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maria João Pires Plays Chopin: Waltzes, Preludes & Piano Concertos]]></title>
+            <link>https://music.bugs.co.kr/album/34438352?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34438352?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 11 Mar 2024 12:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/38968?wl_ref=list_ab_04" class="artistTitle" title="Maria-Joao Pires(마리아 조앙 피레스)" onclick="
+" target="_self">Maria-Joao Pires(마리아 조앙 피레스)</a>
+</p>
+<p>
+<time datetime="">2024.03.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344383/34438352.jpg?version=20240311204015.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Big Dreamin']]></title>
@@ -1041,36 +1071,6 @@ Haxhigeaszy
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/342035/34203510.jpg?version=20240311000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AMNL PRNT]]></title>
-            <link>https://music.bugs.co.kr/album/34199558?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34199558?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 11 Mar 2024 04:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13607863?wl_ref=list_ab_04" class="artistTitle" title="AMNL PRNT" onclick="
-" target="_self">AMNL PRNT</a>
-</p>
-<p>
-<time datetime="">2024.03.11</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/341995/34199558.jpg?version=20240311120009.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Comforting Fan]]></title>
-            <link>https://music.bugs.co.kr/album/34176202?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34176202?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 11 Mar 2024 04:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12751589?wl_ref=list_ab_04" class="artistTitle" title="Alex Slumber" onclick="
-" target="_self">Alex Slumber</a>
-</p>
-<p>
-<time datetime="">2024.03.11</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/341762/34176202.jpg?version=20240311120009.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
