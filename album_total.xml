@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 14:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 15:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Martha Argerich Plays Rachmaninov]]></title>
+            <link>https://music.bugs.co.kr/album/34438019?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34438019?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 12 Mar 2024 15:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/36596?wl_ref=list_ab_04" class="artistTitle" title="Martha Argerich(마르타 아르헤리치)" onclick="
+" target="_self">Martha Argerich(마르타 아르헤리치)</a>
+</p>
+<p>
+<time datetime="">2024.03.13</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344380/34438019.jpg?version=20240313000005.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Krav Maga Music 2024]]></title>
             <link>https://music.bugs.co.kr/album/34474217?wl_ref=list_ab_03</link>
@@ -1063,21 +1078,6 @@ Dětské ukolébavky
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344704/34470424.jpg?version=20240312024303.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Luka Hati]]></title>
-            <link>https://music.bugs.co.kr/album/34470396?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34470396?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 12 Mar 2024 06:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13642158?wl_ref=list_ab_04" class="artistTitle" title="SUNDOWN" onclick="
-" target="_self">SUNDOWN</a>
-</p>
-<p>
-<time datetime="">2024.03.12</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344703/34470396.jpg?version=20240312014745.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
