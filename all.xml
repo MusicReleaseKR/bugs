@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 07:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 08:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,7 +356,7 @@ Owen(오웬)
 <time datetime="">2024.03.13</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206296/20629686.jpg?version=20240313120010.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206296/20629686.jpg?version=20240313162704.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Drown (Feat. 서안 (SEOAN), K JUN) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -2936,21 +2936,6 @@ Tetsuro Kawashima(카와시마 테츠로/川嶋哲郞)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206297/20629731.jpg?version=1710298808000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Piano Live in Hamburg (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20629716?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20629716?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 13 Mar 2024 04:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20100401?wl_ref=list_ab_04" class="artistTitle" title="김한울" onclick="
-" target="_self">김한울</a>
-</p>
-<p>
-<time datetime="">2024.03.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206297/20629716.jpg?version=1710298808000" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[표정 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20629697?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20629697?wl_ref=list_ab_03</guid>
@@ -2978,7 +2963,7 @@ Tetsuro Kawashima(카와시마 테츠로/川嶋哲郞)
 <time datetime="">2024.03.13</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206296/20629686.jpg?version=1710298810000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206296/20629686.jpg?version=1710314824000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Time Travel (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3192,6 +3177,21 @@ Tetsuro Kawashima(카와시마 테츠로/川嶋哲郞)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206295/20629570.jpg?version=1710306158000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너는 지금 어디까지 갔니 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20629564?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20629564?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 13 Mar 2024 03:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80168258?wl_ref=list_ab_04" class="artistTitle" title="조이어클락(Joy o'clock)" onclick="
+" target="_self">조이어클락(Joy o'clock)</a>
+</p>
+<p>
+<time datetime="">2024.03.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206295/20629564.jpg?version=1710298801000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
