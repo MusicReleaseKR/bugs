@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 08:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 09:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,36 +414,6 @@ Yung Lean
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344406/34440665.jpg?version=20240313120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dvořák, Beethoven, Shostakovich, Piazzolla...]]></title>
-            <link>https://music.bugs.co.kr/album/34438385?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34438385?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 13 Mar 2024 01:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80039480?wl_ref=list_ab_04" class="artistTitle" title="Artemis Quartet(아르테미스 4중주단)" onclick="
-" target="_self">Artemis Quartet(아르테미스 4중주단)</a>
-</p>
-<p>
-<time datetime="">2024.03.13</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344383/34438385.jpg?version=20240313085011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maria João Pires Plays Chopin: Waltzes, Preludes & Piano Concertos]]></title>
-            <link>https://music.bugs.co.kr/album/34438352?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34438352?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 13 Mar 2024 01:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/38968?wl_ref=list_ab_04" class="artistTitle" title="Maria-Joao Pires(마리아 조앙 피레스)" onclick="
-" target="_self">Maria-Joao Pires(마리아 조앙 피레스)</a>
-</p>
-<p>
-<time datetime="">2024.03.13</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344383/34438352.jpg?version=20240313095232.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Martha Argerich Plays Rachmaninov]]></title>
@@ -1065,6 +1035,36 @@ Tetsuro Kawashima(카와시마 테츠로/川嶋哲郞)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206291/20629139.jpg?version=20240313120008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[nonfiction]]></title>
+            <link>https://music.bugs.co.kr/album/20629089?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20629089?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 13 Mar 2024 09:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20190130?wl_ref=list_ab_04" class="artistTitle" title="Mel" onclick="
+" target="_self">Mel</a>
+</p>
+<p>
+<time datetime="">2024.03.13</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206290/20629089.jpg?version=20240313120008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[복수]]></title>
+            <link>https://music.bugs.co.kr/album/20628972?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20628972?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 13 Mar 2024 09:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20048003?wl_ref=list_ab_04" class="artistTitle" title="하모(Hamo)" onclick="
+" target="_self">하모(Hamo)</a>
+</p>
+<p>
+<time datetime="">2024.03.13</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206289/20628972.jpg?version=20240313120008.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
