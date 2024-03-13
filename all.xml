@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 20:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 21:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1109,6 +1109,21 @@ Deepend
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344383/34438352.jpg?version=20240314050029.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fauré: Pavane, Op. 50 (Instrumental Version) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34437823?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34437823?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 13 Mar 2024 21:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/35619?wl_ref=list_ab_04" class="artistTitle" title="Neville Marriner(네빌 매리너)" onclick="
+" target="_self">Neville Marriner(네빌 매리너)</a>
+</p>
+<p>
+<time datetime="">2024.03.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344378/34437823.jpg?version=20240314053008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[On Your Mark (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/34477903?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34477903?wl_ref=list_ab_03</guid>
@@ -2121,21 +2136,6 @@ Tetsuro Kawashima(카와시마 테츠로/川嶋哲郞)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206291/20629148.jpg?version=20240313120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Light (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20629144?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20629144?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 13 Mar 2024 04:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20206397?wl_ref=list_ab_04" class="artistTitle" title="Jin Ono" onclick="
-" target="_self">Jin Ono</a>
-</p>
-<p>
-<time datetime="">2024.03.13</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206291/20629144.jpg?version=20240313120008.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Groove Haven (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
