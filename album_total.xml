@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 02:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 03:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,22 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344378/34437823.jpg?version=20240314053008.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노르웨이 숲 10주년 Part.1]]></title>
+            <title><![CDATA[Goofy Village]]></title>
+            <link>https://music.bugs.co.kr/album/33544623?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33544623?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 14 Mar 2024 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20138547?wl_ref=list_ab_04" class="artistTitle" title="Nagini" onclick="
+" target="_self">Nagini</a>
+</p>
+<p>
+<time datetime="">2024.03.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/335446/33544623.jpg?version=20240314120011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노르웨이 숲 10주년 Part.2]]></title>
             <link>https://music.bugs.co.kr/album/20625928?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20625928?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 14 Mar 2024 01:09:56 GMT</pubDate>
@@ -62,10 +77,10 @@
 " target="_self">노르웨이 숲</a>
 </p>
 <p>
-<time datetime="">2024.02.27</time>
+<time datetime="">2024.03.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206259/20625928.jpg?version=20240228003826.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206259/20625928.jpg?version=20240314120042.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[On Your Mark]]></title>
@@ -1047,24 +1062,6 @@ YBG Robb
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206291/20629169.jpg?version=20240313120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Walk in Life]]></title>
-            <link>https://music.bugs.co.kr/album/20629162?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20629162?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 13 Mar 2024 04:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80109249?wl_ref=list_ab_04" class="artistTitle" title="Tetsuro Kawashima(카와시마 테츠로/川嶋哲郞)">Tetsuro Kawashima(카와시마 테츠로/川嶋哲郞)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Tetsuro Kawashima||Tetsuro Kawashima(카와시마 테츠로/川嶋哲郞)||80109249||OK\\nCHAKA STRING QUARTET||CHAKA STRING QUARTET||20207353||OK', ''); return false;">
-Tetsuro Kawashima(카와시마 테츠로/川嶋哲郞)
-</a> </p>
-<p>
-<time datetime="">2024.03.13</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206291/20629162.jpg?version=20240313120008.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
