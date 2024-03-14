@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 14:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 15:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[This Time Around (feat. (G)I-DLE)]]></title>
+            <link>https://music.bugs.co.kr/album/34478060?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34478060?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 14 Mar 2024 15:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/145?wl_ref=list_ab_04" class="artistTitle" title="Jennifer Lopez(제니퍼 로페즈)" onclick="
+" target="_self">Jennifer Lopez(제니퍼 로페즈)</a>
+</p>
+<p>
+<time datetime="">2024.03.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344780/34478060.jpg?version=20240315000000.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[In This Morning]]></title>
             <link>https://music.bugs.co.kr/album/4098802?wl_ref=list_ab_03</link>
@@ -1062,21 +1077,6 @@ Paul Schulze
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206281/20628193.jpg?version=20240313120001.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE BUGATEE (2024 LOVE BUGATEE)]]></title>
-            <link>https://music.bugs.co.kr/album/4099045?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4099045?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 13 Mar 2024 03:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20040731?wl_ref=list_ab_04" class="artistTitle" title="남동현" onclick="
-" target="_self">남동현</a>
-</p>
-<p>
-<time datetime="">2024.03.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40990/4099045.jpg?version=20240314064441.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
