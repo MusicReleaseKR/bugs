@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 08:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 09:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1043,6 +1043,24 @@ RRIP
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40991/4099162.jpg?version=20240316120036.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Head 2 Head]]></title>
+            <link>https://music.bugs.co.kr/album/4095560?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095560?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 16 Mar 2024 09:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20029087?wl_ref=list_ab_04" class="artistTitle" title="RyoT(료티)​">RyoT(료티)​</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'RyoT||RyoT(료티)​||20029087||OK\\nWVN||WVN||20095706||OK', ''); return false;">
+RyoT(료티)​
+</a> </p>
+<p>
+<time datetime="">2024.03.16</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40955/4095560.jpg?version=20240316180009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jobana Ke Kahas Jija Gagari]]></title>
             <link>https://music.bugs.co.kr/album/34498848?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34498848?wl_ref=list_ab_03</guid>
@@ -1107,21 +1125,6 @@ Milan Yadav
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344988/34498830.jpg?version=20240316075508.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kaimur Ke Nami Sher Hai]]></title>
-            <link>https://music.bugs.co.kr/album/34498827?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34498827?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 16 Mar 2024 04:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13650936?wl_ref=list_ab_04" class="artistTitle" title="Biru Raj Chandravanshi" onclick="
-" target="_self">Biru Raj Chandravanshi</a>
-</p>
-<p>
-<time datetime="">2024.03.16</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344988/34498827.jpg?version=20240316061013.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
