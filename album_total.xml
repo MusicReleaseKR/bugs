@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 09:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 10:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -736,6 +736,21 @@ Moon Tunes
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206305/20630570.jpg?version=20240317120001.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[왜개인 50%]]></title>
+            <link>https://music.bugs.co.kr/album/20630156?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20630156?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 17 Mar 2024 10:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20146143?wl_ref=list_ab_04" class="artistTitle" title="ruletheworldboi" onclick="
+" target="_self">ruletheworldboi</a>
+</p>
+<p>
+<time datetime="">2024.03.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206301/20630156.jpg?version=20240317180008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[곽동현 서도12잡가]]></title>
             <link>https://music.bugs.co.kr/album/20629291?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20629291?wl_ref=list_ab_03</guid>
@@ -1142,24 +1157,6 @@ Refew
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344966/34496661.jpg?version=20240317000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gözler - Hızlandırılmış]]></title>
-            <link>https://music.bugs.co.kr/album/34496651?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34496651?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 17 Mar 2024 04:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13601695?wl_ref=list_ab_04" class="artistTitle" title="7topr4k">7topr4k</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '7topr4k||7topr4k||13601695||OK\\noclody||oclody||13591101||OK\\nWonda||Wonda||80223227||OK', ''); return false;">
-7topr4k
-</a> </p>
-<p>
-<time datetime="">2024.03.17</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344966/34496651.jpg?version=20240317000006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
