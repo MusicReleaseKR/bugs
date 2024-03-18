@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 09:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 10:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lasse & Mathilde]]></title>
+            <link>https://music.bugs.co.kr/album/34530684?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34530684?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 18 Mar 2024 10:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8084999?wl_ref=list_ab_04" class="artistTitle" title="Lasse &amp; Mathilde" onclick="
+" target="_self">Lasse &amp; Mathilde</a>
+</p>
+<p>
+<time datetime="">2024.03.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/345306/34530684.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Parade]]></title>
             <link>https://music.bugs.co.kr/album/34498941?wl_ref=list_ab_03</link>
@@ -1135,24 +1150,6 @@ Nada di Bulan
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310113/31011333.jpg?version=20240318120013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ellazító álmok]]></title>
-            <link>https://music.bugs.co.kr/album/31011316?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31011316?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 18 Mar 2024 04:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13080089?wl_ref=list_ab_04" class="artistTitle" title="Holdfényes dallamok">Holdfényes dallamok</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Holdfényes dallamok||Holdfényes dallamok||13080089||OK\\nHoldfényes jóga-Ellazító meditáció||Holdfényes jóga-Ellazító meditáció||13140967||OK', ''); return false;">
-Holdfényes dallamok
-</a> </p>
-<p>
-<time datetime="">2024.03.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310113/31011316.jpg?version=20240318120013.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
