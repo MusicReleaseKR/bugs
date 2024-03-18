@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 18:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 19:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -568,6 +568,24 @@ Denise Duval
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337286/33728679.jpg?version=20240318120013.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[A Seat In Heaven]]></title>
+            <link>https://music.bugs.co.kr/album/33513155?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33513155?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 18 Mar 2024 19:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80239915?wl_ref=list_ab_04" class="artistTitle" title="Jumping Back Slash(점핑 백 슬래쉬)">Jumping Back Slash(점핑 백 슬래쉬)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Jumping Back Slash||Jumping Back Slash(점핑 백 슬래쉬)||80239915||OK\\nBŪJIN||BŪJIN||13344292||OK', ''); return false;">
+Jumping Back Slash(점핑 백 슬래쉬)
+</a> </p>
+<p>
+<time datetime="">2024.03.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/335131/33513155.jpg?version=20240319034409.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Metal]]></title>
             <link>https://music.bugs.co.kr/album/33399011?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33399011?wl_ref=list_ab_03</guid>
@@ -1129,24 +1147,6 @@ Månelåter
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310122/31012226.jpg?version=20240318120013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편안한 꿈]]></title>
-            <link>https://music.bugs.co.kr/album/31012209?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31012209?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 18 Mar 2024 04:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13080379?wl_ref=list_ab_04" class="artistTitle" title="달 음악">달 음악</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '달 음악||달 음악||13080379||OK\\n달 요가-편안한 명상||달 요가-편안한 명상||13141228||OK', ''); return false;">
-달 음악
-</a> </p>
-<p>
-<time datetime="">2024.03.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310122/31012209.jpg?version=20240318120013.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
