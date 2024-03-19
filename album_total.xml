@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 17:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 18:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -729,6 +729,21 @@ Dětské ukolébavky
             <enclosure url="https://image.bugsm.co.kr/album/images/170/323068/32306824.jpg?version=20240319000004.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Red October]]></title>
+            <link>https://music.bugs.co.kr/album/30870534?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30870534?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 19 Mar 2024 18:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12837415?wl_ref=list_ab_04" class="artistTitle" title="Paul Wilcock" onclick="
+" target="_self">Paul Wilcock</a>
+</p>
+<p>
+<time datetime="">2024.03.19</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/308705/30870534.jpg?version=20240320025052.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[PIANO MODERNISM Vol.3 : Disco Night Fever]]></title>
             <link>https://music.bugs.co.kr/album/20631069?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20631069?wl_ref=list_ab_03</guid>
@@ -1090,21 +1105,6 @@ Dětské ukolébavky
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206295/20629580.jpg?version=20240319120013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RUNWAY]]></title>
-            <link>https://music.bugs.co.kr/album/20629565?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20629565?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 19 Mar 2024 04:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20175217?wl_ref=list_ab_04" class="artistTitle" title="무브 (MOOB)" onclick="
-" target="_self">무브 (MOOB)</a>
-</p>
-<p>
-<time datetime="">2024.03.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206295/20629565.jpg?version=20240319120013.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
