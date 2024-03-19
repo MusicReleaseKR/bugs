@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 09:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 10:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -942,6 +942,21 @@ Dětské ukolébavky
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206302/20630203.jpg?version=20240319120013.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디폴트]]></title>
+            <link>https://music.bugs.co.kr/album/20630036?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20630036?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 19 Mar 2024 10:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80155402?wl_ref=list_ab_04" class="artistTitle" title="김사월" onclick="
+" target="_self">김사월</a>
+</p>
+<p>
+<time datetime="">2024.03.19</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206300/20630036.jpg?version=20240319182058.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sweet Juice Store]]></title>
             <link>https://music.bugs.co.kr/album/20629827?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20629827?wl_ref=list_ab_03</guid>
@@ -1090,21 +1105,6 @@ Dětské ukolébavky
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344972/34497201.jpg?version=20240319015237.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Conversationalist]]></title>
-            <link>https://music.bugs.co.kr/album/34497044?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34497044?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 19 Mar 2024 04:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10351317?wl_ref=list_ab_04" class="artistTitle" title="Dash Hammerstein" onclick="
-" target="_self">Dash Hammerstein</a>
-</p>
-<p>
-<time datetime="">2024.03.19</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344970/34497044.jpg?version=20240319021431.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
