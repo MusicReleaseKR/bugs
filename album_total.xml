@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 09:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 10:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1031,6 +1031,21 @@ Jordan Kingsley
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206311/20631131.jpg?version=20240320120011.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그 바다의 기억]]></title>
+            <link>https://music.bugs.co.kr/album/20630895?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20630895?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 20 Mar 2024 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80350283?wl_ref=list_ab_04" class="artistTitle" title="조약돌" onclick="
+" target="_self">조약돌</a>
+</p>
+<p>
+<time datetime="">2024.03.20</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206308/20630895.jpg?version=20240320180006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[80's Synthscore]]></title>
             <link>https://music.bugs.co.kr/album/20630682?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20630682?wl_ref=list_ab_03</guid>
@@ -1089,21 +1104,6 @@ Jordan Kingsley
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206306/20630663.jpg?version=20240320120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새콤달콤 캐치! 티니핑 : 디저트티니핑송]]></title>
-            <link>https://music.bugs.co.kr/album/20630578?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20630578?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 20 Mar 2024 04:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20149561?wl_ref=list_ab_04" class="artistTitle" title="캐치! 티니핑" onclick="
-" target="_self">캐치! 티니핑</a>
-</p>
-<p>
-<time datetime="">2024.03.20</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206305/20630578.jpg?version=20240320120011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
