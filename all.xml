@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 04:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 05:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1201,21 +1201,6 @@ songseoul
             <enclosure url="https://image.bugsm.co.kr/album/images/170/345361/34536167.jpg?version=20240321120015.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Baia No Circo 2 (Ao Vivo) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34532211?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34532211?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Mar 2024 04:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11138361?wl_ref=list_ab_04" class="artistTitle" title="Baia" onclick="
-" target="_self">Baia</a>
-</p>
-<p>
-<time datetime="">2024.03.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/345322/34532211.jpg?version=20240321121012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Lo Que Soñe De Niño (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/34532133?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34532133?wl_ref=list_ab_03</guid>
@@ -2152,10 +2137,25 @@ Leo Espinosa
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206316/20631669.jpg?version=20240321120015.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[THERE IS HOPE (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20631649?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20631649?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 21 Mar 2024 05:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80213067?wl_ref=list_ab_04" class="artistTitle" title="Brad Tucker(브래드 터커)" onclick="
+" target="_self">Brad Tucker(브래드 터커)</a>
+</p>
+<p>
+<time datetime="">2024.03.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206316/20631649.jpg?version=20240321120015.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[토라포션 프레이즈 베레쉬트Ⅰ (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20631703?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20631703?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Mar 2024 04:20:47 GMT</pubDate>
+            <pubDate>Thu, 21 Mar 2024 04:20:33 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20208105?wl_ref=list_ab_04" class="artistTitle" title="토라포션 프레이즈" onclick="
 " target="_self">토라포션 프레이즈</a>
@@ -2170,7 +2170,7 @@ Leo Espinosa
             <title><![CDATA[하나님 은혜로 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20631691?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20631691?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Mar 2024 04:20:47 GMT</pubDate>
+            <pubDate>Thu, 21 Mar 2024 04:20:33 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20065105?wl_ref=list_ab_04" class="artistTitle" title="모르드개(Mordecai)" onclick="
 " target="_self">모르드개(Mordecai)</a>
@@ -2185,7 +2185,7 @@ Leo Espinosa
             <title><![CDATA[Away (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20631669?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20631669?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Mar 2024 04:20:47 GMT</pubDate>
+            <pubDate>Thu, 21 Mar 2024 04:20:33 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20203434?wl_ref=list_ab_04" class="artistTitle" title="민세희" onclick="
 " target="_self">민세희</a>
@@ -3208,16 +3208,16 @@ James Quan
             <pubDate>Thu, 21 Mar 2024 04:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20181718?wl_ref=list_ab_04" class="artistTitle" title="오동한">오동한</a>
+<a href="https://music.bugs.co.kr/artist/20008009?wl_ref=list_ab_04" class="artistTitle" title="김용주">김용주</a>
 <!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '오동한||오동한||20181718||OK\\n김용주||김용주||20008009||OK', ''); return false;">
-오동한
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '김용주||김용주||20008009||OK\\n신현경||신현경||20205172||OK', ''); return false;">
+김용주
 </a> </p>
 <p>
 <time datetime="">2024.03.21</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206314/20631416.jpg?version=1710990015000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206314/20631416.jpg?version=1710995607000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
