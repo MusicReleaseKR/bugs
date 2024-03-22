@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 18:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 19:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1481,17 +1481,14 @@ Tom Holkenborg(톰 홀켄보그)
             <guid>https://music.bugs.co.kr/album/34538905?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 22 Mar 2024 04:18:57 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11766627?wl_ref=list_ab_04" class="artistTitle" title="Ricardo " richie"="" ray"="">Ricardo "Richie" Ray</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ricardo \&quot;Richie\&quot; Ray||Ricardo \&quot;Richie\&quot; Ray||11766627||OK\\nBobby Cruz||Bobby Cruz||1019312||OK', ''); return false;">
-Ricardo "Richie" Ray
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/13663984?wl_ref=list_ab_04" class="artistTitle" title="Ricardo Ray &amp; Bobby Cruz" onclick="
+" target="_self">Ricardo Ray &amp; Bobby Cruz</a>
+</p>
 <p>
 <time datetime="">2024.03.22</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/345389/34538905.jpg?version=20240323005102.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/345389/34538905.jpg?version=20240323034501.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8106 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
