@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 17:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 18:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,9 +84,9 @@ Djunaidhi
 </p>
 <p>
 <time datetime="">2024.03.25</time>
-<span class="albumType">정규</span>
+<span class="albumType">베스트</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/345482/34548226.jpg?version=20240325000006.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/345482/34548226.jpg?version=20240326030006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Realtà Aumentata]]></title>
@@ -296,7 +296,7 @@ Djunaidhi
 <time datetime="">2024.03.25</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344899/34489930.jpg?version=20240325120013.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344899/34489930.jpg?version=20240326030232.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Parallel]]></title>
@@ -494,7 +494,7 @@ Anthon Jean-Paul
 <time datetime="">2024.03.25</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206321/20632122.jpg?version=20240325120013.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206321/20632122.jpg?version=20240326030655.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Letters]]></title>
@@ -839,7 +839,7 @@ Anthon Jean-Paul
 <time datetime="">2024.03.25</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346196/34619604.jpg?version=20240325102308.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346196/34619604.jpg?version=20240326024715.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jungelfeber (Norsk)]]></title>
@@ -847,14 +847,17 @@ Anthon Jean-Paul
             <guid>https://music.bugs.co.kr/album/34619598?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 25 Mar 2024 04:21:07 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13664107?wl_ref=list_ab_04" class="artistTitle" title="Arne Alligator &amp; Jungeltrommen" onclick="
-" target="_self">Arne Alligator &amp; Jungeltrommen</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80393224?wl_ref=list_ab_04" class="artistTitle" title="Arne Alligator">Arne Alligator</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Arne Alligator||Arne Alligator||80393224||OK\\nJungeltrommen||Jungeltrommen||80393225||OK', ''); return false;">
+Arne Alligator
+</a> </p>
 <p>
 <time datetime="">2024.03.25</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346195/34619598.jpg?version=20240325000006.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346195/34619598.jpg?version=20240326025010.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Come Over]]></title>
@@ -872,7 +875,7 @@ SoftSync
 <time datetime="">2024.03.25</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/345481/34548171.jpg?version=20240325000006.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/345481/34548171.jpg?version=20240326024422.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fragments]]></title>
