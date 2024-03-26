@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 02:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 03:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,24 @@ Neville Marriner(네빌 매리너)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/345327/34532793.jpg?version=20240326054039.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Szum]]></title>
+            <link>https://music.bugs.co.kr/album/34201143?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34201143?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 26 Mar 2024 03:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11262135?wl_ref=list_ab_04" class="artistTitle" title="Swiernalis">Swiernalis</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Swiernalis||Swiernalis||11262135||OK\\nMajka Jeżowska||Majka Jeżowska||13608618||OK', ''); return false;">
+Swiernalis
+</a> </p>
+<p>
+<time datetime="">2024.03.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/342011/34201143.jpg?version=20240326120008.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ALENVERS]]></title>
@@ -1068,24 +1086,6 @@ créature sonore
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344732/34473230.jpg?version=20240326064303.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW ERA]]></title>
-            <link>https://music.bugs.co.kr/album/34470306?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34470306?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 25 Mar 2024 04:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12355350?wl_ref=list_ab_04" class="artistTitle" title="Muzzy D Pilot">Muzzy D Pilot</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Muzzy D Pilot||Muzzy D Pilot||12355350||OK\\nMavuthela||Mavuthela||12254688||OK', ''); return false;">
-Muzzy D Pilot
-</a> </p>
-<p>
-<time datetime="">2024.03.25</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344703/34470306.jpg?version=20240326063639.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
