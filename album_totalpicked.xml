@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 20:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 21:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,14 +270,17 @@
             <guid>https://music.bugs.co.kr/album/34659808?wl_ref=list_ab_03</guid>
             <pubDate>Thu, 28 Mar 2024 03:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80255282?wl_ref=list_ab_04" class="artistTitle" title="Camila Cabello(카밀라 카베요)" onclick="
-" target="_self">Camila Cabello(카밀라 카베요)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80255282?wl_ref=list_ab_04" class="artistTitle" title="Camila Cabello(카밀라 카베요)">Camila Cabello(카밀라 카베요)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Camila Cabello||Camila Cabello(카밀라 카베요)||80255282||OK\\nPlayboi Carti||Playboi Carti||20022370||OK', ''); return false;">
+Camila Cabello(카밀라 카베요)
+</a> </p>
 <p>
 <time datetime="">2024.03.27</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346598/34659808.jpg?version=20240329005556.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346598/34659808.jpg?version=20240329055001.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비.비.비〈산울림 50주년 기념 프로젝트〉]]></title>
