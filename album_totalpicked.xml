@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 07:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 08:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,17 @@
             <guid>https://music.bugs.co.kr/album/20633407?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 29 Mar 2024 04:20:01 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80347259?wl_ref=list_ab_04" class="artistTitle" title="ENHYPEN" onclick="
-" target="_self">ENHYPEN</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80347259?wl_ref=list_ab_04" class="artistTitle" title="ENHYPEN">ENHYPEN</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'ENHYPEN||ENHYPEN||80347259||OK\\nSeeb||Seeb(씨비)||80260363||OK', ''); return false;">
+ENHYPEN
+</a> </p>
 <p>
 <time datetime="">2024.03.29</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206334/20633407.jpg?version=20240329130003.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206334/20633407.jpg?version=20240329171650.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흐르는 대로]]></title>
@@ -124,7 +127,7 @@
 <time datetime="">2024.03.29</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206321/20632192.jpg?version=20240329120004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206321/20632192.jpg?version=20240329163124.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내게 오는 그 길에]]></title>
