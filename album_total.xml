@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 09:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 10:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -881,6 +881,21 @@ VORTEX
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206331/20633104.jpg?version=20240330120005.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[갑자기 떠오른 멜로디]]></title>
+            <link>https://music.bugs.co.kr/album/20632918?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20632918?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 30 Mar 2024 10:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20208452?wl_ref=list_ab_04" class="artistTitle" title="윤석원" onclick="
+" target="_self">윤석원</a>
+</p>
+<p>
+<time datetime="">2024.03.30</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206329/20632918.jpg?version=20240330180009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Cloud in Rain]]></title>
             <link>https://music.bugs.co.kr/album/20632883?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20632883?wl_ref=list_ab_03</guid>
@@ -894,6 +909,21 @@ VORTEX
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206328/20632883.jpg?version=20240330120011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[True or False]]></title>
+            <link>https://music.bugs.co.kr/album/20632862?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20632862?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 30 Mar 2024 10:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20167107?wl_ref=list_ab_04" class="artistTitle" title="Kasai Zenn" onclick="
+" target="_self">Kasai Zenn</a>
+</p>
+<p>
+<time datetime="">2024.03.30</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206328/20632862.jpg?version=20240330180009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로티프렌즈 동물 동요 2 (스페인어)]]></title>
@@ -1083,36 +1113,6 @@ Chhote Baba Basahi
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346620/34662085.jpg?version=20240330011736.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Achutam Keshavam (Male Version)]]></title>
-            <link>https://music.bugs.co.kr/album/34662038?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34662038?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 30 Mar 2024 04:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13544247?wl_ref=list_ab_04" class="artistTitle" title="Ramesh Roshan" onclick="
-" target="_self">Ramesh Roshan</a>
-</p>
-<p>
-<time datetime="">2024.03.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346620/34662038.jpg?version=20240330002455.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hare Ram Hare Krishna]]></title>
-            <link>https://music.bugs.co.kr/album/34662036?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34662036?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 30 Mar 2024 04:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11705986?wl_ref=list_ab_04" class="artistTitle" title="Ekta Shrimali" onclick="
-" target="_self">Ekta Shrimali</a>
-</p>
-<p>
-<time datetime="">2024.03.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346620/34662036.jpg?version=20240330005700.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
