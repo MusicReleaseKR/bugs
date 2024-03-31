@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 14:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 15:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Spektakulære Morgenfugle]]></title>
+            <link>https://music.bugs.co.kr/album/33713936?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33713936?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 31 Mar 2024 15:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12268303?wl_ref=list_ab_04" class="artistTitle" title="Blodmåne" onclick="
+" target="_self">Blodmåne</a>
+</p>
+<p>
+<time datetime="">2024.04.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337139/33713936.jpg?version=20240401000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rogue Sessions]]></title>
+            <link>https://music.bugs.co.kr/album/33723577?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33723577?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 31 Mar 2024 15:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13575497?wl_ref=list_ab_04" class="artistTitle" title="Glamorous Glennis" onclick="
+" target="_self">Glamorous Glennis</a>
+</p>
+<p>
+<time datetime="">2024.04.01</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337235/33723577.jpg?version=20240401000004.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Desert Oasis]]></title>
             <link>https://music.bugs.co.kr/album/34661927?wl_ref=list_ab_03</link>
@@ -1071,36 +1101,6 @@ Baybrick (베이브릭)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206320/20632027.jpg?version=20240331120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HERTZ]]></title>
-            <link>https://music.bugs.co.kr/album/20631996?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20631996?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 31 Mar 2024 04:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20208155?wl_ref=list_ab_04" class="artistTitle" title="Komori Manami" onclick="
-" target="_self">Komori Manami</a>
-</p>
-<p>
-<time datetime="">2024.03.31</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206319/20631996.jpg?version=20240331120008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPY RIDER]]></title>
-            <link>https://music.bugs.co.kr/album/20631953?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20631953?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 31 Mar 2024 04:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20208155?wl_ref=list_ab_04" class="artistTitle" title="Komori Manami" onclick="
-" target="_self">Komori Manami</a>
-</p>
-<p>
-<time datetime="">2024.03.31</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206319/20631953.jpg?version=20240331120008.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
