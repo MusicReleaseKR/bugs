@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 09:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 10:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tình Khúc Nhạc Pháp]]></title>
+            <link>https://music.bugs.co.kr/album/34673188?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34673188?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 03 Apr 2024 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12296411?wl_ref=list_ab_04" class="artistTitle" title="Thùy Dung" onclick="
+" target="_self">Thùy Dung</a>
+</p>
+<p>
+<time datetime="">2024.04.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346731/34673188.jpg?version=20240403165011.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Abba Festival (Remixes)]]></title>
             <link>https://music.bugs.co.kr/album/34671097?wl_ref=list_ab_03</link>
@@ -216,6 +231,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346636/34663609.jpg?version=20240403000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The People's Choice]]></title>
+            <link>https://music.bugs.co.kr/album/34663597?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34663597?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 03 Apr 2024 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12627376?wl_ref=list_ab_04" class="artistTitle" title="R3 Da ChilliMan" onclick="
+" target="_self">R3 Da ChilliMan</a>
+</p>
+<p>
+<time datetime="">2024.04.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346635/34663597.jpg?version=20240403151248.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sabotage 50]]></title>
@@ -1074,36 +1104,6 @@ Estee Nack
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/345339/34533989.jpg?version=20240403120013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hello! Good morning!]]></title>
-            <link>https://music.bugs.co.kr/album/34532425?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34532425?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 03 Apr 2024 04:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20139223?wl_ref=list_ab_04" class="artistTitle" title="Gusokumuzu" onclick="
-" target="_self">Gusokumuzu</a>
-</p>
-<p>
-<time datetime="">2024.04.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/345324/34532425.jpg?version=20240403000004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AVEANTIN]]></title>
-            <link>https://music.bugs.co.kr/album/34532377?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34532377?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 03 Apr 2024 04:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20101462?wl_ref=list_ab_04" class="artistTitle" title="BREIMEN" onclick="
-" target="_self">BREIMEN</a>
-</p>
-<p>
-<time datetime="">2024.04.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/345323/34532377.jpg?version=20240403000004.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
