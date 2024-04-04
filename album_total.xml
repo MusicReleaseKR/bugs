@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 02:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 03:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -101,6 +101,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344175/34417595.jpg?version=20240404005328.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[RAWNESS (RAW MIx)]]></title>
+            <link>https://music.bugs.co.kr/album/34198787?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34198787?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 04 Apr 2024 03:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12481061?wl_ref=list_ab_04" class="artistTitle" title="RAWLORD" onclick="
+" target="_self">RAWLORD</a>
+</p>
+<p>
+<time datetime="">2024.04.04</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341987/34198787.jpg?version=20240404120012.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Take You There]]></title>
             <link>https://music.bugs.co.kr/album/18532596?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/18532596?wl_ref=list_ab_03</guid>
@@ -113,7 +128,7 @@
 <time datetime="">2024.04.04</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/185325/18532596.jpg?version=20240404010504.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/185325/18532596.jpg?version=20240404120010.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Heal For You]]></title>
@@ -128,7 +143,7 @@
 <time datetime="">2024.04.04</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/177134/17713424.jpg?version=20240404004915.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/177134/17713424.jpg?version=20240404120009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tình Khúc Nhạc Pháp]]></title>
@@ -1089,21 +1104,6 @@ Cristina Ortiz(크리스티나 오르티츠)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346449/34644928.jpg?version=20240404063303.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[patchWORK]]></title>
-            <link>https://music.bugs.co.kr/album/34546448?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34546448?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 03 Apr 2024 04:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13658822?wl_ref=list_ab_04" class="artistTitle" title="GAKU - Beyond the Music" onclick="
-" target="_self">GAKU - Beyond the Music</a>
-</p>
-<p>
-<time datetime="">2024.04.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/345464/34546448.jpg?version=20240404063240.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
