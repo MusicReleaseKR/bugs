@@ -4,9 +4,57 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 20:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 21:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mozart: Concertos]]></title>
+            <link>https://music.bugs.co.kr/album/34671871?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34671871?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 Apr 2024 21:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/35545?wl_ref=list_ab_04" class="artistTitle" title="Berliner Philharmoniker(베를린 필하모닉 오케스트라)" onclick="
+" target="_self">Berliner Philharmoniker(베를린 필하모닉 오케스트라)</a>
+</p>
+<p>
+<time datetime="">2024.04.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346718/34671871.jpg?version=20240407051014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Martha Argerich Plays Schumann]]></title>
+            <link>https://music.bugs.co.kr/album/34671515?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34671515?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 06 Apr 2024 21:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/36596?wl_ref=list_ab_04" class="artistTitle" title="Martha Argerich(마르타 아르헤리치)" onclick="
+" target="_self">Martha Argerich(마르타 아르헤리치)</a>
+</p>
+<p>
+<time datetime="">2024.04.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346715/34671515.jpg?version=20240407051010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beethoven: Mass in C Major, Op. 86]]></title>
+            <link>https://music.bugs.co.kr/album/34671797?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34671797?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 05 Apr 2024 21:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/2739?wl_ref=list_ab_04" class="artistTitle" title="Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)">Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Royal Philharmonic Orchestra||Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)||2739||OK\\nThomas Beecham||Thomas Beecham(토머스 비첨)||80005594||OK', ''); return false;">
+Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)
+</a> </p>
+<p>
+<time datetime="">2024.04.07</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346717/34671797.jpg?version=20240407051011.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weather Storms]]></title>
             <link>https://music.bugs.co.kr/album/34673201?wl_ref=list_ab_03</link>
@@ -111,21 +159,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346731/34673184.jpg?version=20240406000004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mozart: Concertos]]></title>
-            <link>https://music.bugs.co.kr/album/34671871?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34671871?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 Apr 2024 21:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/35545?wl_ref=list_ab_04" class="artistTitle" title="Berliner Philharmoniker(베를린 필하모닉 오케스트라)" onclick="
-" target="_self">Berliner Philharmoniker(베를린 필하모닉 오케스트라)</a>
-</p>
-<p>
-<time datetime="">2024.04.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346718/34671871.jpg?version=20240407051014.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Telemann: Suite in A Minor - Sammartini & Handel: Recorder Concertos]]></title>
@@ -971,24 +1004,6 @@ John Wickles
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346729/34672912.jpg?version=20240406000004.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beethoven: Mass in C Major, Op. 86]]></title>
-            <link>https://music.bugs.co.kr/album/34671797?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34671797?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 Apr 2024 21:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/2739?wl_ref=list_ab_04" class="artistTitle" title="Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)">Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Royal Philharmonic Orchestra||Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)||2739||OK\\nThomas Beecham||Thomas Beecham(토머스 비첨)||80005594||OK', ''); return false;">
-Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)
-</a> </p>
-<p>
-<time datetime="">2024.04.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346717/34671797.jpg?version=20240407051011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Happy Trip]]></title>
             <link>https://music.bugs.co.kr/album/34666926?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34666926?wl_ref=list_ab_03</guid>
@@ -1092,21 +1107,6 @@ Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/343529/34352987.jpg?version=20240406000004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R4 CHIP]]></title>
-            <link>https://music.bugs.co.kr/album/20634636?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20634636?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 06 Apr 2024 10:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20150862?wl_ref=list_ab_04" class="artistTitle" title="ch1tkey" onclick="
-" target="_self">ch1tkey</a>
-</p>
-<p>
-<time datetime="">2024.04.06</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206346/20634636.jpg?version=20240406180009.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
