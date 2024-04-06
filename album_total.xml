@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 02:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 03:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,6 +57,36 @@ Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346717/34671797.jpg?version=20240406051011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[POWER OF THE DARK (Extended Mix)]]></title>
+            <link>https://music.bugs.co.kr/album/34199510?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34199510?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 06 Apr 2024 03:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13608184?wl_ref=list_ab_04" class="artistTitle" title="DizDorDeD" onclick="
+" target="_self">DizDorDeD</a>
+</p>
+<p>
+<time datetime="">2024.04.06</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341995/34199510.jpg?version=20240406120010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ENKI'S WORDS (RAWMix)]]></title>
+            <link>https://music.bugs.co.kr/album/34198785?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34198785?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 06 Apr 2024 03:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12481061?wl_ref=list_ab_04" class="artistTitle" title="RAWLORD" onclick="
+" target="_self">RAWLORD</a>
+</p>
+<p>
+<time datetime="">2024.04.06</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341987/34198785.jpg?version=20240406120010.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CPE Bach: Magnificat, Wq. 215]]></title>
@@ -1035,39 +1065,6 @@ Sam Tsui(샘 추이)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346725/34672519.jpg?version=20240406064332.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pumuckl tanzt!]]></title>
-            <link>https://music.bugs.co.kr/album/34672511?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34672511?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 Apr 2024 04:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13523874?wl_ref=list_ab_04" class="artistTitle" title="Pumuckl" onclick="
-" target="_self">Pumuckl</a>
-</p>
-<p>
-<time datetime="">2024.04.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346725/34672511.jpg?version=20240406064321.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[De Alcohol y Desamor]]></title>
-            <link>https://music.bugs.co.kr/album/34672510?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34672510?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 05 Apr 2024 04:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13665826?wl_ref=list_ab_04" class="artistTitle" title="Tablao de Tango">Tablao de Tango</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Tablao de Tango||Tablao de Tango||13665826||OK\\nChino Laborde||Chino Laborde||1002698||OK\\nFranco Luciani||Franco Luciani||9247427||OK', ''); return false;">
-Tablao de Tango
-</a> </p>
-<p>
-<time datetime="">2024.04.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346725/34672510.jpg?version=20240406064319.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
