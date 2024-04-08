@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 02:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 03:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,6 +89,21 @@ Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346717/34671797.jpg?version=20240408051011.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[IKONA]]></title>
+            <link>https://music.bugs.co.kr/album/34655617?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34655617?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 08 Apr 2024 03:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8046114?wl_ref=list_ab_04" class="artistTitle" title="Shady Lady" onclick="
+" target="_self">Shady Lady</a>
+</p>
+<p>
+<time datetime="">2024.04.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346556/34655617.jpg?version=20240408120012.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[No Puedo Seguir Fingiendo]]></title>
             <link>https://music.bugs.co.kr/album/34155387?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34155387?wl_ref=list_ab_03</guid>
@@ -119,7 +134,7 @@ Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/331321/33132168.jpg?version=20240408000005.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당신은 별을 보다 별을 보다]]></title>
+            <title><![CDATA[그러니 우린 사랑을 해요]]></title>
             <link>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 08 Apr 2024 01:11:31 GMT</pubDate>
@@ -131,10 +146,10 @@ Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)
 한올
 </a> </p>
 <p>
-<time datetime="">2024.03.03</time>
+<time datetime="">2024.04.08</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40963/4096305.jpg?version=20240304003331.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40963/4096305.jpg?version=20240408120004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Thrive daily]]></title>
@@ -1098,21 +1113,6 @@ Bae Madu
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346783/34678305.jpg?version=20240408063612.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[สงกรานต์บ้านเรา (Chinese Version)]]></title>
-            <link>https://music.bugs.co.kr/album/34678304?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34678304?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 07 Apr 2024 04:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13676335?wl_ref=list_ab_04" class="artistTitle" title="朗嘎拉姆" onclick="
-" target="_self">朗嘎拉姆</a>
-</p>
-<p>
-<time datetime="">2024.04.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346783/34678304.jpg?version=20240408063611.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
