@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 01:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 02:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,6 +87,21 @@ Royal Philharmonic Orchestra(로열 필하모닉 오케스트라)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346717/34671797.jpg?version=20240408051011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Puedo Seguir Fingiendo]]></title>
+            <link>https://music.bugs.co.kr/album/34155387?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34155387?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 08 Apr 2024 02:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13598651?wl_ref=list_ab_04" class="artistTitle" title="Tyrone Diaz" onclick="
+" target="_self">Tyrone Diaz</a>
+</p>
+<p>
+<time datetime="">2024.02.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341553/34155387.jpg?version=20240408103147.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[מחבואים]]></title>
@@ -1098,24 +1113,6 @@ Bae Madu
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346783/34678304.jpg?version=20240408063611.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[G Wagon]]></title>
-            <link>https://music.bugs.co.kr/album/34678295?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34678295?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 07 Apr 2024 04:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13127038?wl_ref=list_ab_04" class="artistTitle" title="Vikram Sarkar">Vikram Sarkar</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Vikram Sarkar||Vikram Sarkar||13127038||OK\\nDeepty||Deepty||11905378||OK', ''); return false;">
-Vikram Sarkar
-</a> </p>
-<p>
-<time datetime="">2024.04.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346782/34678295.jpg?version=20240408063603.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
