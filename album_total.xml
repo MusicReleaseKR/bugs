@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 15:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Song of Ascents]]></title>
+            <link>https://music.bugs.co.kr/album/34644938?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34644938?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 09 Apr 2024 15:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12234302?wl_ref=list_ab_04" class="artistTitle" title="Amiram Eini" onclick="
+" target="_self">Amiram Eini</a>
+</p>
+<p>
+<time datetime="">2024.04.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346449/34644938.jpg?version=20240410000003.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gospel Revival]]></title>
             <link>https://music.bugs.co.kr/album/34700284?wl_ref=list_ab_03</link>
@@ -1107,21 +1122,6 @@ WEV
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206342/20634258.jpg?version=20240409120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coffee Music 2집]]></title>
-            <link>https://music.bugs.co.kr/album/20634255?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20634255?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 09 Apr 2024 04:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20197785?wl_ref=list_ab_04" class="artistTitle" title="줄리아" onclick="
-" target="_self">줄리아</a>
-</p>
-<p>
-<time datetime="">2024.04.09</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206342/20634255.jpg?version=20240409120010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
