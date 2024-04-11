@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 01:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 02:26:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344318/34431867.jpg?version=20240411000002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MARNI]]></title>
+            <link>https://music.bugs.co.kr/album/4099167?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4099167?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 11 Apr 2024 02:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20008678?wl_ref=list_ab_04" class="artistTitle" title="루피(Loopy)" onclick="
+" target="_self">루피(Loopy)</a>
+</p>
+<p>
+<time datetime="">2024.03.16</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40991/4099167.jpg?version=20240317063631.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Busy Streets]]></title>
@@ -1086,21 +1101,6 @@ David Munrow(데이비드 먼로우)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206346/20634689.jpg?version=20240410180004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VOODOO]]></title>
-            <link>https://music.bugs.co.kr/album/20632888?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20632888?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 10 Apr 2024 04:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20175217?wl_ref=list_ab_04" class="artistTitle" title="무브 (MOOB)" onclick="
-" target="_self">무브 (MOOB)</a>
-</p>
-<p>
-<time datetime="">2024.04.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206328/20632888.jpg?version=20240410120010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
