@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 17:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 18:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chopin: Polonaises, Nocturnes, Ballade No. 1 & Piano Concerto No. 1]]></title>
+            <link>https://music.bugs.co.kr/album/34705903?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34705903?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 12 Apr 2024 21:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/2726?wl_ref=list_ab_04" class="artistTitle" title="Maurizio Pollini(마우리치오 폴리니)" onclick="
+" target="_self">Maurizio Pollini(마우리치오 폴리니)</a>
+</p>
+<p>
+<time datetime="">2024.04.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347059/34705903.jpg?version=20240414021008.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월의 눈]]></title>
             <link>https://music.bugs.co.kr/album/4099611?wl_ref=list_ab_03</link>
@@ -99,21 +114,6 @@ Anu Malik(아누 말릭)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347059/34705929.jpg?version=20240414005704.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chopin: Polonaises, Nocturnes, Ballade No. 1 & Piano Concerto No. 1]]></title>
-            <link>https://music.bugs.co.kr/album/34705903?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34705903?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Apr 2024 21:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/2726?wl_ref=list_ab_04" class="artistTitle" title="Maurizio Pollini(마우리치오 폴리니)" onclick="
-" target="_self">Maurizio Pollini(마우리치오 폴리니)</a>
-</p>
-<p>
-<time datetime="">2024.04.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347059/34705903.jpg?version=20240414021008.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mozart & Haydn]]></title>
