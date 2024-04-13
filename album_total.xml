@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 14:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 15:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월의 눈]]></title>
+            <link>https://music.bugs.co.kr/album/4099611?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4099611?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 13 Apr 2024 15:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8064811?wl_ref=list_ab_04" class="artistTitle" title="전상근" onclick="
+" target="_self">전상근</a>
+</p>
+<p>
+<time datetime="">2024.03.31</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40996/4099611.jpg?version=20240401063407.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Koffers vol Annie]]></title>
             <link>https://music.bugs.co.kr/album/34713641?wl_ref=list_ab_03</link>
@@ -1095,21 +1110,6 @@ Unsign Code
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347129/34712917.jpg?version=20240413013224.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Duniyadari - Single]]></title>
-            <link>https://music.bugs.co.kr/album/34712916?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34712916?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 13 Apr 2024 04:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12001674?wl_ref=list_ab_04" class="artistTitle" title="Jen's Goyani" onclick="
-" target="_self">Jen's Goyani</a>
-</p>
-<p>
-<time datetime="">2024.04.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347129/34712916.jpg?version=20240413012817.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
