@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 12:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 13:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -793,6 +793,21 @@ Zlele
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347026/34702638.jpg?version=20240417120010.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Một Nghìn Chín Trăm Hồi Đó]]></title>
+            <link>https://music.bugs.co.kr/album/34680233?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34680233?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 17 Apr 2024 13:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/500126?wl_ref=list_ab_04" class="artistTitle" title="Thu Phương" onclick="
+" target="_self">Thu Phương</a>
+</p>
+<p>
+<time datetime="">2024.04.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346802/34680233.jpg?version=20240417220010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Out of My Mind]]></title>
             <link>https://music.bugs.co.kr/album/34680081?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34680081?wl_ref=list_ab_03</guid>
@@ -1097,24 +1112,6 @@ Rodricc
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346617/34661779.jpg?version=20240417000002.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stranded]]></title>
-            <link>https://music.bugs.co.kr/album/34654452?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34654452?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 17 Apr 2024 04:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13656532?wl_ref=list_ab_04" class="artistTitle" title="Subaerial MD">Subaerial MD</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Subaerial MD||Subaerial MD||13656532||OK\\nProject AER||Project AER||20121528||OK', ''); return false;">
-Subaerial MD
-</a> </p>
-<p>
-<time datetime="">2024.04.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346544/34654452.jpg?version=20240417120010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
