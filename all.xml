@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 20:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 21:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1185,6 +1185,21 @@ TYTE
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336078/33607805.jpg?version=20240419000002.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Brana (Intro) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/31559959?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31559959?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 18 Apr 2024 21:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13235938?wl_ref=list_ab_04" class="artistTitle" title="Ebne Hakim" onclick="
+" target="_self">Ebne Hakim</a>
+</p>
+<p>
+<time datetime="">2024.04.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/315599/31559959.jpg?version=20240419060009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[My Dinner Show (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/34729103?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34729103?wl_ref=list_ab_03</guid>
@@ -2173,21 +2188,6 @@ Simon Rattle(사이먼 래틀)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346747/34674727.jpg?version=20240418120014.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Album (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34666966?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34666966?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 18 Apr 2024 04:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12949200?wl_ref=list_ab_04" class="artistTitle" title="Giacomo Fargion" onclick="
-" target="_self">Giacomo Fargion</a>
-</p>
-<p>
-<time datetime="">2024.04.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346669/34666966.jpg?version=20240418000006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[월간(月刊) 뉴에이지 : 여행 스케치 (Monthly New Age : A Travel Sketch) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
