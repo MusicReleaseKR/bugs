@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 03:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 04:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -129,6 +129,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206368/20636869.jpg?version=20240419120002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Magnetic (Remixes)]]></title>
+            <link>https://music.bugs.co.kr/album/20638033?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20638033?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 19 Apr 2024 04:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80392511?wl_ref=list_ab_04" class="artistTitle" title="아일릿(ILLIT)" onclick="
+" target="_self">아일릿(ILLIT)</a>
+</p>
+<p>
+<time datetime="">2024.04.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206380/20638033.jpg?version=20240419130003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dawn of Light (Feat. ABOPF)]]></title>
@@ -396,6 +411,24 @@ JASMINE
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206365/20636576.jpg?version=20240419120002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Define My Name]]></title>
+            <link>https://music.bugs.co.kr/album/34762796?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34762796?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 19 Apr 2024 04:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10402911?wl_ref=list_ab_04" class="artistTitle" title="Nas">Nas</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Nas||Nas||10402911||OK\\nDJ Premier||DJ Premier||8011956||OK', ''); return false;">
+Nas
+</a> </p>
+<p>
+<time datetime="">2024.04.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347627/34762796.jpg?version=20240419130003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[smiling thru.]]></title>
@@ -1048,36 +1081,6 @@ Anthony Lazaro
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206368/20636851.jpg?version=20240418120004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cigarette]]></title>
-            <link>https://music.bugs.co.kr/album/20637163?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20637163?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 18 Apr 2024 03:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12294567?wl_ref=list_ab_04" class="artistTitle" title="SERO" onclick="
-" target="_self">SERO</a>
-</p>
-<p>
-<time datetime="">2024.04.18</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206371/20637163.jpg?version=20240419013413.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아무것도]]></title>
-            <link>https://music.bugs.co.kr/album/20636931?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20636931?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 18 Apr 2024 03:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20145544?wl_ref=list_ab_04" class="artistTitle" title="DYMIN (다이민)" onclick="
-" target="_self">DYMIN (다이민)</a>
-</p>
-<p>
-<time datetime="">2024.04.18</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206369/20636931.jpg?version=20240418120004.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
