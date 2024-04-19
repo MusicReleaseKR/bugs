@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 17:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 18:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,21 +329,6 @@ Luther Vandross(루더 반드로스)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347257/34725789.jpg?version=20240419000002.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Lil Tony Archive: Vol. 1]]></title>
-            <link>https://music.bugs.co.kr/album/34725402?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34725402?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 19 Apr 2024 10:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13259891?wl_ref=list_ab_04" class="artistTitle" title="Lil Tony Official" onclick="
-" target="_self">Lil Tony Official</a>
-</p>
-<p>
-<time datetime="">2024.04.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347254/34725402.jpg?version=20240420012227.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Nothing's Changed, Everything Is New]]></title>
             <link>https://music.bugs.co.kr/album/34725359?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34725359?wl_ref=list_ab_03</guid>
@@ -449,7 +434,7 @@ Eugenio Esquivel
 <time datetime="">2024.04.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347241/34724179.jpg?version=20240419154124.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347241/34724179.jpg?version=20240420022516.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLOW PRINT]]></title>
@@ -494,7 +479,7 @@ Eugenio Esquivel
 <time datetime="">2024.04.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347241/34724147.jpg?version=20240419204504.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347241/34724147.jpg?version=20240420022717.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Filth & The Fury (Original Motion Picture Soundtrack)]]></title>
@@ -509,7 +494,7 @@ Eugenio Esquivel
 <time datetime="">2024.04.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347241/34724141.jpg?version=20240419154124.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347241/34724141.jpg?version=20240420022716.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[With A Little Help From My Friends (Expanded Edition / Remastered 2024)]]></title>
@@ -1071,6 +1056,21 @@ Shirley
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347237/34723762.jpg?version=20240419021819.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antonia Jones]]></title>
+            <link>https://music.bugs.co.kr/album/34723752?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34723752?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 19 Apr 2024 18:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10943813?wl_ref=list_ab_04" class="artistTitle" title="Antonia Jones" onclick="
+" target="_self">Antonia Jones</a>
+</p>
+<p>
+<time datetime="">2024.04.19</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347237/34723752.jpg?version=20240420021739.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
