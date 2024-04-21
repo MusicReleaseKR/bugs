@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 02:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 03:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,36 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347059/34705947.jpg?version=20240421050013.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GHOSTED (Extended Mix)]]></title>
+            <link>https://music.bugs.co.kr/album/34198807?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34198807?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 21 Apr 2024 03:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13608184?wl_ref=list_ab_04" class="artistTitle" title="DizDorDeD" onclick="
+" target="_self">DizDorDeD</a>
+</p>
+<p>
+<time datetime="">2024.04.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341988/34198807.jpg?version=20240421120008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diet mountain dew - Speed up (Remix)]]></title>
+            <link>https://music.bugs.co.kr/album/31633364?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31633364?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 21 Apr 2024 03:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13235199?wl_ref=list_ab_04" class="artistTitle" title="ibrahim1337" onclick="
+" target="_self">ibrahim1337</a>
+</p>
+<p>
+<time datetime="">2024.04.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316333/31633364.jpg?version=20240421120008.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Minh Vương M4U Tuyển Tập (Vol.6)]]></title>
@@ -1077,36 +1107,6 @@ Adama Koeta
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206379/20637988.jpg?version=20240420120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리, 뉴욕, 런던 카페 로파이 음악 (Paris, New York, London Coffee Shop Lofi Music)]]></title>
-            <link>https://music.bugs.co.kr/album/20637971?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20637971?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 20 Apr 2024 04:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20122166?wl_ref=list_ab_04" class="artistTitle" title="칠합 (studying relaxing chillhop)" onclick="
-" target="_self">칠합 (studying relaxing chillhop)</a>
-</p>
-<p>
-<time datetime="">2024.04.20</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206379/20637971.jpg?version=20240420120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hotbox]]></title>
-            <link>https://music.bugs.co.kr/album/20637929?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20637929?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 20 Apr 2024 04:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80230257?wl_ref=list_ab_04" class="artistTitle" title="DJ MAD" onclick="
-" target="_self">DJ MAD</a>
-</p>
-<p>
-<time datetime="">2024.04.20</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206379/20637929.jpg?version=20240420120011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
