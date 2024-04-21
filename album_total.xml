@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 09:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 10:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -746,6 +746,21 @@ Music for Sleep
             <enclosure url="https://image.bugsm.co.kr/album/images/170/343748/34374824.jpg?version=20240421120008.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[24]]></title>
+            <link>https://music.bugs.co.kr/album/20638039?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20638039?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 21 Apr 2024 10:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20188335?wl_ref=list_ab_04" class="artistTitle" title="24RICH" onclick="
+" target="_self">24RICH</a>
+</p>
+<p>
+<time datetime="">2024.04.21</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206380/20638039.jpg?version=20240421180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OVER THE MOON]]></title>
             <link>https://music.bugs.co.kr/album/20638000?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20638000?wl_ref=list_ab_03</guid>
@@ -812,6 +827,36 @@ Choihyuk
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206372/20637219.jpg?version=20240421120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NOW]]></title>
+            <link>https://music.bugs.co.kr/album/4100326?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4100326?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 21 Apr 2024 10:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80218178?wl_ref=list_ab_04" class="artistTitle" title="사무엘 (Samuel)" onclick="
+" target="_self">사무엘 (Samuel)</a>
+</p>
+<p>
+<time datetime="">2024.04.21</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41003/4100326.jpg?version=20240421180000.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Look What You've Done To Me]]></title>
+            <link>https://music.bugs.co.kr/album/4100295?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4100295?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 21 Apr 2024 10:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20002016?wl_ref=list_ab_04" class="artistTitle" title="전채언" onclick="
+" target="_self">전채언</a>
+</p>
+<p>
+<time datetime="">2024.04.21</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41002/4100295.jpg?version=20240421180000.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lo-Fi_ST]]></title>
             <link>https://music.bugs.co.kr/album/4100285?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4100285?wl_ref=list_ab_03</guid>
@@ -825,6 +870,21 @@ Choihyuk
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41002/4100285.jpg?version=20240421120008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All I Wanted]]></title>
+            <link>https://music.bugs.co.kr/album/34766673?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34766673?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 21 Apr 2024 10:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10813060?wl_ref=list_ab_04" class="artistTitle" title="Jordan Mooren" onclick="
+" target="_self">Jordan Mooren</a>
+</p>
+<p>
+<time datetime="">2024.04.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347666/34766673.jpg?version=20240421170009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UP Bihar Hilela]]></title>
@@ -1056,69 +1116,6 @@ La Octava Banda
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347664/34766406.jpg?version=20240421000003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pandora]]></title>
-            <link>https://music.bugs.co.kr/album/34765873?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34765873?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 21 Apr 2024 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13692996?wl_ref=list_ab_04" class="artistTitle" title="Sakura Kiryu" onclick="
-" target="_self">Sakura Kiryu</a>
-</p>
-<p>
-<time datetime="">2024.04.21</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347658/34765873.jpg?version=20240421000003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Čardáš]]></title>
-            <link>https://music.bugs.co.kr/album/34765870?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34765870?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 21 Apr 2024 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/10730386?wl_ref=list_ab_04" class="artistTitle" title="Refew">Refew</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Refew||Refew||10730386||OK\\nJaroslav Olah||Jaroslav Olah||12119547||OK', ''); return false;">
-Refew
-</a> </p>
-<p>
-<time datetime="">2024.04.21</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347658/34765870.jpg?version=20240421000003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dos Desconocidos]]></title>
-            <link>https://music.bugs.co.kr/album/34765214?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34765214?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 21 Apr 2024 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13350254?wl_ref=list_ab_04" class="artistTitle" title="Logan MX" onclick="
-" target="_self">Logan MX</a>
-</p>
-<p>
-<time datetime="">2024.04.21</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347652/34765214.jpg?version=20240421000003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fists]]></title>
-            <link>https://music.bugs.co.kr/album/34763880?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34763880?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 21 Apr 2024 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13465674?wl_ref=list_ab_04" class="artistTitle" title="Rose/Gold" onclick="
-" target="_self">Rose/Gold</a>
-</p>
-<p>
-<time datetime="">2024.04.21</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347638/34763880.jpg?version=20240421000003.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
