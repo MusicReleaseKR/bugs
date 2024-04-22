@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 02:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 03:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,6 +195,21 @@ Cristina Ortiz(크리스티나 오르티츠)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336958/33695833.jpg?version=20240422050013.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside Blues Lee]]></title>
+            <link>https://music.bugs.co.kr/album/20213855?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20213855?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 22 Apr 2024 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80214028?wl_ref=list_ab_04" class="artistTitle" title="블루스 리(Blues Lee)" onclick="
+" target="_self">블루스 리(Blues Lee)</a>
+</p>
+<p>
+<time datetime="">2024.04.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/202138/20213855.jpg?version=20240422120328.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Perfume de Bandido 4]]></title>
@@ -1001,7 +1016,7 @@ Choihyuk
 <time datetime="">2024.04.21</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41003/4100326.jpg?version=20240421180000.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41003/4100326.jpg?version=20240422120130.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Look What You've Done To Me]]></title>
@@ -1110,21 +1125,6 @@ Manish Jaykara
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347665/34766578.jpg?version=20240422063029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Piyawa Pagal Bhail Ba Tharesar Me]]></title>
-            <link>https://music.bugs.co.kr/album/34766577?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34766577?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 21 Apr 2024 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11021712?wl_ref=list_ab_04" class="artistTitle" title="Kavita Yadav" onclick="
-" target="_self">Kavita Yadav</a>
-</p>
-<p>
-<time datetime="">2024.04.21</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347665/34766577.jpg?version=20240422063028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
