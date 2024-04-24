@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 14:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 15:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yo Creo]]></title>
+            <link>https://music.bugs.co.kr/album/34645342?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34645342?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 24 Apr 2024 15:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12520681?wl_ref=list_ab_04" class="artistTitle" title="KARZ" onclick="
+" target="_self">KARZ</a>
+</p>
+<p>
+<time datetime="">2024.04.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346453/34645342.jpg?version=20240425000007.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Factor X 2024 - Audiciones 2 (Live)]]></title>
             <link>https://music.bugs.co.kr/album/34778767?wl_ref=list_ab_03</link>
@@ -1099,21 +1114,6 @@ Tropical Nada
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347052/34705269.jpg?version=20240424000002.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Machiyo Machiyo]]></title>
-            <link>https://music.bugs.co.kr/album/34705203?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34705203?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 24 Apr 2024 06:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80298289?wl_ref=list_ab_04" class="artistTitle" title="Eriko Hashimoto(에리코 하시모토)" onclick="
-" target="_self">Eriko Hashimoto(에리코 하시모토)</a>
-</p>
-<p>
-<time datetime="">2024.04.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347052/34705203.jpg?version=20240424000002.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
