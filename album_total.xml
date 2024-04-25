@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 22:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 23:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,24 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347166/34716644.jpg?version=20240426000005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lágrimas com Gelo]]></title>
+            <link>https://music.bugs.co.kr/album/34706904?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34706904?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 25 Apr 2024 23:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80183331?wl_ref=list_ab_04" class="artistTitle" title="David Carreira">David Carreira</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'David Carreira||David Carreira||80183331||OK\\nGustavo Mioto||Gustavo Mioto||10156142||OK', ''); return false;">
+David Carreira
+</a> </p>
+<p>
+<time datetime="">2024.04.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347069/34706904.jpg?version=20240426080020.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NO ME IMPORTA]]></title>
@@ -1102,21 +1120,6 @@ Gallimard Jeunesse
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347087/34708742.jpg?version=20240426064739.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Aura]]></title>
-            <link>https://music.bugs.co.kr/album/34705187?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34705187?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 25 Apr 2024 04:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12000631?wl_ref=list_ab_04" class="artistTitle" title="Kenia Os" onclick="
-" target="_self">Kenia Os</a>
-</p>
-<p>
-<time datetime="">2024.04.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347051/34705187.jpg?version=20240426064531.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
