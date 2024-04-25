@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 09:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 10:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -772,6 +772,21 @@ White Noise Therapy
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347271/34727143.jpg?version=20240425120011.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Inevitables]]></title>
+            <link>https://music.bugs.co.kr/album/34716374?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34716374?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 25 Apr 2024 10:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80285162?wl_ref=list_ab_04" class="artistTitle" title="Ventino" onclick="
+" target="_self">Ventino</a>
+</p>
+<p>
+<time datetime="">2024.04.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347163/34716374.jpg?version=20240425140005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Queen of Spades (Side A)]]></title>
             <link>https://music.bugs.co.kr/album/34716283?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34716283?wl_ref=list_ab_03</guid>
@@ -1102,21 +1117,6 @@ Gallimard Jeunesse
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346622/34662293.jpg?version=20240425000007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[If I Had You]]></title>
-            <link>https://music.bugs.co.kr/album/34643494?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34643494?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 25 Apr 2024 04:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80226633?wl_ref=list_ab_04" class="artistTitle" title="Gary Smith" onclick="
-" target="_self">Gary Smith</a>
-</p>
-<p>
-<time datetime="">2024.04.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346434/34643494.jpg?version=20240425000007.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
