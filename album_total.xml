@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 02:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 03:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347220/34722077.jpg?version=20240426000005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Rose]]></title>
+            <link>https://music.bugs.co.kr/album/34708395?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34708395?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 26 Apr 2024 03:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12027479?wl_ref=list_ab_04" class="artistTitle" title="Blame My Youth" onclick="
+" target="_self">Blame My Youth</a>
+</p>
+<p>
+<time datetime="">2024.04.26</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347083/34708395.jpg?version=20240426120016.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mari Carmen (Remix)]]></title>
@@ -98,6 +113,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347166/34716644.jpg?version=20240426000005.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Favourite One]]></title>
+            <link>https://music.bugs.co.kr/album/34709799?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34709799?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 26 Apr 2024 03:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/9508941?wl_ref=list_ab_04" class="artistTitle" title="WHITE STONE" onclick="
+" target="_self">WHITE STONE</a>
+</p>
+<p>
+<time datetime="">2024.04.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347097/34709799.jpg?version=20240426120016.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lágrimas com Gelo]]></title>
             <link>https://music.bugs.co.kr/album/34706904?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34706904?wl_ref=list_ab_03</guid>
@@ -161,6 +191,21 @@ David Carreira
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344337/34433732.jpg?version=20240426000005.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[FIRST PERSON SHOOTER (RAW Mix)]]></title>
+            <link>https://music.bugs.co.kr/album/34198789?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34198789?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 26 Apr 2024 03:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12481061?wl_ref=list_ab_04" class="artistTitle" title="RAWLORD" onclick="
+" target="_self">RAWLORD</a>
+</p>
+<p>
+<time datetime="">2024.04.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341987/34198789.jpg?version=20240426120016.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[La Fiesta]]></title>
             <link>https://music.bugs.co.kr/album/33696000?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33696000?wl_ref=list_ab_03</guid>
@@ -174,6 +219,24 @@ David Carreira
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336960/33696000.jpg?version=20240426000005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Got A Feeling]]></title>
+            <link>https://music.bugs.co.kr/album/33135956?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33135956?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 26 Apr 2024 03:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/8372104?wl_ref=list_ab_04" class="artistTitle" title="Michael Ford">Michael Ford</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Michael Ford||Michael Ford||8372104||OK\\nDavid Atsman||David Atsman||12443790||OK', ''); return false;">
+Michael Ford
+</a> </p>
+<p>
+<time datetime="">2024.04.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/331359/33135956.jpg?version=20240426120016.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A Night At The Village Vanguard (The Complete Masters)]]></title>
@@ -1058,68 +1121,6 @@ White Noise Therapy
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347131/34713144.jpg?version=20240426064145.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mon imagier des comptines du Weepers Circus]]></title>
-            <link>https://music.bugs.co.kr/album/34712280?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34712280?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 25 Apr 2024 04:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13683995?wl_ref=list_ab_04" class="artistTitle" title="Gallimard Jeunesse">Gallimard Jeunesse</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Gallimard Jeunesse||Gallimard Jeunesse||13683995||OK\\nWeepers Circus||Weepers Circus||80080088||OK', ''); return false;">
-Gallimard Jeunesse
-</a> </p>
-<p>
-<time datetime="">2024.04.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347122/34712280.jpg?version=20240426064820.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1970s Christmas Songs]]></title>
-            <link>https://music.bugs.co.kr/album/34712042?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34712042?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 25 Apr 2024 04:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<span class="artistTitle" title="">Various Artists</span>
-</p>
-<p>
-<time datetime="">2024.04.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347120/34712042.jpg?version=20240426064121.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mad Love]]></title>
-            <link>https://music.bugs.co.kr/album/34712025?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34712025?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 25 Apr 2024 04:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12837697?wl_ref=list_ab_04" class="artistTitle" title="Nene" onclick="
-" target="_self">Nene</a>
-</p>
-<p>
-<time datetime="">2024.04.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347120/34712025.jpg?version=20240426064536.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sariling Mundo]]></title>
-            <link>https://music.bugs.co.kr/album/34711035?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34711035?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 25 Apr 2024 04:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10666514?wl_ref=list_ab_04" class="artistTitle" title="TJ Monterde" onclick="
-" target="_self">TJ Monterde</a>
-</p>
-<p>
-<time datetime="">2024.04.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347110/34711035.jpg?version=20240426064753.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
