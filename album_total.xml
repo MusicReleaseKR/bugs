@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 09:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 10:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -956,6 +956,21 @@ August Obadiah
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206398/20639805.jpg?version=20240429120010.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SWEET HE♡RT]]></title>
+            <link>https://music.bugs.co.kr/album/20639793?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20639793?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 29 Apr 2024 10:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20073470?wl_ref=list_ab_04" class="artistTitle" title="sokodomo" onclick="
+" target="_self">sokodomo</a>
+</p>
+<p>
+<time datetime="">2024.04.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206397/20639793.jpg?version=20240429180000.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고장난 피아노]]></title>
             <link>https://music.bugs.co.kr/album/20639761?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20639761?wl_ref=list_ab_03</guid>
@@ -1014,6 +1029,24 @@ August Obadiah
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206396/20639696.jpg?version=20240429120010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[rin the youngin 2]]></title>
+            <link>https://music.bugs.co.kr/album/20639609?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20639609?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 29 Apr 2024 10:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20121162?wl_ref=list_ab_04" class="artistTitle" title="voko">voko</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'voko||voko||20121162||OK\\nARA||ARA||20161168||OK', ''); return false;">
+voko
+</a> </p>
+<p>
+<time datetime="">2024.04.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206396/20639609.jpg?version=20240429180000.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cabin Beats Volume 1]]></title>
@@ -1089,36 +1122,6 @@ August Obadiah
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206394/20639410.jpg?version=20240429120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Night Drive]]></title>
-            <link>https://music.bugs.co.kr/album/20639208?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20639208?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 29 Apr 2024 04:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20210479?wl_ref=list_ab_04" class="artistTitle" title="Daliboo" onclick="
-" target="_self">Daliboo</a>
-</p>
-<p>
-<time datetime="">2024.04.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206392/20639208.jpg?version=20240429120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Back In The Day (Deluxe)]]></title>
-            <link>https://music.bugs.co.kr/album/20639196?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20639196?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 29 Apr 2024 04:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12594031?wl_ref=list_ab_04" class="artistTitle" title="swami sound" onclick="
-" target="_self">swami sound</a>
-</p>
-<p>
-<time datetime="">2024.04.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206391/20639196.jpg?version=20240429120010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
