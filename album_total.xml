@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 02:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 03:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,24 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347156/34715630.jpg?version=20240502000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stress You (nowifi Remix)]]></title>
+            <link>https://music.bugs.co.kr/album/34435333?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34435333?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 02 May 2024 03:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/8621648?wl_ref=list_ab_04" class="artistTitle" title="Lucas Estrada">Lucas Estrada</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Lucas Estrada||Lucas Estrada||8621648||OK\\nSUPER-Hi||SUPER-Hi||12313302||OK', ''); return false;">
+Lucas Estrada
+</a> </p>
+<p>
+<time datetime="">2024.05.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344353/34435333.jpg?version=20240502120015.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Plano infalível (Volkoder 2024 Remix)]]></title>
@@ -1107,21 +1125,6 @@ Hakuuro
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347199/34719943.jpg?version=20240502064703.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Acapulco: Season 3 (Original Score)]]></title>
-            <link>https://music.bugs.co.kr/album/34716781?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34716781?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 02 May 2024 01:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12632697?wl_ref=list_ab_04" class="artistTitle" title="Bo Boddie" onclick="
-" target="_self">Bo Boddie</a>
-</p>
-<p>
-<time datetime="">2024.05.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347167/34716781.jpg?version=20240502063900.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
