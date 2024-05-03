@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 03:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 04:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -97,6 +97,36 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206409/20640962.jpg?version=20240503120101.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[psyche: red]]></title>
+            <link>https://music.bugs.co.kr/album/4100803?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4100803?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 03 May 2024 04:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20086805?wl_ref=list_ab_04" class="artistTitle" title="DPR CREAM" onclick="
+" target="_self">DPR CREAM</a>
+</p>
+<p>
+<time datetime="">2024.05.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41008/4100803.jpg?version=20240503130002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAESTRO (Orchestra Remix)]]></title>
+            <link>https://music.bugs.co.kr/album/4100809?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4100809?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 03 May 2024 04:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80232283?wl_ref=list_ab_04" class="artistTitle" title="세븐틴(SEVENTEEN)" onclick="
+" target="_self">세븐틴(SEVENTEEN)</a>
+</p>
+<p>
+<time datetime="">2024.05.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41008/4100809.jpg?version=20240503130002.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파더]]></title>
             <link>https://music.bugs.co.kr/album/20640714?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20640714?wl_ref=list_ab_03</guid>
@@ -160,7 +190,7 @@ Moon (혜원)
 <time datetime="">2024.05.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348445/34844539.jpg?version=20240503120119.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348445/34844539.jpg?version=20240503122019.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Diversify]]></title>
@@ -1044,36 +1074,6 @@ Hollow Young
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206387/20638772.jpg?version=20240503005543.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Front Door]]></title>
-            <link>https://music.bugs.co.kr/album/34768718?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34768718?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 02 May 2024 03:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20200975?wl_ref=list_ab_04" class="artistTitle" title="KNOCKONMYDOOR" onclick="
-" target="_self">KNOCKONMYDOOR</a>
-</p>
-<p>
-<time datetime="">2024.05.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347687/34768718.jpg?version=20240503064732.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄]]></title>
-            <link>https://music.bugs.co.kr/album/20640533?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20640533?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 02 May 2024 03:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20066553?wl_ref=list_ab_04" class="artistTitle" title="원호" onclick="
-" target="_self">원호</a>
-</p>
-<p>
-<time datetime="">2024.05.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206405/20640533.jpg?version=20240503003500.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
