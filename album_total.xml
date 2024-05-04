@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 09:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 10:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -908,6 +908,36 @@ TommyWormy
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206405/20640545.jpg?version=20240504120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bad Dream]]></title>
+            <link>https://music.bugs.co.kr/album/20640317?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20640317?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 May 2024 10:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20122228?wl_ref=list_ab_04" class="artistTitle" title="김민성" onclick="
+" target="_self">김민성</a>
+</p>
+<p>
+<time datetime="">2024.05.04</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206403/20640317.jpg?version=20240504180003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CLOVER Part 0.5]]></title>
+            <link>https://music.bugs.co.kr/album/20639197?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20639197?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 May 2024 10:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80212283?wl_ref=list_ab_04" class="artistTitle" title="나상현씨밴드" onclick="
+" target="_self">나상현씨밴드</a>
+</p>
+<p>
+<time datetime="">2024.05.04</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206391/20639197.jpg?version=20240504180009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[낭만에 잠기다 - 19th Music [CHANTUE]]]></title>
             <link>https://music.bugs.co.kr/album/20638487?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20638487?wl_ref=list_ab_03</guid>
@@ -921,6 +951,39 @@ TommyWormy
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206384/20638487.jpg?version=20240504120007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Focused On Getting Rich]]></title>
+            <link>https://music.bugs.co.kr/album/4100872?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4100872?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 May 2024 10:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20101972?wl_ref=list_ab_04" class="artistTitle" title="KHAN">KHAN</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'KHAN||KHAN||20101972||OK\\nOXYNOVA||OXYNOVA||20154374||OK', ''); return false;">
+KHAN
+</a> </p>
+<p>
+<time datetime="">2024.05.04</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41008/4100872.jpg?version=20240504180003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SLIK EP]]></title>
+            <link>https://music.bugs.co.kr/album/4100823?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4100823?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 May 2024 10:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20017624?wl_ref=list_ab_04" class="artistTitle" title="P. Cassady (피캐시디)" onclick="
+" target="_self">P. Cassady (피캐시디)</a>
+</p>
+<p>
+<time datetime="">2024.05.04</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41008/4100823.jpg?version=20240504180003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은 햇살]]></title>
@@ -1065,69 +1128,6 @@ MC J2F ORIGINAL
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348513/34851317.jpg?version=20240504015148.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EMANET]]></title>
-            <link>https://music.bugs.co.kr/album/34851312?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34851312?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 04 May 2024 04:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13480224?wl_ref=list_ab_04" class="artistTitle" title="UB4YDN21" onclick="
-" target="_self">UB4YDN21</a>
-</p>
-<p>
-<time datetime="">2024.05.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348513/34851312.jpg?version=20240504010914.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Santolaya]]></title>
-            <link>https://music.bugs.co.kr/album/34851303?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34851303?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 04 May 2024 04:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13710306?wl_ref=list_ab_04" class="artistTitle" title="El Velcro" onclick="
-" target="_self">El Velcro</a>
-</p>
-<p>
-<time datetime="">2024.05.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348513/34851303.jpg?version=20240504011704.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tipo Sheik]]></title>
-            <link>https://music.bugs.co.kr/album/34851295?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34851295?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 04 May 2024 04:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13664617?wl_ref=list_ab_04" class="artistTitle" title="DJ Doug">DJ Doug</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'DJ Doug||DJ Doug||13664617||OK\\nDJ ERICK MARCONEX||DJ ERICK MARCONEX||13327988||OK\\nGDZN||GDZN||12985071||OK', ''); return false;">
-DJ Doug
-</a> </p>
-<p>
-<time datetime="">2024.05.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348512/34851295.jpg?version=20240504012817.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Devil Wears Prada]]></title>
-            <link>https://music.bugs.co.kr/album/34851252?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34851252?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 04 May 2024 04:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12638136?wl_ref=list_ab_04" class="artistTitle" title="Boyblanck" onclick="
-" target="_self">Boyblanck</a>
-</p>
-<p>
-<time datetime="">2024.05.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348512/34851252.jpg?version=20240504015258.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
