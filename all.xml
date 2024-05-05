@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 14:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 15:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1061,6 +1061,39 @@ ShortRound
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206403/20640322.jpg?version=20240503180004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Se Picó (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34351185?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34351185?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 05 May 2024 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8593774?wl_ref=list_ab_04" class="artistTitle" title="Sonora Palacio" onclick="
+" target="_self">Sonora Palacio</a>
+</p>
+<p>
+<time datetime="">2024.05.06</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/343511/34351185.jpg?version=20240506000006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pogirai (From "VM ORIGINALS - Season 1") (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34713652?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34713652?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 05 May 2024 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10164092?wl_ref=list_ab_04" class="artistTitle" title="Vivek - Mervin">Vivek - Mervin</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Vivek - Mervin||Vivek - Mervin||10164092||OK\\nPrakash Francis||Prakash Francis||13684595||OK\\nAdithya RK||Adithya RK||12335463||OK', ''); return false;">
+Vivek - Mervin
+</a> </p>
+<p>
+<time datetime="">2024.05.06</time>
+<span class="albumType">OST</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347136/34713652.jpg?version=20240506000006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Day by Day (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2144,36 +2177,6 @@ Internacionales Conejos
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348504/34850427.jpg?version=20240505000003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elements of Soul (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34850281?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34850281?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 05 May 2024 04:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13215095?wl_ref=list_ab_04" class="artistTitle" title="Tempo O’Neil" onclick="
-" target="_self">Tempo O’Neil</a>
-</p>
-<p>
-<time datetime="">2024.05.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348502/34850281.jpg?version=20240505000003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let U Know (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34850156?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34850156?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 05 May 2024 04:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13458046?wl_ref=list_ab_04" class="artistTitle" title="Deeper Life" onclick="
-" target="_self">Deeper Life</a>
-</p>
-<p>
-<time datetime="">2024.05.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348501/34850156.jpg?version=20240505102735.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Happy Travel (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
