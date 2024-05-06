@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 14:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 15:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[БЕЙБА]]></title>
+            <link>https://music.bugs.co.kr/album/34714933?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34714933?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 06 May 2024 15:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13611630?wl_ref=list_ab_04" class="artistTitle" title="MONTES" onclick="
+" target="_self">MONTES</a>
+</p>
+<p>
+<time datetime="">2024.05.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347149/34714933.jpg?version=20240507000005.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Intense Tchaikovsky: A Collection of Russian Romantic Masterpieces]]></title>
             <link>https://music.bugs.co.kr/album/34855149?wl_ref=list_ab_03</link>
@@ -1071,21 +1086,6 @@ Efenel
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348551/34855139.jpg?version=20240506174005.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pyjama Party]]></title>
-            <link>https://music.bugs.co.kr/album/34855138?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34855138?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 06 May 2024 04:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12354609?wl_ref=list_ab_04" class="artistTitle" title="Pink Lily" onclick="
-" target="_self">Pink Lily</a>
-</p>
-<p>
-<time datetime="">2024.05.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348551/34855138.jpg?version=20240506000006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
