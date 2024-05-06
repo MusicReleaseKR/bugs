@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 09:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 10:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,6 +542,21 @@ Team Demo
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348547/34854794.jpg?version=20240506002428.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SAINT]]></title>
+            <link>https://music.bugs.co.kr/album/34854786?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34854786?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 06 May 2024 10:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80298191?wl_ref=list_ab_04" class="artistTitle" title="Bobi Andonov" onclick="
+" target="_self">Bobi Andonov</a>
+</p>
+<p>
+<time datetime="">2024.05.06</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348547/34854786.jpg?version=20240506183010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Interstellar]]></title>
             <link>https://music.bugs.co.kr/album/34852805?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34852805?wl_ref=list_ab_03</guid>
@@ -875,6 +890,21 @@ Jack Van Cleaf
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206412/20641291.jpg?version=20240506120010.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[chulife]]></title>
+            <link>https://music.bugs.co.kr/album/20641157?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20641157?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 06 May 2024 10:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20166705?wl_ref=list_ab_04" class="artistTitle" title="추윤제" onclick="
+" target="_self">추윤제</a>
+</p>
+<p>
+<time datetime="">2024.05.06</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206411/20641157.jpg?version=20240506180003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Self cut head]]></title>
             <link>https://music.bugs.co.kr/album/20641108?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20641108?wl_ref=list_ab_03</guid>
@@ -918,6 +948,21 @@ Jack Van Cleaf
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206407/20640738.jpg?version=20240506120010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Youth Heritage]]></title>
+            <link>https://music.bugs.co.kr/album/20640377?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20640377?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 06 May 2024 10:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20034200?wl_ref=list_ab_04" class="artistTitle" title="팔칠댄스 (87dance)" onclick="
+" target="_self">팔칠댄스 (87dance)</a>
+</p>
+<p>
+<time datetime="">2024.05.06</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206403/20640377.jpg?version=20240506180000.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Welcome On Board V002.]]></title>
@@ -1041,54 +1086,6 @@ Efenel
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348551/34855138.jpg?version=20240506000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paon Ki Jutti]]></title>
-            <link>https://music.bugs.co.kr/album/34855136?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34855136?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 06 May 2024 04:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13711409?wl_ref=list_ab_04" class="artistTitle" title="Jyoti Nooran">Jyoti Nooran</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Jyoti Nooran||Jyoti Nooran||13711409||OK\\nJaani||Jaani||10986567||OK\\nBunny||Bunny||11249254||OK', ''); return false;">
-Jyoti Nooran
-</a> </p>
-<p>
-<time datetime="">2024.05.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348551/34855136.jpg?version=20240506000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kroplą Deszczu (extended mix)]]></title>
-            <link>https://music.bugs.co.kr/album/34855135?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34855135?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 06 May 2024 04:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13345510?wl_ref=list_ab_04" class="artistTitle" title="Dona" onclick="
-" target="_self">Dona</a>
-</p>
-<p>
-<time datetime="">2024.05.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348551/34855135.jpg?version=20240506000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alby Madas]]></title>
-            <link>https://music.bugs.co.kr/album/34855134?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34855134?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 06 May 2024 04:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12077114?wl_ref=list_ab_04" class="artistTitle" title="Weam Ismail" onclick="
-" target="_self">Weam Ismail</a>
-</p>
-<p>
-<time datetime="">2024.05.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348551/34855134.jpg?version=20240506000006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
