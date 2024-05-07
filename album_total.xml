@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 18:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 19:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,24 +53,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316545/31654514.jpg?version=20240508000004.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Like The Way]]></title>
-            <link>https://music.bugs.co.kr/album/20579170?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20579170?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 07 May 2024 15:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20104140?wl_ref=list_ab_04" class="artistTitle" title="RUSL">RUSL</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'RUSL||RUSL||20104140||OK\\nArk Woods||Ark Woods||20129745||OK', ''); return false;">
-RUSL
-</a> </p>
-<p>
-<time datetime="">2023.07.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205791/20579170.jpg?version=20230830180059.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Welcome to Buttonland]]></title>
             <link>https://music.bugs.co.kr/album/34858423?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34858423?wl_ref=list_ab_03</guid>
@@ -98,7 +80,7 @@ RUSL
 <time datetime="">2024.05.07</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348554/34855459.jpg?version=20240507002231.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348554/34855459.jpg?version=20240508041040.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Zhang Guo Rong Gao Bie LeTan Yan Chang Hui (Live in Hong Kong /1989-1990 / Zu Ben Ban)]]></title>
@@ -172,7 +154,7 @@ RUSL
 <time datetime="">2024.05.07</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348551/34855149.jpg?version=20240507053131.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348551/34855149.jpg?version=20240508032642.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sambeis]]></title>
@@ -946,7 +928,7 @@ Dětské ukolébavky
 <time datetime="">2024.05.07</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348579/34857917.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348579/34857917.jpg?version=20240508035153.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Our Time (Remixes)]]></title>
@@ -954,14 +936,14 @@ Dětské ukolébavky
             <guid>https://music.bugs.co.kr/album/34855178?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 07 May 2024 04:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13711424?wl_ref=list_ab_04" class="artistTitle" title="Shawtie" onclick="
+<a href="https://music.bugs.co.kr/artist/13712496?wl_ref=list_ab_04" class="artistTitle" title="Shawtie" onclick="
 " target="_self">Shawtie</a>
 </p>
 <p>
 <time datetime="">2024.05.07</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348551/34855178.jpg?version=20240507000005.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348551/34855178.jpg?version=20240508033741.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그럼에도]]></title>
@@ -1088,6 +1070,21 @@ Eldar Stuff
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347778/34777878.jpg?version=20240507120010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Atom]]></title>
+            <link>https://music.bugs.co.kr/album/34777877?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34777877?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 07 May 2024 19:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13157810?wl_ref=list_ab_04" class="artistTitle" title="Bottene" onclick="
+" target="_self">Bottene</a>
+</p>
+<p>
+<time datetime="">2024.05.07</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347778/34777877.jpg?version=20240507120010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
