@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 02:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 03:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,7 +68,7 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348433/34843310.jpg?version=20240508052025.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[꾸꾸]]></title>
+            <title><![CDATA[김부경 첫 번째 EP [슬픔에 무게가 있다면]]]></title>
             <link>https://music.bugs.co.kr/album/4082846?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4082846?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 08 May 2024 02:19:13 GMT</pubDate>
@@ -77,10 +77,10 @@
 " target="_self">김부경</a>
 </p>
 <p>
-<time datetime="">2023.09.24</time>
+<time datetime="">2024.05.08</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40828/4082846.jpg?version=20240223043950.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40828/4082846.jpg?version=20240508120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Heart Thief]]></title>
@@ -95,10 +95,10 @@
 Honest Regrets
 </a> </p>
 <p>
-<time datetime="">2024.05.02</time>
+<time datetime="">2024.05.08</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348130/34813012.jpg?version=20240508104251.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348130/34813012.jpg?version=20240508120009.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Evil]]></title>
@@ -131,6 +131,21 @@ Honest Regrets
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347156/34715697.jpg?version=20240508000004.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[CLOU037 (RAW Mix)]]></title>
+            <link>https://music.bugs.co.kr/album/34418276?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34418276?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 08 May 2024 03:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12481061?wl_ref=list_ab_04" class="artistTitle" title="RAWLORD" onclick="
+" target="_self">RAWLORD</a>
+</p>
+<p>
+<time datetime="">2024.05.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/344182/34418276.jpg?version=20240508120014.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Transporter]]></title>
             <link>https://music.bugs.co.kr/album/31654514?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31654514?wl_ref=list_ab_03</guid>
@@ -144,6 +159,24 @@ Honest Regrets
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316545/31654514.jpg?version=20240508000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Like The Way]]></title>
+            <link>https://music.bugs.co.kr/album/20579170?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20579170?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 08 May 2024 03:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20104140?wl_ref=list_ab_04" class="artistTitle" title="RUSL">RUSL</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'RUSL||RUSL||20104140||OK\\nArk Woods||Ark Woods||20129745||OK', ''); return false;">
+RUSL
+</a> </p>
+<p>
+<time datetime="">2024.05.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205791/20579170.jpg?version=20240508120014.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Welcome to Buttonland]]></title>
@@ -1055,36 +1088,6 @@ alongthewalls
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348485/34848504.jpg?version=20240508063509.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bazo Banga]]></title>
-            <link>https://music.bugs.co.kr/album/34848503?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34848503?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 07 May 2024 04:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10687465?wl_ref=list_ab_04" class="artistTitle" title="Kokoko!" onclick="
-" target="_self">Kokoko!</a>
-</p>
-<p>
-<time datetime="">2024.05.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348485/34848503.jpg?version=20240508063508.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Time Gone Buy]]></title>
-            <link>https://music.bugs.co.kr/album/34810525?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34810525?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 07 May 2024 04:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13680351?wl_ref=list_ab_04" class="artistTitle" title="Alok Pandya" onclick="
-" target="_self">Alok Pandya</a>
-</p>
-<p>
-<time datetime="">2024.05.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348105/34810525.jpg?version=20240508064303.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
