@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 May 2024 09:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 10:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1055,6 +1055,21 @@ Sophia Tavleri
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206422/20642252.jpg?version=20240511120008.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[언젠가]]></title>
+            <link>https://music.bugs.co.kr/album/20641837?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20641837?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 11 May 2024 10:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20042780?wl_ref=list_ab_04" class="artistTitle" title="리미티드 에디션 (L.E)" onclick="
+" target="_self">리미티드 에디션 (L.E)</a>
+</p>
+<p>
+<time datetime="">2024.05.11</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206418/20641837.jpg?version=20240511180003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[봄 나들이]]></title>
             <link>https://music.bugs.co.kr/album/20641585?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20641585?wl_ref=list_ab_03</guid>
@@ -1113,21 +1128,6 @@ Sophia Tavleri
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348919/34891929.jpg?version=20240511004446.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HE DUKH BHANJAN]]></title>
-            <link>https://music.bugs.co.kr/album/34891813?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34891813?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 11 May 2024 04:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13720523?wl_ref=list_ab_04" class="artistTitle" title="PIYUSH K MISHRA" onclick="
-" target="_self">PIYUSH K MISHRA</a>
-</p>
-<p>
-<time datetime="">2024.05.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348918/34891813.jpg?version=20240511010851.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
