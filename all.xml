@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 May 2024 14:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 May 2024 15:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
 <time datetime="">2024.05.12</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206415/20641551.jpg?version=20240512180001.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206415/20641551.jpg?version=20240513000002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Feel the breeze (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1064,6 +1064,21 @@ Swizznife
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41010/4101047.jpg?version=20240511002917.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SWEAT (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20638412?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20638412?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 12 May 2024 15:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80383012?wl_ref=list_ab_04" class="artistTitle" title="ZEROBASEONE (제로베이스원)" onclick="
+" target="_self">ZEROBASEONE (제로베이스원)</a>
+</p>
+<p>
+<time datetime="">2024.04.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206384/20638412.jpg?version=20240425012047.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HIT - Hang In There (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2179,22 +2194,19 @@ Santa Griega
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348910/34891062.jpg?version=20240512000003.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sohneyo (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34890994?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34890994?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 12 May 2024 04:21:06 GMT</pubDate>
+            <title><![CDATA[SWEAT (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20638412?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20638412?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 12 May 2024 15:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/10598302?wl_ref=list_ab_04" class="artistTitle" title="Ashish">Ashish</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ashish||Ashish||10598302||OK\\nRitu||Ritu||11416644||OK', ''); return false;">
-Ashish
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/80383012?wl_ref=list_ab_04" class="artistTitle" title="ZEROBASEONE (제로베이스원)" onclick="
+" target="_self">ZEROBASEONE (제로베이스원)</a>
+</p>
 <p>
-<time datetime="">2024.05.12</time>
+<time datetime="">2024.04.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348909/34890994.jpg?version=20240512000003.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206384/20638412.jpg?version=1713975647000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Urban Uprising (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3112,7 +3124,7 @@ Ashish
 <time datetime="">2024.05.12</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206415/20641551.jpg?version=1715504401000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206415/20641551.jpg?version=1715526002000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[약속해요 (매일 재회해 드립니다 X 에이블(Able)) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3233,21 +3245,6 @@ Ashish
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206426/20642668.jpg?version=1715396408000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춤 (Full moon) (Feat. 스페이스카우보이) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20642637?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20642637?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 11 May 2024 03:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80173578?wl_ref=list_ab_04" class="artistTitle" title="김아름" onclick="
-" target="_self">김아름</a>
-</p>
-<p>
-<time datetime="">2024.05.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206426/20642637.jpg?version=1715396403000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

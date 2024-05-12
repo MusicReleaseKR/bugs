@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 May 2024 14:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 May 2024 15:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SWEAT]]></title>
+            <link>https://music.bugs.co.kr/album/20638412?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20638412?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 12 May 2024 15:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80383012?wl_ref=list_ab_04" class="artistTitle" title="ZEROBASEONE (제로베이스원)" onclick="
+" target="_self">ZEROBASEONE (제로베이스원)</a>
+</p>
+<p>
+<time datetime="">2024.04.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206384/20638412.jpg?version=20240425012047.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HIT - Hang In There]]></title>
             <link>https://music.bugs.co.kr/album/34891248?wl_ref=list_ab_03</link>
@@ -1119,24 +1134,6 @@ Santa Griega
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348910/34891062.jpg?version=20240512000003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sohneyo]]></title>
-            <link>https://music.bugs.co.kr/album/34890994?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34890994?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 12 May 2024 04:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/10598302?wl_ref=list_ab_04" class="artistTitle" title="Ashish">Ashish</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ashish||Ashish||10598302||OK\\nRitu||Ritu||11416644||OK', ''); return false;">
-Ashish
-</a> </p>
-<p>
-<time datetime="">2024.05.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348909/34890994.jpg?version=20240512000003.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
