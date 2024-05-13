@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 04:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 05:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206426/20642640.jpg?version=20240511003507.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[때깔 (Killin' It) (English Version)]]></title>
+            <link>https://music.bugs.co.kr/album/4101088?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4101088?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 13 May 2024 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80346894?wl_ref=list_ab_04" class="artistTitle" title="P1Harmony" onclick="
+" target="_self">P1Harmony</a>
+</p>
+<p>
+<time datetime="">2024.05.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41010/4101088.jpg?version=20240513140004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[For 2000 Ad (ver. 2024)]]></title>
@@ -1059,21 +1074,6 @@ Snavs
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41010/4101007.jpg?version=20240511120003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세자가 사라졌다 OST Part. 2 : 내 곁에 있어요]]></title>
-            <link>https://music.bugs.co.kr/album/20642582?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20642582?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 12 May 2024 11:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80259116?wl_ref=list_ab_04" class="artistTitle" title="태일 (TAEIL)" onclick="
-" target="_self">태일 (TAEIL)</a>
-</p>
-<p>
-<time datetime="">2024.05.11</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206425/20642582.jpg?version=20240511180004.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
