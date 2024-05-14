@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 02:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 03:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,37 @@
 <time datetime="">2024.05.14</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/201273/20127358.jpg?version=20240510015809.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/201273/20127358.jpg?version=20240514120004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Apart]]></title>
+            <link>https://music.bugs.co.kr/album/34726557?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34726557?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 14 May 2024 03:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12673887?wl_ref=list_ab_04" class="artistTitle" title="Genesis Valle" onclick="
+" target="_self">Genesis Valle</a>
+</p>
+<p>
+<time datetime="">2024.05.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347265/34726557.jpg?version=20240514120013.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PSYCHIATRIC WARD (Extended Mix)]]></title>
+            <link>https://music.bugs.co.kr/album/34199505?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34199505?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 14 May 2024 03:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12481061?wl_ref=list_ab_04" class="artistTitle" title="RAWLORD" onclick="
+" target="_self">RAWLORD</a>
+</p>
+<p>
+<time datetime="">2024.05.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/341995/34199505.jpg?version=20240514120013.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Atavista]]></title>
@@ -1096,36 +1126,6 @@ UZUK
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206427/20642733.jpg?version=20240513120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[City Pop Tokyo Nights]]></title>
-            <link>https://music.bugs.co.kr/album/20642425?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20642425?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 13 May 2024 04:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20175217?wl_ref=list_ab_04" class="artistTitle" title="무브 (MOOB)" onclick="
-" target="_self">무브 (MOOB)</a>
-</p>
-<p>
-<time datetime="">2024.05.13</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206424/20642425.jpg?version=20240513120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자연의 메아리, 부활의 멜로디]]></title>
-            <link>https://music.bugs.co.kr/album/20642333?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20642333?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 13 May 2024 04:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20211349?wl_ref=list_ab_04" class="artistTitle" title="하리킴" onclick="
-" target="_self">하리킴</a>
-</p>
-<p>
-<time datetime="">2024.05.13</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206423/20642333.jpg?version=20240513120010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
