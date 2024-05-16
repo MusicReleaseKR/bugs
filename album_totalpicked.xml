@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 03:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 04:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,24 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41011/4101191.jpg?version=20240516120005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Homesick]]></title>
+            <link>https://music.bugs.co.kr/album/4101230?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4101230?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 16 May 2024 04:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80301545?wl_ref=list_ab_04" class="artistTitle" title="YUNGIN">YUNGIN</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'YUNGIN||YUNGIN||80301545||OK\\nPaul Blanco||Paul Blanco||20046228||OK\\n창모||창모(CHANGMO)||80189299||OK', ''); return false;">
+YUNGIN
+</a> </p>
+<p>
+<time datetime="">2024.05.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41012/4101230.jpg?version=20240516130006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하나면 하나지 (1 is 1)]]></title>
@@ -1063,21 +1081,6 @@ Sponge
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348725/34872542.jpg?version=20240511063810.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Look At My Body (Pt. II)]]></title>
-            <link>https://music.bugs.co.kr/album/34866018?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34866018?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 15 May 2024 03:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80245066?wl_ref=list_ab_04" class="artistTitle" title="Mabel(메이블)" onclick="
-" target="_self">Mabel(메이블)</a>
-</p>
-<p>
-<time datetime="">2024.05.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348660/34866018.jpg?version=20240515010109.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
