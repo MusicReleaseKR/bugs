@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 09:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 10:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,21 @@ Cafe Cat
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206440/20644002.jpg?version=1716174014000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Toy Box 2]]></title>
+            <link>https://music.bugs.co.kr/album/20643776?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20643776?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 20 May 2024 10:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20209574?wl_ref=list_ab_04" class="artistTitle" title="Conan Black" onclick="
+" target="_self">Conan Black</a>
+</p>
+<p>
+<time datetime="">2024.05.20</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206437/20643776.jpg?version=1716195608000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나를 사랑하는 법]]></title>
             <link>https://music.bugs.co.kr/album/20643696?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20643696?wl_ref=list_ab_03</guid>
@@ -564,6 +579,36 @@ Cafe Cat
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41013/4101363.jpg?version=1716174014000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[점선면 (1 to 3) - The 3rd Mini Album]]></title>
+            <link>https://music.bugs.co.kr/album/4101358?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4101358?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 20 May 2024 10:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80124634?wl_ref=list_ab_04" class="artistTitle" title="수호 (SUHO)" onclick="
+" target="_self">수호 (SUHO)</a>
+</p>
+<p>
+<time datetime="">2024.05.20</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41013/4101358.jpg?version=1716196792000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Day : 바람의 옷을 입고 초록을 달리네]]></title>
+            <link>https://music.bugs.co.kr/album/4101291?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4101291?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 20 May 2024 10:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20004316?wl_ref=list_ab_04" class="artistTitle" title="우예린" onclick="
+" target="_self">우예린</a>
+</p>
+<p>
+<time datetime="">2024.05.20</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41012/4101291.jpg?version=1716195605000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너와 나]]></title>
@@ -941,6 +986,21 @@ Cafe Cat
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206439/20643987.jpg?version=1716174014000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ride the Vibe]]></title>
+            <link>https://music.bugs.co.kr/album/20643986?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20643986?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 20 May 2024 10:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20201772?wl_ref=list_ab_04" class="artistTitle" title="NEXZ (넥스지)" onclick="
+" target="_self">NEXZ (넥스지)</a>
+</p>
+<p>
+<time datetime="">2024.05.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206439/20643986.jpg?version=1716195602000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하나님 나라]]></title>
             <link>https://music.bugs.co.kr/album/20643981?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20643981?wl_ref=list_ab_03</guid>
@@ -999,66 +1059,6 @@ Cafe Cat
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206439/20643967.jpg?version=1716174014000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Light It Up]]></title>
-            <link>https://music.bugs.co.kr/album/20643965?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20643965?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 20 May 2024 04:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20206619?wl_ref=list_ab_04" class="artistTitle" title="Jemin" onclick="
-" target="_self">Jemin</a>
-</p>
-<p>
-<time datetime="">2024.05.20</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206439/20643965.jpg?version=1716174014000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심연, 그곳]]></title>
-            <link>https://music.bugs.co.kr/album/20643959?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20643959?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 20 May 2024 04:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20153662?wl_ref=list_ab_04" class="artistTitle" title="미소컴퍼니 (Misocompany)" onclick="
-" target="_self">미소컴퍼니 (Misocompany)</a>
-</p>
-<p>
-<time datetime="">2024.05.20</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206439/20643959.jpg?version=1716174014000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harmony]]></title>
-            <link>https://music.bugs.co.kr/album/20643941?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20643941?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 20 May 2024 04:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20203205?wl_ref=list_ab_04" class="artistTitle" title="Day R" onclick="
-" target="_self">Day R</a>
-</p>
-<p>
-<time datetime="">2024.05.20</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206439/20643941.jpg?version=1716174014000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부에노스 아이레스]]></title>
-            <link>https://music.bugs.co.kr/album/20643936?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20643936?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 20 May 2024 04:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20104865?wl_ref=list_ab_04" class="artistTitle" title="David Jang" onclick="
-" target="_self">David Jang</a>
-</p>
-<p>
-<time datetime="">2024.05.20</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206439/20643936.jpg?version=1716174014000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
