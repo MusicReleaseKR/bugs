@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 02:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 03:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -65,10 +65,25 @@ Neville Marriner(네빌 매리너)
 " target="_self">Yuichi Watanabe(유이치 와타나베/渡邊勇一)</a>
 </p>
 <p>
-<time datetime="">2017.11.29</time>
+<time datetime="">2024.05.20</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/201316/20131662.jpg?version=20240517143003.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/201316/20131662.jpg?version=20240520120004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lady]]></title>
+            <link>https://music.bugs.co.kr/album/20077917?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20077917?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 20 May 2024 03:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80064966?wl_ref=list_ab_04" class="artistTitle" title="The Mighty Bop(마이티 밥)" onclick="
+" target="_self">The Mighty Bop(마이티 밥)</a>
+</p>
+<p>
+<time datetime="">2024.05.20</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/200779/20077917.jpg?version=20240520120014.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Azizam]]></title>
@@ -1119,24 +1134,6 @@ DJ 2T DA VINTÉM
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/349445/34944596.jpg?version=20240520063416.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Higher]]></title>
-            <link>https://music.bugs.co.kr/album/34944176?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34944176?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 19 May 2024 04:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13507267?wl_ref=list_ab_04" class="artistTitle" title="Kaqnik">Kaqnik</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Kaqnik||Kaqnik||13507267||OK\\nTlefectus||Tlefectus||12983650||OK', ''); return false;">
-Kaqnik
-</a> </p>
-<p>
-<time datetime="">2024.05.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349441/34944176.jpg?version=20240520063209.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
