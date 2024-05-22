@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 14:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 15:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1083,6 +1083,21 @@ Paul McCartney(폴 맥카트니)
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41013/4101395.jpg?version=20240521120000.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Suppressed Alien (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/4100540?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4100540?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 22 May 2024 15:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80393992?wl_ref=list_ab_04" class="artistTitle" title="량유" onclick="
+" target="_self">량유</a>
+</p>
+<p>
+<time datetime="">2024.04.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41005/4100540.jpg?version=20240426120225.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[300% (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2198,19 +2213,19 @@ Olga Octopus
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206447/20644744.jpg?version=20240522120012.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[leaked (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20644739?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20644739?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 May 2024 09:19:34 GMT</pubDate>
+            <title><![CDATA[A Suppressed Alien (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4100540?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4100540?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 22 May 2024 15:20:04 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80366234?wl_ref=list_ab_04" class="artistTitle" title="Street Baby" onclick="
-" target="_self">Street Baby</a>
+<a href="https://music.bugs.co.kr/artist/80393992?wl_ref=list_ab_04" class="artistTitle" title="량유" onclick="
+" target="_self">량유</a>
 </p>
 <p>
-<time datetime="">2024.05.22</time>
-<span class="albumType">정규</span>
+<time datetime="">2024.04.26</time>
+<span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206447/20644739.jpg?version=20240522180004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41005/4100540.jpg?version=1714100545000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PIANO MODERNISM Vol.5 : Kingdom of Rhythm (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3252,21 +3267,6 @@ Olga Octopus
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206445/20644574.jpg?version=1716368409000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silken Harmonies (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20644569?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20644569?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 May 2024 04:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20211924?wl_ref=list_ab_04" class="artistTitle" title="Andrew Wilson" onclick="
-" target="_self">Andrew Wilson</a>
-</p>
-<p>
-<time datetime="">2024.05.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206445/20644569.jpg?version=1716346812000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
