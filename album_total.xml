@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 09:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 10:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1088,6 +1088,24 @@ Olga Octopus
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206448/20644870.jpg?version=20240522120012.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KCTAPE, Vol. 1]]></title>
+            <link>https://music.bugs.co.kr/album/20644786?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20644786?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 22 May 2024 10:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20054237?wl_ref=list_ab_04" class="artistTitle" title="김하온(HAON)">김하온(HAON)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '김하온||김하온(HAON)||20054237||OK\\nvangdale||vangdale||80324518||OK\\n식케이||식케이 (Sik-K)||80189848||OK', ''); return false;">
+김하온(HAON)
+</a> </p>
+<p>
+<time datetime="">2024.05.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206447/20644786.jpg?version=20240522180414.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[From Darkness To Light]]></title>
             <link>https://music.bugs.co.kr/album/20644744?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20644744?wl_ref=list_ab_03</guid>
@@ -1103,34 +1121,19 @@ Olga Octopus
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206447/20644744.jpg?version=20240522120012.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[spirit pair]]></title>
-            <link>https://music.bugs.co.kr/album/20644734?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20644734?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 May 2024 04:21:47 GMT</pubDate>
+            <title><![CDATA[leaked]]></title>
+            <link>https://music.bugs.co.kr/album/20644739?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20644739?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 22 May 2024 10:19:15 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20211788?wl_ref=list_ab_04" class="artistTitle" title="CCXXZZ" onclick="
-" target="_self">CCXXZZ</a>
+<a href="https://music.bugs.co.kr/artist/80366234?wl_ref=list_ab_04" class="artistTitle" title="Street Baby" onclick="
+" target="_self">Street Baby</a>
 </p>
 <p>
 <time datetime="">2024.05.22</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206447/20644734.jpg?version=20240522120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Easy Listening 1]]></title>
-            <link>https://music.bugs.co.kr/album/20644732?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20644732?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 May 2024 04:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20211586?wl_ref=list_ab_04" class="artistTitle" title="Rayline" onclick="
-" target="_self">Rayline</a>
-</p>
-<p>
-<time datetime="">2024.05.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206447/20644732.jpg?version=20240522120012.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206447/20644739.jpg?version=20240522180004.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
