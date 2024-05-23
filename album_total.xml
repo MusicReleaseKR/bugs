@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 15:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 16:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -155,6 +155,20 @@ Camila Gabriel
             <enclosure url="https://image.bugsm.co.kr/album/images/170/342094/34209438.jpg?version=20240524000004.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Assalamualaikum]]></title>
+            <link>https://music.bugs.co.kr/album/33540808?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33540808?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 23 May 2024 16:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<span class="artistTitle" title="">Various Artists</span>
+</p>
+<p>
+<time datetime="">2024.05.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/335408/33540808.jpg?version=20240524010009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Passenger on Earth]]></title>
             <link>https://music.bugs.co.kr/album/33172578?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/33172578?wl_ref=list_ab_03</guid>
@@ -230,7 +244,7 @@ FRUCCI
 <time datetime="">2024.05.23</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349636/34963606.jpg?version=20240523120015.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/349636/34963606.jpg?version=20240524012314.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[zAo00_arch111v3ee:]]></title>
@@ -371,7 +385,7 @@ Neville Marriner(네빌 매리너)
 <time datetime="">2024.05.23</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349487/34948778.jpg?version=20240523170014.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/349487/34948778.jpg?version=20240524004255.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Musique française pour harpe: Satie, Debussy, Saint-Saëns, Fauré...]]></title>
@@ -1140,21 +1154,6 @@ Cantiaventuras
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347108/34710895.jpg?version=20240523120015.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Plora aquí]]></title>
-            <link>https://music.bugs.co.kr/album/34660266?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34660266?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 May 2024 04:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8099902?wl_ref=list_ab_04" class="artistTitle" title="Ferran Palau" onclick="
-" target="_self">Ferran Palau</a>
-</p>
-<p>
-<time datetime="">2024.05.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/346602/34660266.jpg?version=20240523000003.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
