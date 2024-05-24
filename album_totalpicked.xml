@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 03:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 04:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41014/4101411.jpg?version=20240524120633.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Right Place, Wrong Person]]></title>
+            <link>https://music.bugs.co.kr/album/4101538?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4101538?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 May 2024 04:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80180881?wl_ref=list_ab_04" class="artistTitle" title="RM" onclick="
+" target="_self">RM</a>
+</p>
+<p>
+<time datetime="">2024.05.24</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41015/4101538.jpg?version=20240524130004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[serenade]]></title>
             <link>https://music.bugs.co.kr/album/20644371?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20644371?wl_ref=list_ab_03</guid>
@@ -36,6 +51,21 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206443/20644371.jpg?version=20240524120004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Sweet]]></title>
+            <link>https://music.bugs.co.kr/album/4100628?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4100628?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 May 2024 04:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20164333?wl_ref=list_ab_04" class="artistTitle" title="NewJeans" onclick="
+" target="_self">NewJeans</a>
+</p>
+<p>
+<time datetime="">2024.05.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41006/4100628.jpg?version=20240524130329.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인생네컷]]></title>
@@ -1039,36 +1069,6 @@ ZB(제트비)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206451/20645100.jpg?version=20240524014031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Be Ur Girl]]></title>
-            <link>https://music.bugs.co.kr/album/20644294?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20644294?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 May 2024 03:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20211835?wl_ref=list_ab_04" class="artistTitle" title="비아워즈" onclick="
-" target="_self">비아워즈</a>
-</p>
-<p>
-<time datetime="">2024.05.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206442/20644294.jpg?version=20240523120005.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BET / THE BEAST]]></title>
-            <link>https://music.bugs.co.kr/album/4101486?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4101486?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 May 2024 03:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80394756?wl_ref=list_ab_04" class="artistTitle" title="Hiromitsu Kitayama" onclick="
-" target="_self">Hiromitsu Kitayama</a>
-</p>
-<p>
-<time datetime="">2024.05.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41014/4101486.jpg?version=20240523120005.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
