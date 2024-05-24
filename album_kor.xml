@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 02:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 03:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시작]]></title>
+            <link>https://music.bugs.co.kr/album/4095956?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4095956?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 May 2024 03:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13599033?wl_ref=list_ab_04" class="artistTitle" title="재라미 (Jaeramy)" onclick="
+" target="_self">재라미 (Jaeramy)</a>
+</p>
+<p>
+<time datetime="">2024.05.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40959/4095956.jpg?version=1716519611000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tension wrecker]]></title>
             <link>https://music.bugs.co.kr/album/20645144?wl_ref=list_ab_03</link>
@@ -502,7 +517,7 @@ H Lok Kid
 <time datetime="">2024.05.23</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206448/20644893.jpg?version=1716481572000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206448/20644893.jpg?version=1716519688000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Life Balance]]></title>
@@ -1049,21 +1064,6 @@ Wave Orbit
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206449/20644947.jpg?version=1716433215000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신주현의 음악여행]]></title>
-            <link>https://music.bugs.co.kr/album/20644945?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20644945?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 May 2024 04:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20212045?wl_ref=list_ab_04" class="artistTitle" title="신주현" onclick="
-" target="_self">신주현</a>
-</p>
-<p>
-<time datetime="">2024.05.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206449/20644945.jpg?version=1716433215000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
