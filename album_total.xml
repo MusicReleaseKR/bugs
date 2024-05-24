@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 14:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 15:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Noir]]></title>
+            <link>https://music.bugs.co.kr/album/34954191?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34954191?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 May 2024 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12956462?wl_ref=list_ab_04" class="artistTitle" title="Tyson Armond" onclick="
+" target="_self">Tyson Armond</a>
+</p>
+<p>
+<time datetime="">2024.05.25</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/349541/34954191.jpg?version=20240525000005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노르웨이 숲 10주년 Part.3]]></title>
+            <link>https://music.bugs.co.kr/album/20625928?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20625928?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 24 May 2024 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80206131?wl_ref=list_ab_04" class="artistTitle" title="노르웨이 숲" onclick="
+" target="_self">노르웨이 숲</a>
+</p>
+<p>
+<time datetime="">2024.04.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206259/20625928.jpg?version=20240421004529.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[P Susheela Telugu Hits]]></title>
             <link>https://music.bugs.co.kr/album/35013825?wl_ref=list_ab_03</link>
@@ -1038,36 +1068,6 @@ Zerb
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/349665/34966523.jpg?version=20240524002714.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Standards 8 - Party Tyme (Backing Versions)]]></title>
-            <link>https://music.bugs.co.kr/album/34966522?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34966522?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 24 May 2024 04:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13403175?wl_ref=list_ab_04" class="artistTitle" title="Party Tyme" onclick="
-" target="_self">Party Tyme</a>
-</p>
-<p>
-<time datetime="">2024.05.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349665/34966522.jpg?version=20240524023409.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carrousel]]></title>
-            <link>https://music.bugs.co.kr/album/34966514?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34966514?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 24 May 2024 04:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11762217?wl_ref=list_ab_04" class="artistTitle" title="El Comite" onclick="
-" target="_self">El Comite</a>
-</p>
-<p>
-<time datetime="">2024.05.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349665/34966514.jpg?version=20240524012608.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
