@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 May 2024 02:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 03:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,6 +53,24 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/349482/34948277.jpg?version=20240525060022.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mijn Favoriete Babyliedjes]]></title>
+            <link>https://music.bugs.co.kr/album/17994009?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17994009?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 25 May 2024 03:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11752422?wl_ref=list_ab_04" class="artistTitle" title="Slaapliedjes">Slaapliedjes</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Slaapliedjes||Slaapliedjes||11752422||OK\\nKlassieke Muziek voor Baby, Peuters en Kleuters||Klassieke Muziek voor Baby, Peuters en Kleuters||11752148||OK\\nYoga Muziek Voor Kinderen||Yoga Muziek Voor Kinderen||11752544||OK', ''); return false;">
+Slaapliedjes
+</a> </p>
+<p>
+<time datetime="">2024.05.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/179940/17994009.jpg?version=20240525120008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Noir]]></title>
             <link>https://music.bugs.co.kr/album/34954191?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34954191?wl_ref=list_ab_03</guid>
@@ -68,7 +86,7 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/349541/34954191.jpg?version=20240525011947.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노르웨이 숲 10주년 Part.3]]></title>
+            <title><![CDATA[노르웨이 숲 10주년 Part.4]]></title>
             <link>https://music.bugs.co.kr/album/20625928?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20625928?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 24 May 2024 15:19:36 GMT</pubDate>
@@ -77,10 +95,10 @@
 " target="_self">노르웨이 숲</a>
 </p>
 <p>
-<time datetime="">2024.04.20</time>
+<time datetime="">2024.05.25</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206259/20625928.jpg?version=20240421004529.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206259/20625928.jpg?version=20240525120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P Susheela Telugu Hits]]></title>
@@ -1053,21 +1071,6 @@ Zerb
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/349665/34966553.jpg?version=20240525065059.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mozart: Symphonies Nos. 32, 34 & 33; Rehearsal for Symphony No. 33 (2024 Remaster)]]></title>
-            <link>https://music.bugs.co.kr/album/34966544?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34966544?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 24 May 2024 04:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/35864?wl_ref=list_ab_04" class="artistTitle" title="Royal Concertgebouw Orchestra(로열 콘서트헤보우 오케스트라)" onclick="
-" target="_self">Royal Concertgebouw Orchestra(로열 콘서트헤보우 오케스트라)</a>
-</p>
-<p>
-<time datetime="">2024.05.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349665/34966544.jpg?version=20240525065052.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
