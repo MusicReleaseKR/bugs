@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 14:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 15:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HITCHHIKER(Special Edition)]]></title>
+            <link>https://music.bugs.co.kr/album/20641947?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20641947?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 May 2024 15:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20103183?wl_ref=list_ab_04" class="artistTitle" title="JO1" onclick="
+" target="_self">JO1</a>
+</p>
+<p>
+<time datetime="">2024.05.29</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206419/20641947.jpg?version=20240529000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fade]]></title>
+            <link>https://music.bugs.co.kr/album/34872979?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34872979?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 May 2024 15:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80243379?wl_ref=list_ab_04" class="artistTitle" title="Samm Henshaw(샘 핸쇼우)" onclick="
+" target="_self">Samm Henshaw(샘 핸쇼우)</a>
+</p>
+<p>
+<time datetime="">2024.05.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348729/34872979.jpg?version=20240529000003.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[S P B Charan Love Hits Telugu]]></title>
             <link>https://music.bugs.co.kr/album/35022814?wl_ref=list_ab_03</link>
@@ -1112,36 +1142,6 @@ Dětské ukolébavky
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206447/20644715.jpg?version=20240528120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의 달]]></title>
-            <link>https://music.bugs.co.kr/album/20644712?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20644712?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 May 2024 04:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80085587?wl_ref=list_ab_04" class="artistTitle" title="조은혜" onclick="
-" target="_self">조은혜</a>
-</p>
-<p>
-<time datetime="">2024.05.28</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206447/20644712.jpg?version=20240528120012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나보라의 골든디스크 5]]></title>
-            <link>https://music.bugs.co.kr/album/20644698?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20644698?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 May 2024 04:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80149467?wl_ref=list_ab_04" class="artistTitle" title="나보라" onclick="
-" target="_self">나보라</a>
-</p>
-<p>
-<time datetime="">2024.05.28</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206446/20644698.jpg?version=20240528120012.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
