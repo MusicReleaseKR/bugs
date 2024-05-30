@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 09:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 10:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,39 @@ Alvaro Peire
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350277/35027708.jpg?version=20240530021936.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[El Bodeguero]]></title>
+            <link>https://music.bugs.co.kr/album/35022775?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35022775?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 30 May 2024 10:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80313150?wl_ref=list_ab_04" class="artistTitle" title="Chico Che Chico" onclick="
+" target="_self">Chico Che Chico</a>
+</p>
+<p>
+<time datetime="">2024.05.30</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350227/35022775.jpg?version=20240530151008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Así Suena El Rancho]]></title>
+            <link>https://music.bugs.co.kr/album/35022774?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35022774?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 30 May 2024 10:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11632504?wl_ref=list_ab_04" class="artistTitle" title="La Abuela Irma Silva">La Abuela Irma Silva</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'La Abuela Irma Silva||La Abuela Irma Silva||11632504||OK\\nLos Nietos De Terán||Los Nietos De Terán||12808324||OK', ''); return false;">
+La Abuela Irma Silva
+</a> </p>
+<p>
+<time datetime="">2024.05.30</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350227/35022774.jpg?version=20240530151008.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Big Band]]></title>
@@ -545,7 +578,7 @@ FOX-1
 <time datetime="">2024.05.30</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350098/35009852.jpg?version=20240530000004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350098/35009852.jpg?version=20240530190006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Long Time Coming]]></title>
@@ -1110,36 +1143,6 @@ Chillhop Cafe
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/349467/34946744.jpg?version=20240530120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Year of the Dragon, Vol. 1]]></title>
-            <link>https://music.bugs.co.kr/album/34946743?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34946743?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 May 2024 04:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11918230?wl_ref=list_ab_04" class="artistTitle" title="Sound Bath" onclick="
-" target="_self">Sound Bath</a>
-</p>
-<p>
-<time datetime="">2024.05.30</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349467/34946743.jpg?version=20240530120010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Labyrinth]]></title>
-            <link>https://music.bugs.co.kr/album/34946742?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34946742?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 May 2024 04:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12697422?wl_ref=list_ab_04" class="artistTitle" title="Sleep Terrarium" onclick="
-" target="_self">Sleep Terrarium</a>
-</p>
-<p>
-<time datetime="">2024.05.30</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349467/34946742.jpg?version=20240530120010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
