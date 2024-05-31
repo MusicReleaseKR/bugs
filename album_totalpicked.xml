@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 03:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 04:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,36 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41021/4102170.jpg?version=20240531120010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GOLDEN HOUR : Part.1]]></title>
+            <link>https://music.bugs.co.kr/album/20645586?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20645586?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 31 May 2024 04:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20067194?wl_ref=list_ab_04" class="artistTitle" title="ATEEZ(에이티즈)" onclick="
+" target="_self">ATEEZ(에이티즈)</a>
+</p>
+<p>
+<time datetime="">2024.05.31</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206455/20645586.jpg?version=20240531130018.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<Dall>]]></title>
+            <link>https://music.bugs.co.kr/album/4102197?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4102197?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 31 May 2024 04:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13519146?wl_ref=list_ab_04" class="artistTitle" title="ARTMS" onclick="
+" target="_self">ARTMS</a>
+</p>
+<p>
+<time datetime="">2024.05.31</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41021/4102197.jpg?version=20240531130017.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sunday Morning]]></title>
@@ -526,7 +556,7 @@ Yung Bae(영 배)
 <time datetime="">2024.05.31</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350618/35061886.jpg?version=20240531110504.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350618/35061886.jpg?version=20240531124717.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bitch Get Out My Car]]></title>
@@ -1039,36 +1069,6 @@ The Game(게임)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206464/20646440.jpg?version=20240530120003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한잔에]]></title>
-            <link>https://music.bugs.co.kr/album/20646627?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20646627?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 May 2024 03:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20093671?wl_ref=list_ab_04" class="artistTitle" title="방초록" onclick="
-" target="_self">방초록</a>
-</p>
-<p>
-<time datetime="">2024.05.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206466/20646627.jpg?version=20240530120003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Be on Your side]]></title>
-            <link>https://music.bugs.co.kr/album/4102134?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4102134?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 May 2024 03:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80395304?wl_ref=list_ab_04" class="artistTitle" title="to HEROes" onclick="
-" target="_self">to HEROes</a>
-</p>
-<p>
-<time datetime="">2024.05.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41021/4102134.jpg?version=20240531024606.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
