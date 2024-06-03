@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 02:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 03:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,7 +83,22 @@ Neville Marriner(네빌 매리너)
 <time datetime="">2024.06.03</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/200764/20076482.jpg?version=20240601015226.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/200764/20076482.jpg?version=20240603120004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rainbow of Love]]></title>
+            <link>https://music.bugs.co.kr/album/20076366?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20076366?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 03 Jun 2024 03:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80015543?wl_ref=list_ab_04" class="artistTitle" title="Bob Sinclar(밥 싱클레어)" onclick="
+" target="_self">Bob Sinclar(밥 싱클레어)</a>
+</p>
+<p>
+<time datetime="">2024.06.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/200763/20076366.jpg?version=20240603120011.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rosa Con Espinas]]></title>
@@ -1113,21 +1128,6 @@ Camerata Inaugural
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206468/20646823.jpg?version=20240602120006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크게 한방!]]></title>
-            <link>https://music.bugs.co.kr/album/20646813?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20646813?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 02 Jun 2024 04:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20013943?wl_ref=list_ab_04" class="artistTitle" title="지미뱅(JimmyBang)" onclick="
-" target="_self">지미뱅(JimmyBang)</a>
-</p>
-<p>
-<time datetime="">2024.06.02</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206468/20646813.jpg?version=20240602120006.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
