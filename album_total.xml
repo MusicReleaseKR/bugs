@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 16:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 17:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@ Sewa Kamil
 <time datetime="">2024.06.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350643/35064354.jpg?version=20240603224718.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350643/35064354.jpg?version=20240604014102.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Your Beauty]]></title>
@@ -86,21 +86,6 @@ Sewa Kamil
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350633/35063340.jpg?version=20240603000006.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jorden Rundt 1 - Børnemusik Fra Hele Verden]]></title>
-            <link>https://music.bugs.co.kr/album/35063338?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35063338?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 03 Jun 2024 04:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13744487?wl_ref=list_ab_04" class="artistTitle" title="Jorden Rundt" onclick="
-" target="_self">Jorden Rundt</a>
-</p>
-<p>
-<time datetime="">2024.06.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350633/35063338.jpg?version=20240603000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Music Time, Vol. 2]]></title>
             <link>https://music.bugs.co.kr/album/35063337?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/35063337?wl_ref=list_ab_03</guid>
@@ -113,7 +98,7 @@ Sewa Kamil
 <time datetime="">2024.06.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350633/35063337.jpg?version=20240603000006.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350633/35063337.jpg?version=20240604014211.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Road To Heaven]]></title>
@@ -1182,6 +1167,21 @@ Moon Tunes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206474/20647432.jpg?version=20240603120011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[love like water]]></title>
+            <link>https://music.bugs.co.kr/album/20647349?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20647349?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 03 Jun 2024 17:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20132766?wl_ref=list_ab_04" class="artistTitle" title="Eastsound" onclick="
+" target="_self">Eastsound</a>
+</p>
+<p>
+<time datetime="">2024.06.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206473/20647349.jpg?version=20240603120011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
