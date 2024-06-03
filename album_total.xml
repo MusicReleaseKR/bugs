@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 06:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 07:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,39 +171,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350623/35062318.jpg?version=20240603000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Sound of the Academy]]></title>
-            <link>https://music.bugs.co.kr/album/35022938?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35022938?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 01 Jun 2024 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/35619?wl_ref=list_ab_04" class="artistTitle" title="Neville Marriner(네빌 매리너)">Neville Marriner(네빌 매리너)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Neville Marriner||Neville Marriner(네빌 매리너)||35619||OK\\nAcademy Of St. Martin In The Fields||Academy Of St. Martin In The Fields(아카데미 오브 성 마틴 인 더 필즈)||35617||OK', ''); return false;">
-Neville Marriner(네빌 매리너)
-</a> </p>
-<p>
-<time datetime="">2024.06.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350229/35022938.jpg?version=20240603050011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Musique de chambre française pour harpe: Debussy, Ravel, Satie, Fauré & Ibert]]></title>
-            <link>https://music.bugs.co.kr/album/35022871?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35022871?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 01 Jun 2024 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80000740?wl_ref=list_ab_04" class="artistTitle" title="Markus Klinko(마르쿠스 클린코)" onclick="
-" target="_self">Markus Klinko(마르쿠스 클린코)</a>
-</p>
-<p>
-<time datetime="">2024.06.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350228/35022871.jpg?version=20240603050010.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[528 Hz Solfeggio Meditation Frequencies]]></title>
@@ -1179,6 +1146,36 @@ Moon Tunes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206468/20646859.jpg?version=20240603120011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mr.B of Alcatraz]]></title>
+            <link>https://music.bugs.co.kr/album/20646827?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20646827?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 03 Jun 2024 07:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20205221?wl_ref=list_ab_04" class="artistTitle" title="HWANG YUGEON" onclick="
+" target="_self">HWANG YUGEON</a>
+</p>
+<p>
+<time datetime="">2024.06.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206468/20646827.jpg?version=20240603120011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[sunset]]></title>
+            <link>https://music.bugs.co.kr/album/20646814?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20646814?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 03 Jun 2024 07:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20212576?wl_ref=list_ab_04" class="artistTitle" title="세라(SaraH)" onclick="
+" target="_self">세라(SaraH)</a>
+</p>
+<p>
+<time datetime="">2024.06.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206468/20646814.jpg?version=20240603120011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
