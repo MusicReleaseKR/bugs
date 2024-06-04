@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 09:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 10:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -907,6 +907,21 @@ Dětské ukolébavky
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206474/20647429.jpg?version=20240604120011.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이창 1/2]]></title>
+            <link>https://music.bugs.co.kr/album/20647342?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20647342?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 04 Jun 2024 10:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80126124?wl_ref=list_ab_04" class="artistTitle" title="지구인" onclick="
+" target="_self">지구인</a>
+</p>
+<p>
+<time datetime="">2024.06.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206473/20647342.jpg?version=20240604180001.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lounge Jazz vol.2]]></title>
             <link>https://music.bugs.co.kr/album/20647159?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20647159?wl_ref=list_ab_03</guid>
@@ -1130,21 +1145,6 @@ Dětské ukolébavky
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206465/20646548.jpg?version=20240604120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ten Ten Club]]></title>
-            <link>https://music.bugs.co.kr/album/20646492?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20646492?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 04 Jun 2024 04:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20207520?wl_ref=list_ab_04" class="artistTitle" title="Multiview" onclick="
-" target="_self">Multiview</a>
-</p>
-<p>
-<time datetime="">2024.06.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206464/20646492.jpg?version=20240604120011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
