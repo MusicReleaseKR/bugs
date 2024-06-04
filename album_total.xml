@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 02:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 03:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,6 +39,24 @@ Neville Marriner(네빌 매리너)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350228/35022871.jpg?version=20240604052632.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Made in Jamaica]]></title>
+            <link>https://music.bugs.co.kr/album/20138745?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20138745?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 04 Jun 2024 03:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80015543?wl_ref=list_ab_04" class="artistTitle" title="Bob Sinclar(밥 싱클레어)">Bob Sinclar(밥 싱클레어)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Bob Sinclar||Bob Sinclar(밥 싱클레어)||80015543||OK\\nSly And Robbie||Sly And Robbie(슬라이 앤 로비)||46656||OK', ''); return false;">
+Bob Sinclar(밥 싱클레어)
+</a> </p>
+<p>
+<time datetime="">2024.06.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/201387/20138745.jpg?version=20240604120011.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[To]]></title>
@@ -1167,21 +1185,6 @@ Moon Tunes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206474/20647432.jpg?version=20240603120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[love like water]]></title>
-            <link>https://music.bugs.co.kr/album/20647349?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20647349?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 03 Jun 2024 17:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20132766?wl_ref=list_ab_04" class="artistTitle" title="Eastsound" onclick="
-" target="_self">Eastsound</a>
-</p>
-<p>
-<time datetime="">2024.06.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206473/20647349.jpg?version=20240603120011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
