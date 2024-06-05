@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 16:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 17:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,21 +21,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206448/20644807.jpg?version=20240523120005.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[En el BM]]></title>
-            <link>https://music.bugs.co.kr/album/34948651?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34948651?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 05 Jun 2024 15:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12053820?wl_ref=list_ab_04" class="artistTitle" title="John C" onclick="
-" target="_self">John C</a>
-</p>
-<p>
-<time datetime="">2024.05.17</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349486/34948651.jpg?version=20240605204932.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Da Me Más (Na Praia)]]></title>
@@ -80,7 +65,7 @@
 <time datetime="">2024.06.05</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350738/35073800.jpg?version=20240605165756.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350738/35073800.jpg?version=20240606015405.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Corridors Of The Mind]]></title>
@@ -284,7 +269,7 @@ Ariã Yamanaka
 <time datetime="">2024.06.05</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350281/35028153.jpg?version=20240605000003.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350281/35028153.jpg?version=20240606015707.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10 Night Ocean Lullabies]]></title>
@@ -677,7 +662,7 @@ Neville Marriner(네빌 매리너)
 <time datetime="">2024.06.05</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350228/35022871.jpg?version=20240605171012.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350228/35022871.jpg?version=20240606015710.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Shalem]]></title>
@@ -1134,6 +1119,21 @@ THREE
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206479/20647974.jpg?version=20240605120016.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wonder]]></title>
+            <link>https://music.bugs.co.kr/album/20647899?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20647899?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 05 Jun 2024 17:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12067783?wl_ref=list_ab_04" class="artistTitle" title="Andrew Gialanella" onclick="
+" target="_self">Andrew Gialanella</a>
+</p>
+<p>
+<time datetime="">2024.06.05</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206478/20647899.jpg?version=20240605120016.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
