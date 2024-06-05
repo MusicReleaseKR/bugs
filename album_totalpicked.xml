@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 03:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 04:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,24 @@
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41023/4102369.jpg?version=20240605120005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WORK Pt.2 - ATEEZ X Don Diablo]]></title>
+            <link>https://music.bugs.co.kr/album/20648024?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20648024?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 05 Jun 2024 04:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20067194?wl_ref=list_ab_04" class="artistTitle" title="ATEEZ(에이티즈)">ATEEZ(에이티즈)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'ATEEZ||ATEEZ(에이티즈)||20067194||OK\\nDon Diablo||Don Diablo(던 디아블로)||80004540||OK', ''); return false;">
+ATEEZ(에이티즈)
+</a> </p>
+<p>
+<time datetime="">2024.06.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206480/20648024.jpg?version=20240605130002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[같은 하늘 다른 시간]]></title>
@@ -1051,21 +1069,6 @@ BASECREAM
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206460/20646008.jpg?version=20240605013659.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다]]></title>
-            <link>https://music.bugs.co.kr/album/20647425?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20647425?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 04 Jun 2024 03:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20062366?wl_ref=list_ab_04" class="artistTitle" title="안도 프로젝트" onclick="
-" target="_self">안도 프로젝트</a>
-</p>
-<p>
-<time datetime="">2024.06.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206474/20647425.jpg?version=20240604120003.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
