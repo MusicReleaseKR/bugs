@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 15:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 16:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,21 +66,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347641/34764156.jpg?version=20240606000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chị Em Mình Trên Tivi]]></title>
-            <link>https://music.bugs.co.kr/album/4102312?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4102312?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 05 Jun 2024 15:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13745345?wl_ref=list_ab_04" class="artistTitle" title="VibeQueens" onclick="
-" target="_self">VibeQueens</a>
-</p>
-<p>
-<time datetime="">2024.06.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41023/4102312.jpg?version=20240605064338.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Atleast, I Loved You]]></title>
@@ -677,7 +662,7 @@ Neville Marriner(네빌 매리너)
 <time datetime="">2024.06.05</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350229/35022938.jpg?version=20240605195528.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350229/35022938.jpg?version=20240606011643.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Musique de chambre française pour harpe: Debussy, Ravel, Satie, Fauré & Ibert]]></title>
@@ -1103,7 +1088,7 @@ THREE
 <time datetime="">2024.06.05</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206481/20648144.jpg?version=20240605120016.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206481/20648144.jpg?version=20240606002719.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 아이에게 들려주는 엄마의 인형동화 Vol.13]]></title>
@@ -1134,6 +1119,21 @@ THREE
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206479/20647991.jpg?version=20240605120016.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[That's Life]]></title>
+            <link>https://music.bugs.co.kr/album/20647974?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20647974?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 05 Jun 2024 16:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20212872?wl_ref=list_ab_04" class="artistTitle" title="Lance Landon" onclick="
+" target="_self">Lance Landon</a>
+</p>
+<p>
+<time datetime="">2024.06.05</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206479/20647974.jpg?version=20240605120016.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
