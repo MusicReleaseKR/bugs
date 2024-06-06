@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 09:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 10:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lady Pum Pum]]></title>
+            <link>https://music.bugs.co.kr/album/35078603?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35078603?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 06 Jun 2024 10:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13715616?wl_ref=list_ab_04" class="artistTitle" title="Lin Mei Hsiu" onclick="
+" target="_self">Lin Mei Hsiu</a>
+</p>
+<p>
+<time datetime="">2024.06.06</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350786/35078603.jpg?version=20240606130005.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Broken Dreams]]></title>
             <link>https://music.bugs.co.kr/album/35077616?wl_ref=list_ab_03</link>
@@ -21,6 +36,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350776/35077616.jpg?version=20240606020610.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MEMBERS ONLY]]></title>
+            <link>https://music.bugs.co.kr/album/35076717?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35076717?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 06 Jun 2024 10:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13185598?wl_ref=list_ab_04" class="artistTitle" title="Coults" onclick="
+" target="_self">Coults</a>
+</p>
+<p>
+<time datetime="">2024.06.06</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350767/35076717.jpg?version=20240606130005.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Spectrum of Hardstyle - 006]]></title>
@@ -1098,36 +1128,6 @@ Smerz(스머즈)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/348567/34856786.jpg?version=20240606000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Feel Good Album]]></title>
-            <link>https://music.bugs.co.kr/album/34852545?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34852545?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 06 Jun 2024 04:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8256488?wl_ref=list_ab_04" class="artistTitle" title="Mo Brandis" onclick="
-" target="_self">Mo Brandis</a>
-</p>
-<p>
-<time datetime="">2024.06.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348525/34852545.jpg?version=20240606000006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream of Halley’s Constellation]]></title>
-            <link>https://music.bugs.co.kr/album/34846235?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34846235?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 06 Jun 2024 04:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8899723?wl_ref=list_ab_04" class="artistTitle" title="Sphères" onclick="
-" target="_self">Sphères</a>
-</p>
-<p>
-<time datetime="">2024.06.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348462/34846235.jpg?version=20240606120008.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
