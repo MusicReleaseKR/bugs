@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 08:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 09:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,7 +113,7 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206459/20645943.jpg?version=1717642808000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LIKE ME!]]></title>
+            <title><![CDATA[LUXUS]]></title>
             <link>https://music.bugs.co.kr/album/20644807?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20644807?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 05 Jun 2024 15:19:23 GMT</pubDate>
@@ -122,10 +122,10 @@
 " target="_self">빈첸</a>
 </p>
 <p>
-<time datetime="">2024.05.23</time>
-<span class="albumType">싱글</span>
+<time datetime="">2024.06.06</time>
+<span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206448/20644807.jpg?version=1716433205000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206448/20644807.jpg?version=1717664403000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[City Pop Sakura Boulevard]]></title>
@@ -917,6 +917,21 @@ TREM
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206326/20632677.jpg?version=1717621262000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나를 사랑해줘]]></title>
+            <link>https://music.bugs.co.kr/album/20632658?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20632658?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 06 Jun 2024 09:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20208386?wl_ref=list_ab_04" class="artistTitle" title="4cHoN" onclick="
+" target="_self">4cHoN</a>
+</p>
+<p>
+<time datetime="">2024.06.06</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206326/20632658.jpg?version=1717664405000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[circle life]]></title>
             <link>https://music.bugs.co.kr/album/4102422?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4102422?wl_ref=list_ab_03</guid>
@@ -1053,21 +1068,6 @@ TREM
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41024/4102417.jpg?version=1717642808000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LoFi Twilight]]></title>
-            <link>https://music.bugs.co.kr/album/20648144?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20648144?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 05 Jun 2024 04:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20175217?wl_ref=list_ab_04" class="artistTitle" title="무브 (MOOB)" onclick="
-" target="_self">무브 (MOOB)</a>
-</p>
-<p>
-<time datetime="">2024.06.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206481/20648144.jpg?version=1717601239000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
