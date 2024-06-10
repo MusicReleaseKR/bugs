@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 09:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 10:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -671,6 +671,36 @@ AVI
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41025/4102515.jpg?version=1717988485000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[귀여운 고양이]]></title>
+            <link>https://music.bugs.co.kr/album/4102513?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4102513?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Jun 2024 10:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13749738?wl_ref=list_ab_04" class="artistTitle" title="Star Rabbit" onclick="
+" target="_self">Star Rabbit</a>
+</p>
+<p>
+<time datetime="">2024.06.10</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41025/4102513.jpg?version=1718010006000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[cignature 5th EP Album 'Sweetie but Saltie']]></title>
+            <link>https://music.bugs.co.kr/album/4102502?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4102502?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Jun 2024 10:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20100971?wl_ref=list_ab_04" class="artistTitle" title="cignature (시그니처)" onclick="
+" target="_self">cignature (시그니처)</a>
+</p>
+<p>
+<time datetime="">2024.06.10</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41025/4102502.jpg?version=1718013220000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Night Wind]]></title>
             <link>https://music.bugs.co.kr/album/4102390?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4102390?wl_ref=list_ab_03</guid>
@@ -869,6 +899,21 @@ AVI
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206485/20648570.jpg?version=1717988409000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오늘도 그대만]]></title>
+            <link>https://music.bugs.co.kr/album/20648552?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20648552?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Jun 2024 10:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80079184?wl_ref=list_ab_04" class="artistTitle" title="우은미" onclick="
+" target="_self">우은미</a>
+</p>
+<p>
+<time datetime="">2024.06.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206485/20648552.jpg?version=1718010001000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tiberia]]></title>
             <link>https://music.bugs.co.kr/album/20648546?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20648546?wl_ref=list_ab_03</guid>
@@ -989,6 +1034,21 @@ AVI
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206484/20648465.jpg?version=1717988409000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우아하고 근사한 그대]]></title>
+            <link>https://music.bugs.co.kr/album/20648386?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20648386?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Jun 2024 10:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80256669?wl_ref=list_ab_04" class="artistTitle" title="황윤성" onclick="
+" target="_self">황윤성</a>
+</p>
+<p>
+<time datetime="">2024.06.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206483/20648386.jpg?version=1718010001000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[sad story]]></title>
             <link>https://music.bugs.co.kr/album/20648382?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20648382?wl_ref=list_ab_03</guid>
@@ -1002,66 +1062,6 @@ AVI
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206483/20648382.jpg?version=1717988409000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[a battle]]></title>
-            <link>https://music.bugs.co.kr/album/20648376?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20648376?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Jun 2024 04:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20210073?wl_ref=list_ab_04" class="artistTitle" title="에스에이치 뮤직(SH MUSIC)" onclick="
-" target="_self">에스에이치 뮤직(SH MUSIC)</a>
-</p>
-<p>
-<time datetime="">2024.06.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206483/20648376.jpg?version=1717988409000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 있기에]]></title>
-            <link>https://music.bugs.co.kr/album/20648331?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20648331?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Jun 2024 04:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20145224?wl_ref=list_ab_04" class="artistTitle" title="한요한(Han Yohan)" onclick="
-" target="_self">한요한(Han Yohan)</a>
-</p>
-<p>
-<time datetime="">2024.06.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206483/20648331.jpg?version=1717995723000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무지개 (Rainbow)]]></title>
-            <link>https://music.bugs.co.kr/album/20648289?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20648289?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Jun 2024 04:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20212955?wl_ref=list_ab_04" class="artistTitle" title="전진아" onclick="
-" target="_self">전진아</a>
-</p>
-<p>
-<time datetime="">2024.06.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206482/20648289.jpg?version=1717988409000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사내취식 (feat. Shim Shady, Ale. D, Whyyun)]]></title>
-            <link>https://music.bugs.co.kr/album/20648259?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20648259?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Jun 2024 04:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20152975?wl_ref=list_ab_04" class="artistTitle" title="렛고" onclick="
-" target="_self">렛고</a>
-</p>
-<p>
-<time datetime="">2024.06.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206482/20648259.jpg?version=1717988409000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
