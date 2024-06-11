@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 02:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 03:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,24 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350791/35079188.jpg?version=20240611055430.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Relive & Rewind]]></title>
+            <link>https://music.bugs.co.kr/album/33561067?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33561067?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Jun 2024 03:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20147688?wl_ref=list_ab_04" class="artistTitle" title="Jane Good">Jane Good</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Jane Good||Jane Good||20147688||OK\\nDonner||Donner||80383461||OK\\nLittle Venice||Little Venice||12090183||OK', ''); return false;">
+Jane Good
+</a> </p>
+<p>
+<time datetime="">2024.06.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/335610/33561067.jpg?version=20240611120013.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Carillon Neonati: Ninna Nanna]]></title>
@@ -1113,21 +1131,6 @@ KLT
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206463/20646396.jpg?version=20240611003609.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[City Pop Closing Time]]></title>
-            <link>https://music.bugs.co.kr/album/20643999?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20643999?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Jun 2024 16:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20175217?wl_ref=list_ab_04" class="artistTitle" title="무브 (MOOB)" onclick="
-" target="_self">무브 (MOOB)</a>
-</p>
-<p>
-<time datetime="">2024.06.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206439/20643999.jpg?version=20240610120009.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
