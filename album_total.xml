@@ -4,9 +4,75 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 14:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 15:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NOC]]></title>
+            <link>https://music.bugs.co.kr/album/35022883?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35022883?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 12 Jun 2024 15:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12322048?wl_ref=list_ab_04" class="artistTitle" title="Zusje">Zusje</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Zusje||Zusje||12322048||OK\\nHellfield||Hellfield||12981090||OK\\nCrackHouse||CrackHouse||12980916||OK', ''); return false;">
+Zusje
+</a> </p>
+<p>
+<time datetime="">2024.06.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350228/35022883.jpg?version=20240613000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five Spotted Dogs]]></title>
+            <link>https://music.bugs.co.kr/album/34961058?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34961058?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 12 Jun 2024 15:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11683678?wl_ref=list_ab_04" class="artistTitle" title="Super Simple Songs" onclick="
+" target="_self">Super Simple Songs</a>
+</p>
+<p>
+<time datetime="">2024.06.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/349610/34961058.jpg?version=20240613000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RED FLAG]]></title>
+            <link>https://music.bugs.co.kr/album/34809035?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34809035?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 12 Jun 2024 15:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13108604?wl_ref=list_ab_04" class="artistTitle" title="Joseph Taics">Joseph Taics</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Joseph Taics||Joseph Taics||13108604||OK\\nRocco||Rocco||10423080||OK\\nMalito Malozo||Malito Malozo||80324651||OK', ''); return false;">
+Joseph Taics
+</a> </p>
+<p>
+<time datetime="">2024.06.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348090/34809035.jpg?version=20240613000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Young Libertine]]></title>
+            <link>https://music.bugs.co.kr/album/20382807?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20382807?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 12 Jun 2024 15:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20121601?wl_ref=list_ab_04" class="artistTitle" title="Left Field Messiah" onclick="
+" target="_self">Left Field Messiah</a>
+</p>
+<p>
+<time datetime="">2021.03.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/203828/20382807.jpg?version=20240612173543.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Study Buddy - New Style of Working]]></title>
             <link>https://music.bugs.co.kr/album/35092730?wl_ref=list_ab_03</link>
@@ -320,7 +386,7 @@
 <time datetime="">2024.06.12</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350821/35082117.jpg?version=20240612000003.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350821/35082117.jpg?version=20240613001531.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Obilni poslovilni]]></title>
@@ -1068,66 +1134,6 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350208/35020811.jpg?version=20240612120019.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Geologic Dreams]]></title>
-            <link>https://music.bugs.co.kr/album/35019780?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35019780?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 12 Jun 2024 04:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12441892?wl_ref=list_ab_04" class="artistTitle" title="latome2" onclick="
-" target="_self">latome2</a>
-</p>
-<p>
-<time datetime="">2024.06.12</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350197/35019780.jpg?version=20240612120019.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harmony]]></title>
-            <link>https://music.bugs.co.kr/album/34973463?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34973463?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 12 Jun 2024 04:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13182652?wl_ref=list_ab_04" class="artistTitle" title="Spectrum Voyage" onclick="
-" target="_self">Spectrum Voyage</a>
-</p>
-<p>
-<time datetime="">2024.06.12</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349734/34973463.jpg?version=20240612120019.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canções de Outono]]></title>
-            <link>https://music.bugs.co.kr/album/34956424?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34956424?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 12 Jun 2024 04:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/9447333?wl_ref=list_ab_04" class="artistTitle" title="Sergio Perere" onclick="
-" target="_self">Sergio Perere</a>
-</p>
-<p>
-<time datetime="">2024.06.12</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349564/34956424.jpg?version=20240612000003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KACHAKACHA]]></title>
-            <link>https://music.bugs.co.kr/album/34888945?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34888945?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 12 Jun 2024 04:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13725738?wl_ref=list_ab_04" class="artistTitle" title="小王" onclick="
-" target="_self">小王</a>
-</p>
-<p>
-<time datetime="">2024.06.12</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348889/34888945.jpg?version=20240612120019.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
