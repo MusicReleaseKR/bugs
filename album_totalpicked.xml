@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 03:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 04:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206484/20648417.jpg?version=20240612120005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WORK Pt.3 - ATEEZ X Eden-ary]]></title>
+            <link>https://music.bugs.co.kr/album/20649044?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20649044?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 12 Jun 2024 04:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20067194?wl_ref=list_ab_04" class="artistTitle" title="ATEEZ(에이티즈)" onclick="
+" target="_self">ATEEZ(에이티즈)</a>
+</p>
+<p>
+<time datetime="">2024.06.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206490/20649044.jpg?version=20240612130000.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Echo]]></title>
@@ -1050,21 +1065,6 @@ JISU
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206479/20647976.jpg?version=20240611120000.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Positive Blue]]></title>
-            <link>https://music.bugs.co.kr/album/20648534?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20648534?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Jun 2024 03:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20191602?wl_ref=list_ab_04" class="artistTitle" title="SAILORS(세일러스)" onclick="
-" target="_self">SAILORS(세일러스)</a>
-</p>
-<p>
-<time datetime="">2024.06.11</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206485/20648534.jpg?version=20240612010620.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
