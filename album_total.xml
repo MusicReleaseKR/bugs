@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 09:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 10:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,21 @@ LowFi
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350849/35084947.jpg?version=20240613000004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[אלף מנעולים]]></title>
+            <link>https://music.bugs.co.kr/album/35084795?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35084795?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 13 Jun 2024 10:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10947873?wl_ref=list_ab_04" class="artistTitle" title="עקיבא" onclick="
+" target="_self">עקיבא</a>
+</p>
+<p>
+<time datetime="">2024.06.13</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350847/35084795.jpg?version=20240613140002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bixa Noturna]]></title>
@@ -1106,34 +1121,19 @@ The Remix Station
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206489/20648988.jpg?version=20240613120011.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[implies]]></title>
-            <link>https://music.bugs.co.kr/album/20648856?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20648856?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 13 Jun 2024 04:21:39 GMT</pubDate>
+            <title><![CDATA[The Dawn of Pages]]></title>
+            <link>https://music.bugs.co.kr/album/20648897?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20648897?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 13 Jun 2024 10:19:01 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20213095?wl_ref=list_ab_04" class="artistTitle" title="H.jenny" onclick="
-" target="_self">H.jenny</a>
+<a href="https://music.bugs.co.kr/artist/20213098?wl_ref=list_ab_04" class="artistTitle" title="Mind Print" onclick="
+" target="_self">Mind Print</a>
 </p>
 <p>
 <time datetime="">2024.06.13</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206488/20648856.jpg?version=20240613120011.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHIC LADY]]></title>
-            <link>https://music.bugs.co.kr/album/20648760?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20648760?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 13 Jun 2024 04:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/36367?wl_ref=list_ab_04" class="artistTitle" title="Toshiko Akiyoshi(토시코 아키요시/秋吉敏子)" onclick="
-" target="_self">Toshiko Akiyoshi(토시코 아키요시/秋吉敏子)</a>
-</p>
-<p>
-<time datetime="">2024.06.13</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206487/20648760.jpg?version=20240613120011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206488/20648897.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
