@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 04:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 05:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,21 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206499/20649986.jpg?version=20240614130328.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STEP]]></title>
+            <link>https://music.bugs.co.kr/album/35090754?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35090754?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 14 Jun 2024 05:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80144097?wl_ref=list_ab_04" class="artistTitle" title="레이(LAY)" onclick="
+" target="_self">레이(LAY)</a>
+</p>
+<p>
+<time datetime="">2024.06.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350907/35090754.jpg?version=20240614140004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미워미워]]></title>
@@ -232,7 +247,7 @@ Kanallia
 <time datetime="">2024.06.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206494/20649493.jpg?version=20240614120004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206494/20649493.jpg?version=20240614135619.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OD]]></title>
@@ -1066,21 +1081,6 @@ Dr. Wave
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206494/20649480.jpg?version=20240614010335.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hondon]]></title>
-            <link>https://music.bugs.co.kr/album/20649010?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20649010?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 13 Jun 2024 03:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20090573?wl_ref=list_ab_04" class="artistTitle" title="킴로랑 (keemlaurent)" onclick="
-" target="_self">킴로랑 (keemlaurent)</a>
-</p>
-<p>
-<time datetime="">2024.06.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206490/20649010.jpg?version=20240613120000.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
