@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jun 2024 02:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 03:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,39 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350791/35079188.jpg?version=20240615051019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ephemeral]]></title>
+            <link>https://music.bugs.co.kr/album/34860654?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34860654?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Jun 2024 03:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13269399?wl_ref=list_ab_04" class="artistTitle" title="Electra" onclick="
+" target="_self">Electra</a>
+</p>
+<p>
+<time datetime="">2024.06.15</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348606/34860654.jpg?version=20240615120011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[richard Mille]]></title>
+            <link>https://music.bugs.co.kr/album/35076249?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35076249?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Jun 2024 03:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13413492?wl_ref=list_ab_04" class="artistTitle" title="Akhil OSO">Akhil OSO</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Akhil OSO||Akhil OSO||13413492||OK\\nMssiah||Mssiah||13636256||OK\\nAmanda Boustin||Amanda Boustin||13633078||OK\\nJanowar||Janowar||13553831||OK', ''); return false;">
+Akhil OSO
+</a> </p>
+<p>
+<time datetime="">2024.06.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350762/35076249.jpg?version=20240615120011.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Darwish]]></title>
@@ -1044,36 +1077,6 @@ Celia Cruz(셀리아 크루즈)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350968/35096863.jpg?version=20240615070441.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[38: Wie funktioniert das? Technik zu Hause]]></title>
-            <link>https://music.bugs.co.kr/album/35096862?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35096862?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Jun 2024 04:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80276731?wl_ref=list_ab_04" class="artistTitle" title="Was Ist Was Junior" onclick="
-" target="_self">Was Ist Was Junior</a>
-</p>
-<p>
-<time datetime="">2024.06.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350968/35096862.jpg?version=20240615070436.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Der dreiste Dieb (Die neuen Abenteuer von Yoyo und Doc Croc)]]></title>
-            <link>https://music.bugs.co.kr/album/35096821?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35096821?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Jun 2024 04:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12398080?wl_ref=list_ab_04" class="artistTitle" title="SimsalaGrimm" onclick="
-" target="_self">SimsalaGrimm</a>
-</p>
-<p>
-<time datetime="">2024.06.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350968/35096821.jpg?version=20240615070324.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
