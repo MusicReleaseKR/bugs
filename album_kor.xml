@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 08:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 09:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,24 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206475/20647570.jpg?version=1718593213000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[RODROD]]></title>
+            <link>https://music.bugs.co.kr/album/4099028?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4099028?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 17 Jun 2024 09:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20155740?wl_ref=list_ab_04" class="artistTitle" title="체스트머니">체스트머니</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '체스트머니||체스트머니||20155740||OK\\n공기소년||공기소년||80362783||OK', ''); return false;">
+체스트머니
+</a> </p>
+<p>
+<time datetime="">2024.06.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40990/4099028.jpg?version=1718614805000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Hardhitters]]></title>
             <link>https://music.bugs.co.kr/album/35102262?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/35102262?wl_ref=list_ab_03</guid>
@@ -503,7 +521,7 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41027/4102759.jpg?version=1718593202000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[RIIZING]]></title>
+            <title><![CDATA[RIIZING - The 1st Mini Album]]></title>
             <link>https://music.bugs.co.kr/album/4099766?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4099766?wl_ref=list_ab_03</guid>
             <pubDate>Sun, 16 Jun 2024 15:19:16 GMT</pubDate>
@@ -512,10 +530,10 @@
 " target="_self">RIIZE</a>
 </p>
 <p>
-<time datetime="">2024.04.29</time>
-<span class="albumType">싱글</span>
+<time datetime="">2024.06.17</time>
+<span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40997/4099766.jpg?version=1714666405000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40997/4099766.jpg?version=1718614830000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Don't Waste (feat. Owen)]]></title>
@@ -548,7 +566,7 @@ Keylight(키라이트)
 <time datetime="">2024.06.17</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350200/35020048.jpg?version=1718593213000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350200/35020048.jpg?version=1718614862000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태초에 하나님이]]></title>
@@ -1044,21 +1062,6 @@ Keylight(키라이트)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206500/20650052.jpg?version=1718593213000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갤러리아]]></title>
-            <link>https://music.bugs.co.kr/album/20650049?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20650049?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 17 Jun 2024 04:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20076310?wl_ref=list_ab_04" class="artistTitle" title="유명한아이" onclick="
-" target="_self">유명한아이</a>
-</p>
-<p>
-<time datetime="">2024.06.17</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206500/20650049.jpg?version=1718593202000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
