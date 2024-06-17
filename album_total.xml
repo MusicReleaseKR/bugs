@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 02:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 03:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,6 +53,24 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40997/4099766.jpg?version=20240503011325.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Shiv Panchakshara Stotram (Lofi)]]></title>
+            <link>https://music.bugs.co.kr/album/35082061?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35082061?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 17 Jun 2024 03:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/10789577?wl_ref=list_ab_04" class="artistTitle" title="Shagun Sodhi">Shagun Sodhi</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Shagun Sodhi||Shagun Sodhi||10789577||OK\\nPratham||Pratham||11677563||OK', ''); return false;">
+Shagun Sodhi
+</a> </p>
+<p>
+<time datetime="">2024.06.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/350820/35082061.jpg?version=20240617111642.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pasa el Tiempo]]></title>
             <link>https://music.bugs.co.kr/album/34716471?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34716471?wl_ref=list_ab_03</guid>
@@ -66,6 +84,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/347164/34716471.jpg?version=20240617000003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[S.W.D.]]></title>
+            <link>https://music.bugs.co.kr/album/20432493?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20432493?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 17 Jun 2024 03:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20105842?wl_ref=list_ab_04" class="artistTitle" title="Wet AAir" onclick="
+" target="_self">Wet AAir</a>
+</p>
+<p>
+<time datetime="">2024.06.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204324/20432493.jpg?version=20240617120013.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bamse på äventyr i Paris]]></title>
@@ -1098,36 +1131,6 @@ Van Linde
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41027/4102755.jpg?version=20240617064246.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream Story - Damul+Khan (EP)]]></title>
-            <link>https://music.bugs.co.kr/album/4102750?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4102750?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 16 Jun 2024 04:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13755324?wl_ref=list_ab_04" class="artistTitle" title="우서비" onclick="
-" target="_self">우서비</a>
-</p>
-<p>
-<time datetime="">2024.06.16</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41027/4102750.jpg?version=20240617063854.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[sociavoidance]]></title>
-            <link>https://music.bugs.co.kr/album/4102719?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4102719?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 16 Jun 2024 10:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20163786?wl_ref=list_ab_04" class="artistTitle" title="시온" onclick="
-" target="_self">시온</a>
-</p>
-<p>
-<time datetime="">2024.06.16</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41027/4102719.jpg?version=20240617064243.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
