@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 06:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 07:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -139,7 +139,7 @@
 <time datetime="">2024.06.19</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206508/20650843.jpg?version=20240619120021.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206508/20650843.jpg?version=20240619161020.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[She go]]></title>
@@ -533,6 +533,21 @@ BebaeK (비백)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206488/20648867.jpg?version=20240619120021.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[星街の駅で]]></title>
+            <link>https://music.bugs.co.kr/album/34541304?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34541304?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 19 Jun 2024 07:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80390257?wl_ref=list_ab_04" class="artistTitle" title="tuki." onclick="
+" target="_self">tuki.</a>
+</p>
+<p>
+<time datetime="">2024.06.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/345413/34541304.jpg?version=20240619153647.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[last great american summer]]></title>
@@ -1052,21 +1067,6 @@ Wynn (윈)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350970/35097011.jpg?version=20240619013747.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mine]]></title>
-            <link>https://music.bugs.co.kr/album/35062713?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35062713?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 18 Jun 2024 03:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10494249?wl_ref=list_ab_04" class="artistTitle" title="Orla Gartland" onclick="
-" target="_self">Orla Gartland</a>
-</p>
-<p>
-<time datetime="">2024.06.18</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350627/35062713.jpg?version=20240618000003.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
