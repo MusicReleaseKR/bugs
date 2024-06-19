@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 02:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 03:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350096/35009667.jpg?version=20240619013311.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joker]]></title>
+            <link>https://music.bugs.co.kr/album/30665424?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30665424?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 19 Jun 2024 03:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12606428?wl_ref=list_ab_04" class="artistTitle" title="Aladeen" onclick="
+" target="_self">Aladeen</a>
+</p>
+<p>
+<time datetime="">2024.06.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/306654/30665424.jpg?version=20240619120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hairway To Steven (2024 Remaster)]]></title>
@@ -1135,21 +1150,6 @@ Ambiente Spazio Musica
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/310826/31082697.jpg?version=20240618120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sérénité infinie]]></title>
-            <link>https://music.bugs.co.kr/album/31082674?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31082674?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 18 Jun 2024 04:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11689644?wl_ref=list_ab_04" class="artistTitle" title="Voyage Dans L'Espace" onclick="
-" target="_self">Voyage Dans L'Espace</a>
-</p>
-<p>
-<time datetime="">2024.06.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310826/31082674.jpg?version=20240618120032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
