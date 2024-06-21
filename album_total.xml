@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 09:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 10:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Les Comptines d'Auzou Vol.1]]></title>
+            <link>https://music.bugs.co.kr/album/35120900?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35120900?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 21 Jun 2024 10:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13754284?wl_ref=list_ab_04" class="artistTitle" title="Auzou" onclick="
+" target="_self">Auzou</a>
+</p>
+<p>
+<time datetime="">2024.06.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351209/35120900.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Senem Diyici Paris 2023]]></title>
             <link>https://music.bugs.co.kr/album/35120870?wl_ref=list_ab_03</link>
@@ -87,6 +102,21 @@ Arshad Kamli
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351161/35116132.jpg?version=20240621020050.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRASH]]></title>
+            <link>https://music.bugs.co.kr/album/35116098?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35116098?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 21 Jun 2024 10:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80226269?wl_ref=list_ab_04" class="artistTitle" title="Kehlani(켈라니)" onclick="
+" target="_self">Kehlani(켈라니)</a>
+</p>
+<p>
+<time datetime="">2024.06.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351160/35116098.jpg?version=20240621135333.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Unpublished Songs In English]]></title>
@@ -1038,36 +1068,6 @@ Relikia Tlk
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351137/35113712.jpg?version=20240621004136.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Onderweg]]></title>
-            <link>https://music.bugs.co.kr/album/35113711?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35113711?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 21 Jun 2024 04:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80221670?wl_ref=list_ab_04" class="artistTitle" title="Tourist Lemc" onclick="
-" target="_self">Tourist Lemc</a>
-</p>
-<p>
-<time datetime="">2024.06.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351137/35113711.jpg?version=20240621005109.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Country Group Hits 2 - Party Tyme (Vocal Versions)]]></title>
-            <link>https://music.bugs.co.kr/album/35113690?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35113690?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 21 Jun 2024 05:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13403175?wl_ref=list_ab_04" class="artistTitle" title="Party Tyme" onclick="
-" target="_self">Party Tyme</a>
-</p>
-<p>
-<time datetime="">2024.06.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351136/35113690.jpg?version=20240621004314.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
