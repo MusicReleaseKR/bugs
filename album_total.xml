@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 04:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 05:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,21 +147,6 @@ Arshad Kamli
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351159/35115913.jpg?version=20240621003033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Hitman]]></title>
-            <link>https://music.bugs.co.kr/album/35115844?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35115844?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 21 Jun 2024 04:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13761885?wl_ref=list_ab_04" class="artistTitle" title="Double J" onclick="
-" target="_self">Double J</a>
-</p>
-<p>
-<time datetime="">2024.06.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351158/35115844.jpg?version=20240621095503.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LEATHER PARK (VOL. 1)]]></title>
@@ -1068,6 +1053,21 @@ Relikia Tlk
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351137/35113711.jpg?version=20240621005109.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Country Group Hits 2 - Party Tyme (Vocal Versions)]]></title>
+            <link>https://music.bugs.co.kr/album/35113690?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35113690?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 21 Jun 2024 05:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13403175?wl_ref=list_ab_04" class="artistTitle" title="Party Tyme" onclick="
+" target="_self">Party Tyme</a>
+</p>
+<p>
+<time datetime="">2024.06.21</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351136/35113690.jpg?version=20240621004314.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
