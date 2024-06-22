@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jun 2024 02:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 03:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,7 +71,7 @@ Frans Bruggen(프란스 브뤼헨)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351127/35112758.jpg?version=20240622051013.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노르웨이 숲 10주년 Part.4]]></title>
+            <title><![CDATA[노르웨이 숲 10주년 Part.5]]></title>
             <link>https://music.bugs.co.kr/album/20625928?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20625928?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 21 Jun 2024 15:25:23 GMT</pubDate>
@@ -80,10 +80,10 @@ Frans Bruggen(프란스 브뤼헨)
 " target="_self">노르웨이 숲</a>
 </p>
 <p>
-<time datetime="">2024.05.25</time>
-<span class="albumType">싱글</span>
+<time datetime="">2024.06.22</time>
+<span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206259/20625928.jpg?version=20240530024237.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206259/20625928.jpg?version=20240622120004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Harkalay (ZOH Remix)]]></title>
@@ -102,6 +102,21 @@ Zahoor
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351044/35104443.jpg?version=20240622005209.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Labyrinth]]></title>
+            <link>https://music.bugs.co.kr/album/34813060?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34813060?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 22 Jun 2024 03:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12820886?wl_ref=list_ab_04" class="artistTitle" title="JRDX" onclick="
+" target="_self">JRDX</a>
+</p>
+<p>
+<time datetime="">2024.06.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348130/34813060.jpg?version=20240622120026.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Les Comptines d'Auzou Vol.1]]></title>
@@ -1059,21 +1074,6 @@ Relikia Tlk
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351137/35113759.jpg?version=20240622010755.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mais Uma Do TieHIT]]></title>
-            <link>https://music.bugs.co.kr/album/35113751?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35113751?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 21 Jun 2024 04:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8062270?wl_ref=list_ab_04" class="artistTitle" title="Tierry" onclick="
-" target="_self">Tierry</a>
-</p>
-<p>
-<time datetime="">2024.06.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351137/35113751.jpg?version=20240622003954.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
