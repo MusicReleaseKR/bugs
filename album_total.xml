@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 13:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 14:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,6 +111,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351214/35121463.jpg?version=20240625140023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crunky's Fun Rager Original Soundtrack]]></title>
+            <link>https://music.bugs.co.kr/album/35121436?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35121436?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 25 Jun 2024 14:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12799990?wl_ref=list_ab_04" class="artistTitle" title="Carson Kompon" onclick="
+" target="_self">Carson Kompon</a>
+</p>
+<p>
+<time datetime="">2024.06.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351214/35121436.jpg?version=20240625230006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[! ! Soft Sleep Serenade: White Noise for the Family ! !]]></title>
@@ -1104,21 +1119,6 @@ Solfeggio
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206516/20651666.jpg?version=20240625120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초과인생]]></title>
-            <link>https://music.bugs.co.kr/album/20651523?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20651523?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 25 Jun 2024 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20068295?wl_ref=list_ab_04" class="artistTitle" title="8호실 peridot" onclick="
-" target="_self">8호실 peridot</a>
-</p>
-<p>
-<time datetime="">2024.06.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206515/20651523.jpg?version=20240625120005.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
