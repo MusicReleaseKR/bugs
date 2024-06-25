@@ -4,11 +4,26 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 02:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 03:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[The Mirror]]></title>
+            <title><![CDATA[Aria EP]]></title>
+            <link>https://music.bugs.co.kr/album/34539600?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34539600?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 25 Jun 2024 03:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13060938?wl_ref=list_ab_04" class="artistTitle" title="Meelo" onclick="
+" target="_self">Meelo</a>
+</p>
+<p>
+<time datetime="">2024.06.25</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/345396/34539600.jpg?version=20240625120039.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golden Tape EP]]></title>
             <link>https://music.bugs.co.kr/album/4098725?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4098725?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 24 Jun 2024 15:20:10 GMT</pubDate>
@@ -17,10 +32,10 @@
 " target="_self">댓츠 캐주얼(That's Casual)</a>
 </p>
 <p>
-<time datetime="">2024.05.23</time>
-<span class="albumType">싱글</span>
+<time datetime="">2024.06.25</time>
+<span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40987/4098725.jpg?version=20240524024804.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40987/4098725.jpg?version=20240625120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bhole Meh Jaan]]></title>
@@ -39,6 +54,24 @@ Parmeet Singh
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350623/35062303.jpg?version=20240625000025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No No No No]]></title>
+            <link>https://music.bugs.co.kr/album/20076231?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20076231?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 25 Jun 2024 03:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80088536?wl_ref=list_ab_04" class="artistTitle" title="Africanism">Africanism</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Africanism||Africanism||80088536||OK\\nBob Sinclar||Bob Sinclar(밥 싱클레어)||80015543||OK', ''); return false;">
+Africanism
+</a> </p>
+<p>
+<time datetime="">2024.06.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/200762/20076231.jpg?version=20240625120039.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mingus Portrait]]></title>
@@ -1044,39 +1077,6 @@ Circle of Notes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206504/20650455.jpg?version=20240624120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Comix Sonix]]></title>
-            <link>https://music.bugs.co.kr/album/20650236?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20650236?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 24 Jun 2024 04:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80007441?wl_ref=list_ab_04" class="artistTitle" title="Pepe Deluxé(페페 디럭스)" onclick="
-" target="_self">Pepe Deluxé(페페 디럭스)</a>
-</p>
-<p>
-<time datetime="">2024.06.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206502/20650236.jpg?version=20240624120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nothingness]]></title>
-            <link>https://music.bugs.co.kr/album/20650197?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20650197?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 24 Jun 2024 04:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13113804?wl_ref=list_ab_04" class="artistTitle" title="Sunship">Sunship</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Sunship||Sunship||13113804||OK\\nAli Nourbakhsh||Ali Nourbakhsh||20213445||OK\\nSaleh Zarei||Saleh Zarei||20213446||OK', ''); return false;">
-Sunship
-</a> </p>
-<p>
-<time datetime="">2024.06.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206501/20650197.jpg?version=20240624120039.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
