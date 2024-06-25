@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 08:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 09:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -515,7 +515,7 @@ Between Waves
 <time datetime="">2024.06.25</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351091/35109178.jpg?version=20240625120039.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351091/35109178.jpg?version=20240625173143.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[528 Hz Meditation Solfeggio Frequencies]]></title>
@@ -821,21 +821,6 @@ Solfeggio
             <enclosure url="https://image.bugsm.co.kr/album/images/170/346981/34698182.jpg?version=20240625000025.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유강 2집]]></title>
-            <link>https://music.bugs.co.kr/album/20652458?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20652458?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 25 Jun 2024 04:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20214034?wl_ref=list_ab_04" class="artistTitle" title="유강" onclick="
-" target="_self">유강</a>
-</p>
-<p>
-<time datetime="">2024.06.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206524/20652458.jpg?version=20240625120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Icelandic Chill]]></title>
             <link>https://music.bugs.co.kr/album/20652395?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20652395?wl_ref=list_ab_03</guid>
@@ -1119,6 +1104,21 @@ Solfeggio
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206516/20651666.jpg?version=20240625120039.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초과인생]]></title>
+            <link>https://music.bugs.co.kr/album/20651523?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20651523?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 25 Jun 2024 09:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20068295?wl_ref=list_ab_04" class="artistTitle" title="8호실 peridot" onclick="
+" target="_self">8호실 peridot</a>
+</p>
+<p>
+<time datetime="">2024.06.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206515/20651523.jpg?version=20240625120005.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
