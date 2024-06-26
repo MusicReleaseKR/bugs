@@ -4,9 +4,45 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 14:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 15:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kwelanga]]></title>
+            <link>https://music.bugs.co.kr/album/34809495?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34809495?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 26 Jun 2024 15:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12113716?wl_ref=list_ab_04" class="artistTitle" title="Bassie">Bassie</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Bassie||Bassie||12113716||OK\\nRanger||Ranger||12398420||OK', ''); return false;">
+Bassie
+</a> </p>
+<p>
+<time datetime="">2024.06.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348094/34809495.jpg?version=20240627000027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazbon Ki Zubaan]]></title>
+            <link>https://music.bugs.co.kr/album/32825269?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32825269?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 26 Jun 2024 15:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80130040?wl_ref=list_ab_04" class="artistTitle" title="Srinivas(스리니바스)">Srinivas(스리니바스)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Srinivas||Srinivas(스리니바스)||80130040||OK\\nSujatha Mohan||Sujatha Mohan||10163117||OK', ''); return false;">
+Srinivas(스리니바스)
+</a> </p>
+<p>
+<time datetime="">2024.06.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/328252/32825269.jpg?version=20240627000027.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Imprescindibles]]></title>
             <link>https://music.bugs.co.kr/album/35141607?wl_ref=list_ab_03</link>
@@ -1095,36 +1131,6 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350651/35065136.jpg?version=20240626000034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Four Charm Remixes]]></title>
-            <link>https://music.bugs.co.kr/album/35026516?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35026516?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 26 Jun 2024 04:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20012347?wl_ref=list_ab_04" class="artistTitle" title="Avalon Emerson" onclick="
-" target="_self">Avalon Emerson</a>
-</p>
-<p>
-<time datetime="">2024.06.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350265/35026516.jpg?version=20240626120037.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[呪文]]></title>
-            <link>https://music.bugs.co.kr/album/35016252?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35016252?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 26 Jun 2024 04:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13736966?wl_ref=list_ab_04" class="artistTitle" title="折坂悠太" onclick="
-" target="_self">折坂悠太</a>
-</p>
-<p>
-<time datetime="">2024.06.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350162/35016252.jpg?version=20240626000034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
