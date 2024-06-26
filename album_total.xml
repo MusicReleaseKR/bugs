@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 15:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 16:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@ Srinivas(스리니바스)
 <time datetime="">2024.06.26</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351416/35141607.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351416/35141607.jpg?version=20240627004822.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Back To The Rootz #9 | Hardstyle Classics Compilation]]></title>
@@ -101,7 +101,7 @@ Srinivas(스리니바스)
 <time datetime="">2024.06.26</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351307/35130792.jpg?version=20240626120037.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351307/35130792.jpg?version=20240627003810.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Echoes of Time]]></title>
@@ -131,7 +131,7 @@ Srinivas(스리니바스)
 <time datetime="">2024.06.26</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351297/35129707.jpg?version=20240626120037.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351297/35129707.jpg?version=20240627011748.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Inspired Journey]]></title>
@@ -296,7 +296,7 @@ Srinivas(스리니바스)
 <time datetime="">2024.06.26</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351216/35121649.jpg?version=20240626091159.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351216/35121649.jpg?version=20240627004604.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Katrina]]></title>
@@ -311,7 +311,7 @@ Srinivas(스리니바스)
 <time datetime="">2024.06.26</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351216/35121645.jpg?version=20240626081415.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351216/35121645.jpg?version=20240627012245.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AЯK]]></title>
@@ -679,14 +679,17 @@ Music for Sleep
             <guid>https://music.bugs.co.kr/album/35118967?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 26 Jun 2024 04:23:17 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12322331?wl_ref=list_ab_04" class="artistTitle" title="Camden Malik" onclick="
-" target="_self">Camden Malik</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12322331?wl_ref=list_ab_04" class="artistTitle" title="Camden Malik">Camden Malik</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Camden Malik||Camden Malik||12322331||OK\\nDVNTBEATS||DVNTBEATS||13768017||OK', ''); return false;">
+Camden Malik
+</a> </p>
 <p>
 <time datetime="">2024.06.26</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351189/35118967.jpg?version=20240626120037.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351189/35118967.jpg?version=20240627011424.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fire Sounds]]></title>
@@ -872,7 +875,7 @@ Between Waves
 <time datetime="">2024.06.26</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351127/35112758.jpg?version=20240626115947.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351127/35112758.jpg?version=20240627010225.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Detective Agency]]></title>
