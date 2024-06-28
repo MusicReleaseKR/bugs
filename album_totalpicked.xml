@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 03:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 04:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Smeraldo Garden Marching Band (feat. 로꼬)]]></title>
+            <link>https://music.bugs.co.kr/album/4103242?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4103242?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 28 Jun 2024 04:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80180887?wl_ref=list_ab_04" class="artistTitle" title="지민">지민</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '지민||지민||80180887||OK\\n로꼬||로꼬||80132051||OK', ''); return false;">
+지민
+</a> </p>
+<p>
+<time datetime="">2024.06.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41032/4103242.jpg?version=20240628130017.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rockstar]]></title>
             <link>https://music.bugs.co.kr/album/35115898?wl_ref=list_ab_03</link>
@@ -80,6 +98,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41031/4103126.jpg?version=20240627180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Debut]]></title>
+            <link>https://music.bugs.co.kr/album/4103240?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4103240?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 28 Jun 2024 04:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80396002?wl_ref=list_ab_04" class="artistTitle" title="KATSEYE" onclick="
+" target="_self">KATSEYE</a>
+</p>
+<p>
+<time datetime="">2024.06.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41032/4103240.jpg?version=20240628130016.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Waah(Faster)]]></title>
@@ -1046,36 +1079,6 @@ GENE$IS
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206528/20652811.jpg?version=20240627120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miracle Love]]></title>
-            <link>https://music.bugs.co.kr/album/20652751?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20652751?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Jun 2024 03:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20106244?wl_ref=list_ab_04" class="artistTitle" title="플린 (Fleen)" onclick="
-" target="_self">플린 (Fleen)</a>
-</p>
-<p>
-<time datetime="">2024.06.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206527/20652751.jpg?version=20240628011128.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바람이 분다]]></title>
-            <link>https://music.bugs.co.kr/album/20651815?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20651815?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Jun 2024 03:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20185199?wl_ref=list_ab_04" class="artistTitle" title="품바21" onclick="
-" target="_self">품바21</a>
-</p>
-<p>
-<time datetime="">2024.06.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206518/20651815.jpg?version=20240627120021.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
