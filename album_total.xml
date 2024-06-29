@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jun 2024 02:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jun 2024 03:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351127/35112758.jpg?version=20240629054006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[əĐŒÞ]]></title>
+            <link>https://music.bugs.co.kr/album/34862728?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34862728?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 29 Jun 2024 03:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13030975?wl_ref=list_ab_04" class="artistTitle" title="Mphoza_862" onclick="
+" target="_self">Mphoza_862</a>
+</p>
+<p>
+<time datetime="">2024.06.29</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348627/34862728.jpg?version=20240629120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MEGAN]]></title>
@@ -1044,21 +1059,6 @@ Cristiano Alves
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351417/35141764.jpg?version=20240628011141.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SPINALOT SZN]]></title>
-            <link>https://music.bugs.co.kr/album/35141740?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35141740?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 28 Jun 2024 10:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13285795?wl_ref=list_ab_04" class="artistTitle" title="Ndot Spinalot" onclick="
-" target="_self">Ndot Spinalot</a>
-</p>
-<p>
-<time datetime="">2024.06.28</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351417/35141740.jpg?version=20240629011206.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
