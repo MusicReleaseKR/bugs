@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 09:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 10:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rap Melody]]></title>
+            <link>https://music.bugs.co.kr/album/35174253?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35174253?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 01 Jul 2024 10:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13772262?wl_ref=list_ab_04" class="artistTitle" title="RAP VIỆT REMIX" onclick="
+" target="_self">RAP VIỆT REMIX</a>
+</p>
+<p>
+<time datetime="">2024.07.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351742/35174253.jpg?version=20240701183004.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Top Hits of Neetu Singh]]></title>
             <link>https://music.bugs.co.kr/album/35154445?wl_ref=list_ab_03</link>
@@ -798,6 +813,21 @@ Klidná jóga
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206535/20653516.jpg?version=20240701120035.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Foolish Love tape Pt 2.]]></title>
+            <link>https://music.bugs.co.kr/album/20653447?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20653447?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 01 Jul 2024 10:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20147380?wl_ref=list_ab_04" class="artistTitle" title="Foolish (김은현)" onclick="
+" target="_self">Foolish (김은현)</a>
+</p>
+<p>
+<time datetime="">2024.07.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206534/20653447.jpg?version=20240701180030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하나님의 성전]]></title>
             <link>https://music.bugs.co.kr/album/20653403?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20653403?wl_ref=list_ab_03</guid>
@@ -1057,36 +1087,6 @@ Dillon
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206524/20652479.jpg?version=20240701120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Intimate Nocturne]]></title>
-            <link>https://music.bugs.co.kr/album/20652465?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20652465?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 01 Jul 2024 04:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20087646?wl_ref=list_ab_04" class="artistTitle" title="anonatsue" onclick="
-" target="_self">anonatsue</a>
-</p>
-<p>
-<time datetime="">2024.07.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206524/20652465.jpg?version=20240701120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love cycle]]></title>
-            <link>https://music.bugs.co.kr/album/20652443?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20652443?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 01 Jul 2024 04:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20214002?wl_ref=list_ab_04" class="artistTitle" title="화령" onclick="
-" target="_self">화령</a>
-</p>
-<p>
-<time datetime="">2024.07.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206524/20652443.jpg?version=20240701120035.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
