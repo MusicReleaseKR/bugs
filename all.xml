@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 16:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 17:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,7 +68,7 @@ Jayci yucca(제이씨 유카)
 <time datetime="">2024.07.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41038/4103871.jpg?version=20240702180041.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41038/4103871.jpg?version=20240703014451.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아니야 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -262,7 +262,7 @@ Jayci yucca(제이씨 유카)
 <time datetime="">2024.07.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206531/20653136.jpg?version=20240702120029.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206531/20653136.jpg?version=20240703014732.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그대 내게 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -459,7 +459,7 @@ Jayci yucca(제이씨 유카)
 <time datetime="">2024.07.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206539/20653957.jpg?version=20240702135317.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206539/20653957.jpg?version=20240703013047.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오름 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1085,14 +1085,17 @@ Jason Ross
             <guid>https://music.bugs.co.kr/album/20325861?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 02 Jul 2024 15:19:10 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20088426?wl_ref=list_ab_04" class="artistTitle" title="Dubkiller" onclick="
-" target="_self">Dubkiller</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20088426?wl_ref=list_ab_04" class="artistTitle" title="Dubkiller">Dubkiller</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Dubkiller||Dubkiller||20088426||OK\\nMark Victor||Mark Victor||20108341||OK', ''); return false;">
+Dubkiller
+</a> </p>
 <p>
-<time datetime="">2020.05.28</time>
+<time datetime="">2024.07.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/203258/20325861.jpg?version=20210304162016.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/203258/20325861.jpg?version=20240703012603.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Boom Yeah (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2722,7 +2725,7 @@ Jayci yucca(제이씨 유카)
 <time datetime="">2024.07.02</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40870/4087096.jpg?version=1719910826000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40870/4087096.jpg?version=1719938082000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jesus is Savior (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2965,7 +2968,7 @@ Jayci yucca(제이씨 유카)
 <time datetime="">2024.07.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206539/20653957.jpg?version=1719895997000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206539/20653957.jpg?version=1719937847000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리의 마음 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2980,7 +2983,7 @@ Jayci yucca(제이씨 유카)
 <time datetime="">2024.07.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206539/20653947.jpg?version=1719889240000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206539/20653947.jpg?version=1719938846000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안녕한 인사 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
