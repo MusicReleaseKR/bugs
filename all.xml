@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 22:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 23:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1830,24 +1830,6 @@ Rain Balance
             <enclosure url="https://image.bugsm.co.kr/album/images/170/349632/34963241.jpg?version=20240702120040.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SYSTEMATICALLY WE WERE NEVER FREE (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/34953158?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34953158?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 02 Jul 2024 04:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/8823740?wl_ref=list_ab_04" class="artistTitle" title="Estee Nack">Estee Nack</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Estee Nack||Estee Nack||8823740||OK\\nBoneweso||Boneweso||13702157||OK', ''); return false;">
-Estee Nack
-</a> </p>
-<p>
-<time datetime="">2024.07.02</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349531/34953158.jpg?version=20240702000023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Lumin Comfort (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/34846849?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34846849?wl_ref=list_ab_03</guid>
@@ -2240,6 +2222,21 @@ Tiny Tunes - Nursery Rhymes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206539/20653903.jpg?version=20240702180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Other Shades Of Blu(e) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20653727?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20653727?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 02 Jul 2024 23:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/62470?wl_ref=list_ab_04" class="artistTitle" title="Blu(블루)" onclick="
+" target="_self">Blu(블루)</a>
+</p>
+<p>
+<time datetime="">2024.07.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206537/20653727.jpg?version=20240702120040.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유강 2집 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
