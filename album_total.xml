@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 09:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 10:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,21 @@ Tiny Tunes - Nursery Rhymes
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206539/20653922.jpg?version=20240702120040.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[I'll Miss You]]></title>
+            <link>https://music.bugs.co.kr/album/20653903?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20653903?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 02 Jul 2024 10:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20208437?wl_ref=list_ab_04" class="artistTitle" title="livincloud" onclick="
+" target="_self">livincloud</a>
+</p>
+<p>
+<time datetime="">2024.07.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206539/20653903.jpg?version=20240702180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Other Shades Of Blu(e)]]></title>
             <link>https://music.bugs.co.kr/album/20653727?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20653727?wl_ref=list_ab_03</guid>
@@ -1156,21 +1171,6 @@ Blu(블루)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206535/20653549.jpg?version=20240702120040.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stylish Lo-fi Lounge Music to listen on a Quiet Night]]></title>
-            <link>https://music.bugs.co.kr/album/20653344?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20653344?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 02 Jul 2024 04:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13131900?wl_ref=list_ab_04" class="artistTitle" title="Circle of Notes" onclick="
-" target="_self">Circle of Notes</a>
-</p>
-<p>
-<time datetime="">2024.07.02</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206533/20653344.jpg?version=20240702120040.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
