@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 20:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 21:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -711,14 +711,17 @@ Kelsea Ballerini
             <guid>https://music.bugs.co.kr/album/35141743?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 03 Jul 2024 03:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/302085?wl_ref=list_ab_04" class="artistTitle" title="Offset(오프셋)" onclick="
-" target="_self">Offset(오프셋)</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/302085?wl_ref=list_ab_04" class="artistTitle" title="Offset(오프셋)">Offset(오프셋)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Offset||Offset(오프셋)||302085||OK\\nGunna||Gunna||9146589||OK', ''); return false;">
+Offset(오프셋)
+</a> </p>
 <p>
 <time datetime="">2024.06.28</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351417/35141743.jpg?version=20240703003818.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351417/35141743.jpg?version=20240704061501.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Give and Take]]></title>
