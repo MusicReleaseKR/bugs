@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 14:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 15:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤브어굿데이!]]></title>
+            <link>https://music.bugs.co.kr/album/20611629?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20611629?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 04 Jul 2024 15:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20098038?wl_ref=list_ab_04" class="artistTitle" title="유토(JUTO)" onclick="
+" target="_self">유토(JUTO)</a>
+</p>
+<p>
+<time datetime="">2023.12.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206116/20611629.jpg?version=1702717226000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외계인]]></title>
             <link>https://music.bugs.co.kr/album/20654693?wl_ref=list_ab_03</link>
@@ -1050,21 +1065,6 @@ Kimchicken
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206544/20654469.jpg?version=1720062016000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Supersonic Love (SSL)]]></title>
-            <link>https://music.bugs.co.kr/album/20654466?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20654466?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 04 Jul 2024 04:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20214626?wl_ref=list_ab_04" class="artistTitle" title="Hometown Boogie" onclick="
-" target="_self">Hometown Boogie</a>
-</p>
-<p>
-<time datetime="">2024.07.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206544/20654466.jpg?version=1720062016000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
