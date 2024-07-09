@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 02:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 03:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가시]]></title>
+            <link>https://music.bugs.co.kr/album/4086851?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4086851?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 09 Jul 2024 03:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20149949?wl_ref=list_ab_04" class="artistTitle" title="Bad Well" onclick="
+" target="_self">Bad Well</a>
+</p>
+<p>
+<time datetime="">2024.07.09</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40868/4086851.jpg?version=1720494011000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[없어]]></title>
+            <link>https://music.bugs.co.kr/album/4096698?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4096698?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 09 Jul 2024 03:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20149949?wl_ref=list_ab_04" class="artistTitle" title="Bad Well" onclick="
+" target="_self">Bad Well</a>
+</p>
+<p>
+<time datetime="">2024.07.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40966/4096698.jpg?version=1720494038000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Real Piano Vol. 1]]></title>
             <link>https://music.bugs.co.kr/album/20655494?wl_ref=list_ab_03</link>
@@ -1035,36 +1065,6 @@ ma1ro (마일로)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206552/20655292.jpg?version=1720407631000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lindo]]></title>
-            <link>https://music.bugs.co.kr/album/20655291?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20655291?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 08 Jul 2024 04:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20214849?wl_ref=list_ab_04" class="artistTitle" title="바이레브" onclick="
-" target="_self">바이레브</a>
-</p>
-<p>
-<time datetime="">2024.07.08</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206552/20655291.jpg?version=1720407631000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blue Wave]]></title>
-            <link>https://music.bugs.co.kr/album/20655287?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20655287?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 08 Jul 2024 04:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20191927?wl_ref=list_ab_04" class="artistTitle" title="체퍼(chefer)" onclick="
-" target="_self">체퍼(chefer)</a>
-</p>
-<p>
-<time datetime="">2024.07.08</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206552/20655287.jpg?version=1720460944000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
