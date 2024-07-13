@@ -4,9 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 14:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 15:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Same Key (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/4104311?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4104311?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 13 Jul 2024 15:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80384286?wl_ref=list_ab_04" class="artistTitle" title="RIIZE" onclick="
+" target="_self">RIIZE</a>
+</p>
+<p>
+<time datetime="">2024.07.14</time>
+<span class="albumType">OST</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41043/4104311.jpg?version=20240714000025.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낮과 밤이 다른 그녀 OST Part.5 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
             <link>https://music.bugs.co.kr/album/4104320?wl_ref=list_ab_03</link>
@@ -1047,19 +1062,37 @@ SKINNY CATION
             <enclosure url="https://image.bugsm.co.kr/album/images/170/352874/35287421.jpg?version=20240713004816.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[X's (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/35271169?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35271169?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 12 Jul 2024 03:20:52 GMT</pubDate>
+            <title><![CDATA[너는 나를 뭐라 부를래 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/4101591?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4101591?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 13 Jul 2024 15:18:40 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80288532?wl_ref=list_ab_04" class="artistTitle" title="Cigarettes After Sex(시가렛 애프터 섹스)" onclick="
-" target="_self">Cigarettes After Sex(시가렛 애프터 섹스)</a>
+<a href="https://music.bugs.co.kr/artist/80265286?wl_ref=list_ab_04" class="artistTitle" title="경서" onclick="
+" target="_self">경서</a>
 </p>
 <p>
-<time datetime="">2024.07.12</time>
-<span class="albumType">정규</span>
+<time datetime="">2024.05.26</time>
+<span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/352711/35271169.jpg?version=20240712000012.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41015/4101591.jpg?version=20240712180526.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑은 더 아름다운 것 아니었나 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 13 Jul 2024 15:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80167636?wl_ref=list_ab_04" class="artistTitle" title="한올">한올</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '한올||한올||80167636||OK\\n새봄||새봄(Saevom)||80209230||OK', ''); return false;">
+한올
+</a> </p>
+<p>
+<time datetime="">2024.06.16</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40963/4096305.jpg?version=20240617002808.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[No Miscalculations (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2193,40 +2226,37 @@ Ay Ezgileri
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350274/35027452.jpg?version=20240713120030.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vid slutet av dagen (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/35027444?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35027444?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 13 Jul 2024 04:21:46 GMT</pubDate>
+            <title><![CDATA[너는 나를 뭐라 부를래 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4101591?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4101591?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 13 Jul 2024 15:18:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13091760?wl_ref=list_ab_04" class="artistTitle" title="Månlåtar">Månlåtar</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Månlåtar||Månlåtar||13091760||OK\\nDjup sömn||Djup sömn||12981042||OK', ''); return false;">
-Månlåtar
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/80265286?wl_ref=list_ab_04" class="artistTitle" title="경서" onclick="
+" target="_self">경서</a>
+</p>
 <p>
-<time datetime="">2024.07.13</time>
-<span class="albumType">정규</span>
+<time datetime="">2024.05.26</time>
+<span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350274/35027444.jpg?version=20240713120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41015/4101591.jpg?version=1720775126000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[La sfârșitul zilei (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/35027436?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35027436?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 13 Jul 2024 04:21:46 GMT</pubDate>
+            <title><![CDATA[사랑은 더 아름다운 것 아니었나 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 13 Jul 2024 15:18:55 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13091738?wl_ref=list_ab_04" class="artistTitle" title="Melodii lunare">Melodii lunare</a>
+<a href="https://music.bugs.co.kr/artist/80167636?wl_ref=list_ab_04" class="artistTitle" title="한올">한올</a>
 <!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Melodii lunare||Melodii lunare||13091738||OK\\nSomn adânc||Somn adânc||12981897||OK', ''); return false;">
-Melodii lunare
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '한올||한올||80167636||OK\\n새봄||새봄(Saevom)||80209230||OK', ''); return false;">
+한올
 </a> </p>
 <p>
-<time datetime="">2024.07.13</time>
-<span class="albumType">정규</span>
+<time datetime="">2024.06.16</time>
+<span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350274/35027436.jpg?version=20240713120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40963/4096305.jpg?version=1718551688000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Saturday of Passion (열정의 토요일) vol.1 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3253,36 +3283,6 @@ Melodii lunare
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41042/4104263.jpg?version=1720839630000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[time after time (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/4104262?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4104262?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 13 Jul 2024 04:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13256294?wl_ref=list_ab_04" class="artistTitle" title="blonic" onclick="
-" target="_self">blonic</a>
-</p>
-<p>
-<time datetime="">2024.07.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41042/4104262.jpg?version=1720839630000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지나온 시간 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/4104260?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4104260?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 13 Jul 2024 04:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13769682?wl_ref=list_ab_04" class="artistTitle" title="서현우" onclick="
-" target="_self">서현우</a>
-</p>
-<p>
-<time datetime="">2024.07.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41042/4104260.jpg?version=1720839630000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
