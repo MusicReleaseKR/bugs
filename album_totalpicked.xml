@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 15:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DIVE]]></title>
+            <link>https://music.bugs.co.kr/album/20657667?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20657667?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 16 Jul 2024 15:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80249916?wl_ref=list_ab_04" class="artistTitle" title="TWICE (트와이스)" onclick="
+" target="_self">TWICE (트와이스)</a>
+</p>
+<p>
+<time datetime="">2024.07.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206576/20657667.jpg?version=20240717000003.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FLAT COKE (Feat. 이영지)]]></title>
             <link>https://music.bugs.co.kr/album/20656387?wl_ref=list_ab_03</link>
@@ -1065,21 +1080,6 @@ Offmind
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206567/20656718.jpg?version=20240715120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거북이]]></title>
-            <link>https://music.bugs.co.kr/album/4104345?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4104345?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 15 Jul 2024 03:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20035628?wl_ref=list_ab_04" class="artistTitle" title="최규열" onclick="
-" target="_self">최규열</a>
-</p>
-<p>
-<time datetime="">2024.07.15</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41043/4104345.jpg?version=20240715120022.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
