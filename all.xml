@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 23:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 01:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1160,6 +1160,21 @@ Janos Starker(야노스 스타커)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/352866/35286684.jpg?version=20240717000023.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kalyug (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/35124744?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35124744?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 17 Jul 2024 01:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13704442?wl_ref=list_ab_04" class="artistTitle" title="TOOR" onclick="
+" target="_self">TOOR</a>
+</p>
+<p>
+<time datetime="">2024.06.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351247/35124744.jpg?version=20240717091055.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Now That I'm Gone (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/35123699?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/35123699?wl_ref=list_ab_03</guid>
@@ -2222,21 +2237,6 @@ Solfeggio Frequencies
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206564/20656475.jpg?version=20240716120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이별의 공식은 성립하지 않는다 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20656419?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20656419?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 16 Jul 2024 04:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20212608?wl_ref=list_ab_04" class="artistTitle" title="galaxy" onclick="
-" target="_self">galaxy</a>
-</p>
-<p>
-<time datetime="">2024.07.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206564/20656419.jpg?version=20240716120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[So Cool (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20657300?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20657300?wl_ref=list_ab_03</guid>
@@ -3002,7 +3002,7 @@ Solfeggio Frequencies
 <time datetime="">2024.07.16</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206537/20653705.jpg?version=1721098833000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206537/20653705.jpg?version=1721177463000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sweet Tape (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
