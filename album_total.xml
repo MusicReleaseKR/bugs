@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 05:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 06:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,7 +350,7 @@
 <time datetime="">2024.07.18</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/352904/35290484.jpg?version=20240718000027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/352904/35290484.jpg?version=20240718145247.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Scorpio (Deluxe Edition)]]></title>
@@ -365,7 +365,7 @@
 <time datetime="">2024.07.18</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/352904/35290410.jpg?version=20240718000027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/352904/35290410.jpg?version=20240718145247.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Summer Remix Nikos Vertis - Edition 1]]></title>
@@ -411,21 +411,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/352890/35289081.jpg?version=20240718120037.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Acústico Lobão (Deluxe)]]></title>
-            <link>https://music.bugs.co.kr/album/35287097?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35287097?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 18 Jul 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8609988?wl_ref=list_ab_04" class="artistTitle" title="Lobão" onclick="
-" target="_self">Lobão</a>
-</p>
-<p>
-<time datetime="">2024.07.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/352870/35287097.jpg?version=20240718000027.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jazz Background Music For A Calm Selection Of Music At Night]]></title>
@@ -1146,6 +1131,21 @@ LofiCentral
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351883/35188305.jpg?version=20240718120037.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Relax Moonlit Lull]]></title>
+            <link>https://music.bugs.co.kr/album/35188263?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35188263?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 18 Jul 2024 06:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13776099?wl_ref=list_ab_04" class="artistTitle" title="joel rodrigo mihalski" onclick="
+" target="_self">joel rodrigo mihalski</a>
+</p>
+<p>
+<time datetime="">2024.07.18</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351882/35188263.jpg?version=20240718120037.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
