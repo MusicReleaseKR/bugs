@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 02:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 03:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41032/4103242.jpg?version=1719589916000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딱 사랑이야]]></title>
+            <link>https://music.bugs.co.kr/album/20643719?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20643719?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 19 Jul 2024 03:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20104506?wl_ref=list_ab_04" class="artistTitle" title="이유나" onclick="
+" target="_self">이유나</a>
+</p>
+<p>
+<time datetime="">2024.07.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206437/20643719.jpg?version=1721358043000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빛속으로 Into the Light]]></title>
@@ -1053,21 +1068,6 @@ Seiren 8
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206578/20657859.jpg?version=1721322427000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wake Up]]></title>
-            <link>https://music.bugs.co.kr/album/20657833?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20657833?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 18 Jul 2024 04:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20215590?wl_ref=list_ab_04" class="artistTitle" title="ii1" onclick="
-" target="_self">ii1</a>
-</p>
-<p>
-<time datetime="">2024.07.18</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206578/20657833.jpg?version=1721271637000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
