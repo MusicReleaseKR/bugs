@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 06:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 07:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -473,39 +473,6 @@ DJ Polyvox
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/353778/35377816.jpg?version=20240722000025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bach / Busoni]]></title>
-            <link>https://music.bugs.co.kr/album/35369332?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35369332?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 19 Jul 2024 21:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/35655?wl_ref=list_ab_04" class="artistTitle" title="Maria Tipo(마리아 티포)" onclick="
-" target="_self">Maria Tipo(마리아 티포)</a>
-</p>
-<p>
-<time datetime="">2024.07.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/353693/35369332.jpg?version=20240722051008.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mozart: Les petits riens & Ouvertures]]></title>
-            <link>https://music.bugs.co.kr/album/35369229?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35369229?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 19 Jul 2024 21:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/35619?wl_ref=list_ab_04" class="artistTitle" title="Neville Marriner(네빌 매리너)">Neville Marriner(네빌 매리너)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Neville Marriner||Neville Marriner(네빌 매리너)||35619||OK\\nAcademy Of St. Martin In The Fields||Academy Of St. Martin In The Fields(아카데미 오브 성 마틴 인 더 필즈)||35617||OK', ''); return false;">
-Neville Marriner(네빌 매리너)
-</a> </p>
-<p>
-<time datetime="">2024.07.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/353692/35369229.jpg?version=20240722051007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[De vuelta al barrio]]></title>
@@ -1061,6 +1028,36 @@ Neville Marriner(네빌 매리너)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206571/20657177.jpg?version=20240722120039.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에서 가장 아름다운 클래식 명곡]]></title>
+            <link>https://music.bugs.co.kr/album/20657167?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20657167?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 22 Jul 2024 07:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20203613?wl_ref=list_ab_04" class="artistTitle" title="강다스름" onclick="
+" target="_self">강다스름</a>
+</p>
+<p>
+<time datetime="">2024.07.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206571/20657167.jpg?version=20240722120039.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피아노로 듣는 세상에서 가장 편안한 클래식 명곡]]></title>
+            <link>https://music.bugs.co.kr/album/20657161?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20657161?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 22 Jul 2024 07:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20182576?wl_ref=list_ab_04" class="artistTitle" title="루카스 김" onclick="
+" target="_self">루카스 김</a>
+</p>
+<p>
+<time datetime="">2024.07.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206571/20657161.jpg?version=20240722120039.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
