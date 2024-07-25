@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 14:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 15:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Illusion (Creepy Nuts Remix)]]></title>
+            <link>https://music.bugs.co.kr/album/35424547?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35424547?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 25 Jul 2024 15:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80245167?wl_ref=list_ab_04" class="artistTitle" title="Dua Lipa(두아 리파)" onclick="
+" target="_self">Dua Lipa(두아 리파)</a>
+</p>
+<p>
+<time datetime="">2024.07.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/354245/35424547.jpg?version=20240726000024.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ON FIRE]]></title>
             <link>https://music.bugs.co.kr/album/4104766?wl_ref=list_ab_03</link>
@@ -56,6 +71,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41047/4104791.jpg?version=20240725180024.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오렌지 꽃]]></title>
+            <link>https://music.bugs.co.kr/album/4102962?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4102962?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 25 Jul 2024 03:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80336195?wl_ref=list_ab_04" class="artistTitle" title="김영흠" onclick="
+" target="_self">김영흠</a>
+</p>
+<p>
+<time datetime="">2024.07.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41029/4102962.jpg?version=20240725120003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Love is U]]></title>
             <link>https://music.bugs.co.kr/album/20659728?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20659728?wl_ref=list_ab_03</guid>
@@ -84,21 +114,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41047/4104794.jpg?version=20240725180024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오렌지 꽃]]></title>
-            <link>https://music.bugs.co.kr/album/4102962?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4102962?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 25 Jul 2024 03:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80336195?wl_ref=list_ab_04" class="artistTitle" title="김영흠" onclick="
-" target="_self">김영흠</a>
-</p>
-<p>
-<time datetime="">2024.07.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41029/4102962.jpg?version=20240725120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[playlist]]></title>
@@ -1071,21 +1086,6 @@ Jayan(자얀)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206586/20658610.jpg?version=20240725030251.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 그 바D]]></title>
-            <link>https://music.bugs.co.kr/album/20659109?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20659109?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 24 Jul 2024 09:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20164516?wl_ref=list_ab_04" class="artistTitle" title="E℃(이섭씨)" onclick="
-" target="_self">E℃(이섭씨)</a>
-</p>
-<p>
-<time datetime="">2024.07.24</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206591/20659109.jpg?version=20240724180023.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
