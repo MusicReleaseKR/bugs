@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 03:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 04:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[dummy]]></title>
+            <link>https://music.bugs.co.kr/album/20660053?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20660053?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 26 Jul 2024 04:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20216199?wl_ref=list_ab_04" class="artistTitle" title="ARrC (아크)" onclick="
+" target="_self">ARrC (아크)</a>
+</p>
+<p>
+<time datetime="">2024.07.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206600/20660053.jpg?version=20240726130004.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PEARL CITY (VERYWORDS X LIMZY)]]></title>
             <link>https://music.bugs.co.kr/album/4104687?wl_ref=list_ab_03</link>
@@ -21,6 +36,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41046/4104687.jpg?version=20240726120024.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Touch]]></title>
+            <link>https://music.bugs.co.kr/album/4104823?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4104823?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 26 Jul 2024 04:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80396002?wl_ref=list_ab_04" class="artistTitle" title="KATSEYE" onclick="
+" target="_self">KATSEYE</a>
+</p>
+<p>
+<time datetime="">2024.07.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41048/4104823.jpg?version=20240726130007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Guy For That]]></title>
@@ -492,7 +522,7 @@ Gwen Stefani(그웬 스테파니)
 <time datetime="">2024.07.26</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/354112/35411278.jpg?version=20240726015616.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/354112/35411278.jpg?version=20240726125339.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ya Don't Stop]]></title>
@@ -1045,36 +1075,6 @@ Slevin
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206593/20659315.jpg?version=20240725120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단둘]]></title>
-            <link>https://music.bugs.co.kr/album/20658754?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20658754?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 25 Jul 2024 03:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80344938?wl_ref=list_ab_04" class="artistTitle" title="권지은" onclick="
-" target="_self">권지은</a>
-</p>
-<p>
-<time datetime="">2024.07.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206587/20658754.jpg?version=20240725120004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cupid]]></title>
-            <link>https://music.bugs.co.kr/album/20659179?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20659179?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 25 Jul 2024 03:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20199116?wl_ref=list_ab_04" class="artistTitle" title="리브(LIIB)" onclick="
-" target="_self">리브(LIIB)</a>
-</p>
-<p>
-<time datetime="">2024.07.25</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206591/20659179.jpg?version=20240725120024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
