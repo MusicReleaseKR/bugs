@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 14:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 15:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[feRRa]]></title>
+            <link>https://music.bugs.co.kr/album/35417206?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35417206?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 26 Jul 2024 15:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80324509?wl_ref=list_ab_04" class="artistTitle" title="GLEB" onclick="
+" target="_self">GLEB</a>
+</p>
+<p>
+<time datetime="">2024.07.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/354172/35417206.jpg?version=20240726194130.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nightmares Over East]]></title>
             <link>https://music.bugs.co.kr/album/35490261?wl_ref=list_ab_03</link>
@@ -1050,21 +1065,6 @@ Brad Breeck
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/354172/35417294.jpg?version=20240726005856.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GoNoodle Dance Party: School’s Out!]]></title>
-            <link>https://music.bugs.co.kr/album/35417287?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35417287?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 26 Jul 2024 04:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12019141?wl_ref=list_ab_04" class="artistTitle" title="GoNoodle" onclick="
-" target="_self">GoNoodle</a>
-</p>
-<p>
-<time datetime="">2024.07.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/354172/35417287.jpg?version=20240726012552.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
