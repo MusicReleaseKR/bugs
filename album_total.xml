@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 23:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 01:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,21 +207,6 @@ MC Mari
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350105/35010550.jpg?version=20240726000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[المجرة]]></title>
-            <link>https://music.bugs.co.kr/album/34939406?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34939406?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 25 Jul 2024 15:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13723562?wl_ref=list_ab_04" class="artistTitle" title="Maya Ghaly" onclick="
-" target="_self">Maya Ghaly</a>
-</p>
-<p>
-<time datetime="">2024.07.26</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/349394/34939406.jpg?version=20240726000029.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Longing]]></title>
@@ -1110,6 +1095,24 @@ LO-FI CHILL
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/353039/35303910.jpg?version=20240725120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[0 Hour Relaxation: Sweet Slumber Serenades]]></title>
+            <link>https://music.bugs.co.kr/album/35303902?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35303902?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 26 Jul 2024 01:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12197489?wl_ref=list_ab_04" class="artistTitle" title="Calm Music">Calm Music</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Calm Music||Calm Music||12197489||OK\\nInstrumental||Instrumental||8016156||OK\\nSweet Dreams||Sweet Dreams||10915747||OK', ''); return false;">
+Calm Music
+</a> </p>
+<p>
+<time datetime="">2024.07.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/353039/35303902.jpg?version=20240725120036.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
