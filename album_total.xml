@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jul 2024 09:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 10:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -902,6 +902,21 @@ Nature Sound Collection
             <enclosure url="https://image.bugsm.co.kr/album/images/170/336767/33676716.jpg?version=20240728120028.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Shining]]></title>
+            <link>https://music.bugs.co.kr/album/20660127?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20660127?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 28 Jul 2024 10:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20216280?wl_ref=list_ab_04" class="artistTitle" title="Vaysight" onclick="
+" target="_self">Vaysight</a>
+</p>
+<p>
+<time datetime="">2024.07.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206601/20660127.jpg?version=20240728180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한 도시의 야경]]></title>
             <link>https://music.bugs.co.kr/album/20660108?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20660108?wl_ref=list_ab_03</guid>
@@ -1143,21 +1158,6 @@ Buena Vibra
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351838/35183842.jpg?version=20240728120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argyl]]></title>
-            <link>https://music.bugs.co.kr/album/35105318?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35105318?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 28 Jul 2024 04:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13343380?wl_ref=list_ab_04" class="artistTitle" title="Atonal City" onclick="
-" target="_self">Atonal City</a>
-</p>
-<p>
-<time datetime="">2024.07.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351053/35105318.jpg?version=20240728120028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
