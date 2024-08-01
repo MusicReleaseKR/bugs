@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 14:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 15:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Love Algorithm]]></title>
+            <link>https://music.bugs.co.kr/album/4099851?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4099851?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 01 Aug 2024 15:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80329498?wl_ref=list_ab_04" class="artistTitle" title="ONLEE (이승환)" onclick="
+" target="_self">ONLEE (이승환)</a>
+</p>
+<p>
+<time datetime="">2024.04.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40998/4099851.jpg?version=1712333223000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EGO 90’S PART 3]]></title>
             <link>https://music.bugs.co.kr/album/35504559?wl_ref=list_ab_03</link>
@@ -1047,21 +1062,6 @@ BabyJenn
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206612/20661220.jpg?version=1722481215000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배범준 사계 中 겨울]]></title>
-            <link>https://music.bugs.co.kr/album/20661178?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20661178?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 01 Aug 2024 04:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20203477?wl_ref=list_ab_04" class="artistTitle" title="평화첼로리스트 배범준" onclick="
-" target="_self">평화첼로리스트 배범준</a>
-</p>
-<p>
-<time datetime="">2024.08.01</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206611/20661178.jpg?version=1722481232000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
