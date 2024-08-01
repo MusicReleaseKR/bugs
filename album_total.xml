@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 09:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 10:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/355153/35515339.jpg?version=20240801123031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EGO 90’S PART 3]]></title>
+            <link>https://music.bugs.co.kr/album/35504559?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35504559?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 01 Aug 2024 10:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80205058?wl_ref=list_ab_04" class="artistTitle" title="베이빌론 (Babylon)" onclick="
+" target="_self">베이빌론 (Babylon)</a>
+</p>
+<p>
+<time datetime="">2024.08.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/355045/35504559.jpg?version=20240801180027.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Golden Time]]></title>
@@ -1145,7 +1160,7 @@ Drid
 <time datetime="">2024.08.01</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/354044/35404469.jpg?version=20240801000032.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/354044/35404469.jpg?version=20240801182919.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Volumen 2]]></title>
@@ -1161,21 +1176,6 @@ Drid
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/354042/35404299.jpg?version=20240801000032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FEE LO-FI FUM]]></title>
-            <link>https://music.bugs.co.kr/album/35403328?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35403328?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 01 Aug 2024 04:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11185498?wl_ref=list_ab_04" class="artistTitle" title="Holy Hrafn" onclick="
-" target="_self">Holy Hrafn</a>
-</p>
-<p>
-<time datetime="">2024.08.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/354033/35403328.jpg?version=20240801000032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
