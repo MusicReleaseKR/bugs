@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 14:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 15:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1066,6 +1066,21 @@ The Game(게임)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206610/20661081.jpg?version=20240801120024.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Unfamiliar (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/12777906?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/12777906?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 02 Aug 2024 15:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10187966?wl_ref=list_ab_04" class="artistTitle" title="The Lemonheads" onclick="
+" target="_self">The Lemonheads</a>
+</p>
+<p>
+<time datetime="">2019.01.30</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/127779/12777906.jpg?version=20240802150758.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bad Love (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/35520983?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/35520983?wl_ref=list_ab_03</guid>
@@ -2123,24 +2138,6 @@ DJ Polyvox
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/355050/35505018.jpg?version=20240802000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Most Beautiful Piano Lullabies (Music Box) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/35505017?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35505017?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 02 Aug 2024 04:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13285258?wl_ref=list_ab_04" class="artistTitle" title="Livia Louise">Livia Louise</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Livia Louise||Livia Louise||13285258||OK\\nLullaby Time||Lullaby Time||12939303||OK\\nNursery Rhymes||Nursery Rhymes||9380727||OK', ''); return false;">
-Livia Louise
-</a> </p>
-<p>
-<time datetime="">2024.08.02</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/355050/35505017.jpg?version=20240802044339.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그림자와 마침표 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
