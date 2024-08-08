@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 14:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 15:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몰랐어]]></title>
+            <link>https://music.bugs.co.kr/album/4092926?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092926?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 08 Aug 2024 15:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80317019?wl_ref=list_ab_04" class="artistTitle" title="TWOJAY">TWOJAY</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'TWOJAY||TWOJAY||80317019||OK\\nJ-men||J-men||80381982||OK', ''); return false;">
+TWOJAY
+</a> </p>
+<p>
+<time datetime="">2023.11.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40929/4092926.jpg?version=1708631254000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thursday of Desire (욕망의 목요일) vol.4]]></title>
             <link>https://music.bugs.co.kr/album/20662820?wl_ref=list_ab_03</link>
@@ -1050,21 +1068,6 @@ Zion.T
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206627/20662762.jpg?version=1723086032000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미쳐부러]]></title>
-            <link>https://music.bugs.co.kr/album/20662757?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20662757?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 08 Aug 2024 04:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20217020?wl_ref=list_ab_04" class="artistTitle" title="전기호" onclick="
-" target="_self">전기호</a>
-</p>
-<p>
-<time datetime="">2024.08.08</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206627/20662757.jpg?version=1723086022000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
