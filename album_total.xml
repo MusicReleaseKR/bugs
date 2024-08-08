@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 02:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 03:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,6 +69,39 @@ Maurice Andre(모리스 앙드레)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41043/4104359.jpg?version=20240716010434.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[nameless places 2.mp3]]></title>
+            <link>https://music.bugs.co.kr/album/35423557?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35423557?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 08 Aug 2024 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12070304?wl_ref=list_ab_04" class="artistTitle" title="Keyon Christ">Keyon Christ</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Keyon Christ||Keyon Christ||12070304||OK\\nCLLLAPS||CLLLAPS||20151828||OK\\nJonnywood||Jonnywood||13342856||OK', ''); return false;">
+Keyon Christ
+</a> </p>
+<p>
+<time datetime="">2024.08.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/354235/35423557.jpg?version=20240808120032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Base on believe]]></title>
+            <link>https://music.bugs.co.kr/album/35304949?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35304949?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 08 Aug 2024 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13798814?wl_ref=list_ab_04" class="artistTitle" title="gee princee" onclick="
+" target="_self">gee princee</a>
+</p>
+<p>
+<time datetime="">2024.08.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/353049/35304949.jpg?version=20240808120032.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MADDALENA]]></title>
@@ -1125,36 +1158,6 @@ Olímpico
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206619/20661938.jpg?version=20240807120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sky Hundred]]></title>
-            <link>https://music.bugs.co.kr/album/20661935?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20661935?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 07 Aug 2024 10:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20131682?wl_ref=list_ab_04" class="artistTitle" title="파란노을(Parannoul)" onclick="
-" target="_self">파란노을(Parannoul)</a>
-</p>
-<p>
-<time datetime="">2024.08.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206619/20661935.jpg?version=20240807180029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sabita Densha No Hashiru Machi Kara]]></title>
-            <link>https://music.bugs.co.kr/album/20661899?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20661899?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 07 Aug 2024 04:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20216774?wl_ref=list_ab_04" class="artistTitle" title="Yagiyama Gassodan" onclick="
-" target="_self">Yagiyama Gassodan</a>
-</p>
-<p>
-<time datetime="">2024.08.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206618/20661899.jpg?version=20240807120039.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
