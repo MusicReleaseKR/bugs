@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 09:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Aug 2024 10:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1040,6 +1040,21 @@ Seascapers
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206625/20662593.jpg?version=20240810120027.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HORROR x TERROR]]></title>
+            <link>https://music.bugs.co.kr/album/20662586?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20662586?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 10 Aug 2024 10:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20209259?wl_ref=list_ab_04" class="artistTitle" title="TERRORIST ₩IN" onclick="
+" target="_self">TERRORIST ₩IN</a>
+</p>
+<p>
+<time datetime="">2024.08.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206625/20662586.jpg?version=20240810180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Aetherian Soundscapes]]></title>
             <link>https://music.bugs.co.kr/album/20662549?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20662549?wl_ref=list_ab_03</guid>
@@ -1143,21 +1158,6 @@ Seascapers
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206607/20660736.jpg?version=20240810120027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kuda Kakek]]></title>
-            <link>https://music.bugs.co.kr/album/35593866?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35593866?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 10 Aug 2024 04:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13832943?wl_ref=list_ab_04" class="artistTitle" title="The Rulls" onclick="
-" target="_self">The Rulls</a>
-</p>
-<p>
-<time datetime="">2024.08.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/355938/35593866.jpg?version=20240810025238.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
