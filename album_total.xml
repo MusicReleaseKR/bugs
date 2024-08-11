@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Aug 2024 09:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Aug 2024 10:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -898,6 +898,21 @@ Seascapers
             <enclosure url="https://image.bugsm.co.kr/album/images/170/343752/34375227.jpg?version=20240811120032.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[eeliyod]]></title>
+            <link>https://music.bugs.co.kr/album/20662664?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20662664?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 11 Aug 2024 10:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20104862?wl_ref=list_ab_04" class="artistTitle" title="이도이(Doyi Lee)" onclick="
+" target="_self">이도이(Doyi Lee)</a>
+</p>
+<p>
+<time datetime="">2024.08.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206626/20662664.jpg?version=20240811180006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Q Vol.7]]></title>
             <link>https://music.bugs.co.kr/album/20662609?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20662609?wl_ref=list_ab_03</guid>
@@ -1139,21 +1154,6 @@ Marisha Hayes
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351790/35179088.jpg?version=20240811120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Babooshka]]></title>
-            <link>https://music.bugs.co.kr/album/35170742?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35170742?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 11 Aug 2024 04:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/9258304?wl_ref=list_ab_04" class="artistTitle" title="Kavita" onclick="
-" target="_self">Kavita</a>
-</p>
-<p>
-<time datetime="">2024.08.11</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351707/35170742.jpg?version=20240811000026.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
