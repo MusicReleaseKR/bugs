@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 01:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 02:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,21 +21,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/355741/35574186.jpg?version=20240812080010.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Great Violin Sonatas by Franck, Brahms, Beethoven, Mozart...]]></title>
-            <link>https://music.bugs.co.kr/album/35574139?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35574139?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 09 Aug 2024 23:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/4165?wl_ref=list_ab_04" class="artistTitle" title="David Oistrakh(다비드 오이스트라흐)" onclick="
-" target="_self">David Oistrakh(다비드 오이스트라흐)</a>
-</p>
-<p>
-<time datetime="">2024.08.12</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/355741/35574139.jpg?version=20240812080006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Now Diabetical]]></title>
@@ -1154,6 +1139,21 @@ Marisha Hayes
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/352684/35268433.jpg?version=20240811120032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liminal]]></title>
+            <link>https://music.bugs.co.kr/album/35267011?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35267011?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 12 Aug 2024 02:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13784802?wl_ref=list_ab_04" class="artistTitle" title="Ambizen" onclick="
+" target="_self">Ambizen</a>
+</p>
+<p>
+<time datetime="">2024.08.11</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/352670/35267011.jpg?version=20240811120032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
