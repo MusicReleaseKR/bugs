@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 19:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 20:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Great Symphonies: Sibelius, Vaughan Williams, Mahler...]]></title>
+            <link>https://music.bugs.co.kr/album/35574186?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35574186?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 14 Aug 2024 20:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80008496?wl_ref=list_ab_04" class="artistTitle" title="John Barbirolli(존 바르비롤리)" onclick="
+" target="_self">John Barbirolli(존 바르비롤리)</a>
+</p>
+<p>
+<time datetime="">2024.08.15</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/355741/35574186.jpg?version=20240815051019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Great Violin Sonatas by Franck, Brahms, Beethoven, Mozart...]]></title>
+            <link>https://music.bugs.co.kr/album/35574139?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35574139?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 14 Aug 2024 20:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/4165?wl_ref=list_ab_04" class="artistTitle" title="David Oistrakh(다비드 오이스트라흐)" onclick="
+" target="_self">David Oistrakh(다비드 오이스트라흐)</a>
+</p>
+<p>
+<time datetime="">2024.08.15</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/355741/35574139.jpg?version=20240815051015.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[UDABERRI ALUA (Clean Ver.)]]></title>
             <link>https://music.bugs.co.kr/album/31240835?wl_ref=list_ab_03</link>
@@ -1128,36 +1158,6 @@ Yoga Music
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/355694/35569455.jpg?version=20240814120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Livianito]]></title>
-            <link>https://music.bugs.co.kr/album/35514543?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35514543?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 14 Aug 2024 04:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12864103?wl_ref=list_ab_04" class="artistTitle" title="The Jack Valiant" onclick="
-" target="_self">The Jack Valiant</a>
-</p>
-<p>
-<time datetime="">2024.08.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/355145/35514543.jpg?version=20240814120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Acende o Isqueiro]]></title>
-            <link>https://music.bugs.co.kr/album/35511388?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35511388?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 14 Aug 2024 04:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13820088?wl_ref=list_ab_04" class="artistTitle" title="DJ FUMINHO" onclick="
-" target="_self">DJ FUMINHO</a>
-</p>
-<p>
-<time datetime="">2024.08.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/355113/35511388.jpg?version=20240814120039.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
