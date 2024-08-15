@@ -4,9 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 21:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 22:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pretty Slowly (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/35601220?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35601220?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 15 Aug 2024 22:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12341278?wl_ref=list_ab_04" class="artistTitle" title="Benson Boone" onclick="
+" target="_self">Benson Boone</a>
+</p>
+<p>
+<time datetime="">2024.08.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/356012/35601220.jpg?version=20240816070003.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혼술하고 싶은 밤 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
             <link>https://music.bugs.co.kr/album/4105525?wl_ref=list_ab_03</link>
@@ -1055,21 +1070,6 @@ YUNGIN
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206639/20663932.jpg?version=20240815005013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crushing high (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20663858?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20663858?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 14 Aug 2024 03:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80268064?wl_ref=list_ab_04" class="artistTitle" title="미무(mimu)" onclick="
-" target="_self">미무(mimu)</a>
-</p>
-<p>
-<time datetime="">2024.08.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206638/20663858.jpg?version=20240815003616.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pulsar EP (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
