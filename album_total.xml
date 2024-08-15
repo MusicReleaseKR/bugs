@@ -4,9 +4,23 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 09:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 10:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dưới Tán Cây Mùa Hè (Original Soundtrack)]]></title>
+            <link>https://music.bugs.co.kr/album/35613138?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35613138?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 15 Aug 2024 10:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<span class="artistTitle" title="">Various Artists</span>
+</p>
+<p>
+<time datetime="">2024.08.15</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/356131/35613138.jpg?version=20240815165003.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[528 Hz Enhance REM Sleep and Deep Regeneration]]></title>
             <link>https://music.bugs.co.kr/album/35604495?wl_ref=list_ab_03</link>
@@ -1134,24 +1148,6 @@ Spa Music Relaxation
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/355799/35579986.jpg?version=20240815120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 Waves: Healing Meditation Melodies]]></title>
-            <link>https://music.bugs.co.kr/album/35579979?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35579979?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 15 Aug 2024 04:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/10441978?wl_ref=list_ab_04" class="artistTitle" title="Yoga Music">Yoga Music</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Yoga Music||Yoga Music||10441978||OK\\nRelaxing Spa Music||Relaxing Spa Music||10504104||OK\\nRelaxing Music||Relaxing Music||9890243||OK', ''); return false;">
-Yoga Music
-</a> </p>
-<p>
-<time datetime="">2024.08.15</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/355799/35579979.jpg?version=20240815120035.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
