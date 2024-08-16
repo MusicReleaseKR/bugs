@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 14:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 15:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[UNITY]]></title>
+            <link>https://music.bugs.co.kr/album/20342747?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20342747?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 16 Aug 2024 15:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/9237?wl_ref=list_ab_04" class="artistTitle" title="TOMIKITA">TOMIKITA</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'TOMIKITA||TOMIKITA||9237||OK\\n윤도현||윤도현||280||OK', ''); return false;">
+TOMIKITA
+</a> </p>
+<p>
+<time datetime="">2024.08.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/203427/20342747.jpg?version=20240815010953.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spliced Vol 1]]></title>
             <link>https://music.bugs.co.kr/album/35613706?wl_ref=list_ab_03</link>
@@ -1064,21 +1082,6 @@ Janine Micheau(쟈닌느 미쇼)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/356113/35611305.jpg?version=20240816000026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Pagan Storm (Re-Recorded 2024)]]></title>
-            <link>https://music.bugs.co.kr/album/35611302?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35611302?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 16 Aug 2024 11:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10660117?wl_ref=list_ab_04" class="artistTitle" title="Wolfchant" onclick="
-" target="_self">Wolfchant</a>
-</p>
-<p>
-<time datetime="">2024.08.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/356113/35611302.jpg?version=20240816000026.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
