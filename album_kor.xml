@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 02:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 03:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Find a Way]]></title>
+            <link>https://music.bugs.co.kr/album/20661795?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20661795?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 20 Aug 2024 03:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80197107?wl_ref=list_ab_04" class="artistTitle" title="그렉(Greg)" onclick="
+" target="_self">그렉(Greg)</a>
+</p>
+<p>
+<time datetime="">2024.08.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206617/20661795.jpg?version=1724122838000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Metta]]></title>
             <link>https://music.bugs.co.kr/album/20664701?wl_ref=list_ab_03</link>
@@ -1053,21 +1068,6 @@ belle
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206641/20664146.jpg?version=1724036433000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라니냐 (La Niña)]]></title>
-            <link>https://music.bugs.co.kr/album/20664142?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20664142?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 19 Aug 2024 04:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20135137?wl_ref=list_ab_04" class="artistTitle" title="토스트보이(TOAST BOY)" onclick="
-" target="_self">토스트보이(TOAST BOY)</a>
-</p>
-<p>
-<time datetime="">2024.08.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206641/20664142.jpg?version=1724081536000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
