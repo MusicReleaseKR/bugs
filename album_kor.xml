@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 02:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 03:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Thursday]]></title>
+            <link>https://music.bugs.co.kr/album/4092674?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092674?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 22 Aug 2024 03:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20080732?wl_ref=list_ab_04" class="artistTitle" title="기묘" onclick="
+" target="_self">기묘</a>
+</p>
+<p>
+<time datetime="">2024.08.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40926/4092674.jpg?version=1724295611000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조이와 함께하는 생활습관 교육 part.2]]></title>
             <link>https://music.bugs.co.kr/album/20665379?wl_ref=list_ab_03</link>
@@ -1050,21 +1065,6 @@ ASHID
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206652/20665260.jpg?version=1724209243000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽]]></title>
-            <link>https://music.bugs.co.kr/album/20665258?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20665258?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 21 Aug 2024 04:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20088626?wl_ref=list_ab_04" class="artistTitle" title="송광일" onclick="
-" target="_self">송광일</a>
-</p>
-<p>
-<time datetime="">2024.08.21</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206652/20665258.jpg?version=1724209229000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
