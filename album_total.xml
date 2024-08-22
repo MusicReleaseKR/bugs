@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 09:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 10:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,36 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/356656/35665665.jpg?version=20240822120038.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[500k Degrees]]></title>
+            <link>https://music.bugs.co.kr/album/35663646?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35663646?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 22 Aug 2024 10:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20117441?wl_ref=list_ab_04" class="artistTitle" title="Benji Blue Bills" onclick="
+" target="_self">Benji Blue Bills</a>
+</p>
+<p>
+<time datetime="">2024.08.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/356636/35663646.jpg?version=20240822130022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My Everything (Tenth Anniversary Edition)]]></title>
+            <link>https://music.bugs.co.kr/album/35661658?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35661658?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 22 Aug 2024 10:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80117591?wl_ref=list_ab_04" class="artistTitle" title="Ariana Grande(아리아나 그란데)" onclick="
+" target="_self">Ariana Grande(아리아나 그란데)</a>
+</p>
+<p>
+<time datetime="">2024.08.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/356616/35661658.jpg?version=20240822142143.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[dastaan]]></title>
@@ -1092,36 +1122,6 @@ Pedro Paulo Malta
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/355951/35595185.jpg?version=20240822000023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[夏の夜に響く穏やかな音楽]]></title>
-            <link>https://music.bugs.co.kr/album/35587134?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35587134?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 22 Aug 2024 04:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12881364?wl_ref=list_ab_04" class="artistTitle" title="Premium Moment" onclick="
-" target="_self">Premium Moment</a>
-</p>
-<p>
-<time datetime="">2024.08.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/355871/35587134.jpg?version=20240822120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[心地よい夏の夜とコーヒージャズ]]></title>
-            <link>https://music.bugs.co.kr/album/35587132?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35587132?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 22 Aug 2024 04:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12881377?wl_ref=list_ab_04" class="artistTitle" title="Secret Jam" onclick="
-" target="_self">Secret Jam</a>
-</p>
-<p>
-<time datetime="">2024.08.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/355871/35587132.jpg?version=20240822120038.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
