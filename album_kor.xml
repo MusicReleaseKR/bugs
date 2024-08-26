@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 02:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 03:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GUNSHOT]]></title>
+            <link>https://music.bugs.co.kr/album/20637353?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20637353?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 26 Aug 2024 03:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20161334?wl_ref=list_ab_04" class="artistTitle" title="HEYA" onclick="
+" target="_self">HEYA</a>
+</p>
+<p>
+<time datetime="">2024.08.26</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206373/20637353.jpg?version=1724641237000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IDEA ROCKERBOY]]></title>
             <link>https://music.bugs.co.kr/album/20666138?wl_ref=list_ab_03</link>
@@ -1043,7 +1058,7 @@ leta
 <time datetime="">2024.08.25</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206659/20665944.jpg?version=1724576426000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206659/20665944.jpg?version=1724641203000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑도 없이 결혼 OST Part.28]]></title>
@@ -1059,21 +1074,6 @@ leta
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206654/20665463.jpg?version=1724576426000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기 보세요, 마왕님! OST Part.23]]></title>
-            <link>https://music.bugs.co.kr/album/20665459?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20665459?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 25 Aug 2024 04:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12450926?wl_ref=list_ab_04" class="artistTitle" title="우하나" onclick="
-" target="_self">우하나</a>
-</p>
-<p>
-<time datetime="">2024.08.25</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206654/20665459.jpg?version=1724554824000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
