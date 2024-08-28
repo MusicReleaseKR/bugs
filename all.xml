@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 14:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 15:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1079,6 +1079,39 @@ Ellui
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206663/20666367.jpg?version=20240827120029.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[La partícula de Dios (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/32316399?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32316399?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 28 Aug 2024 15:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12993028?wl_ref=list_ab_04" class="artistTitle" title="Ngrok" onclick="
+" target="_self">Ngrok</a>
+</p>
+<p>
+<time datetime="">2024.08.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/323163/32316399.jpg?version=20240829000026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where I Go (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/18025919?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18025919?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 28 Aug 2024 15:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12027632?wl_ref=list_ab_04" class="artistTitle" title="Lauwz">Lauwz</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Lauwz||Lauwz||12027632||OK\\nBastiqe||Bastiqe||20115963||OK\\nThunder||Thunder||11657613||OK', ''); return false;">
+Lauwz
+</a> </p>
+<p>
+<time datetime="">2022.05.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/180259/18025919.jpg?version=20240828173821.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[FREE WAY (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/35716093?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/35716093?wl_ref=list_ab_03</guid>
@@ -2103,36 +2136,6 @@ DJ Polyvox
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/357151/35715181.jpg?version=20240828000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[On The Beach (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/35715180?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35715180?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 28 Aug 2024 04:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13853308?wl_ref=list_ab_04" class="artistTitle" title="Aery Kass" onclick="
-" target="_self">Aery Kass</a>
-</p>
-<p>
-<time datetime="">2024.08.28</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357151/35715180.jpg?version=20240828000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Serenity (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/35715179?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35715179?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 28 Aug 2024 04:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13853363?wl_ref=list_ab_04" class="artistTitle" title="Phaedria" onclick="
-" target="_self">Phaedria</a>
-</p>
-<p>
-<time datetime="">2024.08.28</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357151/35715179.jpg?version=20240828000029.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wildfire Anthem (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
