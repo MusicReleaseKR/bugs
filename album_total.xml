@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 02:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 03:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Poupa No Chão]]></title>
+            <link>https://music.bugs.co.kr/album/35580710?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35580710?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 29 Aug 2024 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13295976?wl_ref=list_ab_04" class="artistTitle" title="Dj Rodrigo Dantas">Dj Rodrigo Dantas</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Dj Rodrigo Dantas||Dj Rodrigo Dantas||13295976||OK\\nMC Jacaré||MC Jacaré||12842842||OK', ''); return false;">
+Dj Rodrigo Dantas
+</a> </p>
+<p>
+<time datetime="">2024.08.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/355807/35580710.jpg?version=20240829120043.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[La partícula de Dios]]></title>
             <link>https://music.bugs.co.kr/album/32316399?wl_ref=list_ab_03</link>
@@ -38,7 +56,7 @@ Lauwz
 <time datetime="">2024.08.29</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/180259/18025919.jpg?version=20240829012653.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/180259/18025919.jpg?version=20240829120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FREE WAY]]></title>
@@ -1050,21 +1068,6 @@ DJ Polyvox
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/357151/35715187.jpg?version=20240828000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Genre Fiction]]></title>
-            <link>https://music.bugs.co.kr/album/35715181?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35715181?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 28 Aug 2024 04:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13853352?wl_ref=list_ab_04" class="artistTitle" title="Miko Sol" onclick="
-" target="_self">Miko Sol</a>
-</p>
-<p>
-<time datetime="">2024.08.28</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357151/35715181.jpg?version=20240828000029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
