@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 09:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 10:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Street Café (Acoustic)]]></title>
+            <link>https://music.bugs.co.kr/album/35745618?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35745618?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 29 Aug 2024 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20009072?wl_ref=list_ab_04" class="artistTitle" title="Mystical Crusaders" onclick="
+" target="_self">Mystical Crusaders</a>
+</p>
+<p>
+<time datetime="">2024.08.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357456/35745618.jpg?version=20240829174909.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Acoustic Heart]]></title>
+            <link>https://music.bugs.co.kr/album/35745366?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35745366?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 29 Aug 2024 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13858522?wl_ref=list_ab_04" class="artistTitle" title="Willy Hop" onclick="
+" target="_self">Willy Hop</a>
+</p>
+<p>
+<time datetime="">2024.08.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357453/35745366.jpg?version=20240829133007.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VIEUX SONS]]></title>
             <link>https://music.bugs.co.kr/album/35745046?wl_ref=list_ab_03</link>
@@ -1077,42 +1107,6 @@ Chillhop Cafe
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/356741/35674146.jpg?version=20240829120043.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 Waves: Calming By The Sea]]></title>
-            <link>https://music.bugs.co.kr/album/35674137?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35674137?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 29 Aug 2024 04:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/10441915?wl_ref=list_ab_04" class="artistTitle" title="Ocean Waves For Sleep">Ocean Waves For Sleep</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ocean Waves For Sleep||Ocean Waves For Sleep||10441915||OK\\nohm waves||ohm waves||13091970||OK\\nCoastal Sounds||Coastal Sounds||13344538||OK', ''); return false;">
-Ocean Waves For Sleep
-</a> </p>
-<p>
-<time datetime="">2024.08.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/356741/35674137.jpg?version=20240829120043.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 Waves: Sea Life Symphony]]></title>
-            <link>https://music.bugs.co.kr/album/35674130?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35674130?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 29 Aug 2024 04:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13344538?wl_ref=list_ab_04" class="artistTitle" title="Coastal Sounds">Coastal Sounds</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Coastal Sounds||Coastal Sounds||13344538||OK\\nMusica Relajante||Musica Relajante||10440884||OK\\nSnoozify||Snoozify||13602490||OK', ''); return false;">
-Coastal Sounds
-</a> </p>
-<p>
-<time datetime="">2024.08.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/356741/35674130.jpg?version=20240829120043.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
