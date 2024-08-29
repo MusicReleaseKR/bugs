@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 16:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 17:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,24 +134,6 @@ Cuartas
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350118/35011837.jpg?version=20240830000031.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ka Hunipendi]]></title>
-            <link>https://music.bugs.co.kr/album/34859896?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34859896?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 29 Aug 2024 15:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12283248?wl_ref=list_ab_04" class="artistTitle" title="Vic West">Vic West</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Vic West||Vic West||12283248||OK\\nTeslah||Teslah||12291462||OK\\nMalosh||Malosh||13714825||OK', ''); return false;">
-Vic West
-</a> </p>
-<p>
-<time datetime="">2024.08.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/348598/34859896.jpg?version=20240830000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NAZOKE]]></title>
             <link>https://music.bugs.co.kr/album/34429940?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34429940?wl_ref=list_ab_03</guid>
@@ -197,7 +179,7 @@ Lethabile 012
 <time datetime="">2024.08.30</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337150/33715027.jpg?version=20240830000031.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/337150/33715027.jpg?version=20240830014523.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Two Of Us]]></title>
@@ -275,7 +257,7 @@ The Game(게임)
 <time datetime="">2024.08.29</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357453/35745366.jpg?version=20240829133007.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357453/35745366.jpg?version=20240830013414.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VIEUX SONS]]></title>
@@ -290,7 +272,7 @@ The Game(게임)
 <time datetime="">2024.08.29</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357450/35745046.jpg?version=20240829071009.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357450/35745046.jpg?version=20240830015057.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Momentos]]></title>
@@ -1083,6 +1065,24 @@ IVI
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/356781/35678174.jpg?version=20240829000026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[0 Hour Relaxation: Dreamlands On The Moon]]></title>
+            <link>https://music.bugs.co.kr/album/35675802?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35675802?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 29 Aug 2024 17:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12197489?wl_ref=list_ab_04" class="artistTitle" title="Calm Music">Calm Music</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Calm Music||Calm Music||12197489||OK\\nInstrumental||Instrumental||8016156||OK\\nSweet Dreams||Sweet Dreams||10915747||OK', ''); return false;">
+Calm Music
+</a> </p>
+<p>
+<time datetime="">2024.08.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/356758/35675802.jpg?version=20240829120043.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
