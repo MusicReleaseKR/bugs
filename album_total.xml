@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 09:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 10:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -710,6 +710,21 @@ Yoga Muziek
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206682/20668204.jpg?version=20240903120013.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NOT A BAD DREAM]]></title>
+            <link>https://music.bugs.co.kr/album/20668196?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20668196?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 03 Sep 2024 10:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20133796?wl_ref=list_ab_04" class="artistTitle" title="낫어배드보이 (notabadboy2001)" onclick="
+" target="_self">낫어배드보이 (notabadboy2001)</a>
+</p>
+<p>
+<time datetime="">2024.09.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206681/20668196.jpg?version=20240903180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[New Vol.7]]></title>
             <link>https://music.bugs.co.kr/album/20668181?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20668181?wl_ref=list_ab_03</guid>
@@ -1073,6 +1088,21 @@ Circle of Notes
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206670/20667077.jpg?version=20240903120013.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lore]]></title>
+            <link>https://music.bugs.co.kr/album/20666706?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20666706?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 03 Sep 2024 10:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20218154?wl_ref=list_ab_04" class="artistTitle" title="EX3" onclick="
+" target="_self">EX3</a>
+</p>
+<p>
+<time datetime="">2024.09.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206667/20666706.jpg?version=20240903180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Eli Josef]]></title>
             <link>https://music.bugs.co.kr/album/20665990?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20665990?wl_ref=list_ab_03</guid>
@@ -1086,36 +1116,6 @@ Circle of Notes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206659/20665990.jpg?version=20240903120013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coda]]></title>
-            <link>https://music.bugs.co.kr/album/4106613?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4106613?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 03 Sep 2024 04:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80393385?wl_ref=list_ab_04" class="artistTitle" title="loco" onclick="
-" target="_self">loco</a>
-</p>
-<p>
-<time datetime="">2024.09.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41066/4106613.jpg?version=20240903120000.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BOURBON55]]></title>
-            <link>https://music.bugs.co.kr/album/4106596?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4106596?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 03 Sep 2024 04:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13681860?wl_ref=list_ab_04" class="artistTitle" title="RCPE" onclick="
-" target="_self">RCPE</a>
-</p>
-<p>
-<time datetime="">2024.09.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41065/4106596.jpg?version=20240903120013.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
