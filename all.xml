@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 05:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 06:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@ YUNGIN
 <time datetime="">2024.09.03</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206684/20668465.jpg?version=20240903120000.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206684/20668465.jpg?version=20240903143757.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Someone (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1172,7 +1172,7 @@ PAXXWORD
 <time datetime="">2024.09.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357242/35724286.jpg?version=20240903080005.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357242/35724286.jpg?version=20240903151615.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[People, Places, Things (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2735,6 +2735,21 @@ Circle of Notes
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206660/20666069.jpg?version=1725332413000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[월화수목금토일 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20656741?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20656741?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 03 Sep 2024 06:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80044241?wl_ref=list_ab_04" class="artistTitle" title="온유 (ONEW)" onclick="
+" target="_self">온유 (ONEW)</a>
+</p>
+<p>
+<time datetime="">2024.07.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206567/20656741.jpg?version=1721408881000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Album Y (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/4106591?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4106591?wl_ref=list_ab_03</guid>
@@ -2957,7 +2972,7 @@ Circle of Notes
 <time datetime="">2024.09.03</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206684/20668465.jpg?version=1725332400000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206684/20668465.jpg?version=1725341877000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fuchsia (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3228,21 +3243,6 @@ Circle of Notes
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206682/20668209.jpg?version=1725332413000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[때도 리믹스 (피쳐링:강신원) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20668199?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20668199?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 03 Sep 2024 04:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20168698?wl_ref=list_ab_04" class="artistTitle" title="제이디지 (JDG)" onclick="
-" target="_self">제이디지 (JDG)</a>
-</p>
-<p>
-<time datetime="">2024.09.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206681/20668199.jpg?version=1725332413000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
