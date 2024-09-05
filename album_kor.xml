@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 02:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 03:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤직챔프]]></title>
+            <link>https://music.bugs.co.kr/album/20643875?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20643875?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 05 Sep 2024 03:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/1378?wl_ref=list_ab_04" class="artistTitle" title="클론(CLON)" onclick="
+" target="_self">클론(CLON)</a>
+</p>
+<p>
+<time datetime="">2024.09.05</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206438/20643875.jpg?version=1725505244000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 숨을 쉬는 이유]]></title>
             <link>https://music.bugs.co.kr/album/20668830?wl_ref=list_ab_03</link>
@@ -1041,21 +1056,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206686/20668635.jpg?version=1725418832000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 다시]]></title>
-            <link>https://music.bugs.co.kr/album/20668633?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20668633?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 04 Sep 2024 04:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20128725?wl_ref=list_ab_04" class="artistTitle" title="신지인" onclick="
-" target="_self">신지인</a>
-</p>
-<p>
-<time datetime="">2024.09.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206686/20668633.jpg?version=1725418832000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
