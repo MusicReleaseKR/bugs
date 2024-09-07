@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 09:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 10:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -925,6 +925,21 @@ Moon Tunes
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206696/20669670.jpg?version=20240907120028.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[축제]]></title>
+            <link>https://music.bugs.co.kr/album/20668880?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20668880?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 07 Sep 2024 10:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20076735?wl_ref=list_ab_04" class="artistTitle" title="dosii (도시)" onclick="
+" target="_self">dosii (도시)</a>
+</p>
+<p>
+<time datetime="">2024.09.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206688/20668880.jpg?version=20240907180022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[점화]]></title>
             <link>https://music.bugs.co.kr/album/20668742?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20668742?wl_ref=list_ab_03</guid>
@@ -1030,6 +1045,54 @@ Moon Tunes
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206685/20668597.jpg?version=20240907120028.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Modest Freaks]]></title>
+            <link>https://music.bugs.co.kr/album/20668528?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20668528?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 07 Sep 2024 10:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20135852?wl_ref=list_ab_04" class="artistTitle" title="끈" onclick="
+" target="_self">끈</a>
+</p>
+<p>
+<time datetime="">2024.09.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206685/20668528.jpg?version=20240907180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검은파라오, 이집트의 축복]]></title>
+            <link>https://music.bugs.co.kr/album/20668523?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20668523?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 07 Sep 2024 10:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20127638?wl_ref=list_ab_04" class="artistTitle" title="블랙백유안 (Black100youan)">블랙백유안 (Black100youan)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '블랙백유안||블랙백유안 (Black100youan)||20127638||OK\\nMadeinsouthkorea||Madeinsouthkorea||20163749||OK', ''); return false;">
+블랙백유안 (Black100youan)
+</a> </p>
+<p>
+<time datetime="">2024.09.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206685/20668523.jpg?version=20240907180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[격]]></title>
+            <link>https://music.bugs.co.kr/album/20668517?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20668517?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 07 Sep 2024 10:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20218697?wl_ref=list_ab_04" class="artistTitle" title="XEROME" onclick="
+" target="_self">XEROME</a>
+</p>
+<p>
+<time datetime="">2024.09.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206685/20668517.jpg?version=20240907180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dark Trap Underworld]]></title>
             <link>https://music.bugs.co.kr/album/20668344?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20668344?wl_ref=list_ab_03</guid>
@@ -1058,66 +1121,6 @@ Moon Tunes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206683/20668342.jpg?version=20240907120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아낌 없이 주는 나무가 말하고 싶었던 것]]></title>
-            <link>https://music.bugs.co.kr/album/20668032?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20668032?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 07 Sep 2024 04:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20212972?wl_ref=list_ab_04" class="artistTitle" title="core M" onclick="
-" target="_self">core M</a>
-</p>
-<p>
-<time datetime="">2024.09.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206680/20668032.jpg?version=20240907120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천국으로 닿는 여정, 그와의 만남]]></title>
-            <link>https://music.bugs.co.kr/album/20668027?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20668027?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 07 Sep 2024 04:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20212972?wl_ref=list_ab_04" class="artistTitle" title="core M" onclick="
-" target="_self">core M</a>
-</p>
-<p>
-<time datetime="">2024.09.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206680/20668027.jpg?version=20240907120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eternal]]></title>
-            <link>https://music.bugs.co.kr/album/20667815?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20667815?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 07 Sep 2024 04:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80051667?wl_ref=list_ab_04" class="artistTitle" title="이선지(Sunji Lee)" onclick="
-" target="_self">이선지(Sunji Lee)</a>
-</p>
-<p>
-<time datetime="">2024.09.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206678/20667815.jpg?version=20240907120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Car Button Cloth]]></title>
-            <link>https://music.bugs.co.kr/album/20666225?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20666225?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 07 Sep 2024 04:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10187966?wl_ref=list_ab_04" class="artistTitle" title="The Lemonheads" onclick="
-" target="_self">The Lemonheads</a>
-</p>
-<p>
-<time datetime="">2024.09.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206662/20666225.jpg?version=20240907120028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
