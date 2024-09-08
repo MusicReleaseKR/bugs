@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Sep 2024 14:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 15:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <link>https://music.bugs.co.kr/album/33496629?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33496629?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 08 Sep 2024 15:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10877596?wl_ref=list_ab_04" class="artistTitle" title="Elle Jae" onclick="
+" target="_self">Elle Jae</a>
+</p>
+<p>
+<time datetime="">2024.09.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/334966/33496629.jpg?version=20240907012328.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Need You]]></title>
+            <link>https://music.bugs.co.kr/album/18925966?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18925966?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 08 Sep 2024 15:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11939258?wl_ref=list_ab_04" class="artistTitle" title="Damaui">Damaui</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Damaui||Damaui||11939258||OK\\nSick Trumpet||Sick Trumpet||20113062||OK', ''); return false;">
+Damaui
+</a> </p>
+<p>
+<time datetime="">2024.09.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189259/18925966.jpg?version=20240907010939.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fejfa Helyett]]></title>
             <link>https://music.bugs.co.kr/album/35772891?wl_ref=list_ab_03</link>
@@ -1071,36 +1104,6 @@ Rahul Choudhary
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/357702/35770208.jpg?version=20240908000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Completos]]></title>
-            <link>https://music.bugs.co.kr/album/35770206?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35770206?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 08 Sep 2024 04:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13867368?wl_ref=list_ab_04" class="artistTitle" title="Guner Tronco" onclick="
-" target="_self">Guner Tronco</a>
-</p>
-<p>
-<time datetime="">2024.09.08</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357702/35770206.jpg?version=20240908000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Contactos]]></title>
-            <link>https://music.bugs.co.kr/album/35770204?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35770204?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 08 Sep 2024 04:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13867344?wl_ref=list_ab_04" class="artistTitle" title="Norde Ardiente" onclick="
-" target="_self">Norde Ardiente</a>
-</p>
-<p>
-<time datetime="">2024.09.08</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357702/35770204.jpg?version=20240908000027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
