@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 14:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 15:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[עננים]]></title>
+            <link>https://music.bugs.co.kr/album/35772151?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35772151?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 Sep 2024 15:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12530495?wl_ref=list_ab_04" class="artistTitle" title="שיר דוד גדסי" onclick="
+" target="_self">שיר דוד גדסי</a>
+</p>
+<p>
+<time datetime="">2024.09.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357721/35772151.jpg?version=20240910000024.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cool Autumn Country]]></title>
             <link>https://music.bugs.co.kr/album/35772975?wl_ref=list_ab_03</link>
@@ -1049,21 +1064,6 @@ DJ THUG
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/357545/35754596.jpg?version=20240909120037.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Farmaki Santigi]]></title>
-            <link>https://music.bugs.co.kr/album/35751564?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35751564?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 09 Sep 2024 04:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11949430?wl_ref=list_ab_04" class="artistTitle" title="MAZOHA" onclick="
-" target="_self">MAZOHA</a>
-</p>
-<p>
-<time datetime="">2024.09.09</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357515/35751564.jpg?version=20240909000030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
