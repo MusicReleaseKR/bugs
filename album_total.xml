@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 22:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 23:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Moonlight. Variations, Preludes and Other Piano Works by Mozart, Debussy, Grieg, Beethoven & Schumann]]></title>
+            <link>https://music.bugs.co.kr/album/35757726?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35757726?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 Sep 2024 23:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/38652?wl_ref=list_ab_04" class="artistTitle" title="Walter Gieseking(기제킹)" onclick="
+" target="_self">Walter Gieseking(기제킹)</a>
+</p>
+<p>
+<time datetime="">2024.09.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357577/35757726.jpg?version=20240910080024.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baroque & Classical Music: Handel, Mozart, Beethoven...]]></title>
+            <link>https://music.bugs.co.kr/album/35724286?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35724286?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 Sep 2024 23:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80008496?wl_ref=list_ab_04" class="artistTitle" title="John Barbirolli(존 바르비롤리)" onclick="
+" target="_self">John Barbirolli(존 바르비롤리)</a>
+</p>
+<p>
+<time datetime="">2024.09.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357242/35724286.jpg?version=20240910080138.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[עננים]]></title>
             <link>https://music.bugs.co.kr/album/35772151?wl_ref=list_ab_03</link>
@@ -1028,42 +1058,6 @@ Thomas Jäderlund
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/357547/35754722.jpg?version=20240909120037.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drama, mambo y drum and bass]]></title>
-            <link>https://music.bugs.co.kr/album/35754603?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35754603?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 09 Sep 2024 04:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12749339?wl_ref=list_ab_04" class="artistTitle" title="Bandur">Bandur</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Bandur||Bandur||12749339||OK\\nJuan Leal||Juan Leal||13059844||OK', ''); return false;">
-Bandur
-</a> </p>
-<p>
-<time datetime="">2024.09.09</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357546/35754603.jpg?version=20240909120037.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STREETS]]></title>
-            <link>https://music.bugs.co.kr/album/35754596?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35754596?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 09 Sep 2024 04:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13045422?wl_ref=list_ab_04" class="artistTitle" title="DJ THUG">DJ THUG</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'DJ THUG||DJ THUG||13045422||OK\\nEljohn Aquino||Eljohn Aquino||13713509||OK\\nWayne Brady||Wayne Brady(웨인 브래디)||80020935||OK', ''); return false;">
-DJ THUG
-</a> </p>
-<p>
-<time datetime="">2024.09.09</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357545/35754596.jpg?version=20240909120037.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
