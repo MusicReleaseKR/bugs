@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 02:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 03:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sight]]></title>
+            <link>https://music.bugs.co.kr/album/20669425?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20669425?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 13 Sep 2024 03:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20218993?wl_ref=list_ab_04" class="artistTitle" title="박성은 트리오" onclick="
+" target="_self">박성은 트리오</a>
+</p>
+<p>
+<time datetime="">2024.09.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206694/20669425.jpg?version=1726197003000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 길 위에 서서]]></title>
             <link>https://music.bugs.co.kr/album/20671129?wl_ref=list_ab_03</link>
@@ -1047,21 +1062,6 @@ ODD
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206707/20670795.jpg?version=1726110006000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물 위를 걸어 (Walk on water)]]></title>
-            <link>https://music.bugs.co.kr/album/20670764?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20670764?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 12 Sep 2024 04:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20219295?wl_ref=list_ab_04" class="artistTitle" title="시호성" onclick="
-" target="_self">시호성</a>
-</p>
-<p>
-<time datetime="">2024.09.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206707/20670764.jpg?version=1726110041000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
