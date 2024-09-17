@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Sep 2024 09:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2024 10:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Eye of Venus]]></title>
+            <link>https://music.bugs.co.kr/album/35821951?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35821951?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 17 Sep 2024 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13650349?wl_ref=list_ab_04" class="artistTitle" title="Soranzer0" onclick="
+" target="_self">Soranzer0</a>
+</p>
+<p>
+<time datetime="">2024.09.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/358219/35821951.jpg?version=20240917131006.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Les introuvables]]></title>
             <link>https://music.bugs.co.kr/album/35820742?wl_ref=list_ab_03</link>
@@ -1048,21 +1063,6 @@ XKRA
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/351242/35124291.jpg?version=20240917000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Double Reverb]]></title>
-            <link>https://music.bugs.co.kr/album/35123404?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35123404?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 17 Sep 2024 04:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10774299?wl_ref=list_ab_04" class="artistTitle" title="The Surfrajettes" onclick="
-" target="_self">The Surfrajettes</a>
-</p>
-<p>
-<time datetime="">2024.09.17</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/351234/35123404.jpg?version=20240917000027.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
