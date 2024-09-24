@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 04:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 05:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -489,6 +489,21 @@ Jxell
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41068/4106802.jpg?version=1727056814000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸른 하늘, 햇살 그리고 너]]></title>
+            <link>https://music.bugs.co.kr/album/4099851?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4099851?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 24 Sep 2024 05:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80329498?wl_ref=list_ab_04" class="artistTitle" title="ONLEE (이승환)" onclick="
+" target="_self">ONLEE (이승환)</a>
+</p>
+<p>
+<time datetime="">2024.08.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40998/4099851.jpg?version=1727144117000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫사랑]]></title>
@@ -1047,21 +1062,6 @@ Jxell
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206721/20672194.jpg?version=1727146834000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동면]]></title>
-            <link>https://music.bugs.co.kr/album/20672139?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20672139?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 24 Sep 2024 04:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20219632?wl_ref=list_ab_04" class="artistTitle" title="TRINITY (트리니티)" onclick="
-" target="_self">TRINITY (트리니티)</a>
-</p>
-<p>
-<time datetime="">2024.09.24</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206721/20672139.jpg?version=1727146821000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
