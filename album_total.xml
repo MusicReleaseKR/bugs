@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 09:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 10:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THIS IS DOOM TRAP]]></title>
+            <link>https://music.bugs.co.kr/album/35953006?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35953006?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 26 Sep 2024 10:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12040840?wl_ref=list_ab_04" class="artistTitle" title="Mimi Barks" onclick="
+" target="_self">Mimi Barks</a>
+</p>
+<p>
+<time datetime="">2024.09.26</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/359530/35953006.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Road To ES3 (Mixtape)]]></title>
+            <link>https://music.bugs.co.kr/album/35952912?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35952912?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 26 Sep 2024 10:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11638443?wl_ref=list_ab_04" class="artistTitle" title="Airplane James" onclick="
+" target="_self">Airplane James</a>
+</p>
+<p>
+<time datetime="">2024.09.26</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/359529/35952912.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faster Than the Speed of Death]]></title>
             <link>https://music.bugs.co.kr/album/35951804?wl_ref=list_ab_03</link>
@@ -1059,36 +1089,6 @@ Rulan Nawadi
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206719/20671953.jpg?version=20240926120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Twenty Five TeenTeen]]></title>
-            <link>https://music.bugs.co.kr/album/20671931?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20671931?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 Sep 2024 04:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20207520?wl_ref=list_ab_04" class="artistTitle" title="Multiview" onclick="
-" target="_self">Multiview</a>
-</p>
-<p>
-<time datetime="">2024.09.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206719/20671931.jpg?version=20240926120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Then you shined]]></title>
-            <link>https://music.bugs.co.kr/album/20671494?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20671494?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 26 Sep 2024 04:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20213095?wl_ref=list_ab_04" class="artistTitle" title="H.jenny" onclick="
-" target="_self">H.jenny</a>
-</p>
-<p>
-<time datetime="">2024.09.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206714/20671494.jpg?version=20240926120038.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
