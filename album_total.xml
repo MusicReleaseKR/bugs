@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 14:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 15:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Karam Phutge]]></title>
+            <link>https://music.bugs.co.kr/album/35784614?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35784614?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 28 Sep 2024 15:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13350576?wl_ref=list_ab_04" class="artistTitle" title="Rinku Chautala" onclick="
+" target="_self">Rinku Chautala</a>
+</p>
+<p>
+<time datetime="">2024.09.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357846/35784614.jpg?version=20240929000028.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The (Big) Piano Album]]></title>
             <link>https://music.bugs.co.kr/album/35874521?wl_ref=list_ab_03</link>
@@ -1086,24 +1101,6 @@ MC MATEO
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/358756/35875624.jpg?version=20240928000030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dường Như Là]]></title>
-            <link>https://music.bugs.co.kr/album/35875070?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35875070?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 28 Sep 2024 04:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12665681?wl_ref=list_ab_04" class="artistTitle" title="Viam">Viam</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Viam||Viam||12665681||OK\\nHuyền Trang Lux||Huyền Trang Lux||12309076||OK', ''); return false;">
-Viam
-</a> </p>
-<p>
-<time datetime="">2024.09.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/358750/35875070.jpg?version=20240928090010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
