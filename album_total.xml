@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 20:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 21:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The (Big) Piano Album]]></title>
+            <link>https://music.bugs.co.kr/album/35874521?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35874521?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 30 Sep 2024 06:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80000459?wl_ref=list_ab_04" class="artistTitle" title="Stephen Hough(허프)" onclick="
+" target="_self">Stephen Hough(허프)</a>
+</p>
+<p>
+<time datetime="">2024.10.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/358745/35874521.jpg?version=20241002052111.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Great Piano Works: Bach, Mozart, Chopin, Schubert & Boulez]]></title>
+            <link>https://music.bugs.co.kr/album/35874242?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35874242?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 01 Oct 2024 21:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80063937?wl_ref=list_ab_04" class="artistTitle" title="David Fray(데이빗 프레이)" onclick="
+" target="_self">David Fray(데이빗 프레이)</a>
+</p>
+<p>
+<time datetime="">2024.10.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/358742/35874242.jpg?version=20241002052059.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LEECHANGSUB PRE-RELEASE <1991>]]></title>
             <link>https://music.bugs.co.kr/album/4106536?wl_ref=list_ab_03</link>
@@ -581,21 +611,6 @@ The Marones
             <enclosure url="https://image.bugsm.co.kr/album/images/170/358757/35875766.jpg?version=20241001000028.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The (Big) Piano Album]]></title>
-            <link>https://music.bugs.co.kr/album/35874521?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35874521?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 30 Sep 2024 06:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80000459?wl_ref=list_ab_04" class="artistTitle" title="Stephen Hough(허프)" onclick="
-" target="_self">Stephen Hough(허프)</a>
-</p>
-<p>
-<time datetime="">2024.10.02</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/358745/35874521.jpg?version=20241002052111.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Lahai (Deluxe)]]></title>
             <link>https://music.bugs.co.kr/album/35873464?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/35873464?wl_ref=list_ab_03</guid>
@@ -1068,24 +1083,6 @@ Astro.Not
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/356020/35602015.jpg?version=20241001120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kidcore Halloween]]></title>
-            <link>https://music.bugs.co.kr/album/35570227?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35570227?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 01 Oct 2024 03:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13654789?wl_ref=list_ab_04" class="artistTitle" title="Tavish Stone">Tavish Stone</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Tavish Stone||Tavish Stone||13654789||OK\\nIan Stone||Ian Stone||13654285||OK', ''); return false;">
-Tavish Stone
-</a> </p>
-<p>
-<time datetime="">2024.10.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/355702/35570227.jpg?version=20241001120039.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
