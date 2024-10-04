@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Oct 2024 23:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 01:38:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Moonlit Floor]]></title>
+            <link>https://music.bugs.co.kr/album/36015693?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36015693?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 04 Oct 2024 01:37:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80265680?wl_ref=list_ab_04" class="artistTitle" title="리사(LISA)" onclick="
+" target="_self">리사(LISA)</a>
+</p>
+<p>
+<time datetime="">2024.10.04</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360156/36015693.jpg?version=20241004090006.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Moon Music]]></title>
             <link>https://music.bugs.co.kr/album/36012321?wl_ref=list_ab_03</link>
@@ -50,7 +65,7 @@
 <time datetime="">2024.10.03</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41080/4108067.jpg?version=20241003180026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41080/4108067.jpg?version=20241004102505.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUPERCHARGED]]></title>
@@ -665,7 +680,7 @@ Pierse
 <time datetime="">2024.10.02</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41065/4106536.jpg?version=20241003015629.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41065/4106536.jpg?version=20241004101601.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그 계절 긴 터널을 지나]]></title>
@@ -758,7 +773,7 @@ Pierse
 <time datetime="">2024.10.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41080/4108012.jpg?version=20241002180025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41080/4108012.jpg?version=20241004102506.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[step by together : with U - 이제 우리 함께 가자]]></title>
@@ -1001,7 +1016,7 @@ Moon (혜원)
 <time datetime="">2024.10.02</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41080/4108024.jpg?version=20241003031016.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41080/4108024.jpg?version=20241004100457.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[You]]></title>
@@ -1061,21 +1076,6 @@ Moon (혜원)
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206740/20674031.jpg?version=20241003011418.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠오른 건]]></title>
-            <link>https://music.bugs.co.kr/album/20673593?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20673593?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 02 Oct 2024 03:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80184758?wl_ref=list_ab_04" class="artistTitle" title="웜보(Warmbo)" onclick="
-" target="_self">웜보(Warmbo)</a>
-</p>
-<p>
-<time datetime="">2024.10.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206735/20673593.jpg?version=20241002120025.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
