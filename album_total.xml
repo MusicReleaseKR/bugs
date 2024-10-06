@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Oct 2024 09:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 10:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -311,6 +311,21 @@ T@KY
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206735/20673510.jpg?version=20241006120029.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[밤하늘의 속삭임]]></title>
+            <link>https://music.bugs.co.kr/album/4108156?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4108156?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 06 Oct 2024 10:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13855182?wl_ref=list_ab_04" class="artistTitle" title="백월" onclick="
+" target="_self">백월</a>
+</p>
+<p>
+<time datetime="">2024.10.06</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41081/4108156.jpg?version=20241006180031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Out The League]]></title>
             <link>https://music.bugs.co.kr/album/35996446?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/35996446?wl_ref=list_ab_03</guid>
@@ -432,6 +447,21 @@ Mistyy
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41081/4108150.jpg?version=20241006120029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최약체]]></title>
+            <link>https://music.bugs.co.kr/album/4108144?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4108144?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 06 Oct 2024 10:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13776694?wl_ref=list_ab_04" class="artistTitle" title="이십사일" onclick="
+" target="_self">이십사일</a>
+</p>
+<p>
+<time datetime="">2024.10.06</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41081/4108144.jpg?version=20241006180026.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Trái Tim Em Cũng Biết Đau (Diijam Studio Remix)]]></title>
@@ -1053,39 +1083,6 @@ DJ NELHE
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/359822/35982227.jpg?version=20241006120029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let's dance until morning-e]]></title>
-            <link>https://music.bugs.co.kr/album/35981872?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35981872?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 06 Oct 2024 04:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13845645?wl_ref=list_ab_04" class="artistTitle" title="KeiTurn49">KeiTurn49</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'KeiTurn49||KeiTurn49||13845645||OK\\nJAZZY.KEI2||JAZZY.KEI2||13845552||OK', ''); return false;">
-KeiTurn49
-</a> </p>
-<p>
-<time datetime="">2024.10.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/359818/35981872.jpg?version=20241006120029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Batida Exclusiva]]></title>
-            <link>https://music.bugs.co.kr/album/35980718?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35980718?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 06 Oct 2024 04:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11106911?wl_ref=list_ab_04" class="artistTitle" title="Dj Atomico" onclick="
-" target="_self">Dj Atomico</a>
-</p>
-<p>
-<time datetime="">2024.10.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/359807/35980718.jpg?version=20241006120029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
