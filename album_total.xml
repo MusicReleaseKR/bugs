@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 14:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 15:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Persephone]]></title>
+            <link>https://music.bugs.co.kr/album/34813015?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34813015?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 07 Oct 2024 15:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13258266?wl_ref=list_ab_04" class="artistTitle" title="MKJ">MKJ</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'MKJ||MKJ||13258266||OK\\nRefeci||Refeci||10555401||OK\\nAnna-Sophia Henry||Anna-Sophia Henry||12137627||OK', ''); return false;">
+MKJ
+</a> </p>
+<p>
+<time datetime="">2024.05.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348130/34813015.jpg?version=20241007114828.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[F.L.A.]]></title>
+            <link>https://music.bugs.co.kr/album/34643941?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34643941?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 07 Oct 2024 15:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13664925?wl_ref=list_ab_04" class="artistTitle" title="Our Noise" onclick="
+" target="_self">Our Noise</a>
+</p>
+<p>
+<time datetime="">2024.10.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/346439/34643941.jpg?version=20241008000025.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Acoustic Country]]></title>
             <link>https://music.bugs.co.kr/album/36033987?wl_ref=list_ab_03</link>
@@ -1041,36 +1074,6 @@ CYBERBOY
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/358323/35832346.jpg?version=20241007000028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRUSSIVO BACHI TOMA]]></title>
-            <link>https://music.bugs.co.kr/album/35817643?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35817643?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 07 Oct 2024 04:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13754969?wl_ref=list_ab_04" class="artistTitle" title="SKYXLINER" onclick="
-" target="_self">SKYXLINER</a>
-</p>
-<p>
-<time datetime="">2024.10.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/358176/35817643.jpg?version=20241007000028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Na Pegada do Boyzinho]]></title>
-            <link>https://music.bugs.co.kr/album/35816654?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35816654?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 07 Oct 2024 04:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13871910?wl_ref=list_ab_04" class="artistTitle" title="Eduardo Silva - O Boyzinho" onclick="
-" target="_self">Eduardo Silva - O Boyzinho</a>
-</p>
-<p>
-<time datetime="">2024.10.07</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/358166/35816654.jpg?version=20241007120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
