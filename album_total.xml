@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 02:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 03:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -396,6 +396,39 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/359555/35955514.jpg?version=20241008021027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Multi-Death Corporations]]></title>
+            <link>https://music.bugs.co.kr/album/35279271?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35279271?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 08 Oct 2024 03:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80029144?wl_ref=list_ab_04" class="artistTitle" title="MDC" onclick="
+" target="_self">MDC</a>
+</p>
+<p>
+<time datetime="">2024.10.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/352792/35279271.jpg?version=20241008120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Persephone]]></title>
+            <link>https://music.bugs.co.kr/album/34813015?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34813015?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 08 Oct 2024 03:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80300691?wl_ref=list_ab_04" class="artistTitle" title="MKJ">MKJ</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'MKJ||MKJ||80300691||OK\\nRefeci||Refeci||10555401||OK\\nAnna-Sophia Henry||Anna-Sophia Henry||12137627||OK', ''); return false;">
+MKJ
+</a> </p>
+<p>
+<time datetime="">2024.10.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348130/34813015.jpg?version=20241008120036.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[F.L.A.]]></title>
@@ -1029,36 +1062,6 @@ Fre Naz
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206739/20673950.jpg?version=20241007120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오혜미의 애창곡 4집]]></title>
-            <link>https://music.bugs.co.kr/album/20673617?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20673617?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 07 Oct 2024 04:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20089250?wl_ref=list_ab_04" class="artistTitle" title="오혜미" onclick="
-" target="_self">오혜미</a>
-</p>
-<p>
-<time datetime="">2024.10.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206736/20673617.jpg?version=20241007120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑하나 정하나]]></title>
-            <link>https://music.bugs.co.kr/album/20673614?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20673614?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 07 Oct 2024 04:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80060722?wl_ref=list_ab_04" class="artistTitle" title="김두일" onclick="
-" target="_self">김두일</a>
-</p>
-<p>
-<time datetime="">2024.10.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206736/20673614.jpg?version=20241007120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
