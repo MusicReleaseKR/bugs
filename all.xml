@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 17:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 18:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,7 +296,7 @@ NOAH
 <time datetime="">2024.10.08</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41082/4108262.jpg?version=20241008120025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41082/4108262.jpg?version=20241009025822.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Score (Feat. Chillin Homie) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -455,7 +455,7 @@ Cauli Flower
 <time datetime="">2024.10.08</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206741/20674154.jpg?version=20241008120016.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206741/20674154.jpg?version=20241009025603.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I'm trapped in you (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -779,7 +779,7 @@ Liam May
 <time datetime="">2024.10.07</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41081/4108180.jpg?version=20241008161331.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41081/4108180.jpg?version=20241009024650.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hello : My First Love (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1243,14 +1243,17 @@ Rain Sounds Reserve
             <guid>https://music.bugs.co.kr/album/36017758?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 08 Oct 2024 04:25:17 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11554764?wl_ref=list_ab_04" class="artistTitle" title="L12" onclick="
-" target="_self">L12</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11554764?wl_ref=list_ab_04" class="artistTitle" title="L12">L12</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'L12||L12||11554764||OK\\nVisão Produtora||Visão Produtora||13894523||OK', ''); return false;">
+L12
+</a> </p>
 <p>
 <time datetime="">2024.10.08</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/360177/36017758.jpg?version=20241008120036.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360177/36017758.jpg?version=20241009024230.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rampant Devastation (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1355,7 +1358,7 @@ Rain Sounds Reserve
 <time datetime="">2024.10.08</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/359992/35999274.jpg?version=20241008000025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/359992/35999274.jpg?version=20241009023425.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mãe_Solo (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -3161,7 +3164,7 @@ entoy
 <time datetime="">2024.10.08</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206755/20675580.jpg?version=1728380348000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206755/20675580.jpg?version=1728408214000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miss you (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
