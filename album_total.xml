@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Oct 2024 02:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 03:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,36 @@ Kudos
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/359954/35995419.jpg?version=20241009014104.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wave]]></title>
+            <link>https://music.bugs.co.kr/album/35720162?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35720162?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 09 Oct 2024 03:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13774512?wl_ref=list_ab_04" class="artistTitle" title="Shayen Milo" onclick="
+" target="_self">Shayen Milo</a>
+</p>
+<p>
+<time datetime="">2024.10.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357201/35720162.jpg?version=20241009120040.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blue Moon]]></title>
+            <link>https://music.bugs.co.kr/album/35602365?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35602365?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 09 Oct 2024 03:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13820298?wl_ref=list_ab_04" class="artistTitle" title="Hlony" onclick="
+" target="_self">Hlony</a>
+</p>
+<p>
+<time datetime="">2024.10.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/356023/35602365.jpg?version=20241009120040.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Widow]]></title>
@@ -1047,36 +1077,6 @@ Camila Nebbia
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206732/20673294.jpg?version=20241008120036.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vivant]]></title>
-            <link>https://music.bugs.co.kr/album/20673286?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20673286?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 08 Oct 2024 04:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80250444?wl_ref=list_ab_04" class="artistTitle" title="Malik Djoudi(말릭 주디)" onclick="
-" target="_self">Malik Djoudi(말릭 주디)</a>
-</p>
-<p>
-<time datetime="">2024.10.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206732/20673286.jpg?version=20241008120036.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE ONE YOU WANTED]]></title>
-            <link>https://music.bugs.co.kr/album/4108221?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4108221?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 08 Oct 2024 10:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80048278?wl_ref=list_ab_04" class="artistTitle" title="박재범" onclick="
-" target="_self">박재범</a>
-</p>
-<p>
-<time datetime="">2024.10.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41082/4108221.jpg?version=20241009011437.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
