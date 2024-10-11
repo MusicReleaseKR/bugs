@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 03:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 04:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[trampoline]]></title>
+            <link>https://music.bugs.co.kr/album/20676339?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20676339?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 11 Oct 2024 04:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20147081?wl_ref=list_ab_04" class="artistTitle" title="Billlie (빌리)" onclick="
+" target="_self">Billlie (빌리)</a>
+</p>
+<p>
+<time datetime="">2024.10.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206763/20676339.jpg?version=20241011130005.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mantra]]></title>
             <link>https://music.bugs.co.kr/album/4108354?wl_ref=list_ab_03</link>
@@ -124,7 +139,7 @@
 <time datetime="">2024.10.11</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206753/20675389.jpg?version=20241011120027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206753/20675389.jpg?version=20241011132307.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[POV]]></title>
@@ -1057,21 +1072,6 @@ KENZIE
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206759/20675943.jpg?version=20241010120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Timeline]]></title>
-            <link>https://music.bugs.co.kr/album/4108305?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4108305?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 10 Oct 2024 03:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80385706?wl_ref=list_ab_04" class="artistTitle" title="HIP-ON" onclick="
-" target="_self">HIP-ON</a>
-</p>
-<p>
-<time datetime="">2024.10.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41083/4108305.jpg?version=20241010120028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
