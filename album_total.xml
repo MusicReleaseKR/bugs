@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 09:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 10:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -759,6 +759,36 @@ The Illusory Explainer
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206767/20676777.jpg?version=20241014120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Remember 2024]]></title>
+            <link>https://music.bugs.co.kr/album/20676689?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20676689?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 14 Oct 2024 10:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20146064?wl_ref=list_ab_04" class="artistTitle" title="Pre$$BullDogg" onclick="
+" target="_self">Pre$$BullDogg</a>
+</p>
+<p>
+<time datetime="">2024.10.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206766/20676689.jpg?version=20241014180032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 떨어지는 꽃잎처럼 아름다운 것]]></title>
+            <link>https://music.bugs.co.kr/album/20676650?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20676650?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 14 Oct 2024 10:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20058357?wl_ref=list_ab_04" class="artistTitle" title="범진" onclick="
+" target="_self">범진</a>
+</p>
+<p>
+<time datetime="">2024.10.14</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206766/20676650.jpg?version=20241014180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나뭇잎이 춤추는 순간]]></title>
             <link>https://music.bugs.co.kr/album/20676636?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20676636?wl_ref=list_ab_03</guid>
@@ -1042,36 +1072,6 @@ The Illusory Explainer
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206757/20675787.jpg?version=20241014120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Music for Ballet Class “The Joy of Dancing” vol.1]]></title>
-            <link>https://music.bugs.co.kr/album/20675629?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20675629?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 14 Oct 2024 04:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20220514?wl_ref=list_ab_04" class="artistTitle" title="이미아" onclick="
-" target="_self">이미아</a>
-</p>
-<p>
-<time datetime="">2024.10.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206756/20675629.jpg?version=20241014120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Broken Records]]></title>
-            <link>https://music.bugs.co.kr/album/20675551?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20675551?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 14 Oct 2024 04:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13832111?wl_ref=list_ab_04" class="artistTitle" title="Just Jan" onclick="
-" target="_self">Just Jan</a>
-</p>
-<p>
-<time datetime="">2024.10.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206755/20675551.jpg?version=20241014120033.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
