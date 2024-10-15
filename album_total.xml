@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 14:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 15:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[trampoline]]></title>
+            <link>https://music.bugs.co.kr/album/20676339?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20676339?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 15 Oct 2024 15:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20147081?wl_ref=list_ab_04" class="artistTitle" title="Billlie (빌리)" onclick="
+" target="_self">Billlie (빌리)</a>
+</p>
+<p>
+<time datetime="">2024.10.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206763/20676339.jpg?version=20241012013330.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do Like I Do]]></title>
+            <link>https://music.bugs.co.kr/album/34538686?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34538686?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 15 Oct 2024 15:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13453568?wl_ref=list_ab_04" class="artistTitle" title="Peter Dreams" onclick="
+" target="_self">Peter Dreams</a>
+</p>
+<p>
+<time datetime="">2024.10.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/345386/34538686.jpg?version=20241016000026.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6lur]]></title>
             <link>https://music.bugs.co.kr/album/36101165?wl_ref=list_ab_03</link>
@@ -1065,36 +1095,6 @@ T@KY
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206769/20676912.jpg?version=20241015120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get Some Rest]]></title>
-            <link>https://music.bugs.co.kr/album/20676911?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20676911?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 15 Oct 2024 04:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20163915?wl_ref=list_ab_04" class="artistTitle" title="달빛 블루스" onclick="
-" target="_self">달빛 블루스</a>
-</p>
-<p>
-<time datetime="">2024.10.15</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206769/20676911.jpg?version=20241015120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STAY WARM Vol.5]]></title>
-            <link>https://music.bugs.co.kr/album/20676819?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20676819?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 15 Oct 2024 04:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20210077?wl_ref=list_ab_04" class="artistTitle" title="STAY WARM" onclick="
-" target="_self">STAY WARM</a>
-</p>
-<p>
-<time datetime="">2024.10.15</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206768/20676819.jpg?version=20241015120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

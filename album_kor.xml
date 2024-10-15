@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 14:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 15:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[trampoline]]></title>
+            <link>https://music.bugs.co.kr/album/20676339?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20676339?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 15 Oct 2024 15:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20147081?wl_ref=list_ab_04" class="artistTitle" title="Billlie (빌리)" onclick="
+" target="_self">Billlie (빌리)</a>
+</p>
+<p>
+<time datetime="">2024.10.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206763/20676339.jpg?version=1728664410000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수면 권장 음악집]]></title>
             <link>https://music.bugs.co.kr/album/20677048?wl_ref=list_ab_03</link>
@@ -1050,21 +1065,6 @@ BIG Naughty (서동현)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206769/20676941.jpg?version=1728961234000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Do or Die]]></title>
-            <link>https://music.bugs.co.kr/album/20676939?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20676939?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 15 Oct 2024 04:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20162988?wl_ref=list_ab_04" class="artistTitle" title="55 Cancri E" onclick="
-" target="_self">55 Cancri E</a>
-</p>
-<p>
-<time datetime="">2024.10.15</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206769/20676939.jpg?version=1728961234000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
