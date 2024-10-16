@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 09:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 10:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WIPLASH]]></title>
+            <link>https://music.bugs.co.kr/album/36103698?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36103698?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 16 Oct 2024 10:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8248101?wl_ref=list_ab_04" class="artistTitle" title="Wiplash" onclick="
+" target="_self">Wiplash</a>
+</p>
+<p>
+<time datetime="">2024.10.16</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361036/36103698.jpg?version=20241016131004.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Odd Kid, Öddy]]></title>
             <link>https://music.bugs.co.kr/album/36103372?wl_ref=list_ab_03</link>
@@ -1151,24 +1166,6 @@ Relaksacyjna muzyka
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350950/35095061.jpg?version=20241016120040.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mga Alon ng Pagninilay]]></title>
-            <link>https://music.bugs.co.kr/album/35095053?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35095053?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 16 Oct 2024 04:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13091766?wl_ref=list_ab_04" class="artistTitle" title="Nakakarelaks na Musika">Nakakarelaks na Musika</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Nakakarelaks na Musika||Nakakarelaks na Musika||13091766||OK\\nMga Tunog ng Buwan||Mga Tunog ng Buwan||13091740||OK', ''); return false;">
-Nakakarelaks na Musika
-</a> </p>
-<p>
-<time datetime="">2024.10.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350950/35095053.jpg?version=20241016120040.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
