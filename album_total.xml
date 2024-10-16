@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 14:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 15:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EL LUGAR MÁS BONITO DEL MUNDO]]></title>
+            <link>https://music.bugs.co.kr/album/35772390?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35772390?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 16 Oct 2024 15:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12049072?wl_ref=list_ab_04" class="artistTitle" title="Jovin" onclick="
+" target="_self">Jovin</a>
+</p>
+<p>
+<time datetime="">2024.10.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357723/35772390.jpg?version=20241017000026.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WIPLASH]]></title>
             <link>https://music.bugs.co.kr/album/36103698?wl_ref=list_ab_03</link>
@@ -1149,24 +1164,6 @@ Música relaxante
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/350950/35095069.jpg?version=20241016120040.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fale medytacji]]></title>
-            <link>https://music.bugs.co.kr/album/35095061?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35095061?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 16 Oct 2024 04:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13091844?wl_ref=list_ab_04" class="artistTitle" title="Relaksacyjna muzyka">Relaksacyjna muzyka</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Relaksacyjna muzyka||Relaksacyjna muzyka||13091844||OK\\nKsiężycowe melodie||Księżycowe melodie||13091691||OK', ''); return false;">
-Relaksacyjna muzyka
-</a> </p>
-<p>
-<time datetime="">2024.10.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350950/35095061.jpg?version=20241016120040.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
