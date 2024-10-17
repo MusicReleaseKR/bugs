@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 09:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 10:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Preludes]]></title>
+            <link>https://music.bugs.co.kr/album/36117119?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36117119?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 17 Oct 2024 10:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13927109?wl_ref=list_ab_04" class="artistTitle" title="고연경" onclick="
+" target="_self">고연경</a>
+</p>
+<p>
+<time datetime="">2024.10.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361171/36117119.jpg?version=20241017143003.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Functional Beautiful]]></title>
             <link>https://music.bugs.co.kr/album/36111130?wl_ref=list_ab_03</link>
@@ -785,6 +800,21 @@ Orquesta Francisco Canaro
             <enclosure url="https://image.bugsm.co.kr/album/images/170/360351/36035168.jpg?version=20241017000026.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1996]]></title>
+            <link>https://music.bugs.co.kr/album/36033407?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36033407?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 17 Oct 2024 10:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13641622?wl_ref=list_ab_04" class="artistTitle" title="王子异" onclick="
+" target="_self">王子异</a>
+</p>
+<p>
+<time datetime="">2024.10.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360334/36033407.jpg?version=20241017130025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[No Club]]></title>
             <link>https://music.bugs.co.kr/album/36031011?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36031011?wl_ref=list_ab_03</guid>
@@ -1053,42 +1083,6 @@ Giai Điệu Nhỏ - Vần Điệu Trẻ Thơ
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/337265/33726564.jpg?version=20241017120042.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Музика для глибокого сну]]></title>
-            <link>https://music.bugs.co.kr/album/33726533?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33726533?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Oct 2024 04:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/533?wl_ref=list_ab_04" class="artistTitle" title="Various Artists">Various Artists</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Various Artists||Various Artists||533||OK\\nКолискова Лали - Дитяча Музика||Колискова Лали - Дитяча Музика||13518958||OK', ''); return false;">
-Various Artists
-</a> </p>
-<p>
-<time datetime="">2024.10.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337265/33726533.jpg?version=20241017120042.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Derin Uyku Müziği]]></title>
-            <link>https://music.bugs.co.kr/album/33726502?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33726502?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Oct 2024 04:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13508385?wl_ref=list_ab_04" class="artistTitle" title="Minik Melodiler - Tekerlemeler">Minik Melodiler - Tekerlemeler</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Minik Melodiler - Tekerlemeler||Minik Melodiler - Tekerlemeler||13508385||OK\\nLala\'nın Ninnisi - Çocuk Müziği||Lala\'nın Ninnisi - Çocuk Müziği||13508285||OK', ''); return false;">
-Minik Melodiler - Tekerlemeler
-</a> </p>
-<p>
-<time datetime="">2024.10.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337265/33726502.jpg?version=20241017120042.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
