@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 15:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 16:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,21 @@ Ayo Sk3tch
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/357814/35781428.jpg?version=20241018000029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Twenty-seven o'clock]]></title>
+            <link>https://music.bugs.co.kr/album/35745372?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35745372?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 17 Oct 2024 16:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13748453?wl_ref=list_ab_04" class="artistTitle" title="Zou Peipei" onclick="
+" target="_self">Zou Peipei</a>
+</p>
+<p>
+<time datetime="">2024.10.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357453/35745372.jpg?version=20241018010019.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ashq Bûm]]></title>
@@ -295,7 +310,7 @@ Ayo Sk3tch
 <time datetime="">2024.10.17</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361099/36109950.jpg?version=20241017005928.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361099/36109950.jpg?version=20241018004507.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RAT WARS ULTRA EDITION]]></title>
@@ -340,7 +355,7 @@ Ayo Sk3tch
 <time datetime="">2024.10.17</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361037/36103714.jpg?version=20241017120042.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361037/36103714.jpg?version=20241018005320.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Techno Pulse]]></title>
@@ -880,7 +895,7 @@ Ayo Sk3tch
 <time datetime="">2024.10.17</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/360557/36055745.jpg?version=20241017080040.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360557/36055745.jpg?version=20241018012219.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mozart - Martha Argerich]]></title>
@@ -910,7 +925,7 @@ Ayo Sk3tch
 <time datetime="">2024.10.17</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/360554/36055490.jpg?version=20241017080053.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360554/36055490.jpg?version=20241018012700.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Handel, Bach, Vivaldi, Mozart, Beethoven, Brahms...]]></title>
@@ -1058,21 +1073,6 @@ Orquesta Francisco Canaro
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/360334/36033407.jpg?version=20241017130025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No Club]]></title>
-            <link>https://music.bugs.co.kr/album/36031011?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36031011?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 17 Oct 2024 04:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11129531?wl_ref=list_ab_04" class="artistTitle" title="Zabala" onclick="
-" target="_self">Zabala</a>
-</p>
-<p>
-<time datetime="">2024.10.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/360310/36031011.jpg?version=20241017000026.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
