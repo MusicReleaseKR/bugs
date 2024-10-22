@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 04:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 05:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,9 @@ notjustmalo
 </p>
 <p>
 <time datetime="">2024.10.22</time>
-<span class="albumType">싱글</span>
+<span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206772/20677243.jpg?version=20241022120020.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206772/20677243.jpg?version=20241022133316.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NEPTUNE! (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1658,7 +1658,7 @@ Fillo
 <time datetime="">2024.10.22</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206778/20677860.jpg?version=20241022120033.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206778/20677860.jpg?version=20241022141854.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오래된 노래, 틈 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1824,6 +1824,21 @@ Fillo
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206772/20677258.jpg?version=20241022120033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그런데 그래 난 너를 사랑해 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20677243?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20677243?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Oct 2024 03:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80101818?wl_ref=list_ab_04" class="artistTitle" title="제이벨(J BEL)" onclick="
+" target="_self">제이벨(J BEL)</a>
+</p>
+<p>
+<time datetime="">2024.10.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206772/20677243.jpg?version=20241022133316.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Scheherazade (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2114,25 +2129,10 @@ Ramasjang
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361212/36121238.jpg?version=20241022013859.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Natures Path (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/36121197?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36121197?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13882686?wl_ref=list_ab_04" class="artistTitle" title="clik clak" onclick="
-" target="_self">clik clak</a>
-</p>
-<p>
-<time datetime="">2024.10.22</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361211/36121197.jpg?version=20241022035057.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[국악과 힙합, 결사 (決死) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20678829?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20678829?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20159237?wl_ref=list_ab_04" class="artistTitle" title="프로듀서 박지훈 (Producer Jihun Park)" onclick="
 " target="_self">프로듀서 박지훈 (Producer Jihun Park)</a>
@@ -2147,7 +2147,7 @@ Ramasjang
             <title><![CDATA[Lazy (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20678580?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20678580?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20219112?wl_ref=list_ab_04" class="artistTitle" title="Gouda Jazz" onclick="
 " target="_self">Gouda Jazz</a>
@@ -2162,7 +2162,7 @@ Ramasjang
             <title><![CDATA[쟁글쟁글 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20678032?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20678032?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20082135?wl_ref=list_ab_04" class="artistTitle" title="윤도경" onclick="
 " target="_self">윤도경</a>
@@ -2177,7 +2177,7 @@ Ramasjang
             <title><![CDATA[코지 커피라운지 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20678002?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20678002?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20214124?wl_ref=list_ab_04" class="artistTitle" title="LeoSky" onclick="
 " target="_self">LeoSky</a>
@@ -2207,7 +2207,7 @@ Ramasjang
             <title><![CDATA[New Vol.9 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677468?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677468?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20217100?wl_ref=list_ab_04" class="artistTitle" title="Burning Thursday" onclick="
 " target="_self">Burning Thursday</a>
@@ -2222,7 +2222,7 @@ Ramasjang
             <title><![CDATA[Footsteps (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677427?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677427?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20221148?wl_ref=list_ab_04" class="artistTitle" title="YingYang" onclick="
 " target="_self">YingYang</a>
@@ -2237,7 +2237,7 @@ Ramasjang
             <title><![CDATA[My Conversation (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677421?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677421?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20003264?wl_ref=list_ab_04" class="artistTitle" title="이한얼(Lee Han-Earl)" onclick="
 " target="_self">이한얼(Lee Han-Earl)</a>
@@ -2252,7 +2252,7 @@ Ramasjang
             <title><![CDATA[이상아의 재즈&피아노 Part.3 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677357?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677357?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80333555?wl_ref=list_ab_04" class="artistTitle" title="이상아" onclick="
 " target="_self">이상아</a>
@@ -2267,7 +2267,7 @@ Ramasjang
             <title><![CDATA[정희의추억의카바레트로트 8 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677286?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677286?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20020544?wl_ref=list_ab_04" class="artistTitle" title="정희" onclick="
 " target="_self">정희</a>
@@ -2282,7 +2282,7 @@ Ramasjang
             <title><![CDATA[Saint-Saens piano pieces 3 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677282?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677282?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20206355?wl_ref=list_ab_04" class="artistTitle" title="PSMmusic" onclick="
 " target="_self">PSMmusic</a>
@@ -2297,7 +2297,7 @@ Ramasjang
             <title><![CDATA[양연희의 8집 흘러간 옛노래 No.3 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677276?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677276?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20170383?wl_ref=list_ab_04" class="artistTitle" title="양연희" onclick="
 " target="_self">양연희</a>
@@ -2312,7 +2312,7 @@ Ramasjang
             <title><![CDATA[그사람 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677268?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677268?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20221078?wl_ref=list_ab_04" class="artistTitle" title="성기성" onclick="
 " target="_self">성기성</a>
@@ -2327,7 +2327,7 @@ Ramasjang
             <title><![CDATA[현만 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677264?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677264?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80117364?wl_ref=list_ab_04" class="artistTitle" title="현만" onclick="
 " target="_self">현만</a>
@@ -2342,7 +2342,7 @@ Ramasjang
             <title><![CDATA[personnel sugar (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677258?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677258?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20221075?wl_ref=list_ab_04" class="artistTitle" title="HSXA" onclick="
 " target="_self">HSXA</a>
@@ -2354,10 +2354,25 @@ Ramasjang
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206772/20677258.jpg?version=1729566033000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그런데 그래 난 너를 사랑해 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20677243?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20677243?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 22 Oct 2024 03:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80101818?wl_ref=list_ab_04" class="artistTitle" title="제이벨(J BEL)" onclick="
+" target="_self">제이벨(J BEL)</a>
+</p>
+<p>
+<time datetime="">2024.10.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206772/20677243.jpg?version=1729571596000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lazy Morning (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677205?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677205?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20218359?wl_ref=list_ab_04" class="artistTitle" title="Narim" onclick="
 " target="_self">Narim</a>
@@ -2387,7 +2402,7 @@ Ramasjang
             <title><![CDATA[Ethereal Lofi Ananchel (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20677001?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20677001?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20175217?wl_ref=list_ab_04" class="artistTitle" title="무브 (MOOB)" onclick="
 " target="_self">무브 (MOOB)</a>
@@ -2402,7 +2417,7 @@ Ramasjang
             <title><![CDATA[Ethereal Lofi Aphrodiel (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20676997?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20676997?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20175217?wl_ref=list_ab_04" class="artistTitle" title="무브 (MOOB)" onclick="
 " target="_self">무브 (MOOB)</a>
@@ -2432,7 +2447,7 @@ Ramasjang
             <title><![CDATA[운동하자 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/4108758?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4108758?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 04:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/13720458?wl_ref=list_ab_04" class="artistTitle" title="blackearth" onclick="
 " target="_self">blackearth</a>
@@ -3074,7 +3089,7 @@ Ramasjang
 <time datetime="">2024.10.22</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206785/20678568.jpg?version=1729566033000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206785/20678568.jpg?version=1729573187000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10월의 마지막 밤 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3165,21 +3180,6 @@ Ramasjang
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206783/20678318.jpg?version=1729566033000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Letter (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20678218?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20678218?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 22 Oct 2024 04:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20221375?wl_ref=list_ab_04" class="artistTitle" title="김은영" onclick="
-" target="_self">김은영</a>
-</p>
-<p>
-<time datetime="">2024.10.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206782/20678218.jpg?version=1729566033000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
