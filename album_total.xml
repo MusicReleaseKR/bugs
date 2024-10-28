@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 09:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 10:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alberobello]]></title>
+            <link>https://music.bugs.co.kr/album/36174275?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36174275?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 28 Oct 2024 10:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11299685?wl_ref=list_ab_04" class="artistTitle" title="Soft Jazz" onclick="
+" target="_self">Soft Jazz</a>
+</p>
+<p>
+<time datetime="">2024.10.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://file.bugsm.co.kr/wbugs/common/i_default_170x170.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Jag önskar jag brydde mig mer... men det gör jag egentligen]]></title>
             <link>https://music.bugs.co.kr/album/36166772?wl_ref=list_ab_03</link>
@@ -1091,21 +1106,6 @@ Halloween Music
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/360935/36093513.jpg?version=20241028120044.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy Dance]]></title>
-            <link>https://music.bugs.co.kr/album/36093494?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36093494?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 28 Oct 2024 04:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13917938?wl_ref=list_ab_04" class="artistTitle" title="Peter hanashiro" onclick="
-" target="_self">Peter hanashiro</a>
-</p>
-<p>
-<time datetime="">2024.10.28</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/360934/36093494.jpg?version=20241028120044.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
