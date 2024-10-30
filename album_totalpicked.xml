@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 03:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 04:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,6 +171,24 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41091/4109127.jpg?version=20241030120024.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nostalgia 2000]]></title>
+            <link>https://music.bugs.co.kr/album/4109147?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4109147?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 30 Oct 2024 04:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11940505?wl_ref=list_ab_04" class="artistTitle" title="P3PPER">P3PPER</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'P3PPER||P3PPER||11940505||OK\\nThe Deep||The Deep||80285571||OK', ''); return false;">
+P3PPER
+</a> </p>
+<p>
+<time datetime="">2024.10.30</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41091/4109147.jpg?version=20241030130029.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강매강]]></title>
@@ -1051,21 +1069,6 @@ Gucci Mane(구찌 메인)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206798/20679892.jpg?version=20241029120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내삶은 아직 진행중]]></title>
-            <link>https://music.bugs.co.kr/album/20680376?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20680376?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 29 Oct 2024 03:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/5829?wl_ref=list_ab_04" class="artistTitle" title="이규석" onclick="
-" target="_self">이규석</a>
-</p>
-<p>
-<time datetime="">2024.10.29</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206803/20680376.jpg?version=20241030012204.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
