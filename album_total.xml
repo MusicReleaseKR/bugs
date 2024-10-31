@@ -4,24 +4,9 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 01:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 02:55:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Candy Reign]]></title>
-            <link>https://music.bugs.co.kr/album/33393823?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33393823?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 30 Oct 2024 15:31:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12733940?wl_ref=list_ab_04" class="artistTitle" title="The Candy Rapper's" onclick="
-" target="_self">The Candy Rapper's</a>
-</p>
-<p>
-<time datetime="">2024.10.31</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/333938/33393823.jpg?version=20241031000024.0" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Christmas Candlelight Night Christmas Background Piano Music]]></title>
             <link>https://music.bugs.co.kr/album/36190717?wl_ref=list_ab_03</link>
@@ -356,7 +341,7 @@ Nickelodeon
 <time datetime="">2024.10.30</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361671/36167132.jpg?version=20241030010547.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361671/36167132.jpg?version=20241031104038.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ERA]]></title>
@@ -593,10 +578,10 @@ TUNA
 Camille Maurane
 </a> </p>
 <p>
-<time datetime="">2024.10.30</time>
+<time datetime="">2024.10.31</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361328/36132820.jpg?version=20241031004658.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361328/36132820.jpg?version=20241031111336.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VALENTINE (LET U GO)]]></title>
@@ -1113,6 +1098,21 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/360949/36094986.jpg?version=20241030120041.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Twinkling Emotions]]></title>
+            <link>https://music.bugs.co.kr/album/36094985?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36094985?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 31 Oct 2024 02:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13918261?wl_ref=list_ab_04" class="artistTitle" title="荒木多賀司" onclick="
+" target="_self">荒木多賀司</a>
+</p>
+<p>
+<time datetime="">2024.10.30</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360949/36094985.jpg?version=20241030120041.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
