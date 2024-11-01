@@ -4,9 +4,57 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 09:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 10:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Không Ai Nói Chia Tay, Là Anh Ngộ Nhận]]></title>
+            <link>https://music.bugs.co.kr/album/36202553?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36202553?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Nov 2024 10:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13091133?wl_ref=list_ab_04" class="artistTitle" title="Linh Hương Luz">Linh Hương Luz</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Linh Hương Luz||Linh Hương Luz||13091133||OK\\nMeMe Media||MeMe Media||13767400||OK', ''); return false;">
+Linh Hương Luz
+</a> </p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/362025/36202553.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dieuson Octave]]></title>
+            <link>https://music.bugs.co.kr/album/36202513?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36202513?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Nov 2024 10:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80253195?wl_ref=list_ab_04" class="artistTitle" title="Kodak Black(코닥 블랙)" onclick="
+" target="_self">Kodak Black(코닥 블랙)</a>
+</p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/362025/36202513.jpg?version=20241101142301.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eternal Atake 2]]></title>
+            <link>https://music.bugs.co.kr/album/36202508?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36202508?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Nov 2024 10:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80212732?wl_ref=list_ab_04" class="artistTitle" title="Lil Uzi Vert(릴 우지 버트)" onclick="
+" target="_self">Lil Uzi Vert(릴 우지 버트)</a>
+</p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/362025/36202508.jpg?version=20241101130025.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tutti i Nomi del Diavolo]]></title>
             <link>https://music.bugs.co.kr/album/36202497?wl_ref=list_ab_03</link>
@@ -150,6 +198,24 @@ Intrada Vocal Ensemble
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361999/36199984.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finally]]></title>
+            <link>https://music.bugs.co.kr/album/36199969?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36199969?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Nov 2024 10:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80072788?wl_ref=list_ab_04" class="artistTitle" title="Swedish House Mafia(스웨디시 하우스 마피아)">Swedish House Mafia(스웨디시 하우스 마피아)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Swedish House Mafia||Swedish House Mafia(스웨디시 하우스 마피아)||80072788||OK\\nAlicia Keys||Alicia Keys(앨리샤 키스)||6178||OK', ''); return false;">
+Swedish House Mafia(스웨디시 하우스 마피아)
+</a> </p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361999/36199969.jpg?version=20241101142301.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Songs Of A Lost World]]></title>
@@ -674,6 +740,36 @@ didighost
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361912/36191255.jpg?version=20241101011905.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[New Beginnings]]></title>
+            <link>https://music.bugs.co.kr/album/36191246?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36191246?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Nov 2024 10:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13852778?wl_ref=list_ab_04" class="artistTitle" title="greatestredefined" onclick="
+" target="_self">greatestredefined</a>
+</p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361912/36191246.jpg?version=20241101130033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Tried To Show Love]]></title>
+            <link>https://music.bugs.co.kr/album/36191245?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36191245?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Nov 2024 10:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13519702?wl_ref=list_ab_04" class="artistTitle" title="Waddie Guapo" onclick="
+" target="_self">Waddie Guapo</a>
+</p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361912/36191245.jpg?version=20241101130033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Constellations]]></title>
             <link>https://music.bugs.co.kr/album/36191236?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36191236?wl_ref=list_ab_03</guid>
@@ -929,6 +1025,21 @@ didighost
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361892/36189235.jpg?version=20241101000029.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MEFA]]></title>
+            <link>https://music.bugs.co.kr/album/36189206?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36189206?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Nov 2024 10:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12832989?wl_ref=list_ab_04" class="artistTitle" title="TEMITOPE" onclick="
+" target="_self">TEMITOPE</a>
+</p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361892/36189206.jpg?version=20241101131003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[A Suprema Voz Do Blues]]></title>
             <link>https://music.bugs.co.kr/album/36189199?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36189199?wl_ref=list_ab_03</guid>
@@ -975,111 +1086,6 @@ JovemBlues
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361891/36189181.jpg?version=20241101000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alltaf sami Lui]]></title>
-            <link>https://music.bugs.co.kr/album/36189130?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36189130?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Nov 2024 04:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8085952?wl_ref=list_ab_04" class="artistTitle" title="Luigi" onclick="
-" target="_self">Luigi</a>
-</p>
-<p>
-<time datetime="">2024.11.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361891/36189130.jpg?version=20241101000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MALA FAMA]]></title>
-            <link>https://music.bugs.co.kr/album/36188838?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36188838?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Nov 2024 04:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11954118?wl_ref=list_ab_04" class="artistTitle" title="Los Chavalos De La Perla" onclick="
-" target="_self">Los Chavalos De La Perla</a>
-</p>
-<p>
-<time datetime="">2024.11.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361888/36188838.jpg?version=20241101000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blunt Objects]]></title>
-            <link>https://music.bugs.co.kr/album/36188716?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36188716?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Nov 2024 04:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13041572?wl_ref=list_ab_04" class="artistTitle" title="Buck Raines" onclick="
-" target="_self">Buck Raines</a>
-</p>
-<p>
-<time datetime="">2024.11.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361887/36188716.jpg?version=20241101004610.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Little Rope (Deluxe)]]></title>
-            <link>https://music.bugs.co.kr/album/36188608?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36188608?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Nov 2024 04:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80004418?wl_ref=list_ab_04" class="artistTitle" title="Sleater-Kinney(슬레이터-키니)" onclick="
-" target="_self">Sleater-Kinney(슬레이터-키니)</a>
-</p>
-<p>
-<time datetime="">2024.11.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361886/36188608.jpg?version=20241101104450.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Third Place]]></title>
-            <link>https://music.bugs.co.kr/album/36188606?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36188606?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Nov 2024 04:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80150451?wl_ref=list_ab_04" class="artistTitle" title="Fritz Kalkbrenner" onclick="
-" target="_self">Fritz Kalkbrenner</a>
-</p>
-<p>
-<time datetime="">2024.11.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361886/36188606.jpg?version=20241101104450.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Baby Making]]></title>
-            <link>https://music.bugs.co.kr/album/36188596?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36188596?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Nov 2024 04:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80228272?wl_ref=list_ab_04" class="artistTitle" title="Jacquees" onclick="
-" target="_self">Jacquees</a>
-</p>
-<p>
-<time datetime="">2024.11.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361885/36188596.jpg?version=20241101104450.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOST IN HEAVEN]]></title>
-            <link>https://music.bugs.co.kr/album/36188594?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36188594?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 01 Nov 2024 07:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80277110?wl_ref=list_ab_04" class="artistTitle" title="Chase Atlantic" onclick="
-" target="_self">Chase Atlantic</a>
-</p>
-<p>
-<time datetime="">2024.11.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361885/36188594.jpg?version=20241101104450.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
