@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Nov 2024 09:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 10:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -743,6 +743,21 @@ LO-FI CHILL
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206807/20680786.jpg?version=20241102120037.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[꿈과 그대와 우글우글 좀비들]]></title>
+            <link>https://music.bugs.co.kr/album/4109331?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4109331?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 02 Nov 2024 10:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20112787?wl_ref=list_ab_04" class="artistTitle" title="하람" onclick="
+" target="_self">하람</a>
+</p>
+<p>
+<time datetime="">2024.11.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41093/4109331.jpg?version=20241102180033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Yann Tiersen: 3 Pieces (From "Amélie")]]></title>
             <link>https://music.bugs.co.kr/album/36204640?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36204640?wl_ref=list_ab_03</guid>
@@ -891,6 +906,21 @@ LO-FI CHILL
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361929/36192968.jpg?version=20241102010910.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jing Dreamscape]]></title>
+            <link>https://music.bugs.co.kr/album/36191370?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36191370?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 02 Nov 2024 10:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13953277?wl_ref=list_ab_04" class="artistTitle" title="Zhao JiaJingYun" onclick="
+" target="_self">Zhao JiaJingYun</a>
+</p>
+<p>
+<time datetime="">2024.11.02</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361913/36191370.jpg?version=20241102130004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sonidos para encontrarte]]></title>
@@ -1062,36 +1092,6 @@ Chill Panda
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/360299/36029988.jpg?version=20241102120037.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Highs and Lows]]></title>
-            <link>https://music.bugs.co.kr/album/36010165?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36010165?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 02 Nov 2024 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13886434?wl_ref=list_ab_04" class="artistTitle" title="J.Concrete" onclick="
-" target="_self">J.Concrete</a>
-</p>
-<p>
-<time datetime="">2024.11.02</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/360101/36010165.jpg?version=20241102120037.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zorba]]></title>
-            <link>https://music.bugs.co.kr/album/35877997?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35877997?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 02 Nov 2024 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13784802?wl_ref=list_ab_04" class="artistTitle" title="Ambizen" onclick="
-" target="_self">Ambizen</a>
-</p>
-<p>
-<time datetime="">2024.11.02</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/358779/35877997.jpg?version=20241102120037.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
