@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 14:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 15:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HAUTE COUTURE]]></title>
+            <link>https://music.bugs.co.kr/album/20682481?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20682481?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 05 Nov 2024 15:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80383518?wl_ref=list_ab_04" class="artistTitle" title="MISAMO (미사모)" onclick="
+" target="_self">MISAMO (미사모)</a>
+</p>
+<p>
+<time datetime="">2024.11.06</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206824/20682481.jpg?version=20241106000004.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[30]]></title>
             <link>https://music.bugs.co.kr/album/20681744?wl_ref=list_ab_03</link>
@@ -1044,21 +1059,6 @@ Jack David
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41093/4109348.jpg?version=20241104120021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모르겠어 (prod.영오 (05))]]></title>
-            <link>https://music.bugs.co.kr/album/4109354?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4109354?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 04 Nov 2024 03:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80137713?wl_ref=list_ab_04" class="artistTitle" title="안예슬" onclick="
-" target="_self">안예슬</a>
-</p>
-<p>
-<time datetime="">2024.11.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41093/4109354.jpg?version=20241105025459.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
