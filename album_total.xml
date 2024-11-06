@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 14:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 15:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fixworld]]></title>
+            <link>https://music.bugs.co.kr/album/36116766?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36116766?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 06 Nov 2024 15:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13140589?wl_ref=list_ab_04" class="artistTitle" title="Fixway" onclick="
+" target="_self">Fixway</a>
+</p>
+<p>
+<time datetime="">2024.11.07</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361167/36116766.jpg?version=20241107000029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inkunzi]]></title>
+            <link>https://music.bugs.co.kr/album/36188823?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36188823?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 06 Nov 2024 15:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11260197?wl_ref=list_ab_04" class="artistTitle" title="Ihhashi Elimhlophe" onclick="
+" target="_self">Ihhashi Elimhlophe</a>
+</p>
+<p>
+<time datetime="">2024.11.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361888/36188823.jpg?version=20241107000029.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[女子の日々]]></title>
             <link>https://music.bugs.co.kr/album/36324696?wl_ref=list_ab_03</link>
@@ -1095,36 +1125,6 @@ Malý Lotus - Jóga Hudba Pro Děti
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361351/36135144.jpg?version=20241106120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BIG LOVE]]></title>
-            <link>https://music.bugs.co.kr/album/36135142?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36135142?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Nov 2024 04:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13928328?wl_ref=list_ab_04" class="artistTitle" title="まりん" onclick="
-" target="_self">まりん</a>
-</p>
-<p>
-<time datetime="">2024.11.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361351/36135142.jpg?version=20241106120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Breath of the Sun Coloring the Sky]]></title>
-            <link>https://music.bugs.co.kr/album/36135141?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36135141?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Nov 2024 04:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13775186?wl_ref=list_ab_04" class="artistTitle" title="HAZUKI" onclick="
-" target="_self">HAZUKI</a>
-</p>
-<p>
-<time datetime="">2024.11.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361351/36135141.jpg?version=20241106120041.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
