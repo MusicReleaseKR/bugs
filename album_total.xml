@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 02:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 03:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,6 +116,24 @@ David Oistrakh(다비드 오이스트라흐)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361010/36101046.jpg?version=20241106000031.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Home Exile]]></title>
+            <link>https://music.bugs.co.kr/album/36044757?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36044757?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 06 Nov 2024 03:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13870219?wl_ref=list_ab_04" class="artistTitle" title="Parallel Moons">Parallel Moons</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Parallel Moons||Parallel Moons||13870219||OK\\nRoberto Boi||Roberto Boi||13870302||OK', ''); return false;">
+Parallel Moons
+</a> </p>
+<p>
+<time datetime="">2024.11.06</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360447/36044757.jpg?version=20241106120041.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Story]]></title>
             <link>https://music.bugs.co.kr/album/35190044?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/35190044?wl_ref=list_ab_03</guid>
@@ -144,6 +162,21 @@ David Oistrakh(다비드 오이스트라흐)
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361811/36181160.jpg?version=20241106105427.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BYE BYE LOVE (Live Session)]]></title>
+            <link>https://music.bugs.co.kr/album/20671272?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20671272?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 06 Nov 2024 03:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20168104?wl_ref=list_ab_04" class="artistTitle" title="Iruka Porisu" onclick="
+" target="_self">Iruka Porisu</a>
+</p>
+<p>
+<time datetime="">2024.11.06</time>
+<span class="albumType">라이브</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206712/20671272.jpg?version=20241106120041.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Paisajes Sonoros Para Relajarse Y Dormir]]></title>
@@ -1068,36 +1101,6 @@ Christian Lindberg
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361350/36135028.jpg?version=20241105120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ANGEL]]></title>
-            <link>https://music.bugs.co.kr/album/36135021?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36135021?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 05 Nov 2024 04:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11197438?wl_ref=list_ab_04" class="artistTitle" title="Coffy" onclick="
-" target="_self">Coffy</a>
-</p>
-<p>
-<time datetime="">2024.11.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361350/36135021.jpg?version=20241105120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[和風建築]]></title>
-            <link>https://music.bugs.co.kr/album/36135016?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36135016?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 05 Nov 2024 04:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13911771?wl_ref=list_ab_04" class="artistTitle" title="SideBurnz" onclick="
-" target="_self">SideBurnz</a>
-</p>
-<p>
-<time datetime="">2024.11.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361350/36135016.jpg?version=20241105120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
