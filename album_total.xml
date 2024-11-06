@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 09:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 10:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[女子の日々]]></title>
+            <link>https://music.bugs.co.kr/album/36324696?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36324696?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 06 Nov 2024 10:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13776139?wl_ref=list_ab_04" class="artistTitle" title="みずかげりんぶ" onclick="
+" target="_self">みずかげりんぶ</a>
+</p>
+<p>
+<time datetime="">2024.11.06</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://file.bugsm.co.kr/wbugs/common/i_default_170x170.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HOORAY!]]></title>
+            <link>https://music.bugs.co.kr/album/36322384?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36322384?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 06 Nov 2024 10:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11864140?wl_ref=list_ab_04" class="artistTitle" title="Kyle Kihira" onclick="
+" target="_self">Kyle Kihira</a>
+</p>
+<p>
+<time datetime="">2024.11.06</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363223/36322384.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Julsånger från Nordpolen]]></title>
             <link>https://music.bugs.co.kr/album/36320246?wl_ref=list_ab_03</link>
@@ -1095,42 +1125,6 @@ Malý Lotus - Jóga Hudba Pro Děti
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361351/36135141.jpg?version=20241106120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[三味線師範代P]]></title>
-            <link>https://music.bugs.co.kr/album/36134893?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36134893?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Nov 2024 04:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13928338?wl_ref=list_ab_04" class="artistTitle" title="塩故障">塩故障</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '塩故障||塩故障||13928338||OK\\n猫村いろは||猫村いろは||13928350||OK\\n初音ミク||初音ミク||11943841||OK', ''); return false;">
-塩故障
-</a> </p>
-<p>
-<time datetime="">2024.11.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361348/36134893.jpg?version=20241106120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Samen Sinterklaas Vieren met Alles Kids]]></title>
-            <link>https://music.bugs.co.kr/album/36131244?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36131244?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Nov 2024 04:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11955579?wl_ref=list_ab_04" class="artistTitle" title="Alles Kids">Alles Kids</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Alles Kids||Alles Kids||11955579||OK\\nSinterklaasliedjes Alles Kids||Sinterklaasliedjes Alles Kids||12001254||OK', ''); return false;">
-Alles Kids
-</a> </p>
-<p>
-<time datetime="">2024.11.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361312/36131244.jpg?version=20241106000031.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
