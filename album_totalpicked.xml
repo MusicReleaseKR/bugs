@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 14:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 15:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[December 25th]]></title>
+            <link>https://music.bugs.co.kr/album/36320730?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36320730?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Nov 2024 15:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80221620?wl_ref=list_ab_04" class="artistTitle" title="Charlie Puth(찰리 푸스)" onclick="
+" target="_self">Charlie Puth(찰리 푸스)</a>
+</p>
+<p>
+<time datetime="">2024.11.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363207/36320730.jpg?version=20241108000027.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The 5th Mini Album 'VOYAGE']]></title>
             <link>https://music.bugs.co.kr/album/4109470?wl_ref=list_ab_03</link>
@@ -38,21 +53,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206820/20682023.jpg?version=20241107180006.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리 사랑은 필름 같았으면 해요]]></title>
-            <link>https://music.bugs.co.kr/album/20683015?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20683015?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Nov 2024 09:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80240289?wl_ref=list_ab_04" class="artistTitle" title="그_냥" onclick="
-" target="_self">그_냥</a>
-</p>
-<p>
-<time datetime="">2024.11.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206830/20683015.jpg?version=20241107180028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[넌 가끔 날 놀리곤 하지]]></title>
             <link>https://music.bugs.co.kr/album/4109463?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4109463?wl_ref=list_ab_03</guid>
@@ -66,6 +66,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41094/4109463.jpg?version=20241107180003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 사랑은 필름 같았으면 해요]]></title>
+            <link>https://music.bugs.co.kr/album/20683015?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20683015?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Nov 2024 09:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80240289?wl_ref=list_ab_04" class="artistTitle" title="그_냥" onclick="
+" target="_self">그_냥</a>
+</p>
+<p>
+<time datetime="">2024.11.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206830/20683015.jpg?version=20241107180028.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노래가 된 너]]></title>
@@ -1067,21 +1082,6 @@ Planet Wave House
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206827/20682700.jpg?version=20241106120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 말]]></title>
-            <link>https://music.bugs.co.kr/album/20681028?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20681028?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Nov 2024 03:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20091743?wl_ref=list_ab_04" class="artistTitle" title="손예지" onclick="
-" target="_self">손예지</a>
-</p>
-<p>
-<time datetime="">2024.11.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206810/20681028.jpg?version=20241106120024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
