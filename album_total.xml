@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 02:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 03:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,21 @@ David Oistrakh(다비드 오이스트라흐)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361814/36181482.jpg?version=20241107081015.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤도희 가야금산조 성금연류 전바탕]]></title>
+            <link>https://music.bugs.co.kr/album/20671582?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20671582?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Nov 2024 03:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80353787?wl_ref=list_ab_04" class="artistTitle" title="윤도희" onclick="
+" target="_self">윤도희</a>
+</p>
+<p>
+<time datetime="">2024.11.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206715/20671582.jpg?version=20241107120013.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fixworld]]></title>
             <link>https://music.bugs.co.kr/album/36116766?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36116766?wl_ref=list_ab_03</guid>
@@ -114,6 +129,21 @@ David Oistrakh(다비드 오이스트라흐)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361888/36188823.jpg?version=20241107000029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bottlepost]]></title>
+            <link>https://music.bugs.co.kr/album/34890025?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34890025?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Nov 2024 03:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10505743?wl_ref=list_ab_04" class="artistTitle" title="Dante" onclick="
+" target="_self">Dante</a>
+</p>
+<p>
+<time datetime="">2024.11.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348900/34890025.jpg?version=20241107120013.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Peaceful Rest (Forever)]]></title>
@@ -1095,36 +1125,6 @@ Malý Lotus - Jóga Hudba Pro Děti
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361351/36135148.jpg?version=20241106120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[drop drop]]></title>
-            <link>https://music.bugs.co.kr/album/36135147?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36135147?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Nov 2024 04:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13928333?wl_ref=list_ab_04" class="artistTitle" title="チェケ之助" onclick="
-" target="_self">チェケ之助</a>
-</p>
-<p>
-<time datetime="">2024.11.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361351/36135147.jpg?version=20241106120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Utage]]></title>
-            <link>https://music.bugs.co.kr/album/36135144?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36135144?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Nov 2024 04:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13918046?wl_ref=list_ab_04" class="artistTitle" title="Yoii" onclick="
-" target="_self">Yoii</a>
-</p>
-<p>
-<time datetime="">2024.11.06</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361351/36135144.jpg?version=20241106120041.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
