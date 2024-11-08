@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 04:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 05:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,21 +36,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/363572/36357261.jpg?version=20241108094006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[For You]]></title>
-            <link>https://music.bugs.co.kr/album/36356678?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36356678?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 08 Nov 2024 04:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13963330?wl_ref=list_ab_04" class="artistTitle" title="GENBLUE幻藍小熊" onclick="
-" target="_self">GENBLUE幻藍小熊</a>
-</p>
-<p>
-<time datetime="">2024.11.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363566/36356678.jpg?version=20241108024223.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Quelle vie]]></title>
@@ -1074,6 +1059,21 @@ Kordhell
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/363220/36322074.jpg?version=20241108024113.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1994]]></title>
+            <link>https://music.bugs.co.kr/album/36322069?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36322069?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 08 Nov 2024 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12126070?wl_ref=list_ab_04" class="artistTitle" title="Nathan Evans" onclick="
+" target="_self">Nathan Evans</a>
+</p>
+<p>
+<time datetime="">2024.11.08</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363220/36322069.jpg?version=20241108013931.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
