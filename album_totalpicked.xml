@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 14:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 15:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -281,6 +281,24 @@ IVE (아이브)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41095/4109543.jpg?version=20241108140021.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아케인: 시즌 2 OST Act.1]]></title>
+            <link>https://music.bugs.co.kr/album/20683560?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20683560?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 08 Nov 2024 15:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20147028?wl_ref=list_ab_04" class="artistTitle" title="Arcane">Arcane</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Arcane||Arcane||20147028||OK\\nLeague of Legends||League of Legends||80293893||OK', ''); return false;">
+Arcane
+</a> </p>
+<p>
+<time datetime="">2024.11.08</time>
+<span class="albumType">OST</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206835/20683560.jpg?version=20241108140021.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Silent Night (feat. Eric Legnini)]]></title>
@@ -1063,21 +1081,6 @@ Auli'i Cravalho
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206824/20682457.jpg?version=20241107120000.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아기의 꿈]]></title>
-            <link>https://music.bugs.co.kr/album/20682645?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20682645?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Nov 2024 03:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80086852?wl_ref=list_ab_04" class="artistTitle" title="윤한(Yoonhan)" onclick="
-" target="_self">윤한(Yoonhan)</a>
-</p>
-<p>
-<time datetime="">2024.11.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206826/20682645.jpg?version=20241107120000.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
