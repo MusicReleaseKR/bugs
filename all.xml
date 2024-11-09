@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Nov 2024 14:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 15:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,21 @@ IVE (아이브)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206832/20683215.jpg?version=20241109011302.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Sky Looks Vast Here (Piano Solo) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34954365?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34954365?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 09 Nov 2024 15:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20177701?wl_ref=list_ab_04" class="artistTitle" title="Ruben Gerards" onclick="
+" target="_self">Ruben Gerards</a>
+</p>
+<p>
+<time datetime="">2024.11.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/349543/34954365.jpg?version=20241108000030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[wonderful christmastime (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/36327057?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36327057?wl_ref=list_ab_03</guid>
@@ -2133,24 +2148,6 @@ Mellowdy
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206831/20683133.jpg?version=20241109180026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천국에서 함께 노래해요 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20682834?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20682834?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 09 Nov 2024 04:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20073163?wl_ref=list_ab_04" class="artistTitle" title="박소정 알비나">박소정 알비나</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '박소정 알비나||박소정 알비나||20073163||OK\\n김경한||김경한(KIM KYOUNG HAN)||20069862||OK\\n크리스티나 제이||크리스티나 제이(Christina J.)||20158708||OK\\n김대규||김대규||20206765||OK', ''); return false;">
-박소정 알비나
-</a> </p>
-<p>
-<time datetime="">2024.11.09</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206828/20682834.jpg?version=20241109120032.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lofi Bookmark Tales (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
