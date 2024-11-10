@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 09:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 10:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -629,6 +629,21 @@ Torsten Abrolat
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206828/20682861.jpg?version=20241110120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Shibuya 428 Project Vol.2]]></title>
+            <link>https://music.bugs.co.kr/album/20682816?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20682816?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 10 Nov 2024 10:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20219490?wl_ref=list_ab_04" class="artistTitle" title="Shibuya 428" onclick="
+" target="_self">Shibuya 428</a>
+</p>
+<p>
+<time datetime="">2024.11.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206828/20682816.jpg?version=20241110180034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Saint Mary 6]]></title>
             <link>https://music.bugs.co.kr/album/20681109?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20681109?wl_ref=list_ab_03</guid>
@@ -672,6 +687,21 @@ Torsten Abrolat
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206811/20681105.jpg?version=20241110120033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trap Cula]]></title>
+            <link>https://music.bugs.co.kr/album/20679340?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20679340?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 10 Nov 2024 10:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20041645?wl_ref=list_ab_04" class="artistTitle" title="지네" onclick="
+" target="_self">지네</a>
+</p>
+<p>
+<time datetime="">2024.11.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206793/20679340.jpg?version=20241110180034.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Born A Star]]></title>
@@ -1035,39 +1065,6 @@ Rori De Kid
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361406/36140635.jpg?version=20241110120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bipolaridad +]]></title>
-            <link>https://music.bugs.co.kr/album/36139832?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36139832?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 10 Nov 2024 04:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12937748?wl_ref=list_ab_04" class="artistTitle" title="Manu Olivo" onclick="
-" target="_self">Manu Olivo</a>
-</p>
-<p>
-<time datetime="">2024.11.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361398/36139832.jpg?version=20241110120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Father]]></title>
-            <link>https://music.bugs.co.kr/album/36135976?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36135976?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 10 Nov 2024 04:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13696269?wl_ref=list_ab_04" class="artistTitle" title="The Harp">The Harp</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'The Harp||The Harp||13696269||OK\\nJasmine Bautista||Jasmine Bautista||13725407||OK', ''); return false;">
-The Harp
-</a> </p>
-<p>
-<time datetime="">2024.11.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361359/36135976.jpg?version=20241110120033.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
