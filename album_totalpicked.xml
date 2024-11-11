@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 04:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 05:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -185,7 +185,7 @@
 <time datetime="">2024.11.11</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41095/4109565.jpg?version=20241111120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41095/4109565.jpg?version=20241111141811.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ncrew & ADP & D_spec & Daimon]]></title>
@@ -276,6 +276,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206827/20682713.jpg?version=20241111120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 기계가 싫어요]]></title>
+            <link>https://music.bugs.co.kr/album/20683663?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20683663?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 11 Nov 2024 05:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20166429?wl_ref=list_ab_04" class="artistTitle" title="천진우" onclick="
+" target="_self">천진우</a>
+</p>
+<p>
+<time datetime="">2024.11.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206836/20683663.jpg?version=20241111120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나를 살게 한 사람]]></title>
@@ -1058,22 +1073,7 @@ Yyeon
 <time datetime="">2024.11.09</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206837/20683742.jpg?version=20241109180021.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열혈사제2 OST Part.1]]></title>
-            <link>https://music.bugs.co.kr/album/20683137?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20683137?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 09 Nov 2024 09:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20073083?wl_ref=list_ab_04" class="artistTitle" title="HYNN(박혜원)" onclick="
-" target="_self">HYNN(박혜원)</a>
-</p>
-<p>
-<time datetime="">2024.11.09</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206831/20683137.jpg?version=20241109180003.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206837/20683742.jpg?version=20241111135527.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
