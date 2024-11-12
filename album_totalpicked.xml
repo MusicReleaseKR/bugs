@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 14:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 15:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GIANT]]></title>
+            <link>https://music.bugs.co.kr/album/20684266?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20684266?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 12 Nov 2024 15:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20046081?wl_ref=list_ab_04" class="artistTitle" title="Stray Kids (스트레이 키즈)" onclick="
+" target="_self">Stray Kids (스트레이 키즈)</a>
+</p>
+<p>
+<time datetime="">2024.11.13</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206842/20684266.jpg?version=20241113000022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Star Signs]]></title>
+            <link>https://music.bugs.co.kr/album/4109689?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4109689?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 12 Nov 2024 15:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20158908?wl_ref=list_ab_04" class="artistTitle" title="LE SSERAFIM (르세라핌)" onclick="
+" target="_self">LE SSERAFIM (르세라핌)</a>
+</p>
+<p>
+<time datetime="">2024.11.13</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41096/4109689.jpg?version=20241113000022.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dreaming : 웹툰 '더 그레이트' X 안유진 (IVE)]]></title>
             <link>https://music.bugs.co.kr/album/4109669?wl_ref=list_ab_03</link>
@@ -1038,36 +1068,6 @@ Honest Regrets
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41095/4109565.jpg?version=20241112230003.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ncrew & ADP & D_spec & Daimon]]></title>
-            <link>https://music.bugs.co.kr/album/20683744?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20683744?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 11 Nov 2024 03:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20147007?wl_ref=list_ab_04" class="artistTitle" title="황지상 (HWANG JI SANG)" onclick="
-" target="_self">황지상 (HWANG JI SANG)</a>
-</p>
-<p>
-<time datetime="">2024.11.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206837/20683744.jpg?version=20241111120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열한 번째 밤]]></title>
-            <link>https://music.bugs.co.kr/album/20683814?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20683814?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 11 Nov 2024 03:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80109085?wl_ref=list_ab_04" class="artistTitle" title="김정우 (TOXIC)" onclick="
-" target="_self">김정우 (TOXIC)</a>
-</p>
-<p>
-<time datetime="">2024.11.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206838/20683814.jpg?version=20241111120022.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
