@@ -4,9 +4,42 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 14:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 15:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[표현]]></title>
+            <link>https://music.bugs.co.kr/album/4108693?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4108693?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 15 Nov 2024 15:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80357917?wl_ref=list_ab_04" class="artistTitle" title="이병찬" onclick="
+" target="_self">이병찬</a>
+</p>
+<p>
+<time datetime="">2024.10.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41086/4108693.jpg?version=20241019180023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ojalá]]></title>
+            <link>https://music.bugs.co.kr/album/36030640?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36030640?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 15 Nov 2024 15:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80102991?wl_ref=list_ab_04" class="artistTitle" title="Dulce Maria">Dulce Maria</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Dulce Maria||Dulce Maria||80102991||OK\\nBeret||Beret||80319690||OK', ''); return false;">
+Dulce Maria
+</a> </p>
+<p>
+<time datetime="">2024.11.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360306/36030640.jpg?version=20241115090036.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FERITE (Deluxe Edition)]]></title>
             <link>https://music.bugs.co.kr/album/36385788?wl_ref=list_ab_03</link>
@@ -1047,36 +1080,6 @@ The Mambo Dawgs
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/363766/36376601.jpg?version=20241115011410.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crash Test Plane]]></title>
-            <link>https://music.bugs.co.kr/album/36376595?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36376595?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 15 Nov 2024 04:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11950000?wl_ref=list_ab_04" class="artistTitle" title="Kylie V" onclick="
-" target="_self">Kylie V</a>
-</p>
-<p>
-<time datetime="">2024.11.15</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363765/36376595.jpg?version=20241115003607.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Samares]]></title>
-            <link>https://music.bugs.co.kr/album/36376571?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36376571?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 15 Nov 2024 04:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8098736?wl_ref=list_ab_04" class="artistTitle" title="Colin Vallon" onclick="
-" target="_self">Colin Vallon</a>
-</p>
-<p>
-<time datetime="">2024.11.15</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363765/36376571.jpg?version=20241115010227.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
