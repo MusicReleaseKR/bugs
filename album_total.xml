@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Nov 2024 14:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 15:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[U The Reason]]></title>
+            <link>https://music.bugs.co.kr/album/36310838?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36310838?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 16 Nov 2024 15:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13957620?wl_ref=list_ab_04" class="artistTitle" title="SophiaEliza" onclick="
+" target="_self">SophiaEliza</a>
+</p>
+<p>
+<time datetime="">2024.11.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363108/36310838.jpg?version=20241117000027.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Deepyano Vol 5 (Rare Expensive Flavour grooves) (Album)]]></title>
             <link>https://music.bugs.co.kr/album/36384140?wl_ref=list_ab_03</link>
@@ -1101,21 +1116,6 @@ Moon Tunes
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/363841/36384186.jpg?version=20241116120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Holy Spirit Soaking]]></title>
-            <link>https://music.bugs.co.kr/album/36383646?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36383646?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 16 Nov 2024 04:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13290279?wl_ref=list_ab_04" class="artistTitle" title="Eliza Hawthorne" onclick="
-" target="_self">Eliza Hawthorne</a>
-</p>
-<p>
-<time datetime="">2024.11.16</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363836/36383646.jpg?version=20241116120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
