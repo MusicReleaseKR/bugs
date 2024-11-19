@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 16:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 17:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,24 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41095/4109550.jpg?version=20241112023019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Đứa Bé Nó Hỏi]]></title>
+            <link>https://music.bugs.co.kr/album/36359544?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36359544?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 19 Nov 2024 17:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80346093?wl_ref=list_ab_04" class="artistTitle" title="Hằng BingBoong">Hằng BingBoong</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Hằng BingBoong||Hằng BingBoong||80346093||OK\\nĐạt G||Đạt G||12870078||OK', ''); return false;">
+Hằng BingBoong
+</a> </p>
+<p>
+<time datetime="">2024.11.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363595/36359544.jpg?version=20241120020245.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Genèse]]></title>
@@ -83,7 +101,7 @@ Kay 5
 <time datetime="">2024.11.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364219/36421986.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364219/36421986.jpg?version=20241120013623.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Conatus]]></title>
@@ -98,7 +116,7 @@ Kay 5
 <time datetime="">2024.11.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364214/36421417.jpg?version=20241119172456.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364214/36421417.jpg?version=20241120013914.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Live in Chile]]></title>
@@ -146,7 +164,7 @@ DJ Pippi
 <time datetime="">2024.11.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364142/36414263.jpg?version=20241119112844.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364142/36414263.jpg?version=20241120013408.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tô Vendo Nada]]></title>
@@ -482,7 +500,7 @@ GEOXwill
 <time datetime="">2024.11.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363747/36374782.jpg?version=20241119162836.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363747/36374782.jpg?version=20241120014124.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Boléro - From Ravel to Fauré and Chabrier]]></title>
@@ -497,7 +515,7 @@ GEOXwill
 <time datetime="">2024.11.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363747/36374780.jpg?version=20241119161459.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363747/36374780.jpg?version=20241120015030.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mozart: Symphony No. 40 - Bach, Handel, Monteverdi, Vivaldi]]></title>
@@ -512,7 +530,7 @@ GEOXwill
 <time datetime="">2024.11.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363746/36374601.jpg?version=20241119162623.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363746/36374601.jpg?version=20241120013318.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bach: Sonatas for Violin and Organ, BWV 1014 - 1019]]></title>
@@ -1061,22 +1079,7 @@ Soul Of Peace
 <time datetime="">2024.11.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206856/20685674.jpg?version=20241119120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRANE [TBOS]]]></title>
-            <link>https://music.bugs.co.kr/album/20685624?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20685624?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 19 Nov 2024 03:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80186245?wl_ref=list_ab_04" class="artistTitle" title="크레인(Crane)" onclick="
-" target="_self">크레인(Crane)</a>
-</p>
-<p>
-<time datetime="">2024.11.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206856/20685624.jpg?version=20241119120041.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206856/20685674.jpg?version=20241120013839.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
