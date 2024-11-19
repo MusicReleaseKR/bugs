@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 03:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 04:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -164,13 +164,17 @@
             <guid>https://music.bugs.co.kr/album/4110486?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 19 Nov 2024 03:35:07 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<span class="artistTitle" title="">Various Artists</span>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80402488?wl_ref=list_ab_04" class="artistTitle" title="오은서">오은서</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '오은서||오은서||80402488||OK\\n서지석||서지석||80402487||OK', ''); return false;">
+오은서
+</a> </p>
 <p>
 <time datetime="">2024.11.19</time>
-<span class="albumType">컴필레이션</span>
+<span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41104/4110486.jpg?version=20241119120014.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41104/4110486.jpg?version=20241119130700.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[F U]]></title>
