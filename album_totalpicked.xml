@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 14:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 15:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -234,6 +234,24 @@ Wicked Movie Cast
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41105/4110538.jpg?version=20241121180011.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아케인: 시즌 2 OST Act.3]]></title>
+            <link>https://music.bugs.co.kr/album/20686680?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20686680?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Nov 2024 15:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20147028?wl_ref=list_ab_04" class="artistTitle" title="Arcane">Arcane</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Arcane||Arcane||20147028||OK\\nLeague of Legends||League of Legends||80293893||OK', ''); return false;">
+Arcane
+</a> </p>
+<p>
+<time datetime="">2024.11.22</time>
+<span class="albumType">OST</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206866/20686680.jpg?version=20241122140023.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ravel: Le tombeau de Couperin, M. 68: I. Prélude]]></title>
@@ -1060,21 +1078,6 @@ Deepend
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206848/20684832.jpg?version=20241122120015.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달]]></title>
-            <link>https://music.bugs.co.kr/album/20685994?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20685994?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Nov 2024 13:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80128598?wl_ref=list_ab_04" class="artistTitle" title="우희" onclick="
-" target="_self">우희</a>
-</p>
-<p>
-<time datetime="">2024.11.21</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206859/20685994.jpg?version=20241122161017.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
