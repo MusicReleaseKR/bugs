@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 01:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 03:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소녀와 소년]]></title>
+            <link>https://music.bugs.co.kr/album/4106955?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4106955?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 25 Nov 2024 03:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20126733?wl_ref=list_ab_04" class="artistTitle" title="Aden (에이든)" onclick="
+" target="_self">Aden (에이든)</a>
+</p>
+<p>
+<time datetime="">2024.11.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41069/4106955.jpg?version=1732503603000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Offbeat metronome]]></title>
             <link>https://music.bugs.co.kr/album/20686785?wl_ref=list_ab_03</link>
@@ -209,7 +224,7 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206869/20686970.jpg?version=1732417221000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Thank You My Load]]></title>
+            <title><![CDATA[Thank You My Lord]]></title>
             <link>https://music.bugs.co.kr/album/20686966?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20686966?wl_ref=list_ab_03</guid>
             <pubDate>Sun, 24 Nov 2024 04:26:12 GMT</pubDate>
@@ -221,7 +236,7 @@
 <time datetime="">2024.11.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206869/20686966.jpg?version=1732417202000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206869/20686966.jpg?version=1732502124000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[환상]]></title>
@@ -506,7 +521,7 @@
 <time datetime="">2024.11.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206862/20686214.jpg?version=1732438822000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206862/20686214.jpg?version=1732503615000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신은 천사와 커피를 마셔본 적이 있습니까 (청설 X 김연지)]]></title>
@@ -1052,21 +1067,6 @@ Suzan Lee
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206869/20686936.jpg?version=1732330826000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wedding House #4]]></title>
-            <link>https://music.bugs.co.kr/album/20686900?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20686900?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 23 Nov 2024 04:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20223852?wl_ref=list_ab_04" class="artistTitle" title="이동건" onclick="
-" target="_self">이동건</a>
-</p>
-<p>
-<time datetime="">2024.11.23</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206869/20686900.jpg?version=1732330826000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
