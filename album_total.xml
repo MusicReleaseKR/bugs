@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 01:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 03:02:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,6 +117,24 @@ Michele Auclair(미셸 오클레어)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361670/36167051.jpg?version=20241127000024.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kto pokocha?]]></title>
+            <link>https://music.bugs.co.kr/album/35589332?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35589332?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 27 Nov 2024 03:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/8091027?wl_ref=list_ab_04" class="artistTitle" title="Reni Jusis">Reni Jusis</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Reni Jusis||Reni Jusis||8091027||OK\\nFrank Leen||Frank Leen||13747043||OK', ''); return false;">
+Reni Jusis
+</a> </p>
+<p>
+<time datetime="">2024.11.27</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/355893/35589332.jpg?version=20241127120041.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Meditation]]></title>
@@ -1056,21 +1074,6 @@ Flaquini
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361818/36181894.jpg?version=20241127015825.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Father Of 2]]></title>
-            <link>https://music.bugs.co.kr/album/36172947?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36172947?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 26 Nov 2024 03:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12241399?wl_ref=list_ab_04" class="artistTitle" title="William Last KRM" onclick="
-" target="_self">William Last KRM</a>
-</p>
-<p>
-<time datetime="">2024.11.26</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361729/36172947.jpg?version=20241126000030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
