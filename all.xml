@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 09:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 10:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,7 +170,7 @@
 <time datetime="">2024.11.28</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41109/4110916.jpg?version=20241128180023.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41109/4110916.jpg?version=20241128182614.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KASH on Ka$h (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -2308,6 +2308,21 @@ Bue
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206872/20687205.jpg?version=1732762840000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BOY of (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20687157?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20687157?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20138504?wl_ref=list_ab_04" class="artistTitle" title="bojvck" onclick="
+" target="_self">bojvck</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206871/20687157.jpg?version=1732784423000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[애도 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20686195?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20686195?wl_ref=list_ab_03</guid>
@@ -2336,6 +2351,54 @@ Bue
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206855/20685539.jpg?version=1732762840000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KASH on Ka$h (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4110939?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4110939?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20054759?wl_ref=list_ab_04" class="artistTitle" title="KOR KASH">KOR KASH</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'KOR KASH||KOR KASH||20054759||OK\\nIan Ka$h||Ian Ka$h (이안캐시)||80235917||OK', ''); return false;">
+KOR KASH
+</a> </p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41109/4110939.jpg?version=1732784423000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My insecure (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4110921?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4110921?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80110772?wl_ref=list_ab_04" class="artistTitle" title="양다일" onclick="
+" target="_self">양다일</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41109/4110921.jpg?version=1732784414000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Able Note Piano Project vol.7 <Scent> (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4110914?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4110914?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 10:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20171285?wl_ref=list_ab_04" class="artistTitle" title="Able Note" onclick="
+" target="_self">Able Note</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41109/4110914.jpg?version=1732784436000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천사 인터뷰 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2368,6 +2431,36 @@ Bue
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41109/4110907.jpg?version=1732762821000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Guardiel Presents : Worship for God (Remastered in 2024) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4110874?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4110874?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 10:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20133079?wl_ref=list_ab_04" class="artistTitle" title="Guardiel(가디엘)" onclick="
+" target="_self">Guardiel(가디엘)</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41108/4110874.jpg?version=1732784436000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Never Doubt Me (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4110872?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4110872?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 10:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13991561?wl_ref=list_ab_04" class="artistTitle" title="Takehold" onclick="
+" target="_self">Takehold</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41108/4110872.jpg?version=1732784436000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Echoes of Stillness (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/4110870?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4110870?wl_ref=list_ab_03</guid>
@@ -2381,6 +2474,21 @@ Bue
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41108/4110870.jpg?version=1732762840000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 리슨: 우리 함께 다시 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4110852?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4110852?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80402651?wl_ref=list_ab_04" class="artistTitle" title="더 리슨4 (먼데이 키즈 (Monday Kiz), DK(디셈버), 케이시 (Kassy), HYNN (박혜원), 유회승 (엔플라잉), 방예담, 이예준, 우디 (Woody), 이비(EB))" onclick="
+" target="_self">더 리슨4 (먼데이 키즈 (Monday Kiz), DK(디셈버), 케이시 (Kassy), HYNN (박혜원), 유회승 (엔플라잉), 방예담, 이예준, 우디 (Woody), 이비(EB))</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41108/4110852.jpg?version=1732784423000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grieg : Lullaby Theory by The Sound of Nature Vol.7 : Classic Lullaby 5 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2533,6 +2641,21 @@ Bue
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206875/20687542.jpg?version=1732762805000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Painting (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20687532?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20687532?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20053247?wl_ref=list_ab_04" class="artistTitle" title="oceanfromtheblue" onclick="
+" target="_self">oceanfromtheblue</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206875/20687532.jpg?version=1732784423000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[흑백개화(黑白開花) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20687419?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20687419?wl_ref=list_ab_03</guid>
@@ -2593,6 +2716,21 @@ Bue
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206873/20687366.jpg?version=1732772933000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[COCA (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20687289?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20687289?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20050086?wl_ref=list_ab_04" class="artistTitle" title="영보이 슈웨이 (Youngboy Shui)" onclick="
+" target="_self">영보이 슈웨이 (Youngboy Shui)</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206872/20687289.jpg?version=1732784423000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[토고납신 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20686762?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20686762?wl_ref=list_ab_03</guid>
@@ -2608,6 +2746,21 @@ Bue
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206867/20686762.jpg?version=1732769520000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MEMO-Tape Vol.1 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20686634?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20686634?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 10:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20122329?wl_ref=list_ab_04" class="artistTitle" title="태영" onclick="
+" target="_self">태영</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206866/20686634.jpg?version=1732784436000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Everywhere, Everything (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20685892?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20685892?wl_ref=list_ab_03</guid>
@@ -2621,6 +2774,21 @@ Bue
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206858/20685892.jpg?version=1732762840000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOTUS FLOW (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/4110871?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4110871?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 10:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13991560?wl_ref=list_ab_04" class="artistTitle" title="DOPIAN" onclick="
+" target="_self">DOPIAN</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41108/4110871.jpg?version=1732784436000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리의 겨울 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2833,6 +3001,21 @@ Bue
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206880/20688027.jpg?version=1732762840000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나와, 한잔할래 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20687994?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20687994?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80126143?wl_ref=list_ab_04" class="artistTitle" title="건지(GUNJI)" onclick="
+" target="_self">건지(GUNJI)</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206879/20687994.jpg?version=1732784408000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시골집에서 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20687989?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20687989?wl_ref=list_ab_03</guid>
@@ -2938,6 +3121,21 @@ Bue
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206878/20687864.jpg?version=1732762821000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사랑을 억지로 할 수 없잖아 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20687855?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20687855?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80020677?wl_ref=list_ab_04" class="artistTitle" title="황치열" onclick="
+" target="_self">황치열</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206878/20687855.jpg?version=1732784405000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Joy to the World (기쁘다 구주 오셨네) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20687823?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20687823?wl_ref=list_ab_03</guid>
@@ -2951,6 +3149,21 @@ Bue
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206878/20687823.jpg?version=1732762840000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I can't feel it (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20687796?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20687796?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 28 Nov 2024 10:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20224104?wl_ref=list_ab_04" class="artistTitle" title="Sixvase" onclick="
+" target="_self">Sixvase</a>
+</p>
+<p>
+<time datetime="">2024.11.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206877/20687796.jpg?version=1732784436000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[같이 가자 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2981,216 +3194,6 @@ Bue
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206877/20687784.jpg?version=1732762821000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 세상 하나뿐인 우리들의 반가 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687767?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687767?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20129005?wl_ref=list_ab_04" class="artistTitle" title="키즈멜로디(Kids Melody)" onclick="
-" target="_self">키즈멜로디(Kids Melody)</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206877/20687767.jpg?version=1732762840000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친구 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687728?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687728?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20123050?wl_ref=list_ab_04" class="artistTitle" title="김규선" onclick="
-" target="_self">김규선</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206877/20687728.jpg?version=1732762840000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그대를 남겨두는 일 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687712?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687712?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80230365?wl_ref=list_ab_04" class="artistTitle" title="이환범" onclick="
-" target="_self">이환범</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206877/20687712.jpg?version=1732762840000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 After 2PM (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687673?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687673?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20213068?wl_ref=list_ab_04" class="artistTitle" title="Sain" onclick="
-" target="_self">Sain</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206876/20687673.jpg?version=1732762840000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beauty Bomb (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687670?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687670?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20206307?wl_ref=list_ab_04" class="artistTitle" title="Graily" onclick="
-" target="_self">Graily</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206876/20687670.jpg?version=1732762840000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Freedom (자유) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687646?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687646?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80289081?wl_ref=list_ab_04" class="artistTitle" title="Take the Floor" onclick="
-" target="_self">Take the Floor</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206876/20687646.jpg?version=1732762840000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너를 따라서 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687645?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687645?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20164306?wl_ref=list_ab_04" class="artistTitle" title="면지" onclick="
-" target="_self">면지</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206876/20687645.jpg?version=1732777615000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DOF ep #everyday (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687638?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687638?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20206931?wl_ref=list_ab_04" class="artistTitle" title="DOF" onclick="
-" target="_self">DOF</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206876/20687638.jpg?version=1732762821000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여운의 향기 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687589?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687589?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20224046?wl_ref=list_ab_04" class="artistTitle" title="조웅연" onclick="
-" target="_self">조웅연</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206875/20687589.jpg?version=1732762840000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿바이 파라다이스 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687588?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687588?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80069374?wl_ref=list_ab_04" class="artistTitle" title="이상한 술집" onclick="
-" target="_self">이상한 술집</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206875/20687588.jpg?version=1732762840000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨앗 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687568?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687568?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20160483?wl_ref=list_ab_04" class="artistTitle" title="소몽" onclick="
-" target="_self">소몽</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206875/20687568.jpg?version=1732762840000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울을 걷는다 (Ver .2) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687556?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687556?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20102472?wl_ref=list_ab_04" class="artistTitle" title="진혜진" onclick="
-" target="_self">진혜진</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206875/20687556.jpg?version=1732762840000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서로 기대어 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687554?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687554?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20224035?wl_ref=list_ab_04" class="artistTitle" title="AWESOME WORSHIP" onclick="
-" target="_self">AWESOME WORSHIP</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206875/20687554.jpg?version=1732762840000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자자자 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20687549?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20687549?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 28 Nov 2024 04:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20224033?wl_ref=list_ab_04" class="artistTitle" title="멘토크루(mentorcrew)" onclick="
-" target="_self">멘토크루(mentorcrew)</a>
-</p>
-<p>
-<time datetime="">2024.11.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206875/20687549.jpg?version=1732762840000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
