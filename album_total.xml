@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Nov 2024 02:57:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 03:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,36 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/334970/33497087.jpg?version=20241130000027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uju]]></title>
+            <link>https://music.bugs.co.kr/album/36318962?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36318962?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 30 Nov 2024 03:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13959510?wl_ref=list_ab_04" class="artistTitle" title="E-MIX" onclick="
+" target="_self">E-MIX</a>
+</p>
+<p>
+<time datetime="">2024.11.30</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363189/36318962.jpg?version=20241130120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[okay]]></title>
+            <link>https://music.bugs.co.kr/album/36054703?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36054703?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 30 Nov 2024 03:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13623002?wl_ref=list_ab_04" class="artistTitle" title="Pragya Pallavi" onclick="
+" target="_self">Pragya Pallavi</a>
+</p>
+<p>
+<time datetime="">2024.11.30</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360547/36054703.jpg?version=20241130120036.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Scenes from Childhood]]></title>
@@ -1044,36 +1074,6 @@ Guglielmo Santimone
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/364837/36483790.jpg?version=20241130004133.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tango Blanco]]></title>
-            <link>https://music.bugs.co.kr/album/36483778?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36483778?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 29 Nov 2024 04:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12810005?wl_ref=list_ab_04" class="artistTitle" title="Richard Lee" onclick="
-" target="_self">Richard Lee</a>
-</p>
-<p>
-<time datetime="">2024.11.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364837/36483778.jpg?version=20241129013345.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zhang Guo Rong Yan Chang Hui '88 (Live in Hong Kong /1988 Zu Ben Ban)]]></title>
-            <link>https://music.bugs.co.kr/album/36483769?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36483769?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 29 Nov 2024 04:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/4390?wl_ref=list_ab_04" class="artistTitle" title="장국영(張國榮/Leslie Cheung)" onclick="
-" target="_self">장국영(張國榮/Leslie Cheung)</a>
-</p>
-<p>
-<time datetime="">2024.11.29</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364837/36483769.jpg?version=20241129005453.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
