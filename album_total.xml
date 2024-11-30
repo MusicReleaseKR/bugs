@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Nov 2024 14:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 15:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dakiwe]]></title>
+            <link>https://music.bugs.co.kr/album/14952668?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/14952668?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 30 Nov 2024 15:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12112881?wl_ref=list_ab_04" class="artistTitle" title="DBN Gogo">DBN Gogo</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'DBN Gogo||DBN Gogo||12112881||OK\\nLady Du||Lady Du||80207547||OK', ''); return false;">
+DBN Gogo
+</a> </p>
+<p>
+<time datetime="">2024.12.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/149526/14952668.jpg?version=20241201000029.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sonokids Song Book 1]]></title>
             <link>https://music.bugs.co.kr/album/36487500?wl_ref=list_ab_03</link>
@@ -1113,21 +1131,6 @@ Sun Gin
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206863/20686395.jpg?version=20241130120028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부르심의 미사]]></title>
-            <link>https://music.bugs.co.kr/album/20686306?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20686306?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 30 Nov 2024 10:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80163152?wl_ref=list_ab_04" class="artistTitle" title="EDWIN KIM (에드윈 킴)" onclick="
-" target="_self">EDWIN KIM (에드윈 킴)</a>
-</p>
-<p>
-<time datetime="">2024.11.30</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206863/20686306.jpg?version=20241130180034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
