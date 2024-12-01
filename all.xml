@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 14:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 15:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1069,6 +1069,39 @@ V
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41109/4110997.jpg?version=20241129120028.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Origine (Ultra Deluxe) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/34807953?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34807953?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 01 Dec 2024 15:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80149530?wl_ref=list_ab_04" class="artistTitle" title="Debbie Tebbs" onclick="
+" target="_self">Debbie Tebbs</a>
+</p>
+<p>
+<time datetime="">2024.12.02</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348079/34807953.jpg?version=20241202000030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uma Cena Dessa (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/36189520?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36189520?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 01 Dec 2024 15:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13949079?wl_ref=list_ab_04" class="artistTitle" title="Pinha Presidente">Pinha Presidente</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Pinha Presidente||Pinha Presidente||13949079||OK\\nPezinho do Samba||Pezinho do Samba||13929110||OK', ''); return false;">
+Pinha Presidente
+</a> </p>
+<p>
+<time datetime="">2024.12.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361895/36189520.jpg?version=20241202000030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[problémy v ráji (deluxe) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/36488750?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36488750?wl_ref=list_ab_03</guid>
@@ -2123,39 +2156,6 @@ Farnaz Ohadi
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344766/34476625.jpg?version=20241201000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rising (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33713722?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33713722?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 01 Dec 2024 04:27:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8212263?wl_ref=list_ab_04" class="artistTitle" title="Jef Martens" onclick="
-" target="_self">Jef Martens</a>
-</p>
-<p>
-<time datetime="">2024.12.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/337137/33713722.jpg?version=20241201000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tidur yang Berkualiti (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/33125491?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/33125491?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 01 Dec 2024 04:27:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13429898?wl_ref=list_ab_04" class="artistTitle" title="Muzik Yoga">Muzik Yoga</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Muzik Yoga||Muzik Yoga||13429898||OK\\nMuzik Piano||Muzik Piano||13429894||OK\\nMuzik Tidur||Muzik Tidur||13429896||OK', ''); return false;">
-Muzik Yoga
-</a> </p>
-<p>
-<time datetime="">2024.12.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/331254/33125491.jpg?version=20241201120032.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Reindeer (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
