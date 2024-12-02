@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 14:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 15:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Work It]]></title>
+            <link>https://music.bugs.co.kr/album/36037004?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36037004?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 02 Dec 2024 15:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11927013?wl_ref=list_ab_04" class="artistTitle" title="Ashidapo" onclick="
+" target="_self">Ashidapo</a>
+</p>
+<p>
+<time datetime="">2024.12.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360370/36037004.jpg?version=20241203000029.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Timeless Jazz Tunes]]></title>
             <link>https://music.bugs.co.kr/album/36504158?wl_ref=list_ab_03</link>
@@ -1123,24 +1138,6 @@ Dodoi Bayi
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344887/34488791.jpg?version=20241202120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[מעלהעננים]]></title>
-            <link>https://music.bugs.co.kr/album/34488780?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34488780?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 02 Dec 2024 04:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13464304?wl_ref=list_ab_04" class="artistTitle" title="שירי ערשלתינוקות">שירי ערשלתינוקות</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'שירי ערשלתינוקות||שירי ערשלתינוקות||13464304||OK\\nמוזיקהקלסיתלתינוקות||מוזיקהקלסיתלתינוקות||13464300||OK\\nמוזיקתיוגהלילדים||מוזיקתיוגהלילדים||13464303||OK', ''); return false;">
-שירי ערשלתינוקות
-</a> </p>
-<p>
-<time datetime="">2024.12.02</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344887/34488780.jpg?version=20241202120041.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
