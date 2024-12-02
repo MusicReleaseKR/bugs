@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 01:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 03:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,6 +117,21 @@ Pinha Presidente
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361895/36189520.jpg?version=20241202000030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First December with You]]></title>
+            <link>https://music.bugs.co.kr/album/4109853?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4109853?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 02 Dec 2024 03:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80400379?wl_ref=list_ab_04" class="artistTitle" title="Olivia Marsh" onclick="
+" target="_self">Olivia Marsh</a>
+</p>
+<p>
+<time datetime="">2024.12.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41098/4109853.jpg?version=20241202120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Scenes from Childhood]]></title>
@@ -1080,21 +1095,6 @@ David Oistrakh(다비드 오이스트라흐)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/360422/36042217.jpg?version=20241201120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tripulantes del Viento]]></title>
-            <link>https://music.bugs.co.kr/album/36038802?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36038802?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 01 Dec 2024 04:27:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10961847?wl_ref=list_ab_04" class="artistTitle" title="Iovis" onclick="
-" target="_self">Iovis</a>
-</p>
-<p>
-<time datetime="">2024.12.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/360388/36038802.jpg?version=20241201000029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
