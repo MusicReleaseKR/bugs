@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 09:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 10:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nine Lives]]></title>
+            <link>https://music.bugs.co.kr/album/36565820?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36565820?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 05 Dec 2024 10:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13485379?wl_ref=list_ab_04" class="artistTitle" title="Unkle Ken" onclick="
+" target="_self">Unkle Ken</a>
+</p>
+<p>
+<time datetime="">2024.12.05</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/365658/36565820.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Michael Hale]]></title>
             <link>https://music.bugs.co.kr/album/36515332?wl_ref=list_ab_03</link>
@@ -1056,21 +1071,6 @@ Timbaland(팀발랜드)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361013/36101337.jpg?version=20241205120040.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Om Yo]]></title>
-            <link>https://music.bugs.co.kr/album/36093649?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36093649?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 05 Dec 2024 04:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13542382?wl_ref=list_ab_04" class="artistTitle" title="Nirvana Nada" onclick="
-" target="_self">Nirvana Nada</a>
-</p>
-<p>
-<time datetime="">2024.12.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/360936/36093649.jpg?version=20241205120040.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
