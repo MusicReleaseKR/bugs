@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 09:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 10:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -680,6 +680,21 @@ Nursery Rhymes and Kids Songs
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206757/20675797.jpg?version=20241208180040.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Thoughtless Night]]></title>
+            <link>https://music.bugs.co.kr/album/4111422?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4111422?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 08 Dec 2024 10:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13983651?wl_ref=list_ab_04" class="artistTitle" title="Our Silence" onclick="
+" target="_self">Our Silence</a>
+</p>
+<p>
+<time datetime="">2024.12.08</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41114/4111422.jpg?version=20241208180034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마음 둘 곳]]></title>
             <link>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4096305?wl_ref=list_ab_03</guid>
@@ -1059,21 +1074,6 @@ Kids Superstars
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/365662/36566241.jpg?version=20241208000026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHAOS IN CHAINS]]></title>
-            <link>https://music.bugs.co.kr/album/36566240?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36566240?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 08 Dec 2024 04:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14004959?wl_ref=list_ab_04" class="artistTitle" title="Elektric Sound Resonance" onclick="
-" target="_self">Elektric Sound Resonance</a>
-</p>
-<p>
-<time datetime="">2024.12.08</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/365662/36566240.jpg?version=20241208000026.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
