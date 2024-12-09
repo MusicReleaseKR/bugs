@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 09:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 10:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Trịnh Đình Quang Tuyển Tập]]></title>
+            <link>https://music.bugs.co.kr/album/36593477?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36593477?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 Dec 2024 10:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8626519?wl_ref=list_ab_04" class="artistTitle" title="Trinh Dinh Quang" onclick="
+" target="_self">Trinh Dinh Quang</a>
+</p>
+<p>
+<time datetime="">2024.12.09</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/365934/36593477.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AUX]]></title>
             <link>https://music.bugs.co.kr/album/36572474?wl_ref=list_ab_03</link>
@@ -1093,6 +1108,21 @@ D_CLACX
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206902/20690286.jpg?version=20241209120038.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[화려하지 않아도 꽃은 필거야]]></title>
+            <link>https://music.bugs.co.kr/album/20690230?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20690230?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 Dec 2024 10:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/428?wl_ref=list_ab_04" class="artistTitle" title="남궁옥분" onclick="
+" target="_self">남궁옥분</a>
+</p>
+<p>
+<time datetime="">2024.12.09</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206902/20690230.jpg?version=20241209180020.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[To the desert]]></title>
             <link>https://music.bugs.co.kr/album/20690152?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20690152?wl_ref=list_ab_03</guid>
@@ -1106,36 +1136,6 @@ D_CLACX
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206901/20690152.jpg?version=20241209120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Machine Lofi (Alternative)]]></title>
-            <link>https://music.bugs.co.kr/album/20689918?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20689918?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 09 Dec 2024 04:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20172090?wl_ref=list_ab_04" class="artistTitle" title="DFrG" onclick="
-" target="_self">DFrG</a>
-</p>
-<p>
-<time datetime="">2024.12.09</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206899/20689918.jpg?version=20241209120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카페음악 목로주점]]></title>
-            <link>https://music.bugs.co.kr/album/20689880?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20689880?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 09 Dec 2024 04:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20089004?wl_ref=list_ab_04" class="artistTitle" title="유나" onclick="
-" target="_self">유나</a>
-</p>
-<p>
-<time datetime="">2024.12.09</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206898/20689880.jpg?version=20241209120038.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
