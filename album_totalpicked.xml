@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 03:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 04:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Winter Glow]]></title>
+            <link>https://music.bugs.co.kr/album/36485352?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36485352?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 Dec 2024 04:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80376162?wl_ref=list_ab_04" class="artistTitle" title="FIFTY FIFTY" onclick="
+" target="_self">FIFTY FIFTY</a>
+</p>
+<p>
+<time datetime="">2024.12.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364853/36485352.jpg?version=20241209130004.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물들어 (Feat. 최수빈)]]></title>
             <link>https://music.bugs.co.kr/album/4111345?wl_ref=list_ab_03</link>
@@ -68,21 +83,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206905/20690525.jpg?version=20241209120023.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[don't need this anymore]]></title>
-            <link>https://music.bugs.co.kr/album/20690044?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20690044?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 09 Dec 2024 03:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20081332?wl_ref=list_ab_04" class="artistTitle" title="paulkyte(폴카이트)" onclick="
-" target="_self">paulkyte(폴카이트)</a>
-</p>
-<p>
-<time datetime="">2024.12.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206900/20690044.jpg?version=20241209120007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[결혼해YOU OST Part.4]]></title>
             <link>https://music.bugs.co.kr/album/4111368?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4111368?wl_ref=list_ab_03</guid>
@@ -96,6 +96,21 @@
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41113/4111368.jpg?version=20241208180007.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[don't need this anymore]]></title>
+            <link>https://music.bugs.co.kr/album/20690044?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20690044?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 Dec 2024 03:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20081332?wl_ref=list_ab_04" class="artistTitle" title="paulkyte(폴카이트)" onclick="
+" target="_self">paulkyte(폴카이트)</a>
+</p>
+<p>
+<time datetime="">2024.12.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206900/20690044.jpg?version=20241209120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Moonlight (매일 밤 이 바다 너머로 가는 꿈을 꿔)]]></title>
@@ -125,7 +140,7 @@
 <time datetime="">2024.12.09</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41113/4111385.jpg?version=20241209120023.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41113/4111385.jpg?version=20241209120926.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Screen Diver]]></title>
@@ -788,7 +803,7 @@ Tom Platts
 <time datetime="">2024.12.08</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40963/4096305.jpg?version=20241209004142.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40963/4096305.jpg?version=20241209130207.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈이 올랑 말랑]]></title>
@@ -983,7 +998,7 @@ Tom Platts
 <time datetime="">2024.12.08</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206895/20689532.jpg?version=20241208180029.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206895/20689532.jpg?version=20241209121149.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[읽었지?]]></title>
@@ -1059,21 +1074,6 @@ Tom Platts
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206893/20689366.jpg?version=20241208120029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑은 외나무다리에서 OST Part 4]]></title>
-            <link>https://music.bugs.co.kr/album/4111383?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4111383?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 07 Dec 2024 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20056684?wl_ref=list_ab_04" class="artistTitle" title="이무진" onclick="
-" target="_self">이무진</a>
-</p>
-<p>
-<time datetime="">2024.12.07</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41113/4111383.jpg?version=20241208230003.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
