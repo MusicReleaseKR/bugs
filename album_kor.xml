@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 01:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 03:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 크리스마스]]></title>
+            <link>https://music.bugs.co.kr/album/20689783?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20689783?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 Dec 2024 03:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20224693?wl_ref=list_ab_04" class="artistTitle" title="AYC24" onclick="
+" target="_self">AYC24</a>
+</p>
+<p>
+<time datetime="">2024.12.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206897/20689783.jpg?version=1733713238000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작은 위로]]></title>
+            <link>https://music.bugs.co.kr/album/4096082?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4096082?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 09 Dec 2024 03:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20133382?wl_ref=list_ab_04" class="artistTitle" title="ASEL(아셀)" onclick="
+" target="_self">ASEL(아셀)</a>
+</p>
+<p>
+<time datetime="">2024.12.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40960/4096082.jpg?version=1733713238000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루카스 크리스마스 앨범]]></title>
             <link>https://music.bugs.co.kr/album/20690348?wl_ref=list_ab_03</link>
@@ -503,7 +533,7 @@
 <time datetime="">2024.12.08</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41113/4111359.jpg?version=1733672253000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41113/4111359.jpg?version=1733709705000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈이 올랑 말랑]]></title>
@@ -1032,36 +1062,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206898/20689817.jpg?version=1733540431000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chocolate Muffin]]></title>
-            <link>https://music.bugs.co.kr/album/20689776?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20689776?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 07 Dec 2024 04:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20121844?wl_ref=list_ab_04" class="artistTitle" title="모한 (Mohan)" onclick="
-" target="_self">모한 (Mohan)</a>
-</p>
-<p>
-<time datetime="">2024.12.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206897/20689776.jpg?version=1733540424000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALIVE]]></title>
-            <link>https://music.bugs.co.kr/album/20689767?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20689767?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 07 Dec 2024 04:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20102260?wl_ref=list_ab_04" class="artistTitle" title="SEMIN (세민)" onclick="
-" target="_self">SEMIN (세민)</a>
-</p>
-<p>
-<time datetime="">2024.12.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206897/20689767.jpg?version=1733540424000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
