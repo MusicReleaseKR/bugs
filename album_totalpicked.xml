@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 14:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 15:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CRAZY]]></title>
+            <link>https://music.bugs.co.kr/album/4111524?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4111524?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 10 Dec 2024 15:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20158908?wl_ref=list_ab_04" class="artistTitle" title="LE SSERAFIM (르세라핌)" onclick="
+" target="_self">LE SSERAFIM (르세라핌)</a>
+</p>
+<p>
+<time datetime="">2024.12.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41115/4111524.jpg?version=20241211000023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Buddy Buddy]]></title>
+            <link>https://music.bugs.co.kr/album/20690914?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20690914?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 10 Dec 2024 15:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20111285?wl_ref=list_ab_04" class="artistTitle" title="NiziU (니쥬)" onclick="
+" target="_self">NiziU (니쥬)</a>
+</p>
+<p>
+<time datetime="">2024.12.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206909/20690914.jpg?version=20241211000023.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[100RED Winter Special Single ‘The Last Christmas']]></title>
             <link>https://music.bugs.co.kr/album/4111507?wl_ref=list_ab_03</link>
@@ -1049,36 +1079,6 @@ RayRay
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41113/4111385.jpg?version=20241210011637.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Screen Diver]]></title>
-            <link>https://music.bugs.co.kr/album/20690319?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20690319?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 09 Dec 2024 03:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20074863?wl_ref=list_ab_04" class="artistTitle" title="Jade" onclick="
-" target="_self">Jade</a>
-</p>
-<p>
-<time datetime="">2024.12.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206903/20690319.jpg?version=20241210004753.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봉피]]></title>
-            <link>https://music.bugs.co.kr/album/36446642?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36446642?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 09 Dec 2024 03:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20073861?wl_ref=list_ab_04" class="artistTitle" title="버민(BUMIN)" onclick="
-" target="_self">버민(BUMIN)</a>
-</p>
-<p>
-<time datetime="">2024.12.09</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364466/36446642.jpg?version=20241209120023.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
