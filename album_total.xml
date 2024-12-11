@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 05:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 06:31:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -527,21 +527,6 @@ Yntro
             <enclosure url="https://image.bugsm.co.kr/album/images/170/365131/36513102.jpg?version=20241211103248.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Poetic Conductor]]></title>
-            <link>https://music.bugs.co.kr/album/36512983?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36512983?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 09 Dec 2024 06:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/38448?wl_ref=list_ab_04" class="artistTitle" title="Carlo Maria Giulini(카를로 마리아 줄리니)" onclick="
-" target="_self">Carlo Maria Giulini(카를로 마리아 줄리니)</a>
-</p>
-<p>
-<time datetime="">2024.12.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/365129/36512983.jpg?version=20241211103219.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Bits of Classical]]></title>
             <link>https://music.bugs.co.kr/album/36512977?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36512977?wl_ref=list_ab_03</guid>
@@ -555,21 +540,6 @@ Yntro
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/365129/36512977.jpg?version=20241211103215.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zacharias - Prelude]]></title>
-            <link>https://music.bugs.co.kr/album/36512825?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36512825?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 09 Dec 2024 06:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/35652?wl_ref=list_ab_04" class="artistTitle" title="Christian Zacharias(크리스티안 자카리아스)" onclick="
-" target="_self">Christian Zacharias(크리스티안 자카리아스)</a>
-</p>
-<p>
-<time datetime="">2024.12.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/365128/36512825.jpg?version=20241211103208.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mega Cena]]></title>
@@ -1098,6 +1068,36 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/364263/36426308.jpg?version=20241211000027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[dreamchaser.]]></title>
+            <link>https://music.bugs.co.kr/album/36425258?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36425258?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 11 Dec 2024 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80150781?wl_ref=list_ab_04" class="artistTitle" title="Yohio(요히오)" onclick="
+" target="_self">Yohio(요히오)</a>
+</p>
+<p>
+<time datetime="">2024.12.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364252/36425258.jpg?version=20241211000027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Romantic Landscapes]]></title>
+            <link>https://music.bugs.co.kr/album/36422696?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36422696?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 11 Dec 2024 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80047824?wl_ref=list_ab_04" class="artistTitle" title="Jean-Francois Paillard(장-프랑수아 파이야르)" onclick="
+" target="_self">Jean-Francois Paillard(장-프랑수아 파이야르)</a>
+</p>
+<p>
+<time datetime="">2024.12.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364226/36422696.jpg?version=20241211103306.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
