@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 23:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 01:47:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/363743/36374385.jpg?version=20241212075010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[más preguntas]]></title>
+            <link>https://music.bugs.co.kr/album/36417722?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36417722?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 12 Dec 2024 01:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8082117?wl_ref=list_ab_04" class="artistTitle" title="Isa" onclick="
+" target="_self">Isa</a>
+</p>
+<p>
+<time datetime="">2024.12.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364177/36417722.jpg?version=20241212091144.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[שברים]]></title>
@@ -1083,21 +1098,6 @@ Alles Kids
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/364466/36446619.jpg?version=20241211000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mais que Vencedores]]></title>
-            <link>https://music.bugs.co.kr/album/36439728?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36439728?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 11 Dec 2024 04:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11878848?wl_ref=list_ab_04" class="artistTitle" title="Soldados de Cristo" onclick="
-" target="_self">Soldados de Cristo</a>
-</p>
-<p>
-<time datetime="">2024.12.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364397/36439728.jpg?version=20241211120044.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
