@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 09:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 10:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sovesanger - Barn]]></title>
+            <link>https://music.bugs.co.kr/album/36697384?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36697384?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 12 Dec 2024 10:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12947972?wl_ref=list_ab_04" class="artistTitle" title="Musikk for de minste" onclick="
+" target="_self">Musikk for de minste</a>
+</p>
+<p>
+<time datetime="">2024.12.12</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/366973/36697384.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Outdoor]]></title>
             <link>https://music.bugs.co.kr/album/36694585?wl_ref=list_ab_03</link>
@@ -767,6 +782,21 @@ DJ Polyvox
             <enclosure url="https://image.bugsm.co.kr/album/images/170/364884/36488472.jpg?version=20241212000028.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LEMONADE]]></title>
+            <link>https://music.bugs.co.kr/album/36485812?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36485812?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 12 Dec 2024 10:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11993972?wl_ref=list_ab_04" class="artistTitle" title="Lena" onclick="
+" target="_self">Lena</a>
+</p>
+<p>
+<time datetime="">2024.12.12</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364858/36485812.jpg?version=20241212170004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LA REALTÀ DEI FATTI]]></title>
             <link>https://music.bugs.co.kr/album/36484454?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36484454?wl_ref=list_ab_03</guid>
@@ -1041,36 +1071,6 @@ Desolazione Rurale
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/363686/36368611.jpg?version=20241212000028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Solo]]></title>
-            <link>https://music.bugs.co.kr/album/36367129?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36367129?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 12 Dec 2024 04:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8641752?wl_ref=list_ab_04" class="artistTitle" title="Adrena" onclick="
-" target="_self">Adrena</a>
-</p>
-<p>
-<time datetime="">2024.12.12</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363671/36367129.jpg?version=20241212000028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[nr.nt.ad]]></title>
-            <link>https://music.bugs.co.kr/album/36362716?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36362716?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 12 Dec 2024 04:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13971073?wl_ref=list_ab_04" class="artistTitle" title="Creepitor209" onclick="
-" target="_self">Creepitor209</a>
-</p>
-<p>
-<time datetime="">2024.12.12</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363627/36362716.jpg?version=20241212120043.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
