@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Dec 2024 14:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Dec 2024 15:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The wish]]></title>
+            <link>https://music.bugs.co.kr/album/20691845?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20691845?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 15 Dec 2024 15:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80249916?wl_ref=list_ab_04" class="artistTitle" title="TWICE (트와이스)" onclick="
+" target="_self">TWICE (트와이스)</a>
+</p>
+<p>
+<time datetime="">2024.12.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206918/20691845.jpg?version=20241216000021.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옥씨부인전 OST Part.2]]></title>
             <link>https://music.bugs.co.kr/album/4111757?wl_ref=list_ab_03</link>
@@ -50,7 +65,7 @@
 <time datetime="">2024.12.15</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41117/4111774.jpg?version=20241215180012.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41117/4111774.jpg?version=20241216000003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 나만의 슬픔]]></title>
@@ -1044,21 +1059,6 @@ H3ATHR SUN(헤더썬)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/366953/36695366.jpg?version=20241213011625.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Someone]]></title>
-            <link>https://music.bugs.co.kr/album/4111730?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4111730?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 13 Dec 2024 05:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20058987?wl_ref=list_ab_04" class="artistTitle" title="민지운 (Min Jiwoon)" onclick="
-" target="_self">민지운 (Min Jiwoon)</a>
-</p>
-<p>
-<time datetime="">2024.12.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41117/4111730.jpg?version=20241214014408.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
