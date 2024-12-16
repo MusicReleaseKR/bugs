@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 01:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 03:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,21 @@ Michele Auclair(미셸 오클레어)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/364225/36422567.jpg?version=20241216044019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍대를 걷자]]></title>
+            <link>https://music.bugs.co.kr/album/4092326?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4092326?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 16 Dec 2024 03:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20015214?wl_ref=list_ab_04" class="artistTitle" title="골라무(GolaMu)" onclick="
+" target="_self">골라무(GolaMu)</a>
+</p>
+<p>
+<time datetime="">2024.12.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40923/4092326.jpg?version=20241216120038.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Le poète du piano]]></title>
@@ -1049,7 +1064,7 @@ Nihu
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206897/20689736.jpg?version=20241215120029.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[운산무산 (feat. 박시양)]]></title>
+            <title><![CDATA[선영숙 가야금산조 김병호류 - 운산무산]]></title>
             <link>https://music.bugs.co.kr/album/20689118?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20689118?wl_ref=list_ab_03</guid>
             <pubDate>Sun, 15 Dec 2024 04:26:07 GMT</pubDate>
@@ -1061,22 +1076,7 @@ Nihu
 <time datetime="">2024.12.15</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206891/20689118.jpg?version=20241215120037.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Under Whole]]></title>
-            <link>https://music.bugs.co.kr/album/4111803?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4111803?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 15 Dec 2024 10:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13983651?wl_ref=list_ab_04" class="artistTitle" title="Our Silence" onclick="
-" target="_self">Our Silence</a>
-</p>
-<p>
-<time datetime="">2024.12.15</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41118/4111803.jpg?version=20241215180034.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206891/20689118.jpg?version=20241216110708.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
