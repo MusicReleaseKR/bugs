@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 09:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 10:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -389,17 +389,14 @@
             <guid>https://music.bugs.co.kr/album/20692738?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 18 Dec 2024 09:23:19 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20225747?wl_ref=list_ab_04" class="artistTitle" title="세바시">세바시</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '세바시||세바시||20225747||OK\\n라파엘||라파엘||20225748||OK\\n가르시아||가르시아||20225749||OK', ''); return false;">
-세바시
-</a> </p>
+<a href="https://music.bugs.co.kr/artist/20225749?wl_ref=list_ab_04" class="artistTitle" title="가르시아" onclick="
+" target="_self">가르시아</a>
+</p>
 <p>
 <time datetime="">2024.12.18</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206927/20692738.jpg?version=20241218180026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206927/20692738.jpg?version=20241218182824.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BE MY (Feat. 보이비)]]></title>
