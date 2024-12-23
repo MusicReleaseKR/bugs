@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 08:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 09:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -435,6 +435,21 @@ DJ Polyvox
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/368233/36823386.jpg?version=20241223000026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ciné-clavecin]]></title>
+            <link>https://music.bugs.co.kr/album/36820195?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36820195?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 23 Dec 2024 09:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8087114?wl_ref=list_ab_04" class="artistTitle" title="Mayako Sone" onclick="
+" target="_self">Mayako Sone</a>
+</p>
+<p>
+<time datetime="">2024.12.23</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368201/36820195.jpg?version=20241223044031.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Early Works, Vol. 5: Silence of the Giro]]></title>
@@ -1122,21 +1137,6 @@ Airplane Cabin Sound for Baby Sleep
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/357995/35799563.jpg?version=20241223120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHEE3Trio In the Wheelhouse]]></title>
-            <link>https://music.bugs.co.kr/album/35769241?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35769241?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 23 Dec 2024 03:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13864527?wl_ref=list_ab_04" class="artistTitle" title="Andy Wheelock" onclick="
-" target="_self">Andy Wheelock</a>
-</p>
-<p>
-<time datetime="">2024.12.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357692/35769241.jpg?version=20241223120041.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
