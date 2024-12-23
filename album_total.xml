@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 13:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 15:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Say Something]]></title>
+            <link>https://music.bugs.co.kr/album/31865449?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31865449?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 23 Dec 2024 15:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13199431?wl_ref=list_ab_04" class="artistTitle" title="Swimming Paul" onclick="
+" target="_self">Swimming Paul</a>
+</p>
+<p>
+<time datetime="">2023.07.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/318654/31865449.jpg?version=20240124083053.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your Song]]></title>
+            <link>https://music.bugs.co.kr/album/31239583?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31239583?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 23 Dec 2024 15:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13199431?wl_ref=list_ab_04" class="artistTitle" title="Swimming Paul" onclick="
+" target="_self">Swimming Paul</a>
+</p>
+<p>
+<time datetime="">2023.03.31</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312395/31239583.jpg?version=20240305091200.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Let's Dance continued]]></title>
             <link>https://music.bugs.co.kr/album/36842646?wl_ref=list_ab_03</link>
@@ -1104,39 +1134,6 @@ Al Lullaby ASMR
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/363736/36373620.jpg?version=20241223000026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Above the Clouds]]></title>
-            <link>https://music.bugs.co.kr/album/36373619?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36373619?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 23 Dec 2024 04:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13278632?wl_ref=list_ab_04" class="artistTitle" title="Airplane Cabin Sound for Baby Sleep">Airplane Cabin Sound for Baby Sleep</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Airplane Cabin Sound for Baby Sleep||Airplane Cabin Sound for Baby Sleep||13278632||OK\\nBrown Noise||Brown Noise||8376426||OK\\nNature Sounds for Relaxation and Sleep||Nature Sounds for Relaxation and Sleep||12322871||OK', ''); return false;">
-Airplane Cabin Sound for Baby Sleep
-</a> </p>
-<p>
-<time datetime="">2024.12.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363736/36373619.jpg?version=20241223000026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Honesty]]></title>
-            <link>https://music.bugs.co.kr/album/36360613?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36360613?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 23 Dec 2024 04:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13970698?wl_ref=list_ab_04" class="artistTitle" title="PO" onclick="
-" target="_self">PO</a>
-</p>
-<p>
-<time datetime="">2024.12.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363606/36360613.jpg?version=20241223120041.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
