@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 02:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 03:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,6 +69,36 @@ Francois-Rene Duchable(프랑수아-르네 뒤샤블)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/368222/36822249.jpg?version=20241224044138.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Say Something]]></title>
+            <link>https://music.bugs.co.kr/album/31865449?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31865449?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 24 Dec 2024 03:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13199431?wl_ref=list_ab_04" class="artistTitle" title="Swimming Paul" onclick="
+" target="_self">Swimming Paul</a>
+</p>
+<p>
+<time datetime="">2024.12.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/318654/31865449.jpg?version=20241224120032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your Song]]></title>
+            <link>https://music.bugs.co.kr/album/31239583?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31239583?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 24 Dec 2024 03:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13199431?wl_ref=list_ab_04" class="artistTitle" title="Swimming Paul" onclick="
+" target="_self">Swimming Paul</a>
+</p>
+<p>
+<time datetime="">2024.12.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312395/31239583.jpg?version=20241224120032.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Prodigy Conductor]]></title>
@@ -1089,42 +1119,6 @@ Dog Calming Music
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/363736/36373627.jpg?version=20241223000026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whispering Echoes]]></title>
-            <link>https://music.bugs.co.kr/album/36373626?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36373626?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 23 Dec 2024 04:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13041690?wl_ref=list_ab_04" class="artistTitle" title="Delicatessen Noise">Delicatessen Noise</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Delicatessen Noise||Delicatessen Noise||13041690||OK\\nBrown Noise Studio||Brown Noise Studio||13865462||OK\\nOrbit Noise||Orbit Noise||12490139||OK', ''); return false;">
-Delicatessen Noise
-</a> </p>
-<p>
-<time datetime="">2024.12.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363736/36373626.jpg?version=20241223000026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Private Jet Sleep]]></title>
-            <link>https://music.bugs.co.kr/album/36373625?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36373625?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 23 Dec 2024 04:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13865590?wl_ref=list_ab_04" class="artistTitle" title="Deepnoum">Deepnoum</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Deepnoum||Deepnoum||13865590||OK\\nRelaxing Music||Relaxing Music||9890243||OK\\nRelaxing Music Therapy||Relaxing Music Therapy||10441143||OK', ''); return false;">
-Deepnoum
-</a> </p>
-<p>
-<time datetime="">2024.12.23</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363736/36373625.jpg?version=20241223000026.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
