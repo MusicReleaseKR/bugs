@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 09:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 10:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/368435/36843542.jpg?version=20241225015306.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gift For The Streets]]></title>
+            <link>https://music.bugs.co.kr/album/36843213?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36843213?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 25 Dec 2024 10:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80253195?wl_ref=list_ab_04" class="artistTitle" title="Kodak Black(코닥 블랙)" onclick="
+" target="_self">Kodak Black(코닥 블랙)</a>
+</p>
+<p>
+<time datetime="">2024.12.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368432/36843213.jpg?version=20241225151806.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Y2K! : I’m Just A Girl (Deluxe)]]></title>
@@ -1031,6 +1046,21 @@ Provinky
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206939/20693976.jpg?version=20241225120023.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dreams come true]]></title>
+            <link>https://music.bugs.co.kr/album/20693598?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20693598?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 25 Dec 2024 10:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20201001?wl_ref=list_ab_04" class="artistTitle" title="남태우 (NamTaeWoo)" onclick="
+" target="_self">남태우 (NamTaeWoo)</a>
+</p>
+<p>
+<time datetime="">2024.12.25</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206935/20693598.jpg?version=20241225180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JOURNEY]]></title>
             <link>https://music.bugs.co.kr/album/20693462?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20693462?wl_ref=list_ab_03</guid>
@@ -1044,36 +1074,6 @@ Provinky
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206934/20693462.jpg?version=20241225120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What in hell is bad? OST vol.2]]></title>
-            <link>https://music.bugs.co.kr/album/20692969?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20692969?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 25 Dec 2024 04:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20117655?wl_ref=list_ab_04" class="artistTitle" title="프리티비지 라이브!" onclick="
-" target="_self">프리티비지 라이브!</a>
-</p>
-<p>
-<time datetime="">2024.12.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206929/20692969.jpg?version=20241225120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[escena]]></title>
-            <link>https://music.bugs.co.kr/album/20692952?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20692952?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 25 Dec 2024 04:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20145181?wl_ref=list_ab_04" class="artistTitle" title="mhk" onclick="
-" target="_self">mhk</a>
-</p>
-<p>
-<time datetime="">2024.12.25</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206929/20692952.jpg?version=20241225120032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
