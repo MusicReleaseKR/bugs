@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jan 2025 09:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 10:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -776,6 +776,36 @@ Lazy Cat
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361095/36109568.jpg?version=20250104120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[IF YOU LOVE ME]]></title>
+            <link>https://music.bugs.co.kr/album/20695901?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20695901?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 Jan 2025 10:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20155044?wl_ref=list_ab_04" class="artistTitle" title="킨세인(KINSANE)" onclick="
+" target="_self">킨세인(KINSANE)</a>
+</p>
+<p>
+<time datetime="">2025.01.04</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206959/20695901.jpg?version=20250104180030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Somewhere Out There]]></title>
+            <link>https://music.bugs.co.kr/album/20695793?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20695793?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 Jan 2025 10:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20038311?wl_ref=list_ab_04" class="artistTitle" title="MONT (몬트)" onclick="
+" target="_self">MONT (몬트)</a>
+</p>
+<p>
+<time datetime="">2025.01.04</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206957/20695793.jpg?version=20250104180025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[To Begin With]]></title>
             <link>https://music.bugs.co.kr/album/20695565?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20695565?wl_ref=list_ab_03</guid>
@@ -804,6 +834,21 @@ Lazy Cat
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206943/20694391.jpg?version=20250104120034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해시태그]]></title>
+            <link>https://music.bugs.co.kr/album/4112510?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4112510?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 Jan 2025 10:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13749738?wl_ref=list_ab_04" class="artistTitle" title="Star Rabbit" onclick="
+" target="_self">Star Rabbit</a>
+</p>
+<p>
+<time datetime="">2025.01.04</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41125/4112510.jpg?version=20250104180030.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Coffee and Rain]]></title>
@@ -894,6 +939,21 @@ Lazy Cat
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/369941/36994160.jpg?version=20250104012524.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ah Medinem]]></title>
+            <link>https://music.bugs.co.kr/album/36994083?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36994083?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 04 Jan 2025 10:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13983728?wl_ref=list_ab_04" class="artistTitle" title="Çikolog" onclick="
+" target="_self">Çikolog</a>
+</p>
+<p>
+<time datetime="">2025.01.04</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/369940/36994083.jpg?version=20250104140023.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yaad Teri]]></title>
@@ -1053,66 +1113,6 @@ Sohan Lal Saini
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/369926/36992628.jpg?version=20250104120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Сказка про мышку Мию]]></title>
-            <link>https://music.bugs.co.kr/album/36992596?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36992596?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 04 Jan 2025 04:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14009232?wl_ref=list_ab_04" class="artistTitle" title="Василисины Истории" onclick="
-" target="_self">Василисины Истории</a>
-</p>
-<p>
-<time datetime="">2025.01.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/369925/36992596.jpg?version=20250104120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shadow of Fury]]></title>
-            <link>https://music.bugs.co.kr/album/36992458?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36992458?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 04 Jan 2025 04:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12602881?wl_ref=list_ab_04" class="artistTitle" title="gem" onclick="
-" target="_self">gem</a>
-</p>
-<p>
-<time datetime="">2025.01.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/369924/36992458.jpg?version=20250104120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ペースメーカー]]></title>
-            <link>https://music.bugs.co.kr/album/36992408?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36992408?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 04 Jan 2025 04:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14037403?wl_ref=list_ab_04" class="artistTitle" title="神が残した夢を喰う。" onclick="
-" target="_self">神が残した夢を喰う。</a>
-</p>
-<p>
-<time datetime="">2025.01.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/369924/36992408.jpg?version=20250104120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eternal Dance]]></title>
-            <link>https://music.bugs.co.kr/album/36992405?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36992405?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 04 Jan 2025 04:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8084884?wl_ref=list_ab_04" class="artistTitle" title="Lala" onclick="
-" target="_self">Lala</a>
-</p>
-<p>
-<time datetime="">2025.01.04</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/369924/36992405.jpg?version=20250104120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
