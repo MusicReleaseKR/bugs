@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 01:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 02:56:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41125/4112516.jpg?version=20250106044003.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만세]]></title>
+            <link>https://music.bugs.co.kr/album/20691297?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20691297?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 06 Jan 2025 02:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80044241?wl_ref=list_ab_04" class="artistTitle" title="온유 (ONEW)" onclick="
+" target="_self">온유 (ONEW)</a>
+</p>
+<p>
+<time datetime="">2024.12.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206912/20691297.jpg?version=20250104003704.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Le poète du piano]]></title>
@@ -1074,24 +1089,6 @@ Yuvanshankar Raja
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/369945/36994510.jpg?version=20250106002910.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Choti Choti Gaiya]]></title>
-            <link>https://music.bugs.co.kr/album/36994395?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36994395?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 05 Jan 2025 04:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12766923?wl_ref=list_ab_04" class="artistTitle" title="Pooja Shrivastav">Pooja Shrivastav</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Pooja Shrivastav||Pooja Shrivastav||12766923||OK\\nParas Chopra||Paras Chopra||12281276||OK', ''); return false;">
-Pooja Shrivastav
-</a> </p>
-<p>
-<time datetime="">2025.01.05</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/369943/36994395.jpg?version=20250105010017.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
