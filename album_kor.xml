@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 01:39:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 02:54:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[늦편지]]></title>
+            <link>https://music.bugs.co.kr/album/4108207?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4108207?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 07 Jan 2025 02:54:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80393517?wl_ref=list_ab_04" class="artistTitle" title="CREZL (크레즐)" onclick="
+" target="_self">CREZL (크레즐)</a>
+</p>
+<p>
+<time datetime="">2024.10.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41082/4108207.jpg?version=1736171274000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Special Vol.7]]></title>
             <link>https://music.bugs.co.kr/album/20696593?wl_ref=list_ab_03</link>
@@ -1047,21 +1062,6 @@ NANDAI BAMCO
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206962/20696216.jpg?version=1736188158000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼잣말]]></title>
-            <link>https://music.bugs.co.kr/album/20696174?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20696174?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 06 Jan 2025 04:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80329618?wl_ref=list_ab_04" class="artistTitle" title="해별" onclick="
-" target="_self">해별</a>
-</p>
-<p>
-<time datetime="">2025.01.06</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206961/20696174.jpg?version=1736132424000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
