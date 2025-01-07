@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 08:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 10:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -709,6 +709,21 @@ HAZUKI
             <enclosure url="https://image.bugsm.co.kr/album/images/170/368353/36835355.jpg?version=20250107120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[הלוואי]]></title>
+            <link>https://music.bugs.co.kr/album/36826242?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36826242?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 07 Jan 2025 10:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13439162?wl_ref=list_ab_04" class="artistTitle" title="דרני" onclick="
+" target="_self">דרני</a>
+</p>
+<p>
+<time datetime="">2025.01.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368262/36826242.jpg?version=20250107140025.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Trumpet Lo-Fi Mix (Instrumentals)]]></title>
             <link>https://music.bugs.co.kr/album/36698783?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36698783?wl_ref=list_ab_03</guid>
@@ -1100,24 +1115,6 @@ Vuggeviserı
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/344886/34488637.jpg?version=20250107120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rauhallisia unia]]></title>
-            <link>https://music.bugs.co.kr/album/34488626?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/34488626?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 07 Jan 2025 04:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12848182?wl_ref=list_ab_04" class="artistTitle" title="Tuutulauluja">Tuutulauluja</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Tuutulauluja||Tuutulauluja||12848182||OK\\nKlassista musiikkia vauvoille ja pikkulapsille||Klassista musiikkia vauvoille ja pikkulapsille||12847948||OK', ''); return false;">
-Tuutulauluja
-</a> </p>
-<p>
-<time datetime="">2025.01.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/344886/34488626.jpg?version=20250107120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
