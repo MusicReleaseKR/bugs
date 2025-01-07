@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 13:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 15:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YOAKE]]></title>
+            <link>https://music.bugs.co.kr/album/20696801?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20696801?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 07 Jan 2025 15:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20111285?wl_ref=list_ab_04" class="artistTitle" title="NiziU (니쥬)" onclick="
+" target="_self">NiziU (니쥬)</a>
+</p>
+<p>
+<time datetime="">2025.01.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206968/20696801.jpg?version=20250108000007.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈이 와]]></title>
             <link>https://music.bugs.co.kr/album/4112583?wl_ref=list_ab_03</link>
@@ -416,7 +431,7 @@
 <time datetime="">2025.01.07</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206965/20696550.jpg?version=20250107173710.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206965/20696550.jpg?version=20250108002419.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[감사]]></title>
@@ -1061,21 +1076,6 @@ Sevek
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206951/20695133.jpg?version=20250105180004.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[별들에게 물어봐 OST Part.1]]></title>
-            <link>https://music.bugs.co.kr/album/4112500?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4112500?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 05 Jan 2025 09:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20090461?wl_ref=list_ab_04" class="artistTitle" title="BIG Naughty (서동현)" onclick="
-" target="_self">BIG Naughty (서동현)</a>
-</p>
-<p>
-<time datetime="">2025.01.05</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41125/4112500.jpg?version=20250106002818.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
