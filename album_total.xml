@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 14:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 15:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wind In The Wires (20 Year Anniversary Remaster)]]></title>
+            <link>https://music.bugs.co.kr/album/36503777?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36503777?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 08 Jan 2025 15:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80054297?wl_ref=list_ab_04" class="artistTitle" title="Patrick Wolf(패트릭 울프)" onclick="
+" target="_self">Patrick Wolf(패트릭 울프)</a>
+</p>
+<p>
+<time datetime="">2025.01.09</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/365037/36503777.jpg?version=20250109000031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aquí estás]]></title>
+            <link>https://music.bugs.co.kr/album/36999060?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36999060?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 08 Jan 2025 15:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11817113?wl_ref=list_ab_04" class="artistTitle" title="Roy Aguado" onclick="
+" target="_self">Roy Aguado</a>
+</p>
+<p>
+<time datetime="">2025.01.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/369990/36999060.jpg?version=20250109000031.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Welcome To StuyVille]]></title>
             <link>https://music.bugs.co.kr/album/36998906?wl_ref=list_ab_03</link>
@@ -1092,39 +1122,6 @@ Olga Octopus
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361166/36116687.jpg?version=20250108000032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nhạc nền cho giấc mơ đẹp]]></title>
-            <link>https://music.bugs.co.kr/album/35076388?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/35076388?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 08 Jan 2025 04:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13091981?wl_ref=list_ab_04" class="artistTitle" title="Âm nhạc thư giãn">Âm nhạc thư giãn</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Âm nhạc thư giãn||Âm nhạc thư giãn||13091981||OK\\nÂm thanh đưa vào giấc ngủ||Âm thanh đưa vào giấc ngủ||13091982||OK', ''); return false;">
-Âm nhạc thư giãn
-</a> </p>
-<p>
-<time datetime="">2025.01.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/350763/35076388.jpg?version=20250108120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saint Helena]]></title>
-            <link>https://music.bugs.co.kr/album/20697107?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20697107?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 08 Jan 2025 04:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80303420?wl_ref=list_ab_04" class="artistTitle" title="YOSHI FLOWER" onclick="
-" target="_self">YOSHI FLOWER</a>
-</p>
-<p>
-<time datetime="">2025.01.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206971/20697107.jpg?version=20250108120033.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

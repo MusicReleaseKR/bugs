@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 14:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 15:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Magic Hour / Wonderful World]]></title>
+            <link>https://music.bugs.co.kr/album/4113010?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113010?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 08 Jan 2025 15:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13012711?wl_ref=list_ab_04" class="artistTitle" title="&amp;TEAM" onclick="
+" target="_self">&amp;TEAM</a>
+</p>
+<p>
+<time datetime="">2025.01.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41130/4113010.jpg?version=20250109000028.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부석순 2nd Single Album 'TELEPARTY']]></title>
             <link>https://music.bugs.co.kr/album/4112974?wl_ref=list_ab_03</link>
@@ -1060,21 +1075,6 @@ Maggie Szabo
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/369944/36994418.jpg?version=20250108005616.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Filthy Rich (Demo Version)]]></title>
-            <link>https://music.bugs.co.kr/album/36969484?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36969484?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 07 Jan 2025 03:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80193823?wl_ref=list_ab_04" class="artistTitle" title="Ella Henderson(엘라 헨더슨)" onclick="
-" target="_self">Ella Henderson(엘라 헨더슨)</a>
-</p>
-<p>
-<time datetime="">2025.01.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/369694/36969484.jpg?version=20250104004114.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
