@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jan 2025 14:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 15:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[שיער שחור]]></title>
+            <link>https://music.bugs.co.kr/album/35493648?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35493648?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 11 Jan 2025 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13735497?wl_ref=list_ab_04" class="artistTitle" title="קריזמו">קריזמו</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'קריזמו||קריזמו||13735497||OK\\nאסתר אווקה||אסתר אווקה||13818001||OK', ''); return false;">
+קריזמו
+</a> </p>
+<p>
+<time datetime="">2025.01.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/354936/35493648.jpg?version=20250112000030.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I'm Here To Win]]></title>
             <link>https://music.bugs.co.kr/album/37028020?wl_ref=list_ab_03</link>
@@ -1110,21 +1128,6 @@ WUYS
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/368570/36857066.jpg?version=20250111120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roar]]></title>
-            <link>https://music.bugs.co.kr/album/36854803?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36854803?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 11 Jan 2025 04:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14032425?wl_ref=list_ab_04" class="artistTitle" title="虎太郎" onclick="
-" target="_self">虎太郎</a>
-</p>
-<p>
-<time datetime="">2025.01.11</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368548/36854803.jpg?version=20250111120034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
