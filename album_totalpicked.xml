@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 04:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 05:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
 <time datetime="">2025.01.17</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370397/37039730.jpg?version=20250117012832.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370397/37039730.jpg?version=20250117134422.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바람이 차가워지면]]></title>
@@ -36,6 +36,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41132/4113228.jpg?version=20250117120023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Did: Bloom (Deluxe)]]></title>
+            <link>https://music.bugs.co.kr/album/4113285?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113285?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 17 Jan 2025 05:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20047395?wl_ref=list_ab_04" class="artistTitle" title="Yves (이브)" onclick="
+" target="_self">Yves (이브)</a>
+</p>
+<p>
+<time datetime="">2025.01.17</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41132/4113285.jpg?version=20250117140024.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스터트롯3 장르별 팀배틀 베스트 PART2]]></title>
@@ -1054,21 +1069,6 @@ Glass Animals(글래스 애니멀스)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/364277/36427758.jpg?version=20250115003903.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[shoreline]]></title>
-            <link>https://music.bugs.co.kr/album/37039792?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37039792?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 16 Jan 2025 03:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80338789?wl_ref=list_ab_04" class="artistTitle" title="chloe moriondo" onclick="
-" target="_self">chloe moriondo</a>
-</p>
-<p>
-<time datetime="">2025.01.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370397/37039792.jpg?version=20250117012733.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
