@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 02:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 03:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,21 @@ snapir
             <enclosure url="https://image.bugsm.co.kr/album/images/170/369858/36985822.jpg?version=20250117000024.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[More Calm Than I Used to Be]]></title>
+            <link>https://music.bugs.co.kr/album/36420430?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36420430?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 17 Jan 2025 03:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13434519?wl_ref=list_ab_04" class="artistTitle" title="Maximilian Aird" onclick="
+" target="_self">Maximilian Aird</a>
+</p>
+<p>
+<time datetime="">2025.01.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364204/36420430.jpg?version=20250117120040.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Say u love me]]></title>
             <link>https://music.bugs.co.kr/album/36414480?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36414480?wl_ref=list_ab_03</guid>
@@ -116,6 +131,36 @@ snapir
             <enclosure url="https://image.bugsm.co.kr/album/images/170/363101/36310121.jpg?version=20250117000024.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[I'm Fine (I'm Not Fine)]]></title>
+            <link>https://music.bugs.co.kr/album/35830478?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35830478?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 17 Jan 2025 03:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13096576?wl_ref=list_ab_04" class="artistTitle" title="REMY QUINN" onclick="
+" target="_self">REMY QUINN</a>
+</p>
+<p>
+<time datetime="">2025.01.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/358304/35830478.jpg?version=20250117120040.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boy On Fire (feat. Lil Wayne) (Jungle)]]></title>
+            <link>https://music.bugs.co.kr/album/34721037?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34721037?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 17 Jan 2025 03:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80014829?wl_ref=list_ab_04" class="artistTitle" title="Shen" onclick="
+" target="_self">Shen</a>
+</p>
+<p>
+<time datetime="">2025.01.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347210/34721037.jpg?version=20250117120040.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Come Gli Altri]]></title>
             <link>https://music.bugs.co.kr/album/32314503?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/32314503?wl_ref=list_ab_03</guid>
@@ -129,6 +174,21 @@ snapir
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/323145/32314503.jpg?version=20250117000024.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[To Be with You]]></title>
+            <link>https://music.bugs.co.kr/album/16381719?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16381719?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 17 Jan 2025 03:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/9774837?wl_ref=list_ab_04" class="artistTitle" title="Callum Hendry" onclick="
+" target="_self">Callum Hendry</a>
+</p>
+<p>
+<time datetime="">2021.11.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/163817/16381719.jpg?version=20250117103111.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HEAVEN ON EARTH, Pt. 2]]></title>
@@ -1072,69 +1132,6 @@ Dreamland - Nursery Rhymes
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206991/20699147.jpg?version=20250116120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tropical Dreams]]></title>
-            <link>https://music.bugs.co.kr/album/20699103?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20699103?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 16 Jan 2025 04:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20221742?wl_ref=list_ab_04" class="artistTitle" title="Red mango" onclick="
-" target="_self">Red mango</a>
-</p>
-<p>
-<time datetime="">2025.01.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206991/20699103.jpg?version=20250116120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hidden in Plain Sight]]></title>
-            <link>https://music.bugs.co.kr/album/20699034?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20699034?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 16 Jan 2025 04:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80149034?wl_ref=list_ab_04" class="artistTitle" title="Boldy James">Boldy James</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Boldy James||Boldy James||80149034||OK\\nwhothehelliscarlo||whothehelliscarlo||20227814||OK', ''); return false;">
-Boldy James
-</a> </p>
-<p>
-<time datetime="">2025.01.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206990/20699034.jpg?version=20250116120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Music diary Vol.10]]></title>
-            <link>https://music.bugs.co.kr/album/20698967?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20698967?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 16 Jan 2025 04:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20124811?wl_ref=list_ab_04" class="artistTitle" title="김성환" onclick="
-" target="_self">김성환</a>
-</p>
-<p>
-<time datetime="">2025.01.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206989/20698967.jpg?version=20250116120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DAY]]></title>
-            <link>https://music.bugs.co.kr/album/20698963?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20698963?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 16 Jan 2025 04:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20223875?wl_ref=list_ab_04" class="artistTitle" title="H" onclick="
-" target="_self">H</a>
-</p>
-<p>
-<time datetime="">2025.01.16</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206989/20698963.jpg?version=20250116120035.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
