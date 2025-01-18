@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jan 2025 02:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jan 2025 03:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,6 +81,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370392/37039236.jpg?version=20250118044009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paraque]]></title>
+            <link>https://music.bugs.co.kr/album/36715719?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36715719?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 18 Jan 2025 03:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14017364?wl_ref=list_ab_04" class="artistTitle" title="Imput" onclick="
+" target="_self">Imput</a>
+</p>
+<p>
+<time datetime="">2025.01.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/367157/36715719.jpg?version=20250118120028.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[¿En Dónde Está?]]></title>
@@ -1061,24 +1076,6 @@ Schepje
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370393/37039353.jpg?version=20250117000024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2004/14]]></title>
-            <link>https://music.bugs.co.kr/album/37039342?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37039342?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 17 Jan 2025 04:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11955715?wl_ref=list_ab_04" class="artistTitle" title="Olek">Olek</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Olek||Olek||11955715||OK\\nprodbylavel||prodbylavel||13731983||OK', ''); return false;">
-Olek
-</a> </p>
-<p>
-<time datetime="">2025.01.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370393/37039342.jpg?version=20250117000024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
