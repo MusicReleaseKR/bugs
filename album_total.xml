@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 09:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 10:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -486,6 +486,21 @@ Jodha
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370502/37050240.jpg?version=20250119004204.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nice Guy?]]></title>
+            <link>https://music.bugs.co.kr/album/37044382?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37044382?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 19 Jan 2025 10:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14029972?wl_ref=list_ab_04" class="artistTitle" title="jum:p" onclick="
+" target="_self">jum:p</a>
+</p>
+<p>
+<time datetime="">2025.01.19</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370443/37044382.jpg?version=20250119141003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dağlar Oğlu Dağlar Qızı]]></title>
@@ -1068,21 +1083,6 @@ MOTLEY FLOWER
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/369984/36998453.jpg?version=20250119120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Secrets Behind Obsidian Curtains]]></title>
-            <link>https://music.bugs.co.kr/album/36998222?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36998222?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 19 Jan 2025 04:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14031409?wl_ref=list_ab_04" class="artistTitle" title="Eiris Oren" onclick="
-" target="_self">Eiris Oren</a>
-</p>
-<p>
-<time datetime="">2025.01.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/369982/36998222.jpg?version=20250119120025.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
