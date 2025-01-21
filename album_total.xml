@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 14:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 16:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cranium]]></title>
+            <link>https://music.bugs.co.kr/album/36570202?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36570202?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 21 Jan 2025 16:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13663633?wl_ref=list_ab_04" class="artistTitle" title="clapdadriver" onclick="
+" target="_self">clapdadriver</a>
+</p>
+<p>
+<time datetime="">2025.01.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/365702/36570202.jpg?version=20250122000031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Master Melody]]></title>
+            <link>https://music.bugs.co.kr/album/35102146?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35102146?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 21 Jan 2025 16:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11911324?wl_ref=list_ab_04" class="artistTitle" title="They/Live" onclick="
+" target="_self">They/Live</a>
+</p>
+<p>
+<time datetime="">2025.01.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/351021/35102146.jpg?version=20250122000031.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Floating Thoughts]]></title>
             <link>https://music.bugs.co.kr/album/37050256?wl_ref=list_ab_03</link>
@@ -50,7 +80,7 @@
 <time datetime="">2025.01.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370393/37039392.jpg?version=20250121062025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370393/37039392.jpg?version=20250122003437.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Violin Legend]]></title>
@@ -110,7 +140,7 @@
 <time datetime="">2025.01.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370392/37039236.jpg?version=20250121062012.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370392/37039236.jpg?version=20250122011115.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Big Moment]]></title>
@@ -1038,36 +1068,6 @@ Ballaké Sissoko(발라케 시소코)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206986/20698666.jpg?version=20250121120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hushed Moments]]></title>
-            <link>https://music.bugs.co.kr/album/20697759?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20697759?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 21 Jan 2025 04:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20194507?wl_ref=list_ab_04" class="artistTitle" title="AetherAura" onclick="
-" target="_self">AetherAura</a>
-</p>
-<p>
-<time datetime="">2025.01.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206977/20697759.jpg?version=20250121120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[wall.path]]></title>
-            <link>https://music.bugs.co.kr/album/4113464?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4113464?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 21 Jan 2025 10:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13822077?wl_ref=list_ab_04" class="artistTitle" title="Grayroom" onclick="
-" target="_self">Grayroom</a>
-</p>
-<p>
-<time datetime="">2025.01.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41134/4113464.jpg?version=20250121180029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
