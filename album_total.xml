@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 08:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 09:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,21 +171,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370359/37035973.jpg?version=20250122000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAWA4PRESSI]]></title>
-            <link>https://music.bugs.co.kr/album/37033779?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37033779?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 22 Jan 2025 04:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13905609?wl_ref=list_ab_04" class="artistTitle" title="LilHawa" onclick="
-" target="_self">LilHawa</a>
-</p>
-<p>
-<time datetime="">2025.01.22</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370337/37033779.jpg?version=20250122134020.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Encara hi ha tant per fer]]></title>
@@ -1062,6 +1047,21 @@ Georgie Kawaguchi
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206993/20699317.jpg?version=20250122120041.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Morning BGM #03]]></title>
+            <link>https://music.bugs.co.kr/album/20699088?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20699088?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 22 Jan 2025 09:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20200486?wl_ref=list_ab_04" class="artistTitle" title="Easy BGM" onclick="
+" target="_self">Easy BGM</a>
+</p>
+<p>
+<time datetime="">2025.01.22</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206990/20699088.jpg?version=20250122120041.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
