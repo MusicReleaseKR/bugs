@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 09:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 10:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -715,6 +715,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41135/4113563.jpg?version=20250123120038.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Get Lazy]]></title>
+            <link>https://music.bugs.co.kr/album/4113543?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113543?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 23 Jan 2025 10:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13865012?wl_ref=list_ab_04" class="artistTitle" title="quiet.b" onclick="
+" target="_self">quiet.b</a>
+</p>
+<p>
+<time datetime="">2025.01.23</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41135/4113543.jpg?version=20250123180035.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lofi Nocturne]]></title>
             <link>https://music.bugs.co.kr/album/4113532?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4113532?wl_ref=list_ab_03</guid>
@@ -1052,24 +1067,6 @@ J Trix
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370335/37033594.jpg?version=20250123000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Pressure]]></title>
-            <link>https://music.bugs.co.kr/album/37032937?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37032937?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 23 Jan 2025 04:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20137852?wl_ref=list_ab_04" class="artistTitle" title="Bad Boombox">Bad Boombox</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Bad Boombox||Bad Boombox||20137852||OK\\nmischluft||mischluft||12702927||OK', ''); return false;">
-Bad Boombox
-</a> </p>
-<p>
-<time datetime="">2025.01.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370329/37032937.jpg?version=20250123000029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
