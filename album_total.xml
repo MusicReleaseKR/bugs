@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jan 2025 09:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 11:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -761,6 +761,21 @@ Adil Shohaz
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206987/20698701.jpg?version=20250127120038.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hangang Mood]]></title>
+            <link>https://music.bugs.co.kr/album/4113731?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113731?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 27 Jan 2025 11:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14044296?wl_ref=list_ab_04" class="artistTitle" title="DJD" onclick="
+" target="_self">DJD</a>
+</p>
+<p>
+<time datetime="">2025.01.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41137/4113731.jpg?version=20250127180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Franz Liszt : Etudes d'execution transcendante]]></title>
             <link>https://music.bugs.co.kr/album/4113594?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4113594?wl_ref=list_ab_03</guid>
@@ -1071,20 +1086,6 @@ pushinp
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207017/20701776.jpg?version=20250127120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네버포가튼 2024: 전쟁과 평화]]></title>
-            <link>https://music.bugs.co.kr/album/20701280?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20701280?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 27 Jan 2025 04:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<span class="artistTitle" title="">Various Artists</span>
-</p>
-<p>
-<time datetime="">2025.01.27</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207012/20701280.jpg?version=20250127120038.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
