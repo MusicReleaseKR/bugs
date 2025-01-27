@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jan 2025 08:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 09:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206995/20699571.jpg?version=1737946838000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[L7E3]]></title>
+            <link>https://music.bugs.co.kr/album/20699417?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20699417?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 27 Jan 2025 09:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80256385?wl_ref=list_ab_04" class="artistTitle" title="dsel" onclick="
+" target="_self">dsel</a>
+</p>
+<p>
+<time datetime="">2025.01.27</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206994/20699417.jpg?version=1737968426000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이너힐링 Vol. 6 - 별의 강을 건너면]]></title>
@@ -565,7 +580,7 @@ OLOGI
 <time datetime="">2025.01.27</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207013/20701340.jpg?version=1737946838000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207013/20701340.jpg?version=1737968764000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beautiful Winter]]></title>
@@ -1049,21 +1064,6 @@ OLOGI
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207004/20700466.jpg?version=1737946805000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛바랜 기억 속 그 자리에]]></title>
-            <link>https://music.bugs.co.kr/album/20700438?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20700438?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 27 Jan 2025 04:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20228134?wl_ref=list_ab_04" class="artistTitle" title="이민혁" onclick="
-" target="_self">이민혁</a>
-</p>
-<p>
-<time datetime="">2025.01.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207004/20700438.jpg?version=1737946838000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
