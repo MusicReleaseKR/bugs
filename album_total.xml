@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 09:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 10:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -493,6 +493,21 @@ Jan Sandström
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206992/20699273.jpg?version=20250128120030.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Frosted Melodies]]></title>
+            <link>https://music.bugs.co.kr/album/4113743?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113743?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Jan 2025 10:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14041425?wl_ref=list_ab_04" class="artistTitle" title="Jazzisphere" onclick="
+" target="_self">Jazzisphere</a>
+</p>
+<p>
+<time datetime="">2025.01.28</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41137/4113743.jpg?version=20250128180030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[James Bond]]></title>
             <link>https://music.bugs.co.kr/album/37090389?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37090389?wl_ref=list_ab_03</guid>
@@ -883,6 +898,21 @@ Spiritual Frequencies
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207012/20701234.jpg?version=20250128120020.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Reminded of My Love]]></title>
+            <link>https://music.bugs.co.kr/album/20700946?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20700946?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Jan 2025 10:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20222822?wl_ref=list_ab_04" class="artistTitle" title="PARKSAEHO" onclick="
+" target="_self">PARKSAEHO</a>
+</p>
+<p>
+<time datetime="">2025.01.28</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207009/20700946.jpg?version=20250128180030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[GYODAE]]></title>
             <link>https://music.bugs.co.kr/album/20700827?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20700827?wl_ref=list_ab_03</guid>
@@ -911,6 +941,36 @@ Spiritual Frequencies
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206995/20699590.jpg?version=20250128120030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[06288]]></title>
+            <link>https://music.bugs.co.kr/album/4113742?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113742?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Jan 2025 10:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20181903?wl_ref=list_ab_04" class="artistTitle" title="BENZO" onclick="
+" target="_self">BENZO</a>
+</p>
+<p>
+<time datetime="">2025.01.28</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41137/4113742.jpg?version=20250128180030.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don't Fall In Love (feat. NYD)]]></title>
+            <link>https://music.bugs.co.kr/album/37091275?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37091275?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Jan 2025 10:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12596922?wl_ref=list_ab_04" class="artistTitle" title="Rohit Sajwan" onclick="
+" target="_self">Rohit Sajwan</a>
+</p>
+<p>
+<time datetime="">2025.01.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370912/37091275.jpg?version=20250128172005.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bam Bhole]]></title>
@@ -1025,72 +1085,6 @@ GUM
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370904/37090431.jpg?version=20250128102542.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lo Mitgagat]]></title>
-            <link>https://music.bugs.co.kr/album/37090428?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37090428?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Jan 2025 04:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12728070?wl_ref=list_ab_04" class="artistTitle" title="Ilay Elmakys" onclick="
-" target="_self">Ilay Elmakys</a>
-</p>
-<p>
-<time datetime="">2025.01.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370904/37090428.jpg?version=20250128000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Garden Road (Live)]]></title>
-            <link>https://music.bugs.co.kr/album/37090427?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37090427?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Jan 2025 04:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/468?wl_ref=list_ab_04" class="artistTitle" title="Rush(러쉬)" onclick="
-" target="_self">Rush(러쉬)</a>
-</p>
-<p>
-<time datetime="">2025.01.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370904/37090427.jpg?version=20250128000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kamar Ke Nilami (Remix)]]></title>
-            <link>https://music.bugs.co.kr/album/37090424?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37090424?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Jan 2025 04:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/10596122?wl_ref=list_ab_04" class="artistTitle" title="Samar Singh">Samar Singh</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Samar Singh||Samar Singh||10596122||OK\\nShilpi Raj||Shilpi Raj||11037265||OK\\nDj Debashish||Dj Debashish||14033772||OK', ''); return false;">
-Samar Singh
-</a> </p>
-<p>
-<time datetime="">2025.01.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370904/37090424.jpg?version=20250128000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sajna Ve]]></title>
-            <link>https://music.bugs.co.kr/album/37090422?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37090422?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Jan 2025 04:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12627443?wl_ref=list_ab_04" class="artistTitle" title="Ravator">Ravator</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Ravator||Ravator||12627443||OK\\nAditya Rikhari||Aditya Rikhari||12177627||OK', ''); return false;">
-Ravator
-</a> </p>
-<p>
-<time datetime="">2025.01.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370904/37090422.jpg?version=20250128000031.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
