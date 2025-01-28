@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 13:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 15:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[מקדשים פרטיים]]></title>
+            <link>https://music.bugs.co.kr/album/37036526?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37036526?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Jan 2025 15:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13309850?wl_ref=list_ab_04" class="artistTitle" title="הדר הלל" onclick="
+" target="_self">הדר הלל</a>
+</p>
+<p>
+<time datetime="">2025.01.29</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370365/37036526.jpg?version=20250129000033.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Boulez A-Z: Mahler]]></title>
             <link>https://music.bugs.co.kr/album/37090429?wl_ref=list_ab_03</link>
@@ -970,7 +985,7 @@ Spiritual Frequencies
 <time datetime="">2025.01.28</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370912/37091275.jpg?version=20250128172005.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370912/37091275.jpg?version=20250128225721.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bam Bhole]]></title>
@@ -1067,24 +1082,6 @@ Deep
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370905/37090547.jpg?version=20250128003138.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Telescope]]></title>
-            <link>https://music.bugs.co.kr/album/37090431?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37090431?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Jan 2025 04:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80361588?wl_ref=list_ab_04" class="artistTitle" title="GUM">GUM</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'GUM||GUM||80361588||OK\\nAmbrose Kenny-Smith||Ambrose Kenny-Smith||20185113||OK', ''); return false;">
-GUM
-</a> </p>
-<p>
-<time datetime="">2025.01.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370904/37090431.jpg?version=20250128102542.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
