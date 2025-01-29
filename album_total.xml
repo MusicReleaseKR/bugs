@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jan 2025 02:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 03:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,6 +81,39 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/369856/36985615.jpg?version=20250129045005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Interudé]]></title>
+            <link>https://music.bugs.co.kr/album/37027957?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37027957?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 29 Jan 2025 03:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/13643098?wl_ref=list_ab_04" class="artistTitle" title="FRNTÉ">FRNTÉ</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'FRNTÉ||FRNTÉ||13643098||OK\\n9roovy||9roovy||14041504||OK', ''); return false;">
+FRNTÉ
+</a> </p>
+<p>
+<time datetime="">2025.01.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370279/37027957.jpg?version=20250129120031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ME ELEVO]]></title>
+            <link>https://music.bugs.co.kr/album/36490576?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36490576?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 29 Jan 2025 03:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13820469?wl_ref=list_ab_04" class="artistTitle" title="Lezius" onclick="
+" target="_self">Lezius</a>
+</p>
+<p>
+<time datetime="">2025.01.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364905/36490576.jpg?version=20250129120031.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Classics Reframed - Bach, Vivaldi & Mozart]]></title>
@@ -1049,36 +1082,6 @@ Spiritual Frequencies
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370912/37091275.jpg?version=20250129085532.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bam Bhole]]></title>
-            <link>https://music.bugs.co.kr/album/37090932?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37090932?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Jan 2025 04:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/10159355?wl_ref=list_ab_04" class="artistTitle" title="Mame Khan" onclick="
-" target="_self">Mame Khan</a>
-</p>
-<p>
-<time datetime="">2025.01.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370909/37090932.jpg?version=20250129003553.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[แอบรักเชื่อมั้ย (Perhaps)]]></title>
-            <link>https://music.bugs.co.kr/album/37090878?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37090878?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Jan 2025 04:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80382029?wl_ref=list_ab_04" class="artistTitle" title="DW" onclick="
-" target="_self">DW</a>
-</p>
-<p>
-<time datetime="">2025.01.28</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370908/37090878.jpg?version=20250128003029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
