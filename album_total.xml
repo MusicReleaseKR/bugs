@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jan 2025 08:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 10:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -522,6 +522,21 @@ Baile da Coronel
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206991/20699117.jpg?version=20250130120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hazy Hours]]></title>
+            <link>https://music.bugs.co.kr/album/4113701?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113701?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 30 Jan 2025 10:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14045994?wl_ref=list_ab_04" class="artistTitle" title="Lofisphere" onclick="
+" target="_self">Lofisphere</a>
+</p>
+<p>
+<time datetime="">2025.01.30</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41137/4113701.jpg?version=20250130180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ITSALL@VISION]]></title>
             <link>https://music.bugs.co.kr/album/4113652?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4113652?wl_ref=list_ab_03</guid>
@@ -598,6 +613,21 @@ Magnum77Chase
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370929/37092939.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One Way Ticket]]></title>
+            <link>https://music.bugs.co.kr/album/37091349?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37091349?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 30 Jan 2025 10:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80319726?wl_ref=list_ab_04" class="artistTitle" title="Tyne-James Organ" onclick="
+" target="_self">Tyne-James Organ</a>
+</p>
+<p>
+<time datetime="">2025.01.30</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370913/37091349.jpg?version=20250130174002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[For Years]]></title>
@@ -1060,39 +1090,6 @@ Dog Mozart
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/367165/36716590.jpg?version=20250130120034.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rua]]></title>
-            <link>https://music.bugs.co.kr/album/36697626?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36697626?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 04:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13502648?wl_ref=list_ab_04" class="artistTitle" title="Música de Montagem">Música de Montagem</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Música de Montagem||Música de Montagem||13502648||OK\\nSergio Molina||Sergio Molina||11113256||OK\\nXofan||Xofan||13502749||OK', ''); return false;">
-Música de Montagem
-</a> </p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/366976/36697626.jpg?version=20250130000029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MIXED SIGNALS]]></title>
-            <link>https://music.bugs.co.kr/album/36696787?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36696787?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 04:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14012115?wl_ref=list_ab_04" class="artistTitle" title="Cello The Kid" onclick="
-" target="_self">Cello The Kid</a>
-</p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/366967/36696787.jpg?version=20250130000029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
