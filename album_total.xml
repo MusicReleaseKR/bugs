@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Feb 2025 09:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 10:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -821,6 +821,36 @@ The Cornbead Boyz
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206989/20698975.jpg?version=20250201000030.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Velvet Nights]]></title>
+            <link>https://music.bugs.co.kr/album/4113931?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113931?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 10:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14051510?wl_ref=list_ab_04" class="artistTitle" title="Sonetra" onclick="
+" target="_self">Sonetra</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41139/4113931.jpg?version=20250201180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼국지 2025]]></title>
+            <link>https://music.bugs.co.kr/album/4113928?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113928?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 10:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14005857?wl_ref=list_ab_04" class="artistTitle" title="트와일라잇 소나타 밴드" onclick="
+" target="_self">트와일라잇 소나타 밴드</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41139/4113928.jpg?version=20250201180027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BUTCHER 2026]]></title>
             <link>https://music.bugs.co.kr/album/37100347?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37100347?wl_ref=list_ab_03</guid>
@@ -1038,36 +1068,6 @@ ronwithmusic
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370284/37028417.jpg?version=20250201120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What The Junk!]]></title>
-            <link>https://music.bugs.co.kr/album/36992049?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36992049?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 01 Feb 2025 04:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12163969?wl_ref=list_ab_04" class="artistTitle" title="Arunansh Bhatt" onclick="
-" target="_self">Arunansh Bhatt</a>
-</p>
-<p>
-<time datetime="">2025.02.01</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/369920/36992049.jpg?version=20250201120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[From Flour to Flavor]]></title>
-            <link>https://music.bugs.co.kr/album/36991707?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36991707?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 01 Feb 2025 04:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13768739?wl_ref=list_ab_04" class="artistTitle" title="ZayZonic" onclick="
-" target="_self">ZayZonic</a>
-</p>
-<p>
-<time datetime="">2025.02.01</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/369917/36991707.jpg?version=20250201120032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
