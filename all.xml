@@ -4,23 +4,89 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Feb 2025 02:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 03:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Hurry Up Tomorrow (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/37100348?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37100348?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 31 Jan 2025 09:22:16 GMT</pubDate>
+            <title><![CDATA[Spring Waltz (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/4113588?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113588?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80114581?wl_ref=list_ab_04" class="artistTitle" title="The Weeknd(위켄드)" onclick="
-" target="_self">The Weeknd(위켄드)</a>
+<a href="https://music.bugs.co.kr/artist/20036041?wl_ref=list_ab_04" class="artistTitle" title="홍영구(HYG)" onclick="
+" target="_self">홍영구(HYG)</a>
 </p>
 <p>
-<time datetime="">2025.01.31</time>
-<span class="albumType">정규</span>
+<time datetime="">2025.02.01</time>
+<span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371003/37100348.jpg?version=20250201031316.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41135/4113588.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[hidden plant (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20700242?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20700242?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80399504?wl_ref=list_ab_04" class="artistTitle" title="ryojinnjane" onclick="
+" target="_self">ryojinnjane</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207002/20700242.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mirror (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/4113892?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113892?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80370511?wl_ref=list_ab_04" class="artistTitle" title="hills">hills</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'hills||hills||80370511||OK\\n백식||백식(Baeksik)||20088722||OK', ''); return false;">
+hills
+</a> </p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41138/4113892.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(O)nly (W)hen (L)ove (U)nites (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20700244?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20700244?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20178542?wl_ref=list_ab_04" class="artistTitle" title="Slevin">Slevin</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Slevin||Slevin||20178542||OK\\nMoreen||Moreen||20221969||OK', ''); return false;">
+Slevin
+</a> </p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207002/20700244.jpg?version=20250201120004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOL VOL.7 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20701278?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20701278?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20115194?wl_ref=list_ab_04" class="artistTitle" title="피스트범프" onclick="
+" target="_self">피스트범프</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207012/20701278.jpg?version=20250201120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[blue jelly cake (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -36,6 +102,171 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41135/4113505.jpg?version=20250201033000.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤어진 후에 알게 되었죠 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/4113752?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113752?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80053405?wl_ref=list_ab_04" class="artistTitle" title="숙희" onclick="
+" target="_self">숙희</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41137/4113752.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[To the moon and back (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/4113734?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113734?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80278968?wl_ref=list_ab_04" class="artistTitle" title="조에" onclick="
+" target="_self">조에</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41137/4113734.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤랄랄라 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20701403?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20701403?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20189678?wl_ref=list_ab_04" class="artistTitle" title="김성곤" onclick="
+" target="_self">김성곤</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207014/20701403.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DOF ep #secret (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20700277?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20700277?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20206931?wl_ref=list_ab_04" class="artistTitle" title="DOF" onclick="
+" target="_self">DOF</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207002/20700277.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사람아 나의 사랑아 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20700693?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20700693?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80248253?wl_ref=list_ab_04" class="artistTitle" title="임지안" onclick="
+" target="_self">임지안</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207006/20700693.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑만은 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20701152?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20701152?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20164071?wl_ref=list_ab_04" class="artistTitle" title="희진" onclick="
+" target="_self">희진</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207011/20701152.jpg?version=20250201120010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도성마녀 미리내 OST Part.25 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20701324?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20701324?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80079368?wl_ref=list_ab_04" class="artistTitle" title="이보람(Koni)" onclick="
+" target="_self">이보람(Koni)</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">OST</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207013/20701324.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TIME LEAP 2 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20700199?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20700199?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20153344?wl_ref=list_ab_04" class="artistTitle" title="yuri cleff" onclick="
+" target="_self">yuri cleff</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207001/20700199.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ethereal Reflections (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20701231?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20701231?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20159699?wl_ref=list_ab_04" class="artistTitle" title="HAN" onclick="
+" target="_self">HAN</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207012/20701231.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IHOTEU Digital Single Album 'The Fourth Wave' (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/20701661?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20701661?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 01 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20212836?wl_ref=list_ab_04" class="artistTitle" title="IHOTEU(이호테우)" onclick="
+" target="_self">IHOTEU(이호테우)</a>
+</p>
+<p>
+<time datetime="">2025.02.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207016/20701661.jpg?version=20250201120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hurry Up Tomorrow (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <link>https://music.bugs.co.kr/album/37100348?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37100348?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 31 Jan 2025 09:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80114581?wl_ref=list_ab_04" class="artistTitle" title="The Weeknd(위켄드)" onclick="
+" target="_self">The Weeknd(위켄드)</a>
+</p>
+<p>
+<time datetime="">2025.01.31</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371003/37100348.jpg?version=20250201031316.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 월간 윤종신 1월호 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -850,237 +1081,6 @@ BIXXB
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41135/4113584.jpg?version=20250129180026.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초행 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/4106955?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4106955?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 29 Jan 2025 15:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20126733?wl_ref=list_ab_04" class="artistTitle" title="Aden (에이든)" onclick="
-" target="_self">Aden (에이든)</a>
-</p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41069/4106955.jpg?version=20250131002913.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원한 걸 바랬네 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20699991?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20699991?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20228035?wl_ref=list_ab_04" class="artistTitle" title="공" onclick="
-" target="_self">공</a>
-</p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206999/20699991.jpg?version=20250130120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리집 고양이는 베지테리언 OST Part.23 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20699440?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20699440?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20045376?wl_ref=list_ab_04" class="artistTitle" title="소밍" onclick="
-" target="_self">소밍</a>
-</p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206994/20699440.jpg?version=20250130120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[니가 없는 하루 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20701291?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20701291?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80187088?wl_ref=list_ab_04" class="artistTitle" title="오유준" onclick="
-" target="_self">오유준</a>
-</p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207012/20701291.jpg?version=20250130120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈 집 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20701271?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20701271?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20194500?wl_ref=list_ab_04" class="artistTitle" title="soulmin">soulmin</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'soulmin||soulmin||20194500||OK\\n주상훈||주상훈||20228442||OK', ''); return false;">
-soulmin
-</a> </p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207012/20701271.jpg?version=20250130120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너를 사랑하는 마음을 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20701192?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20701192?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20041441?wl_ref=list_ab_04" class="artistTitle" title="김달" onclick="
-" target="_self">김달</a>
-</p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207011/20701192.jpg?version=20250130120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Echo (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20701374?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20701374?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80093373?wl_ref=list_ab_04" class="artistTitle" title="글로디(Glody)" onclick="
-" target="_self">글로디(Glody)</a>
-</p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207013/20701374.jpg?version=20250130120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기적같은 이야기 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20700863?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20700863?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20188939?wl_ref=list_ab_04" class="artistTitle" title="yed" onclick="
-" target="_self">yed</a>
-</p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207008/20700863.jpg?version=20250130120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그저 네 옆에서 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20699917?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20699917?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20162570?wl_ref=list_ab_04" class="artistTitle" title="이한빈" onclick="
-" target="_self">이한빈</a>
-</p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206999/20699917.jpg?version=20250130120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eternity (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/20701401?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20701401?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20228490?wl_ref=list_ab_04" class="artistTitle" title="yujin" onclick="
-" target="_self">yujin</a>
-</p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207014/20701401.jpg?version=20250130120024.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Won't Be Long (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/37077442?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37077442?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80311890?wl_ref=list_ab_04" class="artistTitle" title="AJ Mitchell(에이제이 미첼)" onclick="
-" target="_self">AJ Mitchell(에이제이 미첼)</a>
-</p>
-<p>
-<time datetime="">2025.01.24</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370774/37077442.jpg?version=20250125022851.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The High Road (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/37051356?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37051356?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80262884?wl_ref=list_ab_04" class="artistTitle" title="Kane Brown" onclick="
-" target="_self">Kane Brown</a>
-</p>
-<p>
-<time datetime="">2025.01.24</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370513/37051356.jpg?version=20250125025248.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trouble: The MTG Remixes (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/37060983?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37060983?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80001411?wl_ref=list_ab_04" class="artistTitle" title="Akon(에이콘)">Akon(에이콘)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Akon||Akon(에이콘)||80001411||OK\\nHitmaker||Hitmaker||9822526||OK', ''); return false;">
-Akon(에이콘)
-</a> </p>
-<p>
-<time datetime="">2025.01.24</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370609/37060983.jpg?version=20250124004724.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tomorrow (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/37052821?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37052821?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8770693?wl_ref=list_ab_04" class="artistTitle" title="JC Stewart" onclick="
-" target="_self">JC Stewart</a>
-</p>
-<p>
-<time datetime="">2025.01.29</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370528/37052821.jpg?version=20250130053006.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[magic (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
-            <link>https://music.bugs.co.kr/album/37091069?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37091069?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 30 Jan 2025 03:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11057521?wl_ref=list_ab_04" class="artistTitle" title="joan" onclick="
-" target="_self">joan</a>
-</p>
-<p>
-<time datetime="">2025.01.30</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370910/37091069.jpg?version=20250201030754.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Wizard Corboz (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
