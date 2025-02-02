@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 02:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 03:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,6 +81,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/369992/36999229.jpg?version=20250202074004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marea]]></title>
+            <link>https://music.bugs.co.kr/album/33694617?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/33694617?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 02 Feb 2025 03:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13101114?wl_ref=list_ab_04" class="artistTitle" title="Sleep After Dreams" onclick="
+" target="_self">Sleep After Dreams</a>
+</p>
+<p>
+<time datetime="">2025.02.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/336946/33694617.jpg?version=20250202120036.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CARESSE]]></title>
@@ -1050,21 +1065,6 @@ Dennis Brown(데니스 브라운)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370694/37069481.jpg?version=20250201120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SONDER]]></title>
-            <link>https://music.bugs.co.kr/album/37057684?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37057684?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 01 Feb 2025 04:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12185634?wl_ref=list_ab_04" class="artistTitle" title="LIGS FM" onclick="
-" target="_self">LIGS FM</a>
-</p>
-<p>
-<time datetime="">2025.02.01</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370576/37057684.jpg?version=20250201120032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
