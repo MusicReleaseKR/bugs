@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 09:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 10:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,6 +242,21 @@ KAPPPPA
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207012/20701222.jpg?version=20250202120029.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[4study4work4inst Vol.2]]></title>
+            <link>https://music.bugs.co.kr/album/4113840?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113840?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 02 Feb 2025 10:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20171256?wl_ref=list_ab_04" class="artistTitle" title="tripleS (트리플에스)" onclick="
+" target="_self">tripleS (트리플에스)</a>
+</p>
+<p>
+<time datetime="">2025.02.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41138/4113840.jpg?version=20250202180033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NUSANTARA MENARI, Vol. 1]]></title>
             <link>https://music.bugs.co.kr/album/37093201?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37093201?wl_ref=list_ab_03</guid>
@@ -444,6 +459,24 @@ S P Bhupathi
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371066/37106658.jpg?version=20250202000028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flus]]></title>
+            <link>https://music.bugs.co.kr/album/37106569?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37106569?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 02 Feb 2025 10:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12977525?wl_ref=list_ab_04" class="artistTitle" title="FLUS">FLUS</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'FLUS||FLUS||12977525||OK\\nYosef Wolde Mariam||Yosef Wolde Mariam||8277112||OK\\nJon Ranes||Jon Ranes||12934723||OK\\nJonas Benyoub||Jonas Benyoub||80238445||OK', ''); return false;">
+FLUS
+</a> </p>
+<p>
+<time datetime="">2025.02.02</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371065/37106569.jpg?version=20250202181004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cobra Chhap Pichkari]]></title>
@@ -1053,36 +1086,6 @@ DJ MK DA V
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370932/37093206.jpg?version=20250202000028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sal]]></title>
-            <link>https://music.bugs.co.kr/album/37093205?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37093205?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 02 Feb 2025 04:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14059859?wl_ref=list_ab_04" class="artistTitle" title="Cris Baby" onclick="
-" target="_self">Cris Baby</a>
-</p>
-<p>
-<time datetime="">2025.02.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370932/37093205.jpg?version=20250202000028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Negocio]]></title>
-            <link>https://music.bugs.co.kr/album/37093204?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37093204?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 02 Feb 2025 04:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14059885?wl_ref=list_ab_04" class="artistTitle" title="Kio Mario" onclick="
-" target="_self">Kio Mario</a>
-</p>
-<p>
-<time datetime="">2025.02.02</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370932/37093204.jpg?version=20250202000028.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
