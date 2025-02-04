@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 01:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 02:47:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Graffiti]]></title>
+            <link>https://music.bugs.co.kr/album/4113304?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113304?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 04 Feb 2025 02:47:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20201950?wl_ref=list_ab_04" class="artistTitle" title="ALL(H)OURS(올아워즈)" onclick="
+" target="_self">ALL(H)OURS(올아워즈)</a>
+</p>
+<p>
+<time datetime="">2025.01.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41133/4113304.jpg?version=1737129859000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Good News]]></title>
             <link>https://music.bugs.co.kr/album/20701937?wl_ref=list_ab_03</link>
@@ -613,7 +628,7 @@ Hanpyo Kim
 <time datetime="">2025.02.03</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207013/20701306.jpg?version=1738573225000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207013/20701306.jpg?version=1738635624000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Today's Special]]></title>
@@ -1049,21 +1064,6 @@ Hanpyo Kim
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207017/20701796.jpg?version=1738551638000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warm Tone (Feat. LUXURY VILLA, OverTheZoo)]]></title>
-            <link>https://music.bugs.co.kr/album/20701688?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20701688?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 03 Feb 2025 10:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20054942?wl_ref=list_ab_04" class="artistTitle" title="김뮤지엄 (KIMMUSEUM)" onclick="
-" target="_self">김뮤지엄 (KIMMUSEUM)</a>
-</p>
-<p>
-<time datetime="">2025.02.03</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207016/20701688.jpg?version=1738631410000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
