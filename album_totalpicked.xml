@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 14:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 15:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AWAKE]]></title>
+            <link>https://music.bugs.co.kr/album/20702436?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20702436?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 04 Feb 2025 15:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20111285?wl_ref=list_ab_04" class="artistTitle" title="NiziU (니쥬)" onclick="
+" target="_self">NiziU (니쥬)</a>
+</p>
+<p>
+<time datetime="">2025.02.05</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207024/20702436.jpg?version=20250205000026.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원경 OST Part.4]]></title>
             <link>https://music.bugs.co.kr/album/20701922?wl_ref=list_ab_03</link>
@@ -1061,21 +1076,6 @@ DT James
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41138/4113887.jpg?version=20250204013735.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리집 고양이는 베지테리언 OST Part.24]]></title>
-            <link>https://music.bugs.co.kr/album/20701462?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20701462?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 02 Feb 2025 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80111555?wl_ref=list_ab_04" class="artistTitle" title="디케이소울(DKSOUL)" onclick="
-" target="_self">디케이소울(DKSOUL)</a>
-</p>
-<p>
-<time datetime="">2025.02.02</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207014/20701462.jpg?version=20250202180029.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
