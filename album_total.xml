@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 09:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 10:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -249,6 +249,21 @@ Daniel Rubin
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371077/37107704.jpg?version=20250205000029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Intrude]]></title>
+            <link>https://music.bugs.co.kr/album/37107683?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37107683?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 05 Feb 2025 10:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13696689?wl_ref=list_ab_04" class="artistTitle" title="Luhh Dyl" onclick="
+" target="_self">Luhh Dyl</a>
+</p>
+<p>
+<time datetime="">2025.02.05</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371076/37107683.jpg?version=20250205140028.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LEGION]]></title>
@@ -1071,21 +1086,6 @@ Limonaire 1900
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207024/20702452.jpg?version=20250205120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flower]]></title>
-            <link>https://music.bugs.co.kr/album/20702439?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20702439?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 05 Feb 2025 04:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20224627?wl_ref=list_ab_04" class="artistTitle" title="For a day" onclick="
-" target="_self">For a day</a>
-</p>
-<p>
-<time datetime="">2025.02.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207024/20702439.jpg?version=20250205120038.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
