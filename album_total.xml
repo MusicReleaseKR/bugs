@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 02:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 03:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,6 +81,21 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/369992/36999245.jpg?version=20250206074010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your Light]]></title>
+            <link>https://music.bugs.co.kr/album/13815008?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/13815008?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 06 Feb 2025 03:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10455088?wl_ref=list_ab_04" class="artistTitle" title="Authentic Bros" onclick="
+" target="_self">Authentic Bros</a>
+</p>
+<p>
+<time datetime="">2025.02.06</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/138150/13815008.jpg?version=20250206120032.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Joy]]></title>
@@ -374,7 +389,7 @@ Daniel Rubin
 <time datetime="">2025.02.05</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371076/37107683.jpg?version=20250205140028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371076/37107683.jpg?version=20250206120542.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LEGION]]></title>
@@ -1072,20 +1087,6 @@ Taeko Kojima(다에코 고지마)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207024/20702459.jpg?version=20250206020347.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sekai no Koten Jido Ensoki-Kakushu Gakki Jido Ensoki 2]]></title>
-            <link>https://music.bugs.co.kr/album/20702457?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20702457?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 05 Feb 2025 04:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<span class="artistTitle" title="">Various Artists</span>
-</p>
-<p>
-<time datetime="">2025.02.05</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207024/20702457.jpg?version=20250206020347.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
