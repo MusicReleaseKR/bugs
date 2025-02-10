@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 19:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 20:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,51 @@ DT James
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207017/20701777.jpg?version=20250208120027.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yehudi Menuhin, The Absolute Violin (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/37113652?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37113652?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Feb 2025 06:31:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/36033?wl_ref=list_ab_04" class="artistTitle" title="Yehudi Menuhin(예후디 메뉴인)" onclick="
+" target="_self">Yehudi Menuhin(예후디 메뉴인)</a>
+</p>
+<p>
+<time datetime="">2025.02.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371136/37113652.jpg?version=20250211045013.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rachmaninov: Piano Concerto No. 4 - Chopin, Beethoven (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/37074681?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37074681?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Feb 2025 20:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/4214?wl_ref=list_ab_04" class="artistTitle" title="Nikolai Lugansky(니콜라이 루간스키)" onclick="
+" target="_self">Nikolai Lugansky(니콜라이 루간스키)</a>
+</p>
+<p>
+<time datetime="">2025.02.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370746/37074681.jpg?version=20250211045010.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Winter Fantasy (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/37039371?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37039371?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Feb 2025 20:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/1199?wl_ref=list_ab_04" class="artistTitle" title="장영주(Sarah Chang)" onclick="
+" target="_self">장영주(Sarah Chang)</a>
+</p>
+<p>
+<time datetime="">2025.02.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370393/37039371.jpg?version=20250211045006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Old Boat (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/37113552?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37113552?wl_ref=list_ab_03</guid>
@@ -1284,21 +1329,6 @@ DT James
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371137/37113785.jpg?version=20250211005429.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yehudi Menuhin, The Absolute Violin (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/37113652?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37113652?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Feb 2025 06:31:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/36033?wl_ref=list_ab_04" class="artistTitle" title="Yehudi Menuhin(예후디 메뉴인)" onclick="
-" target="_self">Yehudi Menuhin(예후디 메뉴인)</a>
-</p>
-<p>
-<time datetime="">2025.02.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371136/37113652.jpg?version=20250211013728.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Darkness (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2109,36 +2139,6 @@ Claudia Döffinger
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371358/37135819.jpg?version=20250211030211.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Just Me & Ma Supa Señorita (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/37135817?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37135817?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Feb 2025 04:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13715773?wl_ref=list_ab_04" class="artistTitle" title="Sastii" onclick="
-" target="_self">Sastii</a>
-</p>
-<p>
-<time datetime="">2025.02.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371358/37135817.jpg?version=20250211005140.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keep On Rolling! Blaze and the Monster Machines 9 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/37126709?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37126709?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Feb 2025 04:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11525981?wl_ref=list_ab_04" class="artistTitle" title="Kids Superstars" onclick="
-" target="_self">Kids Superstars</a>
-</p>
-<p>
-<time datetime="">2025.02.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371267/37126709.jpg?version=20250210000023.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wednesday's Luck Vol.4 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
