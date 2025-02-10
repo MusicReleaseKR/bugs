@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 05:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 06:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -185,6 +185,36 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371171/37117195.jpg?version=20250210000023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mozart: Concerto for Flute & Harp - Beethoven, Vivaldi, Bach, Telemann]]></title>
+            <link>https://music.bugs.co.kr/album/37113785?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37113785?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Feb 2025 06:31:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/2998?wl_ref=list_ab_04" class="artistTitle" title="Emmanuel Pahud(엠마누엘 파후드)" onclick="
+" target="_self">Emmanuel Pahud(엠마누엘 파후드)</a>
+</p>
+<p>
+<time datetime="">2025.02.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371137/37113785.jpg?version=20250210050009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yehudi Menuhin, The Absolute Violin]]></title>
+            <link>https://music.bugs.co.kr/album/37113652?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37113652?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Feb 2025 06:31:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/36033?wl_ref=list_ab_04" class="artistTitle" title="Yehudi Menuhin(예후디 메뉴인)" onclick="
+" target="_self">Yehudi Menuhin(예후디 메뉴인)</a>
+</p>
+<p>
+<time datetime="">2025.02.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371136/37113652.jpg?version=20250210045206.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Darkness]]></title>
@@ -1040,36 +1070,6 @@ Claudia Döffinger
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371162/37116265.jpg?version=20250210000023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Drama]]></title>
-            <link>https://music.bugs.co.kr/album/37115302?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37115302?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Feb 2025 04:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13317119?wl_ref=list_ab_04" class="artistTitle" title="Francis Romano" onclick="
-" target="_self">Francis Romano</a>
-</p>
-<p>
-<time datetime="">2025.02.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371153/37115302.jpg?version=20250210000023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vaughan Williams: Five Tudor Portraits]]></title>
-            <link>https://music.bugs.co.kr/album/37113491?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37113491?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Feb 2025 05:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/39653?wl_ref=list_ab_04" class="artistTitle" title="David Willcocks" onclick="
-" target="_self">David Willcocks</a>
-</p>
-<p>
-<time datetime="">2025.02.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371134/37113491.jpg?version=20250210045205.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
