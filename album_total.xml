@@ -4,39 +4,9 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 02:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 03:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Mozart: Concerto for Flute & Harp - Beethoven, Vivaldi, Bach, Telemann]]></title>
-            <link>https://music.bugs.co.kr/album/37113785?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37113785?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 07 Feb 2025 23:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/2998?wl_ref=list_ab_04" class="artistTitle" title="Emmanuel Pahud(엠마누엘 파후드)" onclick="
-" target="_self">Emmanuel Pahud(엠마누엘 파후드)</a>
-</p>
-<p>
-<time datetime="">2025.02.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371137/37113785.jpg?version=20250210050009.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yehudi Menuhin, The Absolute Violin]]></title>
-            <link>https://music.bugs.co.kr/album/37113652?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37113652?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 08 Feb 2025 21:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/36033?wl_ref=list_ab_04" class="artistTitle" title="Yehudi Menuhin(예후디 메뉴인)" onclick="
-" target="_self">Yehudi Menuhin(예후디 메뉴인)</a>
-</p>
-<p>
-<time datetime="">2025.02.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371136/37113652.jpg?version=20250210045206.0" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA['Badinerie' - Bach, Handel, Vivaldi, Mozart, Beethoven]]></title>
             <link>https://music.bugs.co.kr/album/37074548?wl_ref=list_ab_03</link>
@@ -81,6 +51,36 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371134/37113491.jpg?version=20250210045205.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Corridors of my mind]]></title>
+            <link>https://music.bugs.co.kr/album/36094702?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36094702?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Feb 2025 03:27:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13810729?wl_ref=list_ab_04" class="artistTitle" title="808FLICKR" onclick="
+" target="_self">808FLICKR</a>
+</p>
+<p>
+<time datetime="">2025.02.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360947/36094702.jpg?version=20250210120034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lie to Me]]></title>
+            <link>https://music.bugs.co.kr/album/35814742?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/35814742?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Feb 2025 03:27:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13871851?wl_ref=list_ab_04" class="artistTitle" title="Dani Thorne" onclick="
+" target="_self">Dani Thorne</a>
+</p>
+<p>
+<time datetime="">2025.02.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/358147/35814742.jpg?version=20250210120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Double Down]]></title>
