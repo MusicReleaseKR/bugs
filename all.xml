@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 14:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 15:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,21 @@ DT James
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207017/20701777.jpg?version=20250208120027.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Old Boat (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/37113552?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37113552?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Feb 2025 15:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13605299?wl_ref=list_ab_04" class="artistTitle" title="Jesse Mek" onclick="
+" target="_self">Jesse Mek</a>
+</p>
+<p>
+<time datetime="">2025.02.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371135/37113552.jpg?version=20250211000033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[sad valentine's (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/37136528?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37136528?wl_ref=list_ab_03</guid>
@@ -2124,21 +2139,6 @@ Claudia Döffinger
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371267/37126709.jpg?version=20250210000023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Modo Avion (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/37126621?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37126621?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Feb 2025 04:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13951258?wl_ref=list_ab_04" class="artistTitle" title="TANKE RECORDS" onclick="
-" target="_self">TANKE RECORDS</a>
-</p>
-<p>
-<time datetime="">2025.02.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371266/37126621.jpg?version=20250210000023.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wednesday's Luck Vol.4 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
