@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 04:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 05:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,21 +371,6 @@ Tawny Boz
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/367029/36702938.jpg?version=20250210000023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In the Flow of Emotions]]></title>
-            <link>https://music.bugs.co.kr/album/20703787?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20703787?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Feb 2025 04:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20229255?wl_ref=list_ab_04" class="artistTitle" title="J.P.s" onclick="
-" target="_self">J.P.s</a>
-</p>
-<p>
-<time datetime="">2025.02.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207037/20703787.jpg?version=20250210120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Special Vol.10]]></title>
@@ -1070,6 +1055,21 @@ Claudia Döffinger
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371153/37115302.jpg?version=20250210000023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vaughan Williams: Five Tudor Portraits]]></title>
+            <link>https://music.bugs.co.kr/album/37113491?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37113491?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Feb 2025 05:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/39653?wl_ref=list_ab_04" class="artistTitle" title="David Willcocks" onclick="
+" target="_self">David Willcocks</a>
+</p>
+<p>
+<time datetime="">2025.02.10</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371134/37113491.jpg?version=20250210045205.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
