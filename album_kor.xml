@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 07:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 08:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -500,24 +500,6 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207039/20703961.jpg?version=1739242820000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MINISERIES : Remixes]]></title>
-            <link>https://music.bugs.co.kr/album/20703873?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20703873?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Feb 2025 04:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20005865?wl_ref=list_ab_04" class="artistTitle" title="SUMIN(수민)">SUMIN(수민)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'SUMIN||SUMIN(수민)||20005865||OK\\nSlom||Slom||80275369||OK', ''); return false;">
-SUMIN(수민)
-</a> </p>
-<p>
-<time datetime="">2025.02.11</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207038/20703873.jpg?version=1739242834000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Johnnyboy Kingston]]></title>
@@ -1058,6 +1040,21 @@ SUMIN(수민)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207037/20703794.jpg?version=1739242834000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[heart boyz (PC)]]></title>
+            <link>https://music.bugs.co.kr/album/20703789?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20703789?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Feb 2025 08:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20199364?wl_ref=list_ab_04" class="artistTitle" title="호피" onclick="
+" target="_self">호피</a>
+</p>
+<p>
+<time datetime="">2025.02.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207037/20703789.jpg?version=1739242834000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
