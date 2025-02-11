@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 02:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 03:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,6 +81,36 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371135/37113552.jpg?version=20250211000033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dont lie]]></title>
+            <link>https://music.bugs.co.kr/album/36864478?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36864478?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Feb 2025 03:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14034733?wl_ref=list_ab_04" class="artistTitle" title="Restripelm" onclick="
+" target="_self">Restripelm</a>
+</p>
+<p>
+<time datetime="">2025.02.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368644/36864478.jpg?version=20250211120034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mind Spiral]]></title>
+            <link>https://music.bugs.co.kr/album/36362599?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36362599?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Feb 2025 03:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11898412?wl_ref=list_ab_04" class="artistTitle" title="AleXZavesa" onclick="
+" target="_self">AleXZavesa</a>
+</p>
+<p>
+<time datetime="">2025.02.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363625/36362599.jpg?version=20250211120034.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[sad valentine's]]></title>
@@ -1040,36 +1070,6 @@ Claudia Döffinger
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371358/37135831.jpg?version=20250211030253.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ocean Serenade]]></title>
-            <link>https://music.bugs.co.kr/album/37135825?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37135825?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Feb 2025 04:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13923622?wl_ref=list_ab_04" class="artistTitle" title="Lyra Windsong" onclick="
-" target="_self">Lyra Windsong</a>
-</p>
-<p>
-<time datetime="">2025.02.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371358/37135825.jpg?version=20250211021559.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tempo Rush]]></title>
-            <link>https://music.bugs.co.kr/album/37135819?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37135819?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Feb 2025 04:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14035629?wl_ref=list_ab_04" class="artistTitle" title="Koto Groove Style" onclick="
-" target="_self">Koto Groove Style</a>
-</p>
-<p>
-<time datetime="">2025.02.10</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371358/37135819.jpg?version=20250211030211.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
