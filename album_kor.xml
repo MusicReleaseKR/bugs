@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 09:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 10:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -427,6 +427,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207022/20702282.jpg?version=1739242834000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가인;달]]></title>
+            <link>https://music.bugs.co.kr/album/4114458?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4114458?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Feb 2025 10:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20036705?wl_ref=list_ab_04" class="artistTitle" title="송가인" onclick="
+" target="_self">송가인</a>
+</p>
+<p>
+<time datetime="">2025.02.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41144/4114458.jpg?version=1739264409000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[whatever]]></title>
             <link>https://music.bugs.co.kr/album/4114443?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4114443?wl_ref=list_ab_03</guid>
@@ -625,6 +640,21 @@ SUMIN(수민)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207035/20703557.jpg?version=1739242834000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Stephanos]]></title>
+            <link>https://music.bugs.co.kr/album/20703553?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20703553?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Feb 2025 10:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20126943?wl_ref=list_ab_04" class="artistTitle" title="HADASH MUSIC(하다쉬뮤직)" onclick="
+" target="_self">HADASH MUSIC(하다쉬뮤직)</a>
+</p>
+<p>
+<time datetime="">2025.02.11</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207035/20703553.jpg?version=1739264527000" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lofi Jazz Collection]]></title>
             <link>https://music.bugs.co.kr/album/20703347?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20703347?wl_ref=list_ab_03</guid>
@@ -698,6 +728,21 @@ SUMIN(수민)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207019/20701973.jpg?version=1739242834000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inactive]]></title>
+            <link>https://music.bugs.co.kr/album/4114450?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4114450?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Feb 2025 10:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13693131?wl_ref=list_ab_04" class="artistTitle" title="celia" onclick="
+" target="_self">celia</a>
+</p>
+<p>
+<time datetime="">2025.02.11</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41144/4114450.jpg?version=1739264437000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[침착해]]></title>
@@ -1013,51 +1058,6 @@ SUMIN(수민)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207038/20703825.jpg?version=1739242806000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[longing]]></title>
-            <link>https://music.bugs.co.kr/album/20703796?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20703796?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Feb 2025 04:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20120632?wl_ref=list_ab_04" class="artistTitle" title="MACH(마하)" onclick="
-" target="_self">MACH(마하)</a>
-</p>
-<p>
-<time datetime="">2025.02.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207037/20703796.jpg?version=1739242834000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[suffering/deadend]]></title>
-            <link>https://music.bugs.co.kr/album/20703795?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20703795?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Feb 2025 04:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20120632?wl_ref=list_ab_04" class="artistTitle" title="MACH(마하)" onclick="
-" target="_self">MACH(마하)</a>
-</p>
-<p>
-<time datetime="">2025.02.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207037/20703795.jpg?version=1739242834000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[loneliness]]></title>
-            <link>https://music.bugs.co.kr/album/20703794?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20703794?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Feb 2025 04:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20120632?wl_ref=list_ab_04" class="artistTitle" title="MACH(마하)" onclick="
-" target="_self">MACH(마하)</a>
-</p>
-<p>
-<time datetime="">2025.02.11</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207037/20703794.jpg?version=1739242834000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
