@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 01:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 02:50:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1128,21 +1128,6 @@ Pardison Fontaine
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371134/37113491.jpg?version=20250212074004.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Best Years (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/37033012?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37033012?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Feb 2025 15:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14043433?wl_ref=list_ab_04" class="artistTitle" title="Victory Gbakara" onclick="
-" target="_self">Victory Gbakara</a>
-</p>
-<p>
-<time datetime="">2025.02.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370330/37033012.jpg?version=20250212000027.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[alte Tassen (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/34665078?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/34665078?wl_ref=list_ab_03</guid>
@@ -2157,6 +2142,24 @@ The One
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370527/37052754.jpg?version=20250211000033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MEGA DO TOMA SOMBRIO (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/37051740?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37051740?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 12 Feb 2025 02:50:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/8195012?wl_ref=list_ab_04" class="artistTitle" title="Vortex">Vortex</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Vortex||Vortex||8195012||OK\\nMC Denny||MC Denny||11037648||OK', ''); return false;">
+Vortex
+</a> </p>
+<p>
+<time datetime="">2025.02.11</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370517/37051740.jpg?version=20250211000033.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[True Worshipers Ministry, Psalms-POP Vol. 1 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
