@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 14:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 15:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MADEIN FOREVER]]></title>
+            <link>https://music.bugs.co.kr/album/20702498?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20702498?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 13 Feb 2025 15:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80398807?wl_ref=list_ab_04" class="artistTitle" title="MADEIN (메이딘)" onclick="
+" target="_self">MADEIN (메이딘)</a>
+</p>
+<p>
+<time datetime="">2025.02.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207024/20702498.jpg?version=1739437205000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blue Witch]]></title>
             <link>https://music.bugs.co.kr/album/20704499?wl_ref=list_ab_03</link>
@@ -1046,24 +1061,6 @@ koreanboi
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207044/20704463.jpg?version=1739415625000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[On Your Way]]></title>
-            <link>https://music.bugs.co.kr/album/20704451?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20704451?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 13 Feb 2025 10:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20105648?wl_ref=list_ab_04" class="artistTitle" title="THUGBOYY">THUGBOYY</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'THUGBOYY||THUGBOYY||20105648||OK\\nLil jibo||Lil jibo||20121915||OK', ''); return false;">
-THUGBOYY
-</a> </p>
-<p>
-<time datetime="">2025.02.13</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207044/20704451.jpg?version=1739437223000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
