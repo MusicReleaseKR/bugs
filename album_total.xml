@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 14:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 15:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Doa Berbuka Puasa]]></title>
+            <link>https://music.bugs.co.kr/album/37138142?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37138142?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 14 Feb 2025 15:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13250432?wl_ref=list_ab_04" class="artistTitle" title="Yaya Nuryasin" onclick="
+" target="_self">Yaya Nuryasin</a>
+</p>
+<p>
+<time datetime="">2025.02.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371381/37138142.jpg?version=20250215000030.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dvorák: String Quartet No. 11 & Terzetto]]></title>
             <link>https://music.bugs.co.kr/album/37179372?wl_ref=list_ab_03</link>
@@ -1065,21 +1080,6 @@ Stein Torleif Bjella
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371572/37157285.jpg?version=20250214012901.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ramblin' Rose and Other Classics]]></title>
-            <link>https://music.bugs.co.kr/album/37157280?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37157280?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Feb 2025 04:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80053316?wl_ref=list_ab_04" class="artistTitle" title="Leroy Van Dyke" onclick="
-" target="_self">Leroy Van Dyke</a>
-</p>
-<p>
-<time datetime="">2025.02.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371572/37157280.jpg?version=20250214021729.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
