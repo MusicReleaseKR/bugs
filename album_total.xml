@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Feb 2025 02:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 03:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,6 +98,21 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371383/37138313.jpg?version=20250215074147.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Hardest Part]]></title>
+            <link>https://music.bugs.co.kr/album/36369079?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36369079?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Feb 2025 03:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13819328?wl_ref=list_ab_04" class="artistTitle" title="The Cope Collective" onclick="
+" target="_self">The Cope Collective</a>
+</p>
+<p>
+<time datetime="">2025.02.15</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363690/36369079.jpg?version=20250215120026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Toccata & Fugue]]></title>
             <link>https://music.bugs.co.kr/album/37144490?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37144490?wl_ref=list_ab_03</guid>
@@ -141,6 +156,24 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371381/37138142.jpg?version=20250215042504.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Surge]]></title>
+            <link>https://music.bugs.co.kr/album/36864798?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36864798?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Feb 2025 03:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12701212?wl_ref=list_ab_04" class="artistTitle" title="HETAV">HETAV</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'HETAV||HETAV||12701212||OK\\nSupratim Dhar||Supratim Dhar||14018024||OK', ''); return false;">
+HETAV
+</a> </p>
+<p>
+<time datetime="">2025.02.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368647/36864798.jpg?version=20250215120026.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dvorák: String Quartet No. 11 & Terzetto]]></title>
@@ -1050,36 +1083,6 @@ Dreamy Lullabies
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371573/37157354.jpg?version=20250215044239.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Disney Orgel/Oyasumi BGM Vol.3]]></title>
-            <link>https://music.bugs.co.kr/album/37157349?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37157349?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Feb 2025 04:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12673249?wl_ref=list_ab_04" class="artistTitle" title="Disney Orgel" onclick="
-" target="_self">Disney Orgel</a>
-</p>
-<p>
-<time datetime="">2025.02.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371573/37157349.jpg?version=20250214022322.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Loreley. Volkslieder für Chor]]></title>
-            <link>https://music.bugs.co.kr/album/37157332?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37157332?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Feb 2025 04:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12707633?wl_ref=list_ab_04" class="artistTitle" title="figure humaine kammerchor" onclick="
-" target="_self">figure humaine kammerchor</a>
-</p>
-<p>
-<time datetime="">2025.02.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371573/37157332.jpg?version=20250214004133.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
