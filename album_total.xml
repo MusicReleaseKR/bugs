@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 09:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 10:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -884,6 +884,21 @@ BELFORD
             <enclosure url="https://image.bugsm.co.kr/album/images/170/369911/36991158.jpg?version=20250217120037.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wednesday's Luck Vol.5]]></title>
+            <link>https://music.bugs.co.kr/album/20705380?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20705380?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 17 Feb 2025 10:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20228034?wl_ref=list_ab_04" class="artistTitle" title="Wednesday" onclick="
+" target="_self">Wednesday</a>
+</p>
+<p>
+<time datetime="">2025.02.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207053/20705380.jpg?version=20250217180032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Special Vol.11]]></title>
             <link>https://music.bugs.co.kr/album/20705314?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20705314?wl_ref=list_ab_03</guid>
@@ -1116,21 +1131,6 @@ Danish National Symphony Orchestra
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207048/20704868.jpg?version=20250217120037.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래시컬 보사노바]]></title>
-            <link>https://music.bugs.co.kr/album/20704813?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20704813?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 17 Feb 2025 04:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20214124?wl_ref=list_ab_04" class="artistTitle" title="LeoSky" onclick="
-" target="_self">LeoSky</a>
-</p>
-<p>
-<time datetime="">2025.02.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207048/20704813.jpg?version=20250217120037.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
