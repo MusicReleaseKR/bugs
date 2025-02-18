@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 07:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 08:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,21 +51,6 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207057/20705729.jpg?version=1739847640000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아름다운 피아노 클래식 명곡]]></title>
-            <link>https://music.bugs.co.kr/album/20705719?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20705719?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 18 Feb 2025 04:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20196759?wl_ref=list_ab_04" class="artistTitle" title="레몬멜로우" onclick="
-" target="_self">레몬멜로우</a>
-</p>
-<p>
-<time datetime="">2025.02.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207057/20705719.jpg?version=1739847640000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너에게]]></title>
@@ -1059,6 +1044,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207054/20705440.jpg?version=1739847640000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Remind]]></title>
+            <link>https://music.bugs.co.kr/album/20705438?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20705438?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 18 Feb 2025 08:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20172107?wl_ref=list_ab_04" class="artistTitle" title="심브금" onclick="
+" target="_self">심브금</a>
+</p>
+<p>
+<time datetime="">2025.02.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207054/20705438.jpg?version=1739847640000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
