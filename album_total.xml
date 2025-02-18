@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 02:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 03:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,6 +174,21 @@ Raffa Moreira
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/316230/31623017.jpg?version=20250218000028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HIDEAWAY]]></title>
+            <link>https://music.bugs.co.kr/album/18928219?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18928219?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 18 Feb 2025 03:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80321399?wl_ref=list_ab_04" class="artistTitle" title="Jordyn Simone" onclick="
+" target="_self">Jordyn Simone</a>
+</p>
+<p>
+<time datetime="">2025.02.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189282/18928219.jpg?version=20250218120040.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Classics Reframed - Bach, Vivaldi & Mozart]]></title>
@@ -1113,21 +1128,6 @@ BELFORD
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207051/20705174.jpg?version=20250217120037.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cryptic Clue]]></title>
-            <link>https://music.bugs.co.kr/album/20705173?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20705173?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 17 Feb 2025 04:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20227710?wl_ref=list_ab_04" class="artistTitle" title="ZORAY" onclick="
-" target="_self">ZORAY</a>
-</p>
-<p>
-<time datetime="">2025.02.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207051/20705173.jpg?version=20250217120037.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
