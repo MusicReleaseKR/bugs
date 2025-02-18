@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 14:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 15:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Echoes of a Piano Messenger]]></title>
+            <link>https://music.bugs.co.kr/album/37074550?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37074550?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 18 Feb 2025 15:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80008293?wl_ref=list_ab_04" class="artistTitle" title="Aldo Ciccolini(알도 치콜리니)" onclick="
+" target="_self">Aldo Ciccolini(알도 치콜리니)</a>
+</p>
+<p>
+<time datetime="">2025.02.19</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370745/37074550.jpg?version=20250219000026.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Xiang Shi Zhi Lei]]></title>
             <link>https://music.bugs.co.kr/album/37193243?wl_ref=list_ab_03</link>
@@ -1127,24 +1142,6 @@ Bedtime Baby Bo
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/311594/31159433.jpg?version=20250218120040.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[舒缓催眠]]></title>
-            <link>https://music.bugs.co.kr/album/31083008?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31083008?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 18 Feb 2025 04:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13153354?wl_ref=list_ab_04" class="artistTitle" title="催眠空间音乐">催眠空间音乐</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '催眠空间音乐||催眠空间音乐||13153354||OK\\n睡眠的音乐||睡眠的音乐||13153365||OK', ''); return false;">
-催眠空间音乐
-</a> </p>
-<p>
-<time datetime="">2025.02.18</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310830/31083008.jpg?version=20250218120040.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
