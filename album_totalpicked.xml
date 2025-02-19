@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 04:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 05:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,6 +111,20 @@
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41152/4115240.jpg?version=20250219120029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Unmasked (트리거 OST Part. 2)]]></title>
+            <link>https://music.bugs.co.kr/album/37193351?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37193351?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 19 Feb 2025 03:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<span class="artistTitle" title="">Various Artists</span>
+</p>
+<p>
+<time datetime="">2025.02.19</time>
+<span class="albumType">OST</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371933/37193351.jpg?version=20250219120656.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현역가왕2 결승전 신곡미션]]></title>
@@ -245,20 +259,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371749/37174972.jpg?version=20250219120029.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Unmasked (트리거 OST Part. 2)]]></title>
-            <link>https://music.bugs.co.kr/album/37193351?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37193351?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 19 Feb 2025 03:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<span class="artistTitle" title="">Various Artists</span>
-</p>
-<p>
-<time datetime="">2025.02.19</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371933/37193351.jpg?version=20250219120656.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BAAM(뱀)]]></title>
