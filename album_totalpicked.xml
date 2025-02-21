@@ -4,9 +4,45 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 04:29:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 05:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ExtraL]]></title>
+            <link>https://music.bugs.co.kr/album/4115394?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4115394?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 21 Feb 2025 05:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80265678?wl_ref=list_ab_04" class="artistTitle" title="제니 (JENNIE)">제니 (JENNIE)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '제니 (JENNIE)||제니 (JENNIE)||80265678||OK\\nDoechii||Doechii||12680465||OK', ''); return false;">
+제니 (JENNIE)
+</a> </p>
+<p>
+<time datetime="">2025.02.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41153/4115394.jpg?version=20250221140004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LV Bag (feat. j-hope of BTS & Pharrell Williams)]]></title>
+            <link>https://music.bugs.co.kr/album/37258373?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37258373?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 21 Feb 2025 05:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/80312477?wl_ref=list_ab_04" class="artistTitle" title="Don Toliver">Don Toliver</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Don Toliver||Don Toliver||80312477||OK\\nSpeedy||Speedy(스피디)||302127||OK', ''); return false;">
+Don Toliver
+</a> </p>
+<p>
+<time datetime="">2025.02.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/372583/37258373.jpg?version=20250221140021.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ravel: The Piano Concertos]]></title>
             <link>https://music.bugs.co.kr/album/37249605?wl_ref=list_ab_03</link>
@@ -1043,36 +1079,6 @@ V.teum(빈틈)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371575/37157526.jpg?version=20250219020239.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Update]]></title>
-            <link>https://music.bugs.co.kr/album/37249292?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37249292?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 20 Feb 2025 03:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80227579?wl_ref=list_ab_04" class="artistTitle" title="Burna Boy" onclick="
-" target="_self">Burna Boy</a>
-</p>
-<p>
-<time datetime="">2025.02.19</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/372492/37249292.jpg?version=20250221003717.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rollercoaster]]></title>
-            <link>https://music.bugs.co.kr/album/37114836?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37114836?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 20 Feb 2025 03:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13606863?wl_ref=list_ab_04" class="artistTitle" title="Perrie" onclick="
-" target="_self">Perrie</a>
-</p>
-<p>
-<time datetime="">2025.02.14</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371148/37114836.jpg?version=20250221013032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
