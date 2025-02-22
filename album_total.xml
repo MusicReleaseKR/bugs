@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Feb 2025 02:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 03:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -129,6 +129,21 @@ June Anderson
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/372487/37248744.jpg?version=20250222064027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tutsak]]></title>
+            <link>https://music.bugs.co.kr/album/36438130?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36438130?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 22 Feb 2025 03:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13869344?wl_ref=list_ab_04" class="artistTitle" title="Zenga" onclick="
+" target="_self">Zenga</a>
+</p>
+<p>
+<time datetime="">2025.02.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364381/36438130.jpg?version=20250222120038.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Endwa]]></title>
@@ -1052,21 +1067,6 @@ Dorian
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/372494/37249419.jpg?version=20250222005151.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DANGER vol. 1]]></title>
-            <link>https://music.bugs.co.kr/album/37249408?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37249408?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 21 Feb 2025 04:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13081715?wl_ref=list_ab_04" class="artistTitle" title="3arbi" onclick="
-" target="_self">3arbi</a>
-</p>
-<p>
-<time datetime="">2025.02.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/372494/37249408.jpg?version=20250222012009.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
