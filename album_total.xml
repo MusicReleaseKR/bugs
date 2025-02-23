@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Feb 2025 02:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 03:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,21 @@ June Anderson
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370256/37025600.jpg?version=20250223000031.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Am I]]></title>
+            <link>https://music.bugs.co.kr/album/37168491?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37168491?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 23 Feb 2025 03:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14071717?wl_ref=list_ab_04" class="artistTitle" title="Aridd" onclick="
+" target="_self">Aridd</a>
+</p>
+<p>
+<time datetime="">2025.02.23</time>
+<span class="albumType">OST</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371684/37168491.jpg?version=20250223120030.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[二胡绮梦|好听的80年代90年代经典老歌歌单 |二胡轻音乐]]></title>
@@ -1110,24 +1125,6 @@ Moon Tunes
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/371914/37191417.jpg?version=20250222120038.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20-25]]></title>
-            <link>https://music.bugs.co.kr/album/37191140?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37191140?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 22 Feb 2025 04:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13646880?wl_ref=list_ab_04" class="artistTitle" title="Neggo vkah">Neggo vkah</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Neggo vkah||Neggo vkah||13646880||OK\\nYounk Black_CHO||Younk Black_CHO||13974321||OK', ''); return false;">
-Neggo vkah
-</a> </p>
-<p>
-<time datetime="">2025.02.22</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/371911/37191140.jpg?version=20250222120038.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
