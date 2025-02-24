@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 02:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 03:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,21 @@ June Anderson
             <enclosure url="https://image.bugsm.co.kr/album/images/170/372487/37248744.jpg?version=20250224044059.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Tokyo Lights]]></title>
+            <link>https://music.bugs.co.kr/album/37060324?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37060324?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 24 Feb 2025 03:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14054651?wl_ref=list_ab_04" class="artistTitle" title="Evening Trails" onclick="
+" target="_self">Evening Trails</a>
+</p>
+<p>
+<time datetime="">2025.02.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370603/37060324.jpg?version=20250224120039.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beverly]]></title>
             <link>https://music.bugs.co.kr/album/36385554?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36385554?wl_ref=list_ab_03</guid>
@@ -221,6 +236,21 @@ June Anderson
             <enclosure url="https://image.bugsm.co.kr/album/images/170/363855/36385554.jpg?version=20250224000027.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Illusion]]></title>
+            <link>https://music.bugs.co.kr/album/36378524?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36378524?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 24 Feb 2025 03:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12488650?wl_ref=list_ab_04" class="artistTitle" title="6avvy" onclick="
+" target="_self">6avvy</a>
+</p>
+<p>
+<time datetime="">2025.02.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363785/36378524.jpg?version=20250224120039.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Rest my soul]]></title>
             <link>https://music.bugs.co.kr/album/36126086?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/36126086?wl_ref=list_ab_03</guid>
@@ -234,6 +264,20 @@ June Anderson
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361260/36126086.jpg?version=20250224000027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hot Songs For Cold Days 2025]]></title>
+            <link>https://music.bugs.co.kr/album/37050897?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37050897?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 24 Feb 2025 03:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<span class="artistTitle" title="">Various Artists</span>
+</p>
+<p>
+<time datetime="">2025.01.21</time>
+<span class="albumType">컴필레이션</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370508/37050897.jpg?version=20250224113230.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[relíquias . . .]]></title>
@@ -1077,57 +1121,6 @@ Denis Frajerman
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370371/37037146.jpg?version=20250223000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Variations Volodine - Vol. 2]]></title>
-            <link>https://music.bugs.co.kr/album/37037144?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37037144?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 23 Feb 2025 04:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11758469?wl_ref=list_ab_04" class="artistTitle" title="Denis Frajerman">Denis Frajerman</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Denis Frajerman||Denis Frajerman||11758469||OK\\nAntoine Volodine||Antoine Volodine||14043836||OK', ''); return false;">
-Denis Frajerman
-</a> </p>
-<p>
-<time datetime="">2025.02.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370371/37037144.jpg?version=20250223000031.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sweater Weather]]></title>
-            <link>https://music.bugs.co.kr/album/36142348?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36142348?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 23 Feb 2025 04:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13894884?wl_ref=list_ab_04" class="artistTitle" title="netterfeger">netterfeger</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'netterfeger||netterfeger||13894884||OK\\nLofi Park||Lofi Park||13893278||OK', ''); return false;">
-netterfeger
-</a> </p>
-<p>
-<time datetime="">2025.02.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361423/36142348.jpg?version=20250223120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Record of Tears]]></title>
-            <link>https://music.bugs.co.kr/album/20706918?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20706918?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 23 Feb 2025 04:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80218543?wl_ref=list_ab_04" class="artistTitle" title="김눈물" onclick="
-" target="_self">김눈물</a>
-</p>
-<p>
-<time datetime="">2025.02.23</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207069/20706918.jpg?version=20250223120010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
