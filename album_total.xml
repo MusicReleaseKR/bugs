@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 09:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 10:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anh Sẽ Cười Vì Em]]></title>
+            <link>https://music.bugs.co.kr/album/37335981?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37335981?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 03 Mar 2025 10:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12470003?wl_ref=list_ab_04" class="artistTitle" title="Phan Anh" onclick="
+" target="_self">Phan Anh</a>
+</p>
+<p>
+<time datetime="">2025.03.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373359/37335981.jpg?version=20250303131008.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nhớ Lắm]]></title>
+            <link>https://music.bugs.co.kr/album/37335978?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37335978?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 03 Mar 2025 10:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14104445?wl_ref=list_ab_04" class="artistTitle" title="Hải Nguyễn" onclick="
+" target="_self">Hải Nguyễn</a>
+</p>
+<p>
+<time datetime="">2025.03.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373359/37335978.jpg?version=20250303131006.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3:33]]></title>
             <link>https://music.bugs.co.kr/album/37334994?wl_ref=list_ab_03</link>
@@ -1035,39 +1065,6 @@ Michael Melo
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370336/37033670.jpg?version=20250303000030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lost Waves]]></title>
-            <link>https://music.bugs.co.kr/album/36319261?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36319261?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 03 Mar 2025 04:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12924693?wl_ref=list_ab_04" class="artistTitle" title="Sjana" onclick="
-" target="_self">Sjana</a>
-</p>
-<p>
-<time datetime="">2025.03.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/363192/36319261.jpg?version=20250303120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scene]]></title>
-            <link>https://music.bugs.co.kr/album/36047964?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36047964?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 03 Mar 2025 04:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13274809?wl_ref=list_ab_04" class="artistTitle" title="Toshiki Soejima">Toshiki Soejima</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Toshiki Soejima||Toshiki Soejima||13274809||OK\\nNahokimama||Nahokimama||13274658||OK', ''); return false;">
-Toshiki Soejima
-</a> </p>
-<p>
-<time datetime="">2025.03.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/360479/36047964.jpg?version=20250303120039.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
