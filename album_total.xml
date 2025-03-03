@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 14:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 15:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Segunda]]></title>
+            <link>https://music.bugs.co.kr/album/32296526?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32296526?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 03 Mar 2025 15:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80075854?wl_ref=list_ab_04" class="artistTitle" title="Yolanda be Cool(욜란다 비 쿨)" onclick="
+" target="_self">Yolanda be Cool(욜란다 비 쿨)</a>
+</p>
+<p>
+<time datetime="">2025.03.04</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/322965/32296526.jpg?version=20250301061840.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Back To You]]></title>
+            <link>https://music.bugs.co.kr/album/15653433?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/15653433?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 03 Mar 2025 15:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8030300?wl_ref=list_ab_04" class="artistTitle" title="Adapter" onclick="
+" target="_self">Adapter</a>
+</p>
+<p>
+<time datetime="">2025.03.04</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/156534/15653433.jpg?version=20250301025831.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anh Sẽ Cười Vì Em]]></title>
             <link>https://music.bugs.co.kr/album/37335981?wl_ref=list_ab_03</link>
@@ -20,7 +50,7 @@
 <time datetime="">2025.03.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373359/37335981.jpg?version=20250303131008.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373359/37335981.jpg?version=20250304002317.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nhớ Lắm]]></title>
@@ -1035,36 +1065,6 @@ Michael Melo
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370688/37068859.jpg?version=20250303120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Electronic Cow]]></title>
-            <link>https://music.bugs.co.kr/album/37060381?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37060381?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 03 Mar 2025 04:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14007390?wl_ref=list_ab_04" class="artistTitle" title="MyAngryCow" onclick="
-" target="_self">MyAngryCow</a>
-</p>
-<p>
-<time datetime="">2025.03.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370603/37060381.jpg?version=20250303120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LoFi Winter, Pt. 5]]></title>
-            <link>https://music.bugs.co.kr/album/37033670?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37033670?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 03 Mar 2025 04:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13177372?wl_ref=list_ab_04" class="artistTitle" title="A LoFi Crush" onclick="
-" target="_self">A LoFi Crush</a>
-</p>
-<p>
-<time datetime="">2025.03.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370336/37033670.jpg?version=20250303000030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
