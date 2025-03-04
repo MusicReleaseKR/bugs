@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 09:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 10:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -955,6 +955,21 @@ Ludwig Van Beethoven(베토벤)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361733/36173373.jpg?version=20250304120104.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[열대의 숨결]]></title>
+            <link>https://music.bugs.co.kr/album/20709267?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20709267?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 04 Mar 2025 10:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20230788?wl_ref=list_ab_04" class="artistTitle" title="해리슨" onclick="
+" target="_self">해리슨</a>
+</p>
+<p>
+<time datetime="">2025.03.04</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207092/20709267.jpg?version=20250304180026.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Whispers of the Heart]]></title>
             <link>https://music.bugs.co.kr/album/20709056?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20709056?wl_ref=list_ab_03</guid>
@@ -1061,21 +1076,6 @@ Masako Ohta
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207085/20708551.jpg?version=20250304120104.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HEAD]]></title>
-            <link>https://music.bugs.co.kr/album/20708518?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20708518?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 04 Mar 2025 04:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12069660?wl_ref=list_ab_04" class="artistTitle" title="ROZET" onclick="
-" target="_self">ROZET</a>
-</p>
-<p>
-<time datetime="">2025.03.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207085/20708518.jpg?version=20250304120104.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
