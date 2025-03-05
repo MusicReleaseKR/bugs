@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 02:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 03:30:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -161,6 +161,21 @@ Navjot Siaan
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370210/37021099.jpg?version=20250305000025.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[nightswimming]]></title>
+            <link>https://music.bugs.co.kr/album/36575845?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36575845?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 05 Mar 2025 03:29:53 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13422239?wl_ref=list_ab_04" class="artistTitle" title="Megan Voyd" onclick="
+" target="_self">Megan Voyd</a>
+</p>
+<p>
+<time datetime="">2025.03.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/365758/36575845.jpg?version=20250305120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Voices]]></title>
             <link>https://music.bugs.co.kr/album/30364525?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/30364525?wl_ref=list_ab_03</guid>
@@ -173,7 +188,7 @@ Navjot Siaan
 <time datetime="">2025.03.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/303645/30364525.jpg?version=20250305012158.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/303645/30364525.jpg?version=20250305120005.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Holla]]></title>
@@ -188,7 +203,7 @@ Navjot Siaan
 <time datetime="">2025.03.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/158139/15813927.jpg?version=20250305091001.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/158139/15813927.jpg?version=20250305120004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Let's Rave]]></title>
@@ -203,7 +218,7 @@ Navjot Siaan
 <time datetime="">2025.03.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/147056/14705661.jpg?version=20250305071400.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/147056/14705661.jpg?version=20250305120004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[sad girl country]]></title>
@@ -307,7 +322,7 @@ Navjot Siaan
 <time datetime="">2025.03.04</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373324/37332477.jpg?version=20250304120104.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373324/37332477.jpg?version=20250305122456.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A Trip to Punjab: Bhangra Dance Party]]></title>
@@ -1061,21 +1076,6 @@ Ludwig Van Beethoven(베토벤)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370330/37033020.jpg?version=20250304000028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lundi]]></title>
-            <link>https://music.bugs.co.kr/album/36173373?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36173373?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 04 Mar 2025 04:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13292755?wl_ref=list_ab_04" class="artistTitle" title="Shanti" onclick="
-" target="_self">Shanti</a>
-</p>
-<p>
-<time datetime="">2025.03.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361733/36173373.jpg?version=20250304120104.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
