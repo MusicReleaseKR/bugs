@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 07:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 08:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -827,21 +827,6 @@ Maxime Landry
             <enclosure url="https://image.bugsm.co.kr/album/images/170/373520/37352079.jpg?version=20250307081807.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yang Tai Shang De Ye Zi]]></title>
-            <link>https://music.bugs.co.kr/album/37352060?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37352060?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 07 Mar 2025 03:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13484859?wl_ref=list_ab_04" class="artistTitle" title="Yi Nan Jia" onclick="
-" target="_self">Yi Nan Jia</a>
-</p>
-<p>
-<time datetime="">2025.03.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373520/37352060.jpg?version=20250307105939.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Cathy Claret (キャシー・クラレ) (Remasterizado)]]></title>
             <link>https://music.bugs.co.kr/album/37345620?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37345620?wl_ref=list_ab_03</guid>
@@ -1070,6 +1055,21 @@ Paul Neda
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/373379/37337909.jpg?version=20250307000035.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bizet: Carmen, WD 31 (Highlights in English)]]></title>
+            <link>https://music.bugs.co.kr/album/37337891?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37337891?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 07 Mar 2025 08:30:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80003749?wl_ref=list_ab_04" class="artistTitle" title="Colin Davis(콜린 데이비스)" onclick="
+" target="_self">Colin Davis(콜린 데이비스)</a>
+</p>
+<p>
+<time datetime="">2025.03.07</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373378/37337891.jpg?version=20250307000035.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
