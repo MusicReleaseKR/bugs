@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 09:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 10:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Are you okay]]></title>
+            <link>https://music.bugs.co.kr/album/37413456?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37413456?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Mar 2025 10:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14117286?wl_ref=list_ab_04" class="artistTitle" title="Jymmy" onclick="
+" target="_self">Jymmy</a>
+</p>
+<p>
+<time datetime="">2025.03.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/374134/37413456.jpg?version=20250310165017.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wheres Love]]></title>
+            <link>https://music.bugs.co.kr/album/37413444?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37413444?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 10 Mar 2025 10:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14117285?wl_ref=list_ab_04" class="artistTitle" title="Jacky Dream" onclick="
+" target="_self">Jacky Dream</a>
+</p>
+<p>
+<time datetime="">2025.03.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/374134/37413444.jpg?version=20250310165014.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lifney Shehakol Nirdam]]></title>
             <link>https://music.bugs.co.kr/album/37407476?wl_ref=list_ab_03</link>
@@ -1028,36 +1058,6 @@ Alma Gov
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/374056/37405692.jpg?version=20250310121015.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Knowledge Is Success]]></title>
-            <link>https://music.bugs.co.kr/album/37405691?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37405691?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Mar 2025 04:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13996107?wl_ref=list_ab_04" class="artistTitle" title="Concentrational Brain" onclick="
-" target="_self">Concentrational Brain</a>
-</p>
-<p>
-<time datetime="">2025.03.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/374056/37405691.jpg?version=20250310121013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soothing Lounge Music]]></title>
-            <link>https://music.bugs.co.kr/album/37405690?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37405690?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Mar 2025 04:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80100798?wl_ref=list_ab_04" class="artistTitle" title="New York Jazz Lounge(뉴욕 재즈 라운지)" onclick="
-" target="_self">New York Jazz Lounge(뉴욕 재즈 라운지)</a>
-</p>
-<p>
-<time datetime="">2025.03.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/374056/37405690.jpg?version=20250310121011.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
