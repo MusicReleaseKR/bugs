@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 14:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 15:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1069,6 +1069,69 @@ David Guetta(데이빗 게타)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41160/4116006.jpg?version=20250309180025.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Predatory (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/37178706?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37178706?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Mar 2025 15:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14039660?wl_ref=list_ab_04" class="artistTitle" title="Face Yourself" onclick="
+" target="_self">Face Yourself</a>
+</p>
+<p>
+<time datetime="">2025.03.12</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371787/37178706.jpg?version=20250312000032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shake (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/32725612?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/32725612?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Mar 2025 15:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10902558?wl_ref=list_ab_04" class="artistTitle" title="Bemore" onclick="
+" target="_self">Bemore</a>
+</p>
+<p>
+<time datetime="">2023.07.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327256/32725612.jpg?version=20240926102012.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEMO (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/31456509?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/31456509?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Mar 2025 15:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/3767?wl_ref=list_ab_04" class="artistTitle" title="Armand Van Helden(아만드 반 헬덴)">Armand Van Helden(아만드 반 헬덴)</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Armand Van Helden||Armand Van Helden(아만드 반 헬덴)||3767||OK\\nBrittles||Brittles||12798239||OK', ''); return false;">
+Armand Van Helden(아만드 반 헬덴)
+</a> </p>
+<p>
+<time datetime="">2023.04.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/314565/31456509.jpg?version=20241013030015.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Have A Nice Day ;) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/17574376?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/17574376?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Mar 2025 15:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20145475?wl_ref=list_ab_04" class="artistTitle" title="Ango Tamarin" onclick="
+" target="_self">Ango Tamarin</a>
+</p>
+<p>
+<time datetime="">2022.03.25</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/175743/17574376.jpg?version=20240926102004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Revenge (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/37453742?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37453742?wl_ref=list_ab_03</guid>
@@ -2072,69 +2135,6 @@ Miguel Camacho
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207102/20710267.jpg?version=20250311120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Looking Back (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20710143?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20710143?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Mar 2025 04:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20117024?wl_ref=list_ab_04" class="artistTitle" title="Richard Baratta" onclick="
-" target="_self">Richard Baratta</a>
-</p>
-<p>
-<time datetime="">2025.03.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207101/20710143.jpg?version=20250311120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Our Calling (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20710127?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20710127?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Mar 2025 04:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80206969?wl_ref=list_ab_04" class="artistTitle" title="Piers Faccini(피어스 파치니)">Piers Faccini(피어스 파치니)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Piers Faccini||Piers Faccini(피어스 파치니)||80206969||OK\\nBallaké Sissoko||Ballaké Sissoko(발라케 시소코)||80290071||OK', ''); return false;">
-Piers Faccini(피어스 파치니)
-</a> </p>
-<p>
-<time datetime="">2025.03.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207101/20710127.jpg?version=20250311120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악여행 종합편 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20710124?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20710124?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Mar 2025 04:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20231159?wl_ref=list_ab_04" class="artistTitle" title="정종숙" onclick="
-" target="_self">정종숙</a>
-</p>
-<p>
-<time datetime="">2025.03.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207101/20710124.jpg?version=20250311120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Acoustic Heartstrings (Afternoon Harmony) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20710114?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20710114?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 11 Mar 2025 04:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20230778?wl_ref=list_ab_04" class="artistTitle" title="Elvoa" onclick="
-" target="_self">Elvoa</a>
-</p>
-<p>
-<time datetime="">2025.03.11</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207101/20710114.jpg?version=20250311120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Moonshadow (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
