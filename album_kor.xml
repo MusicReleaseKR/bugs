@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 02:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 03:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1집 김영준]]></title>
+            <link>https://music.bugs.co.kr/album/20098438?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20098438?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Mar 2025 03:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80204214?wl_ref=list_ab_04" class="artistTitle" title="윤오" onclick="
+" target="_self">윤오</a>
+</p>
+<p>
+<time datetime="">2025.03.11</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/200984/20098438.jpg?version=1741662033000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가능의 미래]]></title>
             <link>https://music.bugs.co.kr/album/37355637?wl_ref=list_ab_03</link>
@@ -1043,21 +1058,6 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207102/20710230.jpg?version=1741575612000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[망원역에서 생각한 사랑 (영화 '망원동에서 안녕' 삽입곡)]]></title>
-            <link>https://music.bugs.co.kr/album/20710221?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20710221?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 10 Mar 2025 04:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20231185?wl_ref=list_ab_04" class="artistTitle" title="이일현" onclick="
-" target="_self">이일현</a>
-</p>
-<p>
-<time datetime="">2025.03.10</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207102/20710221.jpg?version=1741576485000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
