@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 03:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 04:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41160/4116017.jpg?version=20250310180022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweet Dreams - zzZ Remixes]]></title>
+            <link>https://music.bugs.co.kr/album/4116136?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4116136?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 11 Mar 2025 04:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80180886?wl_ref=list_ab_04" class="artistTitle" title="j-hope" onclick="
+" target="_self">j-hope</a>
+</p>
+<p>
+<time datetime="">2025.03.11</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41161/4116136.jpg?version=20250311130027.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그리움쯤은 예상했던 것]]></title>
@@ -1049,21 +1064,6 @@ David Guetta(데이빗 게타)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207097/20709779.jpg?version=20250309120023.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쎄쎄쎄]]></title>
-            <link>https://music.bugs.co.kr/album/20710387?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20710387?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 09 Mar 2025 03:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13358023?wl_ref=list_ab_04" class="artistTitle" title="Sticky Boyz" onclick="
-" target="_self">Sticky Boyz</a>
-</p>
-<p>
-<time datetime="">2025.03.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207103/20710387.jpg?version=20250309120023.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
