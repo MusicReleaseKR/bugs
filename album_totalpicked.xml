@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 03:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 04:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HOT]]></title>
+            <link>https://music.bugs.co.kr/album/4116299?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4116299?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 14 Mar 2025 04:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20158908?wl_ref=list_ab_04" class="artistTitle" title="LE SSERAFIM (르세라핌)" onclick="
+" target="_self">LE SSERAFIM (르세라핌)</a>
+</p>
+<p>
+<time datetime="">2025.03.14</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41162/4116299.jpg?version=20250314130008.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학교 그 시절 (윤택TV X 유럽(ULUV))]]></title>
             <link>https://music.bugs.co.kr/album/4115998?wl_ref=list_ab_03</link>
@@ -67,21 +82,6 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41162/4116267.jpg?version=20250314120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ash]]></title>
-            <link>https://music.bugs.co.kr/album/20711608?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20711608?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Mar 2025 03:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12834805?wl_ref=list_ab_04" class="artistTitle" title="이소 (iiso)" onclick="
-" target="_self">이소 (iiso)</a>
-</p>
-<p>
-<time datetime="">2025.03.14</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207116/20711608.jpg?version=20250314120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[I'm Still Dreaming (김성근의 겨울방학 X SHOON)]]></title>
             <link>https://music.bugs.co.kr/album/4116201?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4116201?wl_ref=list_ab_03</guid>
@@ -95,6 +95,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41162/4116201.jpg?version=20250314003102.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ash]]></title>
+            <link>https://music.bugs.co.kr/album/20711608?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20711608?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 14 Mar 2025 03:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12834805?wl_ref=list_ab_04" class="artistTitle" title="이소 (iiso)" onclick="
+" target="_self">이소 (iiso)</a>
+</p>
+<p>
+<time datetime="">2025.03.14</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207116/20711608.jpg?version=20250314120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기다려왔어 널 (Until now KR ver.)]]></title>
@@ -323,6 +338,21 @@ Chloe Char (클로이 차)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207111/20711180.jpg?version=20250314120019.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Air (English Ver.)]]></title>
+            <link>https://music.bugs.co.kr/album/20711560?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20711560?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 14 Mar 2025 04:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80327434?wl_ref=list_ab_04" class="artistTitle" title="예지 (ITZY)" onclick="
+" target="_self">예지 (ITZY)</a>
+</p>
+<p>
+<time datetime="">2025.03.14</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207115/20711560.jpg?version=20250314130026.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMOKE THE PAIN AWAY]]></title>
@@ -1049,36 +1079,6 @@ Rebūke
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207105/20710553.jpg?version=20250313022855.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HICCUPS]]></title>
-            <link>https://music.bugs.co.kr/album/4116174?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4116174?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 12 Mar 2025 09:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80405770?wl_ref=list_ab_04" class="artistTitle" title="NEWBEAT" onclick="
-" target="_self">NEWBEAT</a>
-</p>
-<p>
-<time datetime="">2025.03.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41161/4116174.jpg?version=20250314015603.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SSMU(TII Remix)]]></title>
-            <link>https://music.bugs.co.kr/album/37392058?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37392058?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 12 Mar 2025 09:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20059947?wl_ref=list_ab_04" class="artistTitle" title="Yescoba" onclick="
-" target="_self">Yescoba</a>
-</p>
-<p>
-<time datetime="">2025.03.12</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373920/37392058.jpg?version=20250313030247.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
