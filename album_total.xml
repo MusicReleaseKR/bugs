@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Mar 2025 02:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 03:29:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,36 @@
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/374600/37460099.jpg?version=20250315044009.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kavach]]></title>
+            <link>https://music.bugs.co.kr/album/37098596?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37098596?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Mar 2025 03:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14053611?wl_ref=list_ab_04" class="artistTitle" title="Zaid Bakhtawarpuria" onclick="
+" target="_self">Zaid Bakhtawarpuria</a>
+</p>
+<p>
+<time datetime="">2025.03.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370985/37098596.jpg?version=20250315120032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nolwazi]]></title>
+            <link>https://music.bugs.co.kr/album/34534243?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34534243?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Mar 2025 03:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13563181?wl_ref=list_ab_04" class="artistTitle" title="Jaden M" onclick="
+" target="_self">Jaden M</a>
+</p>
+<p>
+<time datetime="">2025.03.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/345342/34534243.jpg?version=20250315120032.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7/7]]></title>
@@ -1037,36 +1067,6 @@ Debbi
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/374614/37461484.jpg?version=20250314024205.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE WAY]]></title>
-            <link>https://music.bugs.co.kr/album/37461442?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37461442?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Mar 2025 04:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12601717?wl_ref=list_ab_04" class="artistTitle" title="Dorothy" onclick="
-" target="_self">Dorothy</a>
-</p>
-<p>
-<time datetime="">2025.03.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/374614/37461442.jpg?version=20250314013717.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIFE IN WAVES]]></title>
-            <link>https://music.bugs.co.kr/album/37461435?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37461435?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Mar 2025 04:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80321242?wl_ref=list_ab_04" class="artistTitle" title="Dorian" onclick="
-" target="_self">Dorian</a>
-</p>
-<p>
-<time datetime="">2025.03.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/374614/37461435.jpg?version=20250314024205.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
