@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Mar 2025 09:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 10:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -761,6 +761,21 @@ Timmy Rickard
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207118/20711811.jpg?version=20250315120032.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[too]]></title>
+            <link>https://music.bugs.co.kr/album/20711765?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20711765?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Mar 2025 10:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20230186?wl_ref=list_ab_04" class="artistTitle" title="Tune In Tomorrow" onclick="
+" target="_self">Tune In Tomorrow</a>
+</p>
+<p>
+<time datetime="">2025.03.15</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207117/20711765.jpg?version=20250315180034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Q Vol.39]]></title>
             <link>https://music.bugs.co.kr/album/20711701?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20711701?wl_ref=list_ab_03</guid>
@@ -804,6 +819,36 @@ Timmy Rickard
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207096/20709619.jpg?version=20250315120032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Our Love Story 1]]></title>
+            <link>https://music.bugs.co.kr/album/4116333?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4116333?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Mar 2025 10:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13348009?wl_ref=list_ab_04" class="artistTitle" title="Relax Ann" onclick="
+" target="_self">Relax Ann</a>
+</p>
+<p>
+<time datetime="">2025.03.15</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41163/4116333.jpg?version=20250315180034.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The first of PCB]]></title>
+            <link>https://music.bugs.co.kr/album/4116330?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4116330?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 15 Mar 2025 10:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14126084?wl_ref=list_ab_04" class="artistTitle" title="PCB" onclick="
+" target="_self">PCB</a>
+</p>
+<p>
+<time datetime="">2025.03.15</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41163/4116330.jpg?version=20250315180034.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Piano Inst. 10곡 │ 오후 햇살이 꽃들을 잡아둘 거야 (시냇물 소리)]]></title>
@@ -1020,54 +1065,6 @@ Isht
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/374059/37405983.jpg?version=20250315120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MASH ROAD EP]]></title>
-            <link>https://music.bugs.co.kr/album/37405982?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37405982?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 15 Mar 2025 04:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8632670?wl_ref=list_ab_04" class="artistTitle" title="Rast Dias" onclick="
-" target="_self">Rast Dias</a>
-</p>
-<p>
-<time datetime="">2025.03.15</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/374059/37405982.jpg?version=20250315120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LETHAL SLIDE (Remixes)]]></title>
-            <link>https://music.bugs.co.kr/album/37396903?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37396903?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 15 Mar 2025 04:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12711728?wl_ref=list_ab_04" class="artistTitle" title="Oneon">Oneon</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Oneon||Oneon||12711728||OK\\nzxnc.||zxnc.||13758856||OK\\nVenge Clan Records||Venge Clan Records||14078913||OK', ''); return false;">
-Oneon
-</a> </p>
-<p>
-<time datetime="">2025.03.15</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373969/37396903.jpg?version=20250315120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kendalikan Dunia]]></title>
-            <link>https://music.bugs.co.kr/album/37395789?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37395789?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 15 Mar 2025 04:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13959183?wl_ref=list_ab_04" class="artistTitle" title="Huntul" onclick="
-" target="_self">Huntul</a>
-</p>
-<p>
-<time datetime="">2025.03.15</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373957/37395789.jpg?version=20250315120032.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
