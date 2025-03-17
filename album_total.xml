@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 09:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 10:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[APEIRON]]></title>
+            <link>https://music.bugs.co.kr/album/37489241?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37489241?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 17 Mar 2025 10:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14127989?wl_ref=list_ab_04" class="artistTitle" title="Geese045" onclick="
+" target="_self">Geese045</a>
+</p>
+<p>
+<time datetime="">2025.03.17</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/374892/37489241.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blanca Nieves (Banda Sonora Original)]]></title>
             <link>https://music.bugs.co.kr/album/37488310?wl_ref=list_ab_03</link>
@@ -1097,21 +1112,6 @@ Calm Music
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/373460/37346073.jpg?version=20250317000028.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3:00 AM Thoughts]]></title>
-            <link>https://music.bugs.co.kr/album/37325702?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37325702?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 17 Mar 2025 03:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14102516?wl_ref=list_ab_04" class="artistTitle" title="Velvet Rust" onclick="
-" target="_self">Velvet Rust</a>
-</p>
-<p>
-<time datetime="">2025.03.17</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373257/37325702.jpg?version=20250317120035.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
