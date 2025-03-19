@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 09:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 10:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Supernatural Songs of Ilaiyaraaja]]></title>
+            <link>https://music.bugs.co.kr/album/37525401?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37525401?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 19 Mar 2025 10:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80125623?wl_ref=list_ab_04" class="artistTitle" title="Ilaiyaraaja" onclick="
+" target="_self">Ilaiyaraaja</a>
+</p>
+<p>
+<time datetime="">2025.03.19</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/375254/37525401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ANTIBIRTH]]></title>
+            <link>https://music.bugs.co.kr/album/37489631?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37489631?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 19 Mar 2025 10:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20066376?wl_ref=list_ab_04" class="artistTitle" title="WOOKI" onclick="
+" target="_self">WOOKI</a>
+</p>
+<p>
+<time datetime="">2025.03.19</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/374896/37489631.jpg?version=20250319180014.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4-Wheel Vibe (30th Anniversary)]]></title>
             <link>https://music.bugs.co.kr/album/37488994?wl_ref=list_ab_03</link>
@@ -956,7 +986,7 @@ Calm Music
 <time datetime="">2025.03.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373920/37392057.jpg?version=20250319000032.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373920/37392057.jpg?version=20250319185010.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[אבודים]]></title>
@@ -1080,36 +1110,6 @@ Rocco Paul
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/372702/37270281.jpg?version=20250319120036.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GUNPLA in my heart]]></title>
-            <link>https://music.bugs.co.kr/album/37259806?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37259806?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 19 Mar 2025 03:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20163787?wl_ref=list_ab_04" class="artistTitle" title="LINKL PLANET" onclick="
-" target="_self">LINKL PLANET</a>
-</p>
-<p>
-<time datetime="">2025.03.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/372598/37259806.jpg?version=20250319000032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Baroque Treasures]]></title>
-            <link>https://music.bugs.co.kr/album/37249001?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37249001?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 18 Mar 2025 21:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/24124?wl_ref=list_ab_04" class="artistTitle" title="Johann Sebastian Bach(바흐)" onclick="
-" target="_self">Johann Sebastian Bach(바흐)</a>
-</p>
-<p>
-<time datetime="">2025.03.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/372490/37249001.jpg?version=20250319044034.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
