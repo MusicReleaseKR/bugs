@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 22:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 23:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,6 +114,21 @@ Colette Alliot-Lugaz(콜레테 알리오-뤼가)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/373022/37302217.jpg?version=20250320044022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bits of Classical, Vol. 2]]></title>
+            <link>https://music.bugs.co.kr/album/37248968?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37248968?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 19 Mar 2025 23:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8000093?wl_ref=list_ab_04" class="artistTitle" title="Wolfgang Amadeus Mozart(모차르트)" onclick="
+" target="_self">Wolfgang Amadeus Mozart(모차르트)</a>
+</p>
+<p>
+<time datetime="">2025.03.20</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/372489/37248968.jpg?version=20250320074037.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Maurice Ravel: Masterpieces]]></title>
@@ -1104,21 +1119,6 @@ Calm Music
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/374060/37406074.jpg?version=20250319120036.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soleil]]></title>
-            <link>https://music.bugs.co.kr/album/37392057?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37392057?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 19 Mar 2025 03:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13612123?wl_ref=list_ab_04" class="artistTitle" title="Ryubi Miyase" onclick="
-" target="_self">Ryubi Miyase</a>
-</p>
-<p>
-<time datetime="">2025.03.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373920/37392057.jpg?version=20250319185010.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
