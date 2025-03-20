@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 09:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 10:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,21 @@ Benj Pasek
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/375260/37526074.jpg?version=20250320105013.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Making Griffin Great Again]]></title>
+            <link>https://music.bugs.co.kr/album/37526070?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37526070?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 20 Mar 2025 10:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13928885?wl_ref=list_ab_04" class="artistTitle" title="Lil Toonk" onclick="
+" target="_self">Lil Toonk</a>
+</p>
+<p>
+<time datetime="">2025.03.20</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/375260/37526070.jpg?version=20250320143846.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Zimmermann - The Love for Three Oranges - Mozart, Bach, Beethoven, Paganini, Prokofiev]]></title>
@@ -596,6 +611,21 @@ TrazenMusic
             <enclosure url="https://image.bugsm.co.kr/album/images/170/374139/37413978.jpg?version=20250320000024.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Adriana Lucía]]></title>
+            <link>https://music.bugs.co.kr/album/37408731?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37408731?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 20 Mar 2025 10:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8061853?wl_ref=list_ab_04" class="artistTitle" title="Adriana Lucia" onclick="
+" target="_self">Adriana Lucia</a>
+</p>
+<p>
+<time datetime="">2025.03.20</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/374087/37408731.jpg?version=20250320140028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Gambitious]]></title>
             <link>https://music.bugs.co.kr/album/37408307?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37408307?wl_ref=list_ab_03</guid>
@@ -1058,36 +1088,6 @@ Friedvolle Oase
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370819/37081960.jpg?version=20250320120043.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Land Of Cowards]]></title>
-            <link>https://music.bugs.co.kr/album/37028001?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37028001?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 20 Mar 2025 03:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14016861?wl_ref=list_ab_04" class="artistTitle" title="Acrid Semblance" onclick="
-" target="_self">Acrid Semblance</a>
-</p>
-<p>
-<time datetime="">2025.03.20</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370280/37028001.jpg?version=20250320120043.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jardim Bucólico]]></title>
-            <link>https://music.bugs.co.kr/album/36833606?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36833606?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 20 Mar 2025 03:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14029141?wl_ref=list_ab_04" class="artistTitle" title="Rafael Calaça" onclick="
-" target="_self">Rafael Calaça</a>
-</p>
-<p>
-<time datetime="">2025.03.20</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368336/36833606.jpg?version=20250320000024.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
