@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Mar 2025 22:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 23:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1235,14 +1235,13 @@ Daniel Barenboim(다니엘 바렌보임)
             <guid>https://music.bugs.co.kr/album/37534049?wl_ref=list_ab_03</guid>
             <pubDate>Sat, 22 Mar 2025 03:37:36 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/65356?wl_ref=list_ab_04" class="artistTitle" title="Ludovico Einaudi(루도비코 에이나우디)" onclick="
-" target="_self">Ludovico Einaudi(루도비코 에이나우디)</a>
+<span class="artistTitle" title="">Various Artists</span>
 </p>
 <p>
 <time datetime="">2025.03.22</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/375340/37534049.jpg?version=20250322021828.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/375340/37534049.jpg?version=20250323073501.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
