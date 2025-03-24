@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Mar 2025 01:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 03:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I DO ME]]></title>
+            <link>https://music.bugs.co.kr/album/4115087?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4115087?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 24 Mar 2025 03:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20229752?wl_ref=list_ab_04" class="artistTitle" title="KiiiKiii (키키)" onclick="
+" target="_self">KiiiKiii (키키)</a>
+</p>
+<p>
+<time datetime="">2025.02.24</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41150/4115087.jpg?version=1740425075000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heels And Garters]]></title>
             <link>https://music.bugs.co.kr/album/20712765?wl_ref=list_ab_03</link>
@@ -313,14 +328,17 @@
             <guid>https://music.bugs.co.kr/album/20713095?wl_ref=list_ab_03</guid>
             <pubDate>Sun, 23 Mar 2025 04:25:32 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20154392?wl_ref=list_ab_04" class="artistTitle" title="HYDE" onclick="
-" target="_self">HYDE</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20154392?wl_ref=list_ab_04" class="artistTitle" title="HYDE">HYDE</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'HYDE||HYDE||20154392||OK\\nYelløwBoi||YelløwBoi||80386553||OK\\nJriz Park||Jriz Park||20218610||OK', ''); return false;">
+HYDE
+</a> </p>
 <p>
 <time datetime="">2025.03.23</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207130/20713095.jpg?version=1742698832000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207130/20713095.jpg?version=1742784803000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eol]]></title>
@@ -939,7 +957,7 @@ JUE(주애)
 <time datetime="">2025.03.22</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207123/20712389.jpg?version=1742612430000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207123/20712389.jpg?version=1742784645000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Artemis Project]]></title>
@@ -1045,21 +1063,6 @@ JUE(주애)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207135/20713583.jpg?version=1742612404000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법무사송]]></title>
-            <link>https://music.bugs.co.kr/album/20713440?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20713440?wl_ref=list_ab_03</guid>
-            <pubDate>Sat, 22 Mar 2025 03:37:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20232274?wl_ref=list_ab_04" class="artistTitle" title="서울중앙지방법무사회" onclick="
-" target="_self">서울중앙지방법무사회</a>
-</p>
-<p>
-<time datetime="">2025.03.22</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207134/20713440.jpg?version=1742612430000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
