@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Mar 2025 16:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 17:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,14 +13,17 @@
             <guid>https://music.bugs.co.kr/album/19598015?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 24 Mar 2025 15:25:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8256520?wl_ref=list_ab_04" class="artistTitle" title="Mr. Diamond" onclick="
-" target="_self">Mr. Diamond</a>
-</p>
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/8256520?wl_ref=list_ab_04" class="artistTitle" title="Mr. Diamond">Mr. Diamond</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Mr. Diamond||Mr. Diamond||8256520||OK\\nBruno Furlan||Bruno Furlan||8280873||OK', ''); return false;">
+Mr. Diamond
+</a> </p>
 <p>
-<time datetime="">2022.10.07</time>
+<time datetime="">2025.03.25</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/195980/19598015.jpg?version=20241012233005.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/195980/19598015.jpg?version=20250325020246.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Video Game Funk]]></title>
@@ -32,10 +35,10 @@
 " target="_self">Nightfunk</a>
 </p>
 <p>
-<time datetime="">2022.07.15</time>
+<time datetime="">2025.03.25</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/182937/18293770.jpg?version=20241012234006.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/182937/18293770.jpg?version=20250325020246.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Broken]]></title>
@@ -50,7 +53,7 @@
 <time datetime="">2022.06.03</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/180927/18092758.jpg?version=20241013031009.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/180927/18092758.jpg?version=20250325020246.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[False Need]]></title>
@@ -65,7 +68,7 @@
 <time datetime="">2022.04.08</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/176547/17654750.jpg?version=20241012234005.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/176547/17654750.jpg?version=20250325020246.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Don't Wanna Lie]]></title>
@@ -80,7 +83,7 @@
 <time datetime="">2022.03.04</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/174094/17409479.jpg?version=20241012233004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/174094/17409479.jpg?version=20250325020246.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Who Are You? (Chris Lake Remix)]]></title>
@@ -95,10 +98,10 @@
 Miane
 </a> </p>
 <p>
-<time datetime="">2021.02.05</time>
+<time datetime="">2025.03.25</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/150443/15044322.jpg?version=20241013000004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/150443/15044322.jpg?version=20250325021156.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Like I Don't Exist]]></title>
@@ -113,7 +116,7 @@ Miane
 <time datetime="">2020.09.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/146324/14632484.jpg?version=20241013021006.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/146324/14632484.jpg?version=20250325020246.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 ′시라노′ 2024]]></title>
@@ -155,9 +158,9 @@ Miane
 </p>
 <p>
 <time datetime="">2025.03.24</time>
-<span class="albumType">정규</span>
+<span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/375520/37552015.jpg?version=20250324000026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/375520/37552015.jpg?version=20250325013500.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Devi Aarti Sangrah]]></title>
@@ -993,7 +996,7 @@ Pulpo Records
 <time datetime="">2025.03.24</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373374/37337406.jpg?version=20250324044018.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373374/37337406.jpg?version=20250325015525.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bach: Overture in the French Style, BWV 831 - Beethoven: Piano Sonatas Nos. 30 & 31]]></title>
@@ -1068,7 +1071,7 @@ Pulpo Records
 <time datetime="">2025.03.24</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373029/37302912.jpg?version=20250324044007.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373029/37302912.jpg?version=20250325014925.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bizet: Carmen, WD 31]]></title>
