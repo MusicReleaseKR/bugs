@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 01:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 03:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,24 @@
             <enclosure url="https://image.bugsm.co.kr/album/images/170/374078/37407836.jpg?version=20250328000032.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SATURDAY]]></title>
+            <link>https://music.bugs.co.kr/album/37397727?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37397727?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 28 Mar 2025 03:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/14007043?wl_ref=list_ab_04" class="artistTitle" title="ISILI">ISILI</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'ISILI||ISILI||14007043||OK\\n22PAP||22PAP||14006463||OK', ''); return false;">
+ISILI
+</a> </p>
+<p>
+<time datetime="">2025.03.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373977/37397727.jpg?version=20250328120033.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Recording]]></title>
             <link>https://music.bugs.co.kr/album/37335733?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37335733?wl_ref=list_ab_03</guid>
@@ -36,6 +54,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/373357/37335733.jpg?version=20250328000032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tera Pyaar]]></title>
+            <link>https://music.bugs.co.kr/album/37325350?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37325350?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 28 Mar 2025 03:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14054167?wl_ref=list_ab_04" class="artistTitle" title="Adiraj Rahman" onclick="
+" target="_self">Adiraj Rahman</a>
+</p>
+<p>
+<time datetime="">2025.03.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373253/37325350.jpg?version=20250328120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chaand Aawara]]></title>
@@ -84,6 +117,21 @@ Swanand Kirkire
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370378/37037879.jpg?version=20250328000032.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Destiny]]></title>
+            <link>https://music.bugs.co.kr/album/36204814?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36204814?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 28 Mar 2025 03:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12866392?wl_ref=list_ab_04" class="artistTitle" title="Blastronick" onclick="
+" target="_self">Blastronick</a>
+</p>
+<p>
+<time datetime="">2025.03.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/362048/36204814.jpg?version=20250328120033.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sentir Tua Presença]]></title>
@@ -146,7 +194,7 @@ Fuá do Guegué
 <time datetime="">2025.03.28</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/171028/17102892.jpg?version=20250328020311.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/171028/17102892.jpg?version=20250328120003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Not Giving Up]]></title>
@@ -1062,51 +1110,6 @@ Måne Natur Ljud
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/373333/37333386.jpg?version=20250327120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Supreme Healing Piano for Deep Breathing]]></title>
-            <link>https://music.bugs.co.kr/album/37332480?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37332480?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Mar 2025 03:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80229576?wl_ref=list_ab_04" class="artistTitle" title="Relax α Wave" onclick="
-" target="_self">Relax α Wave</a>
-</p>
-<p>
-<time datetime="">2025.03.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373324/37332480.jpg?version=20250327120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Relaxing Jazz for a Comfortable Workspace]]></title>
-            <link>https://music.bugs.co.kr/album/37332479?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37332479?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Mar 2025 03:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20046912?wl_ref=list_ab_04" class="artistTitle" title="Relaxing Piano Crew" onclick="
-" target="_self">Relaxing Piano Crew</a>
-</p>
-<p>
-<time datetime="">2025.03.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373324/37332479.jpg?version=20250327120041.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chromatic Echoes A Jazz Odyssey]]></title>
-            <link>https://music.bugs.co.kr/album/37332459?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37332459?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 27 Mar 2025 03:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13856349?wl_ref=list_ab_04" class="artistTitle" title="Aetheris" onclick="
-" target="_self">Aetheris</a>
-</p>
-<p>
-<time datetime="">2025.03.27</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373324/37332459.jpg?version=20250327120041.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
