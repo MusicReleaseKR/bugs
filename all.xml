@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 13:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 14:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1874,21 +1874,6 @@ Javito
             <enclosure url="https://image.bugsm.co.kr/album/images/170/376353/37635376.jpg?version=20250402000027.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Eugene Ormandy & Friends (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/37634630?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37634630?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 02 Apr 2025 10:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/35579?wl_ref=list_ab_04" class="artistTitle" title="Eugene Ormandy(유진 오르만디)" onclick="
-" target="_self">Eugene Ormandy(유진 오르만디)</a>
-</p>
-<p>
-<time datetime="">2025.04.01</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/376346/37634630.jpg?version=20250402161131.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Baroque Revolution (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/37557760?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37557760?wl_ref=list_ab_03</guid>
@@ -2193,6 +2178,21 @@ Martial Solal(마르시알 솔랄)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/373373/37337399.jpg?version=20250402161006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pearl Glow (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/37334345?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37334345?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 02 Apr 2025 14:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12537681?wl_ref=list_ab_04" class="artistTitle" title="Calmwave" onclick="
+" target="_self">Calmwave</a>
+</p>
+<p>
+<time datetime="">2025.04.02</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373343/37334345.jpg?version=20250402120048.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[My song (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
