@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 14:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 15:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Azizam]]></title>
+            <link>https://music.bugs.co.kr/album/37679475?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37679475?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 03 Apr 2025 15:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80103713?wl_ref=list_ab_04" class="artistTitle" title="Ed Sheeran(에드 시런)" onclick="
+" target="_self">Ed Sheeran(에드 시런)</a>
+</p>
+<p>
+<time datetime="">2025.04.04</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/376794/37679475.jpg?version=20250404000029.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6 roses]]></title>
             <link>https://music.bugs.co.kr/album/4117060?wl_ref=list_ab_03</link>
@@ -1082,21 +1097,6 @@ TOIL
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207163/20716393.jpg?version=20250403005447.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딴따라]]></title>
-            <link>https://music.bugs.co.kr/album/20716283?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20716283?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 02 Apr 2025 04:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80020728?wl_ref=list_ab_04" class="artistTitle" title="미스터 팡(Mr. Pang)" onclick="
-" target="_self">미스터 팡(Mr. Pang)</a>
-</p>
-<p>
-<time datetime="">2025.04.02</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207162/20716283.jpg?version=20250403011405.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
