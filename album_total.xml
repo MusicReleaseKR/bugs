@@ -4,9 +4,39 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 09:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 10:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Baby Taku's World - Sing Along with Baby Taku]]></title>
+            <link>https://music.bugs.co.kr/album/37681756?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37681756?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 03 Apr 2025 10:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11680844?wl_ref=list_ab_04" class="artistTitle" title="ChuChu TV" onclick="
+" target="_self">ChuChu TV</a>
+</p>
+<p>
+<time datetime="">2025.04.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/376817/37681756.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Old Malayalam Christian Songs, Vol. 7]]></title>
+            <link>https://music.bugs.co.kr/album/37681742?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37681742?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 03 Apr 2025 10:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13604652?wl_ref=list_ab_04" class="artistTitle" title="Match Point Faith" onclick="
+" target="_self">Match Point Faith</a>
+</p>
+<p>
+<time datetime="">2025.04.03</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/376817/37681742.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Quiet Symphony Of Us]]></title>
             <link>https://music.bugs.co.kr/album/37679583?wl_ref=list_ab_03</link>
@@ -1122,42 +1152,6 @@ Tidur di Bulan
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/374021/37402126.jpg?version=20250403120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alvó Állapotok]]></title>
-            <link>https://music.bugs.co.kr/album/37402114?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37402114?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 03 Apr 2025 04:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13080173?wl_ref=list_ab_04" class="artistTitle" title="Mélyalvás">Mélyalvás</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Mélyalvás||Mélyalvás||13080173||OK\\nHoldfényes dallamok||Holdfényes dallamok||13080089||OK', ''); return false;">
-Mélyalvás
-</a> </p>
-<p>
-<time datetime="">2025.04.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/374021/37402114.jpg?version=20250403120039.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[नींद की अवस्थाएँ]]></title>
-            <link>https://music.bugs.co.kr/album/37402102?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37402102?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 03 Apr 2025 04:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/533?wl_ref=list_ab_04" class="artistTitle" title="Various Artists">Various Artists</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Various Artists||Various Artists||533||OK\\nपीसफुलयोगा||पीसफुलयोगा||13409419||OK', ''); return false;">
-Various Artists
-</a> </p>
-<p>
-<time datetime="">2025.04.03</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/374021/37402102.jpg?version=20250403120039.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
