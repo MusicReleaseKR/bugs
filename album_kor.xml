@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 14:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 15:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안티소셜]]></title>
+            <link>https://music.bugs.co.kr/album/4116565?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4116565?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 07 Apr 2025 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80398846?wl_ref=list_ab_04" class="artistTitle" title="유씨(yussi)" onclick="
+" target="_self">유씨(yussi)</a>
+</p>
+<p>
+<time datetime="">2025.03.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41165/4116565.jpg?version=1742612422000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Classical Crossover : Like a Scene from a Movie]]></title>
             <link>https://music.bugs.co.kr/album/20717407?wl_ref=list_ab_03</link>
@@ -1046,21 +1061,6 @@ TAETAE
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207169/20716951.jpg?version=1743994841000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한결같은 주 사랑]]></title>
-            <link>https://music.bugs.co.kr/album/20716942?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20716942?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 07 Apr 2025 04:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20213228?wl_ref=list_ab_04" class="artistTitle" title="레갑" onclick="
-" target="_self">레갑</a>
-</p>
-<p>
-<time datetime="">2025.04.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207169/20716942.jpg?version=1743994841000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
