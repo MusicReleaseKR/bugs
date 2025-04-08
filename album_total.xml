@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 09:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 10:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,21 @@ Bronski Beat
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/376857/37685746.jpg?version=20250408004659.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Montana 2 (Deluxe)]]></title>
+            <link>https://music.bugs.co.kr/album/37685741?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37685741?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 08 Apr 2025 10:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20147954?wl_ref=list_ab_04" class="artistTitle" title="Jay Montana" onclick="
+" target="_self">Jay Montana</a>
+</p>
+<p>
+<time datetime="">2025.04.08</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/376857/37685741.jpg?version=20250408130029.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sai Sanjivani English (108 Sai Baba Names), Vol. 1]]></title>
@@ -1050,21 +1065,6 @@ Wolfgang Amadeus Mozart(모차르트)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207170/20717039.jpg?version=20250408120030.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Music For Ballet Class Vol.7]]></title>
-            <link>https://music.bugs.co.kr/album/20717037?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20717037?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 08 Apr 2025 04:28:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20117114?wl_ref=list_ab_04" class="artistTitle" title="최지원" onclick="
-" target="_self">최지원</a>
-</p>
-<p>
-<time datetime="">2025.04.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207170/20717037.jpg?version=20250408120030.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
