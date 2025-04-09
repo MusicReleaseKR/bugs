@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 01:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 03:04:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -746,21 +746,6 @@ Ash
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207170/20717026.jpg?version=1744081230000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hypernetic]]></title>
-            <link>https://music.bugs.co.kr/album/20716949?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20716949?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 08 Apr 2025 04:28:38 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20233230?wl_ref=list_ab_04" class="artistTitle" title="루이상(손휘)" onclick="
-" target="_self">루이상(손휘)</a>
-</p>
-<p>
-<time datetime="">2025.04.08</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207169/20716949.jpg?version=1744102717000" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후회한다는 말은 아니지만]]></title>
             <link>https://music.bugs.co.kr/album/20716932?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20716932?wl_ref=list_ab_03</guid>
@@ -1059,6 +1044,21 @@ Ash
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207177/20717714.jpg?version=1744134034000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메아리]]></title>
+            <link>https://music.bugs.co.kr/album/20717696?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20717696?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 09 Apr 2025 03:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80182216?wl_ref=list_ab_04" class="artistTitle" title="여은" onclick="
+" target="_self">여은</a>
+</p>
+<p>
+<time datetime="">2025.04.08</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207176/20717696.jpg?version=1744102820000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
