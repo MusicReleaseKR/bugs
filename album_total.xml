@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 14:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 15:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nunca Te Olvidaré]]></title>
+            <link>https://music.bugs.co.kr/album/37635918?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37635918?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 14 Apr 2025 15:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/10883341?wl_ref=list_ab_04" class="artistTitle" title="Silvio Mora" onclick="
+" target="_self">Silvio Mora</a>
+</p>
+<p>
+<time datetime="">2025.04.15</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/376359/37635918.jpg?version=20250415000023.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Camera 14]]></title>
             <link>https://music.bugs.co.kr/album/37723008?wl_ref=list_ab_03</link>
@@ -1117,24 +1132,6 @@ Olivian luonnonääniä
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/376658/37665837.jpg?version=20250414120035.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[زمین آرام]]></title>
-            <link>https://music.bugs.co.kr/album/37665827?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37665827?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 14 Apr 2025 04:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/14151071?wl_ref=list_ab_04" class="artistTitle" title="اولیویا صداهای طبیعت">اولیویا صداهای طبیعت</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'اولیویا صداهای طبیعت||اولیویا صداهای طبیعت||14151071||OK\\nافکار الیویا||افکار الیویا||14151070||OK', ''); return false;">
-اولیویا صداهای طبیعت
-</a> </p>
-<p>
-<time datetime="">2025.04.14</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/376658/37665827.jpg?version=20250414120035.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
